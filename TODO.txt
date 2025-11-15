@@ -1,0 +1,35 @@
+Portraits Raya et Gab (combat)
+PC exp share
+effets de particules
+
+certains event deviennent illogiques si on sauvegarde au mauvais moment
+rajouter un petit tuto qui explique pour ceux qui ont jamais joué à Pokémon
+rajouter les boîtes PC dans le menu
+rajouter portraits PMD et les portraits personnages
+
+Pour quand le jeu sera quasi fini
+
+-Faire et mettre en forme un pokedex régional
+-supprimer les pokemons pas dans le jeu et leurs sprites (voir ce qui prends le plus de place et le supprimer)
+-dans le message sur les features du jeu, dire combien il y a de zones au total pour ceux qui veulent nuzlock le jeu
+
+Ressources intéressantes sur lesquelles je suis tombé dans mes recherches:
+
+-Simuler des envois de texto (ça peut être une scène fun entre Mia et Raya): https://eeveeexpo.com/resources/1574/
+-collection de tilesets 4G: https://steamcommunity.com/sharedfiles/filedetails/?id=2436216636
+-afficher gif: https://eeveeexpo.com/resources/1613/
+-battle background XY P1: https://www.deviantart.com/midnitez-remix/art/Free-Pokemon-XY-Battle-BGs-4002951851
+-battle background XY P2: https://www.deviantart.com/midnitez-remix/art/Pokecchi-Winter-Adventure-Battle-BGs-421310951
+-eevee form changer: https://www.eeveeexpo.com/resources/1386/
+-enls fancy camera: https://www.eeveeexpo.com/resources/1466/
+-pokemon wild tournament: https://www.eeveeexpo.com/resources/1548/
+-ekans game (snake mais pokemon): https://www.eeveeexpo.com/resources/1576/
+-who's that pokemon: https://www.eeveeexpo.com/resources/1444/
+-photo avec ses Pokémons: https://www.eeveeexpo.com/resources/1502/
+-just dance minigame: https://www.eeveeexpo.com/resources/1658/
+-cleaning tool pour dégager tout ce qui est associé aux pokémon pas dans PBS: https://www.eeveeexpo.com/resources/1706/
+-vs transitions stylés: https://www.eeveeexpo.com/resources/1708/
+-soft reset sans retourner au menu: https://www.eeveeexpo.com/resources/1707/
+-legend za 5g overworld character: https://www.eeveeexpo.com/resources/1801/
+-gen 5 character in gen 4 style OW: https://eeveeexpo.com/resources/370/
+-gen 4 OW style pour pas mal de perso de pokemon (Sada notamment): https://www.deviantart.com/diegowt/gallery/72785750/comissions-public

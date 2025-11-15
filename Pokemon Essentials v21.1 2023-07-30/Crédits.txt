@@ -1,0 +1,83 @@
+Graphics
+
+-Gen 4 OW Sprites by:
+Neo-Spriteman
+VanillaSunshine
+PurpleZaffre & Maicerochico
+AtomicReactor
+-Gen 4 tileset by Akizakura16
+-Pokemon Gaia Tileset by PixelMister
+-Pokemon realistic illustration by Sina Weibo @Serebii (https://x.com/celebi30979685) 
+-Game UI background For Bag, Pokedex, & Pokemon Summery by WarDrago
+-SwSh-Inspired Battle Interface by BiggusWeeabus
+-Pause Menu by Voltseon
+-Tileset by SailorVicious 
+-essentia trainer sprite by ZacWeavile
+-PMD portraits
+    cyndaquil
+    totodile
+    chikorita
+    elekid by
+    wooper
+    yamper
+    iron valiant
+
+Musics
+
+-Intro Raya -> Pokemon Legends Arceus, Jibilife Village
+-Mia Encounter-> Deltarune Chapter 3 (4) UST - TV_commercial_christmas_toy_sale.ogg - (unused) by 
+GoatFromTheStars
+-Flora Park -> Pokémon Gold and Silver - National Park (Lofi Remix) by GlitchxCity
+-Wild Battle -> Rude Buster - Remix Cover (DELTARUNE) by Vetrom
+-Strong Wild Battle -> Deltarune - Vapor Buster (Ronach remix)
+-Flora Park trainer battle -> TCG Pocket ranked battle theme
+-Battle Sonia -> Pokemon Master EX - vs Sonia
+-Battle Raya -> Yu gi oh Duel Links - Yuamu Ohdo theme
+-Lumiose Ruins -> Pokemon USUM - Ultra Space Wilds Music 
+-Battle Gab -> Deltarune - Song That Plays When You Fight Sans [fantrack] by Raspmary
+-Battle Nexus Sentinel and Employees -> Black Knife (Remix) by punkett
+-Battle Essentia/Emma -> Black Knife (remix) by Vetrom 
+
+Plugins
+
+-Deluxe Battle kit, Enhanced battle UI, Animated Pokemon system, Animated trainer intro by Lucidious89
+-Multiple Protagonists by NettoHikari
+-Automatic Level Scaling by Benitex, Joltik, Umbreon
+-Gen 9 pack by:
+    Scripts:
+    -Caruban
+    -Lucidious89
+    -Eskiss (Original Legend Plate script)
+    -StCooler (Original PLA Expansion script for Gen 8 Project in v18 and Status sprites)
+    -PorousMist and curryofthepast (Adapting the PLA Expansion script script for v19.1 use)
+
+    PBS:
+    -Caruban
+    -Lucidious89
+    -PorousMist (Updated the abilities, items, and moves description)
+    -DJChaos (TM Items)
+    -Futuresushi (Shortened abilities and moves description)
+-Multiple Protagonists by NettoHikari
+-Type Icons Battle UI by Golisopod User
+-Modern Quest system by: 
+    ThatWelshOne_
+    mej71
+    derFischae
+    Marin 
+-Visible Overworld Wild Encounters Version - by derFischae
+-Nickname from the party by TechSkylander1518
+-Multi exp Panel by Swdfm
+-Bag Screen with interactable Party by DiegoWT
+-Overworld weather enhancements by 
+    DerxwnaKapsyla
+    http404error
+-Diagonal Movement by wrigty12
+-Pokedex evolution page by ChampChar110
+-Battle speed control by Nononever
+-Auto Multi Save by http404error
+-Event Indicators by wrigty12, Luka S.J.
+-Gen 9 move animation project by:
+Thanks to the Reborn team for letting people use their resources. You are awesome.
+Gen 8 Animation Project led by StCooler, with additional contributions by DarrylBD99, WolfPP, ardicoozer, riddlemeree, Drake Baku
+Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All Attacks SFX.
+Gen 9 Animation Project led by KRLW890 and Nut0066, with additional contributions by Toxillian, QuahogTheCreator, Lcorp, and Shashu-Greninja
