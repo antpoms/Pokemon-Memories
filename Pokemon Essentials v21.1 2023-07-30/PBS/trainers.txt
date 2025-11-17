@@ -152,6 +152,7 @@ Pokemon = EEVEE,5
 LoseText = Bien ouèj.
 Pokemon = MORELULL,3
 Pokemon = APPLIN,3
+    Moves = TACKLE,ASTONISH
 Pokemon = SLAKOTH,5
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,0]
