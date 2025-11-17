@@ -4,7 +4,6 @@ effets de particules
 
 certains event deviennent illogiques si on sauvegarde au mauvais moment
 rajouter un petit tuto qui explique pour ceux qui ont jamais joué à Pokémon
-rajouter les boîtes PC dans le menu
 rajouter portraits PMD et les portraits personnages
 
 Pour quand le jeu sera quasi fini

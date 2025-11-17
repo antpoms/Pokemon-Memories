@@ -167,18 +167,24 @@ LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = CYNDAQUIL,3
 Pokemon = CHIKORITA,3
 Pokemon = MAGNEMITE,5
+    Moves = THUNDERSHOCK,TACKLE,SCREECH
+    AbilityIndex = 0
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,2]
 LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = CHIKORITA,3
 Pokemon = TOTODILE,3
 Pokemon = MAGNEMITE,5
+    Moves = THUNDERSHOCK,TACKLE,SCREECH
+    AbilityIndex = 0
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,3]
 LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = TOTODILE,3
 Pokemon = CYNDAQUIL,3
 Pokemon = MAGNEMITE,5
+    Moves = THUNDERSHOCK,TACKLE,SCREECH
+    AbilityIndex = 0
 #-------------------------------
 [POKEMONTRAINER_Sonia,Sonia,1]
 LoseText = Alors Voltoutou ? Tu es content ?
