@@ -32,3 +32,4 @@ Ressources intéressantes sur lesquelles je suis tombé dans mes recherches:
 -legend za 5g overworld character: https://www.eeveeexpo.com/resources/1801/
 -gen 5 character in gen 4 style OW: https://eeveeexpo.com/resources/370/
 -gen 4 OW style pour pas mal de perso de pokemon (Sada notamment): https://www.deviantart.com/diegowt/gallery/72785750/comissions-public
+-notion pour organiser un fangame pokemon, avec des conseils pour la promotion: https://eeveeexpo.com/resources/1664/
