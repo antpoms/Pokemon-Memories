@@ -163,21 +163,67 @@ GameData::InstantMessageConversation.register({
 })
 
 GameData::InstantMessageConversation.register({
-    :id             => :OAK_18_MONTHS_AGO,
-    :group          => :PROFOAK,
-    :reltimestamp   => [1, 6, 14],
+    :id             => :MIA1,
+    :group          => :MIA,
+    :important      => true,
     :messages       => [
-                        [1, :Text, _INTL("Hello, this is Professor Oak, but a message from 18 months ago.")]
-    ]
+                        [1, :Text, _INTL("RAYOOOOOOUUUUUUU"),0],
+                        [1, :Text, _INTL("J'AI UNE QUESTION!!!")],
+                        [0, :Text, _INTL("Pas maintenant, je bosse.")],
+                    ]
 })
 
 GameData::InstantMessageConversation.register({
-    :id             => :OAK_YESTERDAY,
-    :group          => :PROFOAK,
+    :id             => :MIA2,
+    :group          => :MIA,
+    :important      => true,
+    :messages       => [
+                        [1, :Text, _INTL("STP C URGENT!!",0)],
+                        [1, :Text, _INTL("RÉPONDS RÉPONDS RÉPONDS RÉPONDS RÉPONDS RÉPONDS RÉPONDS RÉPONDS RÉPONDS")],
+                        [0, :Text, _INTL("Quoi ?")],
+                        [1, :Text, _INTL("Tu m'aimerais toujours si j'étais un Tadmorv ?")],
+                        [0, :Text, [_INTL("Non."), _INTL("Oui. Tu pues déjà de toute façon.")]],
+                        [1, :Text, _INTL("<icon=emojiSad> ")],
+                        [1, :Text, _INTL("Je vais pleurer.")],
+                        [0, :Text, _INTL("<icon=emojiThumbsUp> ")],
+                    ]
+})
+
+GameData::InstantMessageConversation.register({
+    :id             => :EINER,
+    :group          => :EINER,
+    :important      => true,
+    :messages       => [
+                        [1, :Text, _INTL("Hey, la réunion avec le comité de direction est fixée au lundi 21."),0],
+                        [1, :Text, _INTL("Tu penses que ton rapport climat/biodiv sera prêt d'ici là ?")],
+                        [0, :Text, _INTL("Oui. Normalement, ça devrait le faire.")],
+                        [1, :Text, _INTL("Super, merci. Envoie le moi quand tu l'auras fini.")],
+                        [0, :Text, _INTL("<icon=emojiThumbsUp> ")],
+                        [0, :Text, _INTL("Zake ?")],
+                        [1, :Text, _INTL("Oui ?")],
+                        [0, :Text, _INTL("Tu penses vraiment pouvoir les convaincre ?")],
+                        [1, :Text, _INTL("J'espère.")],
+                    ]
+})
+
+GameData::InstantMessageConversation.register({
+    :id             => :EMMA,
+    :group          => :EMMA,
+    :important      => true,
+    :messages       => [
+                        [1, :Text, _INTL("EINER_FILE1.zip"),0],
+                    ]
+})
+
+GameData::InstantMessageConversation.register({
+    :id             => :MIA_YESTERDAY,
+    :group          => :MIA,
     :reltimestamp   => [0, 0, 1, 5, 0, 15],
     :messages       => [
-                        [1, :Text, _INTL("Hello, this is Professor Oak.")],
-                        [1, :Text, _INTL("I will message you again tomorrow.")]
+                        [1, :Text, _INTL("Prout.")],
+                        [1, :Text, _INTL("Prout.")],
+                        [1, :Text, _INTL("Prout.")],
+                        [0, :Text, _INTL("Tu n'es vraiment pas pertinente.")]
     ]
 })
 

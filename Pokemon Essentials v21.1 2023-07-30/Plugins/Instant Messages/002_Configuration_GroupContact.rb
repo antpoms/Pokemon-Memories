@@ -33,6 +33,27 @@ GameData::InstantMessageContact.register({
     :bubble         => "Purple"
 })
 
+GameData::InstantMessageContact.register({
+    :id             => :MIA,
+    :name		    => _INTL("Mia"),
+    :image		    => "Mia",
+    :bubble         => "Purple"
+})
+
+GameData::InstantMessageContact.register({
+    :id             => :EINER,
+    :name		    => _INTL("Einer"),
+    :image		    => "Einer",
+    :bubble         => "Purple"
+})
+
+GameData::InstantMessageContact.register({
+    :id             => :EMMA,
+    :name		    => _INTL("???"),
+    :image		    => "Emma",
+    :bubble         => "Purple"
+})
+
 #===============================================================================
 # Group registrations
 #
@@ -65,6 +86,24 @@ GameData::InstantMessageGroup.register({
     :id             => :ADVERTISEMENT_2,
     :title		    => _INTL("Advertisement Two"),
     :members		=> {1 => :ADVERTISEMENT}
+})
+
+GameData::InstantMessageGroup.register({
+    :id             => :MIA,
+    :title		    => _INTL("Mia"),
+    :members		=> {1 => :MIA}
+})
+
+GameData::InstantMessageGroup.register({
+    :id             => :EINER,
+    :title		    => _INTL("Einer"),
+    :members		=> {1 => :EINER}
+})
+
+GameData::InstantMessageGroup.register({
+    :id             => :EMMA,
+    :title		    => _INTL("???"),
+    :members		=> {1 => :EMMA}
 })
 
 GameData::InstantMessageGroup.register({
