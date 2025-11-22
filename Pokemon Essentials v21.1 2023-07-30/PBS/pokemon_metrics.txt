@@ -298,13 +298,13 @@ FrontSprite = -6,7
 ShadowSprite = 0,2,3
 #-------------------------------
 [GROWLITHE]
-BackSprite = -4,14
-FrontSprite = 2,8
+BackSprite = -4,51
+FrontSprite = 2,19
 ShadowSprite = -1,2,-1
 #-------------------------------
 [ARCANINE]
-BackSprite = -10,38
-FrontSprite = 4,12
+BackSprite = -2,36
+FrontSprite = -3,19
 ShadowSprite = 3,1,1
 #-------------------------------
 [POLIWAG]
@@ -508,6 +508,11 @@ ShadowSprite = 0,-4,-2
 BackSprite = 4,37
 FrontSprite = 1,16
 ShadowSprite = 0,-3,-3
+#-------------------------------
+[KRABPEROR,1]
+BackSprite = 8,42
+FrontSprite = 0,10
+ShadowSprite = 0,8,7
 #-------------------------------
 [VOLTORB]
 BackSprite = 0,15
@@ -803,9 +808,9 @@ ShadowSprite = 0,4,2
 AnimationSpeed = 1
 #-------------------------------
 [TYPHLOSION]
-BackSprite = 1,32
-FrontSprite = -2,5
-ShadowSprite = 0,11,7
+BackSprite = 1,43
+FrontSprite = -2,17
+ShadowSprite = 0,11,3
 AnimationSpeed = 1
 #-------------------------------
 [TOTODILE]
@@ -4687,3 +4692,8 @@ ShadowSprite = 2,4,1
 BackSprite = 0,60
 FrontSprite = 3,11
 ShadowSprite = 2,-2,8
+#-------------------------------
+[CAMERUPT,1,female]
+BackSprite = 7,38
+FrontSprite = 0,17
+ShadowSprite = 2,1,0

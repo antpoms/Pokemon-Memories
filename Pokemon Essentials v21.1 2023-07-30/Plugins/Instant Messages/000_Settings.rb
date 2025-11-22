@@ -210,10 +210,7 @@ module InstantMessagesSettings
     # the order will be messed up when you first view the messages.
     #------------------------------------------------------------------------------------
     MESSAGE_HISTORY_LIST = [
-        :OAK_18_MONTHS_AGO,
-        [:OAK_YESTERDAY, true],
-        [:OAK_30_MIN_AGO, true], # Has to also be unread since the one before it is.
-        :CHATBOT_5_MIN_AGO
+        :MIA_YESTERDAY
     ]
     
 end
