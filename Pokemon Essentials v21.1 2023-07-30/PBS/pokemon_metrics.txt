@@ -1182,6 +1182,11 @@ BackSprite = -13,34
 FrontSprite = 12,7
 ShadowSprite = 1,2,4
 #-------------------------------
+[CERBEDOOM]
+BackSprite = 0,40
+FrontSprite = 7,10
+ShadowSprite = -1,2,3
+#-------------------------------
 [KINGDRA]
 BackSprite = -10,45
 FrontSprite = 7,-1
@@ -2602,9 +2607,9 @@ FrontSprite = -1,4
 ShadowSprite = -1,7,5
 #-------------------------------
 [SAMUROTT]
-BackSprite = 15,37
-FrontSprite = -7,12
-ShadowSprite = -2,6,4
+BackSprite = 10,33
+FrontSprite = -5,8
+ShadowSprite = 1,11,5
 #-------------------------------
 [PATRAT]
 BackSprite = -6,16
