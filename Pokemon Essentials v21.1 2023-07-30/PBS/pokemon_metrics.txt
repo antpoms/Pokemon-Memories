@@ -2327,6 +2327,11 @@ BackSprite = 0,27
 FrontSprite = 1,3
 ShadowSprite = 0,9,6
 #-------------------------------
+[RIOJIN]
+BackSprite = 4,51
+FrontSprite = 0,19
+ShadowSprite = 0,-1,-2
+#-------------------------------
 [HIPPOPOTAS]
 BackSprite = 2,17
 FrontSprite = -2,15
