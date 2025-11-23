@@ -3670,14 +3670,15 @@ FrontSprite = -1,31
 ShadowSprite = 1,-13,-10
 #-------------------------------
 [SLIGGOO]
-BackSprite = -2,14
-FrontSprite = 2,2
-ShadowSprite = 2,9,8
+BackSprite = 0,44
+FrontSprite = -5,5
+ShadowSprite = 0,0,7
+AnimationSpeed = 1,2
 #-------------------------------
 [GOODRA]
-BackSprite = -5,44
-FrontSprite = 5,7
-ShadowSprite = 0,6,8
+BackSprite = 10,33
+FrontSprite = -4,14
+ShadowSprite = 0,14,3
 #-------------------------------
 [KLEFKI]
 BackSprite = 2,52

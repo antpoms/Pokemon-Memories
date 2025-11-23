@@ -1499,7 +1499,7 @@ Pokedex = The power that lay hidden in its body now covers its horn, turning it 
 #-------------------------------
 [MELOETTA,1]
 FormName = Pirouette Forme
-Types = NORMAL,FIGHTING
+Types = FAIRY,FIGHTING
 BaseStats = 100,128,90,128,77,77
 EVs = ATTACK,1,DEFENSE,1,SPEED,1
 #-------------------------------
