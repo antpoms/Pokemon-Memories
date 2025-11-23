@@ -954,3 +954,43 @@ ShadowSprite = 4,11,7
 BackSprite = -3,47
 FrontSprite = 0,15
 ShadowSprite = 3,4,3
+#-------------------------------
+[EEVEE,2]
+BackSprite = 0,10
+FrontSprite = 3,3
+ShadowSprite = 0,4,3
+#-------------------------------
+[EEVEE,3]
+BackSprite = -8,16
+FrontSprite = 5,7
+ShadowSprite = 3,9,4
+#-------------------------------
+[EEVEE,4]
+BackSprite = 0,16
+FrontSprite = 1,5
+ShadowSprite = 0,2,1
+#-------------------------------
+[EEVEE,5]
+BackSprite = 0,20
+FrontSprite = -3,15
+ShadowSprite = 0,2,0
+#-------------------------------
+[EEVEE,6]
+BackSprite = -15,11
+FrontSprite = 8,6
+ShadowSprite = 1,5,3
+#-------------------------------
+[EEVEE,7]
+BackSprite = -5,25
+FrontSprite = 5,4
+ShadowSprite = 2,0,5
+#-------------------------------
+[EEVEE,8]
+BackSprite = -12,20
+FrontSprite = 12,7
+ShadowSprite = 0,3,3
+#-------------------------------
+[EEVEE,9]
+BackSprite = 0,44
+FrontSprite = -1,22
+ShadowSprite = 1,-7,-5
