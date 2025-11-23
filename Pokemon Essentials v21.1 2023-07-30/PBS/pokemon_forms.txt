@@ -48,8 +48,7 @@ Pokedex = The cannon on its back is as powerful as a tank gun. Its tough legs an
 Generation = 6
 #-------------------------------
 [BEEDRILL,1]
-FormName = Mega Beedrill
-MegaStone = BEEDRILLITE
+FormName = Blood Lust
 BaseStats = 65,150,40,145,15,80
 BaseExp = 284
 Abilities = ADAPTABILITY

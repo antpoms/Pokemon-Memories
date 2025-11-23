@@ -52,11 +52,6 @@ BackSprite = 6,36
 FrontSprite = 0,7
 ShadowSprite = 0,4,7
 #-------------------------------
-[EEVEE,2]
-BackSprite = 0,40
-FrontSprite = 3,10
-ShadowSprite = -1,14,4
-#-------------------------------
 [SNORLAX,1]
 BackSprite = 5,49
 FrontSprite = 0,15

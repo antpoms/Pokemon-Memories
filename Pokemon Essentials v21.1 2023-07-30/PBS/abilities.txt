@@ -1074,3 +1074,7 @@ Description = Combines Unnerve and Grim Neigh Abilities.
 [GENETICPOWER]
 Name = Genetic Power
 Description = The user changes form when it uses specific moves.
+#-------------------------------
+[BLOODLUST]
+Name = Blood Lust
+Description = Defeating a foe lets it become more powerful.
