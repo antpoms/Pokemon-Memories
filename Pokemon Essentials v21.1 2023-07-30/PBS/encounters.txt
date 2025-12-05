@@ -323,4 +323,21 @@ Land,21
     8,CHARCADET,5
     7,MANKEY,5
     7,STUFFUL,5
-    
+#-------------------------------
+[042] # Inarritz Beach
+Land,21
+    12,SHINX,5
+    12,PAWMI,5
+    11,HOUNDOUR,5
+    11,ZORUA,5
+    8,TANDEMAUS,5
+    8,MUNCHLAX,5
+    8,TOXEL,5
+Beach,21
+    12,KRABBY,5
+    12,WIMPOD,5
+    11,SKRELP,5
+    11,CLAUNCHER,5
+    11,SANDYGAST,5
+    8,OSHAWOTT,5
+    8,TYNAMO,5

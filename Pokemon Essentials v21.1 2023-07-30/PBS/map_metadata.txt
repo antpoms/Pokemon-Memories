@@ -406,3 +406,6 @@ TrainerBattleBGM = Battle Trainer Park
 Name = Lumiose Ruins
 BattleBack = cityRuins
 Weather = Rain,100
+#-------------------------------
+[042] #Inarritz Beach
+Name = Inarritz Beach
