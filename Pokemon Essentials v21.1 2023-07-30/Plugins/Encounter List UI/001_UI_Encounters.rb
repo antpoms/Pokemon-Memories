@@ -37,6 +37,7 @@ USER_DEFINED_NAMES = {
 :RockSmash => "Rock Smash",
 :HeadbuttLow => "Headbutt (rare)",
 :HeadbuttHigh => "Headbutt (common)",
+:Beach => "Sand",
 :BugContest => "Bug Contest"
 }
 
