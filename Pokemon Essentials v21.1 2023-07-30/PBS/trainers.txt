@@ -227,3 +227,28 @@ Pokemon = LUCARIO,3
 Pokemon = MALAMAR,3
 Pokemon = MEOWSTIC,5
    Gender = male
+#-------------------------------
+[SWIMMER_M,Clément]
+LoseText = Skibidi rizz.
+Pokemon = WINGULL,3
+Pokemon = PSYDUCK,3
+Pokemon = CORPHISH,5
+#-------------------------------
+[FISHERMAN,Hubert]
+LoseText = Habile.
+Pokemon = CHINCHOU,3
+Pokemon = FEEBAS,3
+Pokemon = CARVANHA,5
+#-------------------------------
+[PARASOLLADY,Jeanne]
+LoseText = C'est fou, je n'ai pensé à aucune banane durant ce combat.
+Pokemon = CHINCHOU,3
+Pokemon = FEEBAS,3
+Pokemon = CARVANHA,5
+#-------------------------------
+[SCHOOLKID_F,Maria]
+LoseText = Je rentre en growth zone.
+Pokemon = MEOWTH,3
+    Form = 1
+Pokemon = PORYGON,3
+Pokemon = GIMMIGHOUL,5

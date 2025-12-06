@@ -33,6 +33,8 @@ Ressources intéressantes sur lesquelles je suis tombé dans mes recherches:
 -gen 4 OW style pour pas mal de perso de pokemon (Sada notamment): https://www.deviantart.com/diegowt/gallery/72785750/comissions-public
 -notion pour organiser un fangame pokemon, avec des conseils pour la promotion: https://eeveeexpo.com/resources/1664/
 -traducteur automatique: https://eeveeexpo.com/resources/1334/
+-gen 5 character gen 4 style OW -> https://eeveeexpo.com/resources/370/
+-red alola overworld -> https://www.deviantart.com/scizorbytes/art/Battle-Legend-Red-Gen-4-Overworld-Sprites-917367151
 
 
 -tileset avec feu rouge et passage piéton: https://www.deviantart.com/magiscarf/art/Free-New-Tiles-Mastersheet-648639390

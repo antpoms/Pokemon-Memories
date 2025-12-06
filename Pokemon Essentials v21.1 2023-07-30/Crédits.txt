@@ -13,14 +13,6 @@ AtomicReactor
 -Pause Menu by Voltseon
 -Tileset by SailorVicious 
 -essentia trainer sprite by ZacWeavile
--PMD portraits
-    cyndaquil
-    totodile
-    chikorita
-    elekid by
-    wooper
-    yamper
-    iron valiant
 -tileset playground by Pano26
 -park and beach battle background by princess-phoenix
 
@@ -39,6 +31,8 @@ GoatFromTheStars
 -Battle Gab -> Deltarune - Song That Plays When You Fight Sans [fantrack] by Raspmary
 -Battle Nexus Sentinel and Employees -> Black Knife (Remix) by punkett
 -Battle Essentia/Emma -> Black Knife (remix) by Vetrom 
+-Inarritz Beach ->  🌴 Paradise, Paradise 🌴 - DELTARUNE REMIX (w/ ‪@NahTony‬) by NoteBlock
+-Inarritz Beach trainer battle -> Pokken tournament - Thalia Beach
 
 Plugins
 
