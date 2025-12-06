@@ -242,9 +242,9 @@ Pokemon = CARVANHA,5
 #-------------------------------
 [PARASOLLADY,Jeanne]
 LoseText = C'est fou, je n'ai pensé à aucune banane durant ce combat.
-Pokemon = CHINCHOU,3
-Pokemon = FEEBAS,3
-Pokemon = CARVANHA,5
+Pokemon = SWABLU,3
+Pokemon = RALTS,3
+Pokemon = VANILLITE,5
 #-------------------------------
 [SCHOOLKID_F,Maria]
 LoseText = Je rentre en growth zone.

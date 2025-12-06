@@ -90,6 +90,7 @@ BaseMoney = 48
 Name = Fisherman
 Gender = Male
 BaseMoney = 32
+IntroBGM = Trainers_ Eyes Meet (Swimmer)
 #-------------------------------
 [GAMBLER]
 Name = Gambler
@@ -233,6 +234,7 @@ Name = Swimmer
 Gender = Male
 BaseMoney = 16
 SkillLevel = 32
+IntroBGM = Trainers_ Eyes Meet (Swimmer)
 #-------------------------------
 [SWIMMER_F]
 Name = Swimmer
