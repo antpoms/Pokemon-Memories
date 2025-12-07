@@ -411,3 +411,8 @@ Weather = Rain,100
 Name = Inarritz Beach
 BattleBack = sand
 TrainerBattleBGM = Battle Trainer Beach
+#-------------------------------
+[043] #Ocean quest kilowattrel
+Name = Ocean
+BattleBack = water
+Weather = Rain,100
