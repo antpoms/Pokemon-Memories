@@ -252,3 +252,9 @@ Pokemon = MEOWTH,3
     Form = 1
 Pokemon = PORYGON,3
 Pokemon = GIMMIGHOUL,5
+#-------------------------------
+[GABSNAKE,Gab]
+LoseText = Cool. J'ai gagné.
+Pokemon = MORELULL,3
+Pokemon = APPLIN,3
+Pokemon = SLAKOTH,5

@@ -453,3 +453,10 @@ BaseMoney = 36
 BattleBGM = Battle Essentia
 VictoryBGM = Victory! (Nexus)
 SkillLevel = 100
+#-------------------------------
+[GABSNAKE]
+Name = Pokemon Trainer
+Gender = Male
+BaseMoney = 36
+BattleBGM = Gab fight
+SkillLevel = 100

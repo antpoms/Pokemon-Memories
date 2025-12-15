@@ -34,17 +34,17 @@
 #   Maybe auto-save slots should act like a queue instead of cycling around. 
 
 # Autosave every 100 steps
-EventHandlers.add(:on_player_step_taken, :auto_save, proc {
-  $player.autosave_steps = 0 if !$player.autosave_steps
-  next if $PokemonGlobal.ice_sliding
-  $player.autosave_steps += 1
-  if $player.autosave_steps >= 100
-    echo("Autosaving...")
-    $player.autosave_steps = 0
-    Game.auto_save
-    echoln("done.")
-  end
-})
+#EventHandlers.add(:on_player_step_taken, :auto_save, proc {
+#  $player.autosave_steps = 0 if !$player.autosave_steps
+#  next if $PokemonGlobal.ice_sliding
+#  $player.autosave_steps += 1
+#  if $player.autosave_steps >= 100
+#    echo("Autosaving...")
+#    $player.autosave_steps = 0
+#    Game.auto_save
+#    echoln("done.")
+#  end
+#})
 
 #===============================================================================
 #
