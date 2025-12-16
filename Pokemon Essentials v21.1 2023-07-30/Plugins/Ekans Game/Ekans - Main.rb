@@ -4,6 +4,7 @@
 # General Page
 #===============================================================================
 def pbEkansGame
+  pbBGMPlay("Snake")
   Ekans_Interface_Game.new
 end
 

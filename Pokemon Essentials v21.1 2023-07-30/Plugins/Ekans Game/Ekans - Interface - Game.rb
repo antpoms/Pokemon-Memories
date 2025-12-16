@@ -140,6 +140,9 @@ class Ekans_Interface_Game
   
   def lose_game
     # Add To Hiscores
+  pbSEPlay("Voltorb Flip level down")
+  pbBGMStop
+  $game_variables[33] = @adapter.score
 	if @adapter.score > 0
 	  hash = {
 	    :Score      => @adapter.score,
@@ -173,6 +176,7 @@ class Ekans_Interface_Game
 	  @screen_width / 4, 32, 0,
 	  @base_col, @shad_col
 	]]
+    pbSEPlay("Voltorb Flip mark")
     pbDrawTextPositions(@sprites["score"].bitmap, text_pos)
   end
   
