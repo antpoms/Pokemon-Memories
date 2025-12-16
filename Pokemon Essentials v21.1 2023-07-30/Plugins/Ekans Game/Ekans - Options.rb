@@ -26,13 +26,6 @@ module Ekans_Game
 		:limit => 8,
 		:value => progress.difficulty
 	  },
-	  :field_type => {
-	    :name => _INTL("Game Type"),
-		:order => 4,
-		:rhs_text => field_name(progress.game_type),
-		:limit => get_available_fields.length,
-		:value => get_available_fields.index(progress.game_type)
-	  },
 	  :player => {
 	    :name => _INTL("Player"),
 		:order => 5,

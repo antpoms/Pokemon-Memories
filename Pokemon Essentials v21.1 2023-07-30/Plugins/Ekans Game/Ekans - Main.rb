@@ -4,7 +4,7 @@
 # General Page
 #===============================================================================
 def pbEkansGame
-  Ekans_Interface_Main.new
+  Ekans_Interface_Game.new
 end
 
 #===============================================================================
@@ -20,8 +20,8 @@ module Ekans_Game
   SCREEN_PANEL_DIMS     = [16, 444, 384, 46]
   # Duration in seconds
   SITRUS_BERRY_DURATION = 6.0
-  BOARD_WIDTH           = 13
-  BOARD_HEIGHT          = 16
+  BOARD_WIDTH           = 10
+  BOARD_HEIGHT          = 10
   SQUARE_WIDTH          = 24
   SQUARE_HEIGHT         = 24
   

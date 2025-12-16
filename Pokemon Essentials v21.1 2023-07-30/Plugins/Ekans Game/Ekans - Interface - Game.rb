@@ -17,7 +17,7 @@ class Ekans_Interface_Game
     @tile_height   = Ekans_Game::SQUARE_HEIGHT
     @path          = "Graphics/UI/Ekans/"
     @board_x       = (@screen_width - @board_width) / 2
-    @board_y       = 0
+    @board_y       = (@screen_height - @board_height) / 2
 	@adapter.start_new_game unless continue_game
     @frame_count_at_last_update = (System.uptime * Ekans_Game.frame_rate).floor
     @frame_count_at_sitrus      = System.uptime.clone

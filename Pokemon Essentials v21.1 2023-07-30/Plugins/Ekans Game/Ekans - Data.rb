@@ -28,7 +28,7 @@ class Ekans_Game_Data
     @character         = p.character
 	@decision          = nil
 	# NOTE: difficulty saved for hiscores
-    @difficulty        = p.difficulty
+    @difficulty        = 3
 	speed              = 2 + 0.8 * @difficulty
 	speed             += 1 if speed > 7 # All speeds are different
 	@field_type        = p.game_type
