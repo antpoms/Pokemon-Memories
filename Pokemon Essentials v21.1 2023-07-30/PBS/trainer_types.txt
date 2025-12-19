@@ -460,3 +460,9 @@ Gender = Male
 BaseMoney = 36
 BattleBGM = Gab fight
 SkillLevel = 100
+#-------------------------------
+[NEMONA]
+Name = Young Trainer
+Gender = Male
+BaseMoney = 36
+BattleBGM = Battle Nemona

@@ -258,3 +258,10 @@ LoseText = Cool. J'ai gagné.
 Pokemon = MORELULL,3
 Pokemon = APPLIN,3
 Pokemon = SLAKOTH,5
+#-------------------------------
+[NEMONA,Menzie]
+LoseText = Wow… Vous êtes trop forte !
+Pokemon = ROCKRUFF,3
+Pokemon = JANGMOO,3
+Pokemon = PAWMI,3
+Pokemon = ROWLET,5

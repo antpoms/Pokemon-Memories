@@ -14,7 +14,6 @@ AtomicReactor
 -Tileset by SailorVicious 
 -essentia trainer sprite by ZacWeavile
 -tileset playground by Pano26
--park and beach battle background by princess-phoenix
 
 Musics
 
@@ -77,3 +76,4 @@ Thanks to the Reborn team for letting people use their resources. You are awesom
 Gen 8 Animation Project led by StCooler, with additional contributions by DarrylBD99, WolfPP, ardicoozer, riddlemeree, Drake Baku
 Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All Attacks SFX.
 Gen 9 Animation Project led by KRLW890 and Nut0066, with additional contributions by Toxillian, QuahogTheCreator, Lcorp, and Shashu-Greninja
+-Ekans Game! by Swdfm
