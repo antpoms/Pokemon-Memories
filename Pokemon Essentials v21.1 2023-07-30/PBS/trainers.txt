@@ -265,3 +265,12 @@ Pokemon = ROCKRUFF,3
 Pokemon = JANGMOO,3
 Pokemon = PAWMI,3
 Pokemon = ROWLET,5
+#-------------------------------
+[DANCER,Dan]
+LoseText = Wow ! Quel flow !
+Pokemon = STEENEE,3
+Pokemon = SCRAGGY,3
+Pokemon = KIRLIA,5
+     Gender = male
+Pokemon = KIRLIA,5
+     Gender = female

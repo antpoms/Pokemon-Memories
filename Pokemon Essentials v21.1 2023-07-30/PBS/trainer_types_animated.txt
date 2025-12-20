@@ -346,6 +346,7 @@ Name = Dancer
 Gender = Male
 BaseMoney = 24
 ShadowXY = 0,-14
+BattleBGM = Battle Dan
 #-------------------------------
 [ARTIST]
 Name = Artist
