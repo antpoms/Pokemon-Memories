@@ -37,7 +37,7 @@ module QuestModule
     :Name => "Énigme antique",
     :Stage1 => "Résolvez les énigmes des ruines",
     :Location1 => "Ruines antiques, Nord-Ouest",
-    :Location2 => "Viridian Forest",
+    :Location2 => "Ruines antiques, Nord-Ouest",
 	:StageLabel1 => "1",
     :QuestDescription => "On raconte que les ruines cachent un mystère qui ne se révèle qu'aux élus d'Arceus.",
   }
@@ -53,6 +53,62 @@ module QuestModule
 	:StageLabel2 => "2",
     :QuestDescription => "Un Elekid semble avoir besoin de votre aide !",
     :RewardString => ". .-.. . -.- .. -.."
+  }
+
+  QuestKilowattrel = {
+    :ID => "5",
+    :Name => "Le dernier pèlerinage",
+    :Stage1 => "Défendez le bâteau.",
+    :Location1 => "Quai, Sud-Ouest",
+  :StageLabel1 => "1",
+    :QuestDescription => "Un vieil homme a besoin de votre aide pour sa traversée.",
+  }
+
+  QuestKirlia = {
+    :ID => "6",
+    :Name => "Blind Test",
+    :Stage1 => "Aidez Dan",
+    :Location1 => "Plage, Sud-Est",
+  :StageLabel1 => "1",
+    :QuestDescription => "Aidez Dan à monter son spectacle.",
+  }
+
+  QuestNemona = {
+    :ID => "7",
+    :Name => "Dur de débuter...",
+    :Stage1 => "Aidez une petite fille à retrouver la motivation.",
+    :Location1 => "Aire de jeu, Nord-Est",
+  :StageLabel1 => "1",
+    :QuestDescription => "Aidez une petite fille à retrouver la motivation.",
+  }
+
+  QuestGab = {
+    :ID => "8",
+    :Name => "Snake",
+    :Stage1 => "Gagnez contre Gab",
+    :Location1 => "Parc, Nord",
+  :StageLabel1 => "1",
+    :QuestDescription => "Apprenez les bonnes manière à ce type.",
+  }
+
+  QuestMagikarp = {
+    :ID => "9",
+    :Name => "Magikarp-sama",
+    :Stage1 => "Gagnez contre Magikarp-sama",
+    :Location1 => "Plage, Sud",
+  :StageLabel1 => "1",
+    :QuestDescription => "Suivez les enseignements du maître.",
+  }
+
+  QuestBeach = {
+    :ID => "10",
+    :Name => "Dur d'être stagiaire...",
+    :QuestGiver => "Raya",
+    :Stage1 => "Placez 5 capteurs aux coordonnées indiquées.",
+    :Stage2 => "Retournez voir Raya.",
+    :Location1 => "Plage d'Inarritz",
+    :Location2 => "Plage d'Inarritz, devant l'hôtel",
+    :QuestDescription => "Raya vous a demandé de placer 5 capteur pour cartographier la zone.",
   }
 
 end
