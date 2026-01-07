@@ -274,3 +274,10 @@ Pokemon = KIRLIA,5
      Gender = male
 Pokemon = KIRLIA,5
      Gender = female
+#-------------------------------
+[LUSAMINE,Elsa-Mina]
+LoseText = Merci.
+Pokemon = CLEFAIRY,3
+Pokemon = PETILIL,3
+Pokemon = STUFFUL,3
+Pokemon = MISDREAVUS,5

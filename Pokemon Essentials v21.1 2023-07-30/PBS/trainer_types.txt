@@ -463,6 +463,12 @@ SkillLevel = 100
 #-------------------------------
 [NEMONA]
 Name = Young Trainer
-Gender = Male
+Gender = Female
 BaseMoney = 36
 BattleBGM = Battle Nemona
+#-------------------------------
+[LUSAMINE]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 72
+BattleBGM = Battle Lusamine
