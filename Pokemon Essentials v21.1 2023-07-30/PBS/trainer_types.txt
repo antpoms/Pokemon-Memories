@@ -204,6 +204,12 @@ Name = Youngster
 Gender = Male
 BaseMoney = 16
 #-------------------------------
+[YOUNGSTER2]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+IntroBGM = Trainers_ Eyes Meet (Youngster)
+#-------------------------------
 [LASS]
 Name = Lass
 Gender = Female

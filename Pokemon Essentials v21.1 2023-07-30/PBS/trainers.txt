@@ -253,6 +253,13 @@ Pokemon = MEOWTH,3
 Pokemon = PORYGON,3
 Pokemon = GIMMIGHOUL,5
 #-------------------------------
+[YOUNGSTER2,Titouan]
+LoseText = Mes genoux boudent si je ne sors pas en shorts.
+Pokemon = SPEAROW,3
+    Form = 1
+Pokemon = PIDGEY,3
+Pokemon = MANKEY,5
+#-------------------------------
 [GABSNAKE,Gab]
 LoseText = Cool. J'ai gagné.
 Pokemon = MORELULL,3
