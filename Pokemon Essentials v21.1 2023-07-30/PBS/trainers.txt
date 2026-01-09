@@ -249,7 +249,6 @@ Pokemon = VANILLITE,5
 [SCHOOLKID_F,Maria]
 LoseText = Je rentre en growth zone.
 Pokemon = MEOWTH,3
-    Form = 1
 Pokemon = PORYGON,3
 Pokemon = GIMMIGHOUL,5
 #-------------------------------
@@ -288,3 +287,11 @@ Pokemon = CLEFAIRY,3
 Pokemon = PETILIL,3
 Pokemon = STUFFUL,3
 Pokemon = MISDREAVUS,5
+#-------------------------------
+[STEVE,Steve,1]
+LoseText = Fuck, j'ai fail le training.
+Pokemon = MEOWTH,3
+    Form = 1
+Pokemon = BELDUM,3
+Pokemon = CUFANT,3
+Pokemon = GIMMIGHOUL,5

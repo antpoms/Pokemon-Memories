@@ -478,3 +478,9 @@ Name = Pokemon Trainer
 Gender = Female
 BaseMoney = 72
 BattleBGM = Battle Lusamine
+#-------------------------------
+[STEVE]
+Name = Nexus CGRI lead Manager
+Gender = Male
+BaseMoney = 60
+BattleBGM = Battle Steve
