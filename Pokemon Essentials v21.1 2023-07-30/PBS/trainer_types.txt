@@ -484,3 +484,11 @@ Name = Nexus CGRI lead Manager
 Gender = Male
 BaseMoney = 60
 BattleBGM = Battle Steve
+#-------------------------------
+[EINER]
+Name = Nexus Vice-President
+Gender = Male
+BaseMoney = 70
+BattleBGM = Battle Einer
+VictoryBGM = Victory! (Nexus)
+SkillLevel = 100

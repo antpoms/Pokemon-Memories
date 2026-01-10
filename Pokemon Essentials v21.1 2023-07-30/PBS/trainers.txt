@@ -295,3 +295,10 @@ Pokemon = MEOWTH,3
 Pokemon = BELDUM,3
 Pokemon = CUFANT,3
 Pokemon = GIMMIGHOUL,5
+#-------------------------------
+[EINER,Einer,1]
+LoseText = Pas mal.
+Pokemon = LARVITAR,3
+Pokemon = MAKUHITA,3
+Pokemon = BELDUM,3
+Pokemon = CYCLIZAR,5
