@@ -325,14 +325,6 @@ Land,21
     7,STUFFUL,5
 #-------------------------------
 [042] # Inarritz Beach
-Land,21
-    12,SHINX,5
-    12,PAWMI,5
-    11,HOUNDOUR,5
-    11,ZORUA,5
-    8,TANDEMAUS,5
-    8,MUNCHLAX,5
-    8,TOXEL,5
 Beach,21
     12,KRABBY,5
     12,WIMPOD,5
@@ -341,3 +333,14 @@ Beach,21
     11,SANDYGAST,5
     8,OSHAWOTT,5
     8,TYNAMO,5
+    8,STARYU,5
+Land,21
+    12,SHINX,5
+    12,PAWMI,5
+    11,HOUNDOUR,5
+    11,ZORUA,5
+    8,SWABLU,5
+    8,SIZZLIPEDE,5
+    8,TANDEMAUS,5
+    8,MUNCHLAX,5
+    8,TOXEL,5
