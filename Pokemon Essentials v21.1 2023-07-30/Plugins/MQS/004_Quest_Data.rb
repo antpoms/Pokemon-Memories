@@ -100,8 +100,26 @@ module QuestModule
     :QuestDescription => "Suivez les enseignements du maître.",
   }
 
-  QuestBeach = {
+  QuestLusamine = {
     :ID => "10",
+    :Name => "Profonds remords...",
+    :Stage1 => "Parlez à la femme perdue...",
+    :Location1 => "Plage, Sud",
+  :StageLabel1 => "1",
+    :QuestDescription => "Parlez à la femme perdue...",
+  }
+
+  QuestSteve = {
+    :ID => "11",
+    :Name => "+20% sur les KPI 2032",
+    :Stage1 => "Gagnez contre le CGRI lead manager.",
+    :Location1 => "Hôtel, Est",
+  :StageLabel1 => "1",
+    :QuestDescription => "Aidez le pauvre employé de Nexus.",
+  }
+
+  QuestBeach = {
+    :ID => "12",
     :Name => "Dur d'être stagiaire...",
     :QuestGiver => "Raya",
     :Stage1 => "Placez 5 capteurs aux coordonnées indiquées.",

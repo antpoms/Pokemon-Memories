@@ -211,7 +211,7 @@ GameData::InstantMessageConversation.register({
     :group          => :EMMA,
     :important      => true,
     :messages       => [
-                        [1, :Text, _INTL("EINER_FILE1.zip"),0],
+                        [1, :Text, _INTL("EINER_FILE_1.zip"),0],
                     ]
 })
 
