@@ -2925,7 +2925,6 @@ Habitat = Forest
 Category = Candy Apple
 Pokedex = The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.
 Generation = 9
-Evolutions = Level,30
 #-------------------------------
 [POLTCHAGEIST]
 Name = Poltchageist

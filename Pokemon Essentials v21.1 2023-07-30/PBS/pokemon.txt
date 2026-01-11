@@ -4739,7 +4739,7 @@ Habitat = Forest
 Category = Spike Ball
 Pokedex = As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.
 Generation = 2
-Evolutions = TOGETIC,level,15
+Evolutions = TOGETIC,Level,15
 #-------------------------------
 [TOGETIC]
 Name = Togetic
