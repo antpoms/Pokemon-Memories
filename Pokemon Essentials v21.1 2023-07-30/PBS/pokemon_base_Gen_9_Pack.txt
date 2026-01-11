@@ -1041,7 +1041,7 @@ Habitat = WatersEdge
 Category = EleTadpole
 Pokedex = Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.
 Generation = 9
-Evolutions = BELLIBOLT,Item,THUNDERSTONE
+Evolutions = BELLIBOLT,Level,28
 #-------------------------------
 [BELLIBOLT]
 Name = Bellibolt
@@ -1249,7 +1249,7 @@ Habitat = RoughTerrain
 Category = Tumbleweed
 Pokedex = A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon.
 Generation = 9
-Evolutions = BRAMBLEGHAST,LevelWalk,1000
+Evolutions = BRAMBLEGHAST,Level,29
 #-------------------------------
 [BRAMBLEGHAST]
 Name = Brambleghast
@@ -1379,7 +1379,7 @@ Habitat = Grassland
 Category = Spicy Pepper
 Pokedex = The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.
 Generation = 9
-Evolutions = SCOVILLAIN,Item,FIRESTONE
+Evolutions = SCOVILLAIN,Level,26
 #-------------------------------
 [SCOVILLAIN]
 Name = Scovillain
@@ -1431,7 +1431,7 @@ Habitat = RoughTerrain
 Category = Rolling
 Pokedex = This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.
 Generation = 9
-Evolutions = RABSCA,LevelWalk,1000
+Evolutions = RABSCA,Level,25
 #-------------------------------
 [RABSCA]
 Name = Rabsca
@@ -1690,7 +1690,7 @@ Habitat = Sea
 Category = Dolphin
 Pokedex = It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.
 Generation = 9
-Evolutions = PALAFIN,LevelWithPartner,38
+Evolutions = PALAFIN,Level,38
 #-------------------------------
 [PALAFIN]
 Name = Palafin
@@ -1742,7 +1742,7 @@ Habitat = RoughTerrain
 Category = Single-Cyl
 Pokedex = It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.
 Generation = 9
-Evolutions = REVAVROOM,Level,40
+Evolutions = REVAVROOM,Level,29
 #-------------------------------
 [REVAVROOM]
 Name = Revavroom
@@ -1898,7 +1898,7 @@ Habitat = Mountain
 Category = Ghost Dog
 Pokedex = It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon.
 Generation = 9
-Evolutions = HOUNDSTONE,LevelNight,30
+Evolutions = HOUNDSTONE,Level,30
 #-------------------------------
 [HOUNDSTONE]
 Name = Houndstone
@@ -1976,7 +1976,7 @@ Habitat = Mountain
 Category = Terra Whale
 Pokedex = This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.
 Generation = 9
-Evolutions = CETITAN,Item,ICESTONE
+Evolutions = CETITAN,Level,32
 #-------------------------------
 [CETITAN]
 Name = Cetitan
@@ -2623,7 +2623,7 @@ Habitat = Urban
 Category = Coin Chest
 Pokedex = This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.
 Generation = 9
-Evolutions = GHOLDENGO,CollectItems,GIMMIGHOULCOIN
+Evolutions = GHOLDENGO,Level,45
 #-------------------------------
 [GHOLDENGO]
 Name = Gholdengo
@@ -2925,7 +2925,7 @@ Habitat = Forest
 Category = Candy Apple
 Pokedex = The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.
 Generation = 9
-Evolutions = HYDRAPPLE,HasMove,DRAGONCHEER
+Evolutions = Level,30
 #-------------------------------
 [POLTCHAGEIST]
 Name = Poltchageist
@@ -2952,7 +2952,7 @@ Habitat = Urban
 Category = Matcha
 Pokedex = Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.
 Generation = 9
-Evolutions = SINISTCHA,Item,UNREMARKABLETEACUP
+Evolutions = SINISTCHA,Level,29
 #-------------------------------
 [SINISTCHA]
 Name = Sinistcha
