@@ -136,6 +136,7 @@ class Player_Quests
         @completed_quests.push(temp_quest)
         @active_quests.delete_at(i)
         found = true
+        pbMessage(_INTL("\\se[{1}]<ac><c2=#{colorQuest("red")}>Quest completed!</c2>\nYour quest log has been updated!</ac>",QUEST_JINGLE))
         break
       end
     end
