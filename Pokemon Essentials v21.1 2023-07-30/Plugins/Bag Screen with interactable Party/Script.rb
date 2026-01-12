@@ -553,13 +553,13 @@ class PokemonBag_Scene
     @sprites["panorama"].x -= 2 if BagScreenWiInParty::PANORAMA == true
   end
 
-  def pbStartScene(bag, choosing = false, filterproc = nil, resetpocket = true)
+  def pbStartScene(bag, party, choosing = false, filterproc = nil, resetpocket = true)
     @viewport   = Viewport.new(0, 0, Graphics.width, Graphics.height)
     @viewport.z = 99999
     @bag        = bag
     @choosing   = choosing
     @filterproc = filterproc
-    @party      = $player.party
+    @party      = party
     
     pbRefreshFilter
     lastpocket = @bag.last_viewed_pocket
