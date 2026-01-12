@@ -14,6 +14,9 @@ AtomicReactor
 -Tileset by SailorVicious 
 -essentia trainer sprite by ZacWeavile
 -tileset playground by Pano26
+-Gen 5 Characters in Gen 4 OW style by DiegoWT
+-Hotel Tile by PkmnAlexandrite
+-Cemetery tileset by TobalCR
 
 Musics
 
@@ -32,6 +35,16 @@ GoatFromTheStars
 -Battle Essentia/Emma -> Black Knife (remix) by Vetrom 
 -Inarritz Beach ->  🌴 Paradise, Paradise 🌴 - DELTARUNE REMIX (w/ ‪@NahTony‬) by NoteBlock
 -Inarritz Beach trainer battle -> Pokken tournament - Thalia Beach
+-Inarritz Beach wild battle -> 🌦️ Ruder Buster 🌦️ - DELTARUNE Chapter 3 REMIX (w/ ‪@NahTony‬) by NoteBlock
+-Encounter Steve -> SPAMTON - Deltarune Remix by lunarbunten
+-Battle Steve -> NOW'S YOUR CHANCE TO BE A [Deltarune REMIX]
+-Battle Young Nemona -> [PianoMan]- Pokémon Scarlet & Violet: Champion Nemona Battle Theme Remix by PianoMan
+-Battle Magikarp-sama -> Pokken Tournament - Magikarp Festival
+-Battle Lusamine -> Mewmore // Battle! Lusamine (Pokémon Sun & Moon Remix) by Mewmore
+-Battle Dan -> Pokémon XD: Gale of Darkness - Miror B. Battle Theme (Intensity Remix) by INTENSITY
+-ARK Project -> Pokemon SM - Unsettling Atmosphere
+-Encounter Einer -> Yu gi oh Duel Links - Vector Raid Theme
+-Battle Einer -> Yu gi oh Duel Links - Vector Theme
 
 Plugins
 
