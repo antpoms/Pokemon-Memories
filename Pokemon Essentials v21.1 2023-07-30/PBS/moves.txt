@@ -8855,3 +8855,14 @@ Target = NearOther
 FunctionCode = PowerHigherWithUserHappiness
 Flags = Contact,CanProtect,CanMirrorMove
 Description = The more Eevee loves its Trainer, the greater the move’s power. It never misses.
+#-------------------------------
+[ICYBREASE]
+Name = Icy Brease
+Type = ICE
+Category = Status
+Accuracy = 85
+TotalPP = 15
+Target = NearOther
+FunctionCode = FreezeTarget
+Flags = CanProtect,CanMirrorMove
+Description = The user summons a cold wind to inflict a frostbite.
