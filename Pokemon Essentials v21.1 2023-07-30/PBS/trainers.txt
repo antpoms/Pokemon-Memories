@@ -223,7 +223,7 @@ Pokemon = PORYGONZ,5
 #-------------------------------
 [ESSENTIA,Millie,1]
 LoseText = ...
-Pokemon = LUCARIO,3
+Pokemon = RIOJIN,3
 Pokemon = MALAMAR,3
 Pokemon = MEOWSTIC,5
    Gender = male
