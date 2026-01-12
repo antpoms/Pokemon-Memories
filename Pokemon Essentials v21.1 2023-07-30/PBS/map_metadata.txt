@@ -417,3 +417,7 @@ WildBattleBGM = Battle Wild Beach
 Name = Ocean
 BattleBack = water
 Weather = Rain,100
+#-------------------------------
+[048] #Cemetery quest kilowattrel
+Name = Cemetary
+Weather = Rain,100
