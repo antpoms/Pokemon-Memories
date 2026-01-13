@@ -60,6 +60,7 @@ class Battle
       end
       values = vr
       s = Swdfm_Exp_Screen.new(values)
+      GivePCPokemonEXP(b, numPartic, expShare, expAll)
       # Clear the participants array
       for i in 0...$player.party.size
         next if values[i] == 0
@@ -164,5 +165,82 @@ class Battle
 	moves.each { |m|
   	  pbLearnMove(idxParty, m)
 	}
+  end
+
+  def GivePCPokemonEXP(defeatedBattler, numPartic, expShare, expAll)
+    $PokemonStorage.pbEachNonEggPokemon() do |pkmn, boxNum|
+      if boxNum != -1
+        pbGainExpPC(pkmn, defeatedBattler, numPartic, expShare, expAll,false)
+      end
+    end
+  end
+
+  def pbGainExpPC(pkmn, defeatedBattler, numPartic, expShare, expAll, showMessages = false)
+    growth_rate = pkmn.growth_rate
+    # Don't bother calculating if gainer is already at max Exp
+    if pkmn.exp >= growth_rate.maximum_exp
+      pkmn.calc_stats   # To ensure new EVs still have an effect
+      return
+    end
+    isPartic    = true
+    hasExpShare = false
+    level = defeatedBattler.level
+    # Main Exp calculation
+    exp = 0
+    a = level * defeatedBattler.pokemon.base_exp
+    if expShare.length > 0 && (isPartic || hasExpShare)
+      if numPartic == 0   # No participants, all Exp goes to Exp Share holders
+        exp = a / (Settings::SPLIT_EXP_BETWEEN_GAINERS ? expShare.length : 1)
+      elsif Settings::SPLIT_EXP_BETWEEN_GAINERS   # Gain from participating and/or Exp Share
+        exp = a / (2 * numPartic) if isPartic
+        exp += a / (2 * expShare.length) if hasExpShare
+      else   # Gain from participating and/or Exp Share (Exp not split)
+        exp = (isPartic) ? a : a / 2
+      end
+    elsif isPartic   # Participated in battle, no Exp Shares held by anyone
+      exp = a / (Settings::SPLIT_EXP_BETWEEN_GAINERS ? numPartic : 1)
+    elsif expAll   # Didn't participate in battle, gaining Exp due to Exp All
+      # NOTE: Exp All works like the Exp Share from Gen 6+, not like the Exp All
+      #       from Gen 1, i.e. Exp isn't split between all Pokémon gaining it.
+      exp = a / 2
+    end
+    return if exp <= 0
+    # Pokémon gain more Exp from trainer battles
+    exp = (exp * 1.5).floor if Settings::MORE_EXP_FROM_TRAINER_POKEMON && trainerBattle?
+    # Scale the gained Exp based on the gainer's level (or not)
+    if Settings::SCALED_EXP_FORMULA
+      exp /= 5
+      levelAdjust = ((2 * level) + 10.0) / (pkmn.level + level + 10.0)
+      levelAdjust **= 5
+      levelAdjust = Math.sqrt(levelAdjust)
+      exp *= levelAdjust
+      exp = exp.floor
+      exp += 1 if isPartic || hasExpShare
+    else
+      exp /= 7
+    end
+    # Foreign Pokémon gain more Exp
+    isOutsider = (pkmn.owner.id != pbPlayer.id ||
+                  (pkmn.owner.language != 0 && pkmn.owner.language != pbPlayer.language))
+    if isOutsider
+      if pkmn.owner.language != 0 && pkmn.owner.language != pbPlayer.language
+        exp = (exp * 1.7).floor
+      else
+        exp = (exp * 1.5).floor
+      end
+    end
+    # Exp. Charm increases Exp gained
+    exp = exp * 3 / 2 if $bag.has?(:EXPCHARM)
+    # Boost Exp gained with high affection
+    if Settings::AFFECTION_EFFECTS && @internalBattle && pkmn.affection_level >= 4 && !pkmn.mega?
+      exp = exp * 6 / 5
+      isOutsider = true   # To show the "boosted Exp" message
+    end
+    # Make sure Exp doesn't exceed the maximum
+    expFinal = growth_rate.add_exp(pkmn.exp, exp)
+    expGained = expFinal - pkmn.exp
+    return if expGained <= 0
+    
+    pbChangeExpLoven(pkmn, expFinal, @scene)
   end
 end

@@ -2,7 +2,7 @@ module QuestModule
 
   QuestPark = {
     :ID => "0",
-    :Name => "Entraînement !",
+    :Name => "(Quête principale) Entraînement !",
     :QuestGiver => "Raya",
     :Stage1 => "Affrontez 4 dresseurs du Parc.",
     :Stage2 => "Retournez voir Raya.",
@@ -120,7 +120,7 @@ module QuestModule
 
   QuestBeach = {
     :ID => "12",
-    :Name => "Dur d'être stagiaire...",
+    :Name => "(Quête principale) Dur d'être stagiaire...",
     :QuestGiver => "Raya",
     :Stage1 => "Placez 5 capteurs aux coordonnées indiquées.",
     :Stage2 => "Retournez voir Raya.",
