@@ -17,6 +17,7 @@ AtomicReactor
 -Gen 5 Characters in Gen 4 OW style by DiegoWT
 -Hotel Tile by PkmnAlexandrite
 -Cemetery tileset by TobalCR
+-Gmax, Mega and Primal OW Sprites Pack by Willow
 
 Musics
 
@@ -90,3 +91,4 @@ Gen 8 Animation Project led by StCooler, with additional contributions by Darryl
 Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All Attacks SFX.
 Gen 9 Animation Project led by KRLW890 and Nut0066, with additional contributions by Toxillian, QuahogTheCreator, Lcorp, and Shashu-Greninja
 -Ekans Game! by Swdfm
+-Not a plugin but thanks a lot to Loven O.S for EXP to PC (Their tutorial on Youtube: https://www.youtube.com/watch?v=UGelkuH7YJM)
