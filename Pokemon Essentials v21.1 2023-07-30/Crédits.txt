@@ -92,3 +92,10 @@ Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All
 Gen 9 Animation Project led by KRLW890 and Nut0066, with additional contributions by Toxillian, QuahogTheCreator, Lcorp, and Shashu-Greninja
 -Ekans Game! by Swdfm
 -Not a plugin but thanks a lot to Loven O.S for EXP to PC (Their tutorial on Youtube: https://www.youtube.com/watch?v=UGelkuH7YJM)
+-Easy Mouse System by Luka S.J
+-Pokémon Amie by:
+    BhagyaJyoti (Made for v18 with many fixes and made more Plug-n-Play)
+    PizzaSun (Original Script for v17.2)
+    rigbycwts (Concept for Essentials)
+    Gardenette (v20.1 port)
+    Victorcarvalhosp (Code Refactor, Item Compatibility)
