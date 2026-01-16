@@ -99,3 +99,4 @@ Gen 9 Animation Project led by KRLW890 and Nut0066, with additional contribution
     rigbycwts (Concept for Essentials)
     Gardenette (v20.1 port)
     Victorcarvalhosp (Code Refactor, Item Compatibility)
+-Level Based Mixed EV System and Allocator by DemICE
