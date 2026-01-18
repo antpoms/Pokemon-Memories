@@ -7,7 +7,6 @@ class VoltseonsPauseMenu < Component
     @sprites = spritehash
     @entries = []
     @current_selection = $game_temp.menu_last_choice
-    @current_selection = @current_selection.clamp(0, @entries.length - 1)
     @current_selection = 0 if @current_selection < 0
     @should_refresh    = true
     # Background image
