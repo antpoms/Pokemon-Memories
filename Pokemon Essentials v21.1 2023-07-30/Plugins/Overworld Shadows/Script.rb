@@ -77,6 +77,8 @@ class Sprite_Character < RPG::Sprite
     #     - active event page has no graphic
     #     - names match anything from the blacklist/whitelist
     def visible?
+      return false unless @character.respond_to?(:opacity)
+      return false if @character.opacity <= 0
       return false if @character.character_name.blank?
       return false if @character.character.bush_depth > 0
       return false if player_in_water?
@@ -149,9 +151,8 @@ class Sprite_Character < RPG::Sprite
   #  Override original constructor to add shadows
   alias with_shadows_initialize initialize
   def initialize(viewport, character = nil)
-    @shadow = ShadowSprite.new(viewport, self, character)
-
     with_shadows_initialize(viewport, character)
+    @shadow = ShadowSprite.new(viewport, self, character)
   end
 
   #  Override original function for shadow visibility
