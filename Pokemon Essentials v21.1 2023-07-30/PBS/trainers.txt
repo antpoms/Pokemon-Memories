@@ -164,26 +164,32 @@ Pokemon = DELIBIRD,80
 Pokemon = HYDREIGON,82
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,1]
+Items = ZPOWERRING
 LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = CYNDAQUIL,3
 Pokemon = CHIKORITA,3
 Pokemon = MAGNEMITE,5
+    Item = ELECTRIUMZ
     Moves = THUNDERSHOCK,TACKLE,SCREECH
     AbilityIndex = 0
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,2]
+Items = ZPOWERRING
 LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = CHIKORITA,3
 Pokemon = TOTODILE,3
 Pokemon = MAGNEMITE,5
+    Item = ELECTRIUMZ
     Moves = THUNDERSHOCK,TACKLE,SCREECH
     AbilityIndex = 0
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,3]
+Items = ZPOWERRING
 LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = TOTODILE,3
 Pokemon = CYNDAQUIL,3
 Pokemon = MAGNEMITE,5
+    Item = ELECTRIUMZ
     Moves = THUNDERSHOCK,TACKLE,SCREECH
     AbilityIndex = 0
 #-------------------------------

@@ -46,6 +46,10 @@ GoatFromTheStars
 -ARK Project -> Pokemon SM - Unsettling Atmosphere
 -Encounter Einer -> Yu gi oh Duel Links - Vector Raid Theme
 -Battle Einer -> Yu gi oh Duel Links - Vector Theme
+-Iron Treads Zone -> Pokemon USUM - Ultra Plant
+-Battle Iron Treads -> DELTARUNE X CYBERPUNK 2077 - HAMMER OF JUSTICE REMIX (CHAPTER 3+4) [Lufus] by Lufus
+-Phanpy flashback -> Wise words/DELTARUNE Chapter 4 [Music Box] by R3 Music Box
+
 
 Plugins
 
@@ -100,3 +104,6 @@ Gen 9 Animation Project led by KRLW890 and Nut0066, with additional contribution
     Gardenette (v20.1 port)
     Victorcarvalhosp (Code Refactor, Item Compatibility)
 -Level Based Mixed EV System and Allocator by DemICE
+-Overworld Shadow by Luka S.J
+-Z-Power by Lucidious89
+-Terastallization by Lucidious89
