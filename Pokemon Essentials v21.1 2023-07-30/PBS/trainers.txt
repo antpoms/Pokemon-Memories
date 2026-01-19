@@ -284,8 +284,10 @@ Pokemon = STEENEE,3
 Pokemon = SCRAGGY,3
 Pokemon = KIRLIA,5
      Gender = male
+     Name = Léo
 Pokemon = KIRLIA,5
      Gender = female
+     Name = Léa
 #-------------------------------
 [LUSAMINE,Elsa-Mina]
 LoseText = Merci.
