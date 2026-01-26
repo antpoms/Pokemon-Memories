@@ -472,12 +472,14 @@ Name = Young Trainer
 Gender = Female
 BaseMoney = 36
 BattleBGM = Battle Nemona
+SkillLevel = 100
 #-------------------------------
 [LUSAMINE]
 Name = Pokemon Trainer
 Gender = Female
 BaseMoney = 72
 BattleBGM = Battle Lusamine
+SkillLevel = 100
 #-------------------------------
 [STEVE]
 Name = Nexus CGRI lead Manager

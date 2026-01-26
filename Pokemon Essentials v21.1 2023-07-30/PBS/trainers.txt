@@ -272,11 +272,13 @@ Pokemon = APPLIN,3
 Pokemon = SLAKOTH,5
 #-------------------------------
 [NEMONA,Menzie]
+Items = TERAORB
 LoseText = Wow… Vous êtes trop forte !
 Pokemon = ROCKRUFF,3
 Pokemon = JANGMOO,3
 Pokemon = PAWMI,3
 Pokemon = ROWLET,5
+    TeraType = GRASS
 #-------------------------------
 [DANCER,Dan]
 LoseText = Wow ! Quel flow !
