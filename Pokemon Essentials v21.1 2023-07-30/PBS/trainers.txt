@@ -290,11 +290,14 @@ Pokemon = KIRLIA,5
      Name = Léa
 #-------------------------------
 [LUSAMINE,Elsa-Mina]
+Items = ZPOWERRING
 LoseText = Merci.
 Pokemon = CLEFAIRY,3
 Pokemon = PETILIL,3
 Pokemon = STUFFUL,3
 Pokemon = MISDREAVUS,5
+    Item = GHOSTIUMZ
+    Moves = HEX,CONFUSION,MEANLOOK,GROWL
 #-------------------------------
 [STEVE,Steve,1]
 LoseText = Fuck, j'ai fail le training.
