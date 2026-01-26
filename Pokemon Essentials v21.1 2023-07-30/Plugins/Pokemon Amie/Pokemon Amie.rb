@@ -191,6 +191,9 @@ class Pokemon
     else
       @amie_affection = value
     end
+    if @amie_affection>@happiness
+      @happiness = @amie_affection
+    end
   end
  
   def amie_fullness=(value)
@@ -275,6 +278,9 @@ class Pokemon
       $bag.remove(GameData::Item.get(food).id)
       @amie_affection = amie_affection+affGain
       @amie_affection = [0, [amie_affection, MAXAMIEPOINTS].min].max
+      if @amie_affection>@happiness
+      @happiness = @amie_affection
+      end
       @amie_fullness = amie_fullness+fullGain
       @amie_fullness = [0, [amie_fullness, MAXAMIEPOINTS].min].max
       @amie_enjoyment = amie_enjoyment+enjoyGain
@@ -320,6 +326,9 @@ class Pokemon
     end
     @amie_affection = amie_affection+affGain
     @amie_affection = [0, [amie_affection, MAXAMIEPOINTS].min].max
+    if @amie_affection>@happiness
+      @happiness = @amie_affection
+    end
     @amie_fullness = amie_fullness+fullGain
     @amie_fullness = [0, [amie_fullness, MAXAMIEPOINTS].min].max
     @amie_enjoyment = amie_enjoyment+enjoyGain
