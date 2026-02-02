@@ -74,11 +74,6 @@ FrontSprite = 3,18
 ShadowSprite = 2,10,2
 AnimationSpeed = 1
 #-------------------------------
-[SAMUROTT,1]
-BackSprite = 10,33
-FrontSprite = -5,8
-ShadowSprite = 1,11,5
-#-------------------------------
 [LILLIGANT,1]
 BackSprite = 0,50
 FrontSprite = 2,11
@@ -109,17 +104,6 @@ FrontSprite = 0,2
 ShadowSize = -2
 ShadowSprite = 4,21,23
 AnimationSpeed = 1
-#-------------------------------
-[SLIGGOO,1]
-BackSprite = 0,44
-FrontSprite = -5,5
-ShadowSprite = 0,0,7
-AnimationSpeed = 1,2
-#-------------------------------
-[GOODRA,1]
-BackSprite = 10,33
-FrontSprite = -4,14
-ShadowSprite = 0,14,3
 #-------------------------------
 [AVALUGG,1]
 BackSprite = 3,57

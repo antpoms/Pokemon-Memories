@@ -134,12 +134,6 @@ BackSprite = 5,45
 FrontSprite = -1,6
 ShadowSprite = 0,7,3
 #-------------------------------
-[CENTISKORCH,1]
-BackSprite = 10,61
-FrontSprite = -7,13
-ShadowSprite = 2,0,6
-AnimationSpeed = 3,2
-#-------------------------------
 [HATTERENE,1]
 BackSprite = 0,38
 FrontSprite = 5,4

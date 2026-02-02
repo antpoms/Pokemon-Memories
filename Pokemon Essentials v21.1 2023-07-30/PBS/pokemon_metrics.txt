@@ -624,6 +624,11 @@ BackSprite = 3,20
 FrontSprite = 0,8
 ShadowSprite = 0,8,4
 #-------------------------------
+[STARMUSCLE]
+BackSprite = 3,41
+FrontSprite = 0,15
+ShadowSprite = 0,8,4
+#-------------------------------
 [MRMIME]
 BackSprite = 0,22
 FrontSprite = 1,5
@@ -4748,3 +4753,13 @@ ShadowSprite = 2,-2,8
 BackSprite = 7,38
 FrontSprite = 0,17
 ShadowSprite = 2,1,0
+#-------------------------------
+[KRABPEROR]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowSprite = 0,0,0
+#-------------------------------
+[CENTIRNO]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowSprite = 0,0,0
