@@ -807,7 +807,7 @@ ShadowSize = 3
 ShadowSprite = 1,8,6
 #-------------------------------
 [MEGANIUM]
-BackSprite = 0,35
+BackSprite = 0,29
 FrontSprite = -3,10
 ShadowSprite = 0,8,6
 #-------------------------------
@@ -840,7 +840,7 @@ FrontSprite = 1,4
 ShadowSprite = 0,9,5
 #-------------------------------
 [FERALIGATR]
-BackSprite = -3,33
+BackSprite = 6,25
 FrontSprite = -4,10
 ShadowSprite = 0,8,3
 #-------------------------------
