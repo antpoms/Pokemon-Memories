@@ -4474,6 +4474,11 @@ BackSprite = 3,59
 FrontSprite = -2,3
 ShadowSprite = 0,10,8
 #-------------------------------
+[TOXBAIN]
+BackSprite = 5,45
+FrontSprite = -1,6
+ShadowSprite = 0,7,3
+#-------------------------------
 [SIZZLIPEDE]
 BackSprite = 3,56
 FrontSprite = 0,32
