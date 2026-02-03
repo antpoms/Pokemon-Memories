@@ -336,6 +336,7 @@ Beach,21
     8,STARYU,5
     8,CRABRAWLER,5
     8,BINACLE,5
+    8,INKAY,5
 Land,21
     12,SHINX,5
     12,PAWMI,5

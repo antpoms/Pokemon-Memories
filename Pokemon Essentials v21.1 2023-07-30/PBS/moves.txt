@@ -2509,6 +2509,18 @@ FunctionCode = LowerUserSpAtk2
 Flags = CanProtect,CanMirrorMove
 Description = The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
 #-------------------------------
+[UPSIDEDOWN]
+Name = Upside-Down
+Type = DARK
+Category = Special
+Power = 100
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = LowerUserSpAtk2
+Flags = CanProtect,CanMirrorMove
+Description = The user attacks the target at full power. The attack's recoil sharply reduces the user's Sp. Atk stat.
+#-------------------------------
 [FLAREBLITZ]
 Name = Flare Blitz
 Type = FIRE
