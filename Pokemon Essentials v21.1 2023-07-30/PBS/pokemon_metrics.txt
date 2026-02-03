@@ -3621,6 +3621,11 @@ BackSprite = 19,45
 FrontSprite = -4,14
 ShadowSprite = 4,5,4
 #-------------------------------
+[WARIARACLE]
+BackSprite = 14,32
+FrontSprite = -1,7
+ShadowSprite = 4,5,4
+#-------------------------------
 [SKRELP]
 BackSprite = 1,52
 FrontSprite = -2,-8
