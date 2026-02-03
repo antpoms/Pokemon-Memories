@@ -3294,6 +3294,12 @@ BackSprite = 2,34
 FrontSprite = 2,7
 ShadowSprite = 0,14,7
 #-------------------------------
+[GOLEUM]
+BackSprite = 5,42
+FrontSprite = 0,5
+ShadowSprite = 0,14,7
+AnimationSpeed = 1
+#-------------------------------
 [PAWNIARD]
 BackSprite = 5,11
 FrontSprite = -10,4
