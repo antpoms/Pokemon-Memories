@@ -323,6 +323,7 @@ Land,21
     8,CHARCADET,5
     7,MANKEY,5
     7,STUFFUL,5
+    7,SCRAGGY,5
 #-------------------------------
 [042] # Inarritz Beach
 Beach,21

@@ -4803,3 +4803,9 @@ ShadowSprite = 0,0,0
 BackSprite = 0,0
 FrontSprite = 0,0
 ShadowSprite = 0,0,0
+#-------------------------------
+[SCRADRICK]
+BackSprite = 5,48
+FrontSprite = 3,19
+ShadowSprite = 0,0,0
+AnimationSpeed = 2,1
