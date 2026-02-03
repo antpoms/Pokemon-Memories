@@ -2546,6 +2546,12 @@ BackSprite = 0,28
 FrontSprite = 0,-1
 ShadowSprite = 2,20,17
 #-------------------------------
+[FROSLADY]
+BackSprite = 8,24
+FrontSprite = -3,13
+ShadowSprite = 2,20,9
+AnimationSpeed = 2,1
+#-------------------------------
 [ROTOM]
 BackSprite = 0,43
 FrontSprite = 0,9
