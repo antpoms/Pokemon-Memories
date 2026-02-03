@@ -628,6 +628,7 @@ ShadowSprite = 0,8,4
 BackSprite = 3,41
 FrontSprite = 0,15
 ShadowSprite = 0,8,4
+AnimationSpeed = 2,1
 #-------------------------------
 [MRMIME]
 BackSprite = 0,22
@@ -2381,6 +2382,12 @@ ShadowSprite = 0,9,6
 BackSprite = 4,51
 FrontSprite = 0,19
 ShadowSprite = 0,-1,-2
+#-------------------------------
+[LUCAICHI]
+BackSprite = 1,41
+FrontSprite = 4,13
+ShadowSprite = 0,-1,-2
+AnimationSpeed = 2,1
 #-------------------------------
 [HIPPOPOTAS]
 BackSprite = 2,17
