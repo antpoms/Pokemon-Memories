@@ -3594,6 +3594,12 @@ BackSprite = -4,53
 FrontSprite = 1,14
 ShadowSprite = 0,-7,0
 #-------------------------------
+[MEEYESTIC]
+BackSprite = -4,40
+FrontSprite = -3,11
+ShadowSprite = 0,-7,0
+AnimationSpeed = 1
+#-------------------------------
 [HONEDGE]
 BackSprite = 0,32
 FrontSprite = 7,-1

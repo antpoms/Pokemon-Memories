@@ -350,3 +350,4 @@ Land,21
     8,MUNCHLAX,5
     8,TOXEL,5
     8,TEPIG,5
+    8,ESPURR,5
