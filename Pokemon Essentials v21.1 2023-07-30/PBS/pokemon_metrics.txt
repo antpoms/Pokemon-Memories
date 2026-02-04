@@ -3192,9 +3192,10 @@ FrontSprite = 0,3
 ShadowSprite = 3,14,8
 #-------------------------------
 [EELEKTROSS]
-BackSprite = 2,27
-FrontSprite = 1,21
+BackSprite = 2,55
+FrontSprite = 8,26
 ShadowSprite = 3,8,-1
+AnimationSpeed = 1
 #-------------------------------
 [ELGYEM]
 BackSprite = 0,6
