@@ -3746,6 +3746,12 @@ BackSprite = 5,42
 FrontSprite = -2,9
 ShadowSprite = 0,-4,6
 #-------------------------------
+[HAWLIBRE]
+BackSprite = 6,42
+FrontSprite = 0,20
+ShadowSprite = 0,-4,6
+AnimationSpeed = 1
+#-------------------------------
 [DEDENNE]
 BackSprite = 5,53
 FrontSprite = -3,32
