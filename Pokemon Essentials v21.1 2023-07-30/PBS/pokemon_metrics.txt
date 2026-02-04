@@ -2661,9 +2661,10 @@ FrontSprite = 3,3
 ShadowSprite = 2,9,7
 #-------------------------------
 [EMBOAR]
-BackSprite = 0,39
-FrontSprite = 5,12
+BackSprite = 1,30
+FrontSprite = 1,8
 ShadowSprite = 1,5,3
+AnimationSpeed = 1,2
 #-------------------------------
 [OSHAWOTT]
 BackSprite = 3,8
