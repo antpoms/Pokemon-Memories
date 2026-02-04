@@ -429,6 +429,12 @@ BackSprite = 3,47
 FrontSprite = -9,4
 ShadowSprite = 0,8,11
 #-------------------------------
+[SCOLUTOR]
+BackSprite = 9,36
+FrontSprite = 0,13
+ShadowSprite = 0,8,5
+AnimationSpeed = 1
+#-------------------------------
 [RELLOR]
 BackSprite = 2,20
 FrontSprite = -3,14
