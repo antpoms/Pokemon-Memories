@@ -10812,8 +10812,8 @@ Evolutions = STARAPTOR,Level,34
 #-------------------------------
 [STARAPTOR]
 Name = Staraptor
-Types = NORMAL,FLYING
-BaseStats = 85,120,70,100,50,60
+Types = FIGHTING,FLYING
+BaseStats = 85,130,90,110,50,60
 GenderRatio = Female50Percent
 GrowthRate = Parabolic
 BaseExp = 243

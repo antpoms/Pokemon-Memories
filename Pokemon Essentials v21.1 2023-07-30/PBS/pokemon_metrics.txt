@@ -2109,9 +2109,10 @@ FrontSprite = 4,3
 ShadowSprite = 0,7,4
 #-------------------------------
 [STARAPTOR]
-BackSprite = 0,30
-FrontSprite = 2,5
-ShadowSprite = 0,6,5
+BackSprite = 28,30
+FrontSprite = 2,14
+ShadowSprite = 0,6,4
+AnimationSpeed = 1
 #-------------------------------
 [BIDOOF]
 BackSprite = -1,15
