@@ -3260,14 +3260,14 @@ Evolutions = STARMUSCLE,Level,38
 [STARMUSCLE]
 Name = Starmuscle
 Types = WATER,PSYCHIC
-BaseStats = 60,100,85,115,130,85
+BaseStats = 60,100,85,115,110,85
 GenderRatio = Genderless
 GrowthRate = Slow
 BaseExp = 182
 EVs = SPEED,2
 CatchRate = 60
 Happiness = 50
-Abilities = HUGEPOWER
+Abilities = PUREPOWER
 HiddenAbilities = ANALYTIC
 Moves = 0,LIQUIDATION,1,TACKLE,1,HARDEN,4,WATERGUN,8,CONFUSERAY,12,RAPIDSPIN,16,MINIMIZE,20,SWIFT,23,PSYBEAM,26,BRINE,32,SURF,36,PSYCHIC,40,PSYCHICFANGS,44,AQUAJET,48,COSMICPOWER
 TutorMoves = AGILITY,ALLYSWITCH,AVALANCHE,BLIZZARD,BRINE,CONFIDE,COSMICPOWER,DAZZLINGGLEAM,DIVE,DOUBLEEDGE,DOUBLETEAM,DREAMEATER,ENDURE,EXPANDINGFORCE,FACADE,FLASH,FLASHCANNON,FLIPTURN,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,GYROBALL,HAIL,HIDDENPOWER,HYDROPUMP,HYPERBEAM,ICEBEAM,ICYWIND,LIGHTSCREEN,MAGICCOAT,METEORBEAM,MIMIC,NATURALGIFT,PAINSPLIT,POWERGEM,PROTECT,PSYCHIC,PSYCHOCUT,PSYCHUP,PSYSHOCK,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROLLOUT,ROUND,SCALD,SECRETPOWER,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNORE,SUBSTITUTE,SURF,SWAGGER,SWIFT,TELEKINESIS,THUNDER,THUNDERBOLT,THUNDERWAVE,TRIATTACK,TRICK,TRICKROOM,TWISTER,WATERFALL,WATERPULSE,WHIRLPOOL,WONDERROOM
@@ -3554,7 +3554,7 @@ Evolutions = LAPARIA,Level,41
 [LAPARIA]
 Name = Laparia
 Types = WATER,ICE
-BaseStats = 140,85,100,60,125,105
+BaseStats = 140,85,85,60,115,105
 GenderRatio = Female50Percent
 GrowthRate = Slow
 BaseExp = 187
@@ -3897,7 +3897,7 @@ Evolutions = SNORTREE,Level,42
 [SNORTREE]
 Name = Snortree
 Types = NORMAL,GRASS
-BaseStats = 180,140,65,30,85,110
+BaseStats = 170,140,65,30,85,110
 GenderRatio = FemaleOneEighth
 GrowthRate = Slow
 BaseExp = 189
@@ -12157,7 +12157,7 @@ Evolutions = LUCAICHI,SPAttackGreater,38,RIOJIN,AttackGreaterSP,38
 [RIOJIN]
 Name = Riojin
 Types = FIGHTING,STEEL
-BaseStats = 70,145,88,112,110,70
+BaseStats = 70,145,88,112,90,70
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
 BaseExp = 219
@@ -13510,7 +13510,7 @@ Evolutions = EMBOAR,Level,36
 [EMBOAR]
 Name = Emboar
 Types = FIRE,FIGHTING
-BaseStats = 110,123,80,65,70,80
+BaseStats = 110,123,90,65,70,80
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
 BaseExp = 264
@@ -17550,7 +17550,7 @@ Evolutions = GRENINJA,Level,36
 [GRENINJA]
 Name = Greninja
 Types = WATER,DARK
-BaseStats = 72,105,67,132,123,71
+BaseStats = 72,105,67,132,123,61
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
 BaseExp = 265
@@ -18409,7 +18409,7 @@ Evolutions = WARIARACLE,Level,37
 [WARIARACLE]
 Name = Wariaracle
 Types = ROCK,FIGHTING
-BaseStats = 72,125,115,88,54,96
+BaseStats = 72,125,115,88,54,86
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 175
@@ -22495,7 +22495,7 @@ Shape = BipedalTail
 Category = Punk
 Pokedex = When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.
 Generation = 8
-Evolutions = TOXBAIN,Level,35
+Evolutions = TOXBAIN,Level,38
 #-------------------------------
 [TOXBAIN]
 Name = Toxbain
@@ -22575,7 +22575,7 @@ Evolutions = CENTIRNO,Level,37
 [CENTIRNO]
 Name = Centirno
 Types = FIRE,BUG
-BaseStats = 120,135,65,125,90,90
+BaseStats = 100,125,65,115,90,90
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 184
@@ -23335,7 +23335,7 @@ Evolutions = ELERAJAH,Level,42
 [ELERAJAH]
 Name = Elerajah
 Types = STEEL,GROUND
-BaseStats = 142,140,89,60,80,89
+BaseStats = 142,140,89,30,80,69
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 175
