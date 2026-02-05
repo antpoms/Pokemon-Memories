@@ -2323,6 +2323,7 @@ Weight = 6.5
 Pokedex = It can evolve into a variety of forms. Eevee’s genes are the key to solving the mysteries of Pokémon evolution.
 Generation = 7
 Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Evolutions = SYLVEON,None
 #-------------------------------
 [EEVEE,2]
 Types = DARK
