@@ -18,6 +18,14 @@ AtomicReactor
 -Hotel Tile by PkmnAlexandrite
 -Cemetery tileset by TobalCR
 -Gmax, Mega and Primal OW Sprites Pack by Willow
+-Legend ZA mega sprites by:
+DarkusShadow (OW)
+RetroNC (Animated front sprites)
+Aronousqui20 (Animated back sprites)
+BluebirdDxD (Animated back sprites and Lucario Z OW)
+imoicon (mega delphox back sprite)
+RoiDadadou (mega meowstic backsprite)
+icons and static back sprites come from the gen 9 pack (see credits in the plugin section)
 
 Musics
 
