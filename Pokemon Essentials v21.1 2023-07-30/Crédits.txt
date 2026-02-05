@@ -115,3 +115,128 @@ Gen 9 Animation Project led by KRLW890 and Nut0066, with additional contribution
 -Overworld Shadow by Luka S.J
 -Z-Power by Lucidious89
 -Terastallization by Lucidious89
+
+
+PMD Pokemon portraits:
+
+All custom graphics not originating from official PMD games are licensed under Attribution-NonCommercial 4.0 International http://creativecommons.org/licenses/by/4.0/.
+All graphics referred to in this file can be found in http://sprites.pmdcollab.org/
+
+Angels-Snack	Discord:<@!ANGELS_SNACK>	Contact:https://angels-snack.tumblr.com/
+	Portrait:
+		Elekid: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
+Anon	Discord:<@!555919605265203232>
+	Sprite:
+		Wooper: Tumble,Pose,Pull,Pain,Nod,Sit,LookUp,Trip,LeapForth,Head,LostBalance,TumbleBack,HitGround,Faint
+baronessfaron	Discord:<@!544245909639397378>
+	Portrait:
+		Growlithe Hisui: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Arcanine Hisui: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Chikorita: Special0
+		Froslass: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Iron_Valiant: Normal
+	Sprite:
+		Growlithe Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Arcanine Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
+		Yamper: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,Shock,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
+	Sprite:
+		Wooper: EventSleep,Wake,Eat,Pose,Float,DeepBreath,Nod,Sink,Laying,Cringe
+CHUNSOFT	Discord:<@!CHUNSOFT>	Contact:https://www.spike-chunsoft.com/
+	Portrait:
+		Beedrill: Normal
+		Eevee: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
+		Chikorita: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1
+		Cyndaquil: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1,Special2
+		Totodile: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1
+		Wooper: Happy,Normal,Surprised,Worried
+		Phanpy: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
+		Elekid: Normal,Normal^
+		Mightyena: Normal
+		Kirlia: Normal
+		Froslass: Normal
+	Sprite:
+		Beedrill: Walk,Attack,Jab,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Eevee: Walk,Attack,Strike,Shoot,Appeal,TailWhip,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Chikorita: Walk,Attack,Strike,Slam,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Cyndaquil: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Totodile: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Wooper: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Phanpy: Walk,Attack,Strike,Shoot,Rumble,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Elekid: Walk,Attack,Punch,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Mightyena: Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Swing,Walk
+		Kirlia: Walk,Attack,Strike,Shoot,SpAttack,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Froslass: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+Cocosquid.	Discord:<@!1133042779782647808>	Contact:<@1133042779782647808>
+	Portrait:
+		Iron_Treads: Happy
+deltaflare	Discord:<@!555360707617488904>	Contact:<@555360707617488904>
+	Portrait:
+		Mightyena: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
+Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
+	Portrait:
+		Growlithe Hisui: Normal
+		Furret Alternate: Normal
+		Wooper: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
+		Squawkabilly: Normal
+		Iron_Valiant: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
+	Sprite:
+		Arcanine Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,Swing,Rotate,Hop,QuickStrike
+		Furret Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,RearUp,Swing,Double,Rotate,Hop
+		Yamper: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Iron_Valiant: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
+Fable	Discord:<@!225813236589527041>	Contact:https://twitter.com/fabledpainter
+	Portrait:
+		Beedrill: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+Felis-Licht	Discord:<@!273594331577974785>	Contact:https://www.deviantart.com/felis-licht/
+	Portrait:
+		Wooper: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
+Gã€œ	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.pmd.social
+	Portrait:
+		Furret Alternate: Normal
+	Sprite:
+		Iron_Treads: Idle,Sleep,Rotate
+Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
+	Portrait:
+		Mightyena: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+JemDragons	Discord:<@!408301000445788180>	Contact:https://twitter.com/JemDragons?s=09
+	Portrait:
+		Magikarp Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+JFain	Discord:<@!702275233125630042>
+	Sprite:
+		Kirlia: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+KCN015	Discord:<@!358038459237138432>
+	Sprite:
+		Mightyena: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
+Morei	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.bsky.social
+	Portrait:
+		Elekid: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
+	Sprite:
+		Magikarp Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+PhillipsYoung	Discord:<@!772726854188400641>	Contact:https://twitter.com/PhilliYoung196
+	Portrait:
+		Kirlia: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
+RelicCipher	Discord:<@!739304144552198285>	Contact:<@739304144552198285>
+	Portrait:
+		Yamper: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special3
+	Sprite:
+		Yamper: Walk,Attack,Strike,Shoot,Dance,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+Scizivire	Discord:<@!207188665959448576>	Contact:<@207188665959448576>
+	Sprite:
+		Magikarp Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+ShyStarryRain	Discord:<@!576876006636519434>
+	Portrait:
+		Furret Alternate: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+		Wooper: 
+2023-01-25 21:50:10.402591	<@!356635814668664832>	CUR	PMDCollab_1	Sigh
+
+Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
+	Portrait:
+		Magikarp Shiny: Normal
+TawnySoup	Discord:<@!216640380408430592>	Contact:https://linktr.ee/tawnysoup
+	Portrait:
+		Iron_Treads: Normal
+Uni	Discord:<@!402958234371227648>	Contact:https://github.com/ArianaCastro01
+	Sprite:
+		Wooper: EventSleep,Wake,Tumble,Pain,Float,Nod,Sit,Trip,Laying,Head,TumbleBack,HitGround,Faint
