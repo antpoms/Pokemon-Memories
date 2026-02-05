@@ -1077,4 +1077,4 @@ Description = The user changes form when it uses specific moves.
 #-------------------------------
 [BLOODLUST]
 Name = Blood Lust
-Description = Defeating a foe lets it become more powerful.
+Description = Defeating a foe lets it become more powerful. Powers up moves of the same type.
