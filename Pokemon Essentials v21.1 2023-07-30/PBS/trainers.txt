@@ -230,9 +230,12 @@ Pokemon = PORYGONZ,5
 [ESSENTIA,Millie,1]
 LoseText = ...
 Pokemon = RIOJIN,3
-Pokemon = MALAMAR,3
-Pokemon = MEOWSTIC,5
+Pokemon = MALAFRIEND,3
+   IV = 0,0,0,0,0,0
+Pokemon = MEEYESTIC,5
    Gender = male
+   IV = 0,0,0,0,0,0
+   AbilityIndex = 2
 #-------------------------------
 [SWIMMER_M,Clément]
 LoseText = Skibidi rizz.
