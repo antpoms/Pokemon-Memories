@@ -41,3 +41,7 @@ RunCharset = Mia_run
 TrainerType = POKEMONTRAINER_Raya
 WalkCharset = Raya_walk
 RunCharset = Raya_run
+#-------------------------------
+[5]
+TrainerType = BRENDAN
+WalkCharset = brendan_walk

@@ -1909,6 +1909,7 @@ ShadowSprite = 6,-7,-9
 BackSprite = 8,46
 FrontSprite = 0,16
 ShadowSprite = 6,-7,-9
+AnimationSpeed = 2,1
 #-------------------------------
 [WYNAUT]
 BackSprite = 6,11

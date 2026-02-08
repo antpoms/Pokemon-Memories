@@ -129,4 +129,13 @@ module QuestModule
     :QuestDescription => "Raya vous a demandé de placer 5 capteur pour cartographier la zone.",
   }
 
+  QuestStaryu = {
+    :ID => "13",
+    :Name => "Rêve bizarre",
+    :Stage1 => "Affronter l'être ultime.",
+    :Location1 => "Plage, Sud-Est",
+  :StageLabel1 => "1",
+    :QuestDescription => "Parlez au Stari malicieux",
+  }
+
 end

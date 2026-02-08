@@ -3281,6 +3281,7 @@ Habitat = Sea
 Category = Mysterious
 Pokedex = People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.
 Generation = 1
+Flags = Mythical
 WildItemCommon = STARDUST
 WildItemUncommon = STARPIECE
 #-------------------------------
