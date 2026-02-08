@@ -27,6 +27,9 @@ imoicon (mega delphox back sprite)
 RoiDadadou (mega meowstic backsprite)
 icons and static back sprites come from the gen 9 pack (see credits in the plugin section)
 -pokemon portraits come from https://sprites.pmdcollab.org/ Thanks to all the artist contributing
+-character portraits by Drak
+-mega starmie running video by cgchefs
+-mega starmie dancing video by WINGLAYER
 
 Musics
 
@@ -52,6 +55,7 @@ GoatFromTheStars
 -Battle Magikarp-sama -> Pokken Tournament - Magikarp Festival
 -Battle Lusamine -> Mewmore // Battle! Lusamine (Pokémon Sun & Moon Remix) by Mewmore
 -Battle Dan -> Pokémon XD: Gale of Darkness - Miror B. Battle Theme (Intensity Remix) by INTENSITY
+-Battle Starmuscle -> Pokemon Legend ZA - Rogue Mega Pokemon Battle
 -ARK Project -> Pokemon SM - Unsettling Atmosphere
 -Encounter Einer -> Yu gi oh Duel Links - Vector Raid Theme
 -Battle Einer -> Yu gi oh Duel Links - Vector Theme
@@ -116,3 +120,4 @@ Gen 9 Animation Project led by KRLW890 and Nut0066, with additional contribution
 -Overworld Shadow by Luka S.J
 -Z-Power by Lucidious89
 -Terastallization by Lucidious89
+-video player by Illiterally
