@@ -2313,7 +2313,7 @@ Pokedex = Legend says that by using its power to see all events from past to fut
 #-------------------------------
 [EEVEE,1]
 FormName = Genetic Eevee
-BaseStats = 65,85,70,90,65,85
+BaseStats = 65,85,80,90,65,85
 BaseExp = 65
 Abilities = GENETICPOWER
 HiddenAbilities = GENETICPOWER
