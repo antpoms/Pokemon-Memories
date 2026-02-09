@@ -625,7 +625,7 @@ FrontSprite = 0,8
 ShadowSprite = 0,8,4
 #-------------------------------
 [STARMUSCLE]
-BackSprite = 3,41
+BackSprite = 13,27
 FrontSprite = 0,15
 ShadowSprite = 0,8,4
 AnimationSpeed = 2,1
@@ -809,8 +809,9 @@ ShadowSprite = 1,8,6
 #-------------------------------
 [MEGANIUM]
 BackSprite = 0,29
-FrontSprite = -3,10
+FrontSprite = -4,16
 ShadowSprite = 0,8,6
+AnimationSpeed = 3
 #-------------------------------
 [CYNDAQUIL]
 BackSprite = 0,10
@@ -1894,6 +1895,7 @@ BackSprite = 9,18
 FrontSprite = 0,5
 ShadowSize = -1
 ShadowSprite = 4,35,24
+AnimationSpeed = 2,1
 #-------------------------------
 [ABSOL]
 BackSprite = 0,28
@@ -1906,10 +1908,9 @@ FrontSprite = 0,27
 ShadowSprite = 6,-7,-9
 #-------------------------------
 [ABSIFER]
-BackSprite = 8,46
-FrontSprite = 0,16
+BackSprite = 7,38
+FrontSprite = -6,14
 ShadowSprite = 6,-7,-9
-AnimationSpeed = 2,1
 #-------------------------------
 [WYNAUT]
 BackSprite = 6,11
@@ -2110,10 +2111,10 @@ FrontSprite = 4,3
 ShadowSprite = 0,7,4
 #-------------------------------
 [STARAPTOR]
-BackSprite = 28,30
-FrontSprite = 2,14
-ShadowSprite = 0,6,4
-AnimationSpeed = 1
+BackSprite = 21,15
+FrontSprite = 7,18
+ShadowSprite = 0,6,1
+AnimationSpeed = 2,1
 #-------------------------------
 [BIDOOF]
 BackSprite = -1,15
@@ -2386,10 +2387,9 @@ FrontSprite = 0,19
 ShadowSprite = 0,-1,-2
 #-------------------------------
 [LUCAICHI]
-BackSprite = 1,41
-FrontSprite = 4,13
+BackSprite = 1,32
+FrontSprite = 10,6
 ShadowSprite = 0,-1,-2
-AnimationSpeed = 2,1
 #-------------------------------
 [HIPPOPOTAS]
 BackSprite = 2,17
@@ -2549,7 +2549,7 @@ FrontSprite = 0,-1
 ShadowSprite = 2,20,17
 #-------------------------------
 [FROSLADY]
-BackSprite = 8,24
+BackSprite = -6,58
 FrontSprite = -3,13
 ShadowSprite = 2,20,9
 AnimationSpeed = 2,1
@@ -3194,8 +3194,8 @@ FrontSprite = 0,3
 ShadowSprite = 3,14,8
 #-------------------------------
 [EELEKTROSS]
-BackSprite = 2,55
-FrontSprite = 8,26
+BackSprite = 11,55
+FrontSprite = 5,23
 ShadowSprite = 3,8,-1
 AnimationSpeed = 1
 #-------------------------------
@@ -3300,9 +3300,9 @@ ShadowSprite = 0,14,7
 #-------------------------------
 [GOLEUM]
 BackSprite = 5,42
-FrontSprite = 0,5
+FrontSprite = 3,13
 ShadowSprite = 0,14,7
-AnimationSpeed = 1
+AnimationSpeed = 1,2
 #-------------------------------
 [PAWNIARD]
 BackSprite = 5,11
@@ -3468,10 +3468,10 @@ FrontSprite = -2,3
 ShadowSprite = 1,10,7
 #-------------------------------
 [DELPHOX]
-BackSprite = 5,40
+BackSprite = -6,28
 FrontSprite = 4,4
 ShadowSprite = 0,14,11
-AnimationSpeed = 1
+AnimationSpeed = 2,1
 #-------------------------------
 [FROAKIE]
 BackSprite = 0,7
@@ -3486,10 +3486,10 @@ ShadowSprite = -1,15,6
 AnimationSpeed = 1
 #-------------------------------
 [GRENINJA]
-BackSprite = 8,20
+BackSprite = 3,22
 FrontSprite = 0,10
 ShadowSprite = -1,7,6
-AnimationSpeed = 1
+AnimationSpeed = 2,1
 #-------------------------------
 [BUNNELBY]
 BackSprite = 2,11
@@ -3601,10 +3601,9 @@ FrontSprite = 1,14
 ShadowSprite = 0,-7,0
 #-------------------------------
 [MEEYESTIC]
-BackSprite = -4,40
-FrontSprite = -3,11
+BackSprite = 14,31
+FrontSprite = 1,10
 ShadowSprite = 0,-7,0
-AnimationSpeed = 1
 #-------------------------------
 [HONEDGE]
 BackSprite = 0,32
@@ -3659,8 +3658,8 @@ FrontSprite = 1,11
 ShadowSprite = 1,7,3
 #-------------------------------
 [MALAFRIEND]
-BackSprite = 0,31
-FrontSprite = 1,3
+BackSprite = 13,31
+FrontSprite = -4,29
 ShadowSprite = 1,7,3
 AnimationSpeed = 2,1
 #-------------------------------
@@ -3678,6 +3677,7 @@ ShadowSprite = 4,5,4
 BackSprite = 14,32
 FrontSprite = -1,7
 ShadowSprite = 4,5,4
+AnimationSpeed = 2,1
 #-------------------------------
 [SKRELP]
 BackSprite = 1,52
@@ -3692,7 +3692,7 @@ ShadowSprite = 4,-12,20
 AnimationSpeed = 3,2
 #-------------------------------
 [DRAGARECH]
-BackSprite = 14,56
+BackSprite = 14,40
 FrontSprite = -4,2
 ShadowSize = -1
 ShadowSprite = 4,-12,20
@@ -3753,10 +3753,10 @@ FrontSprite = -2,9
 ShadowSprite = 0,-4,6
 #-------------------------------
 [HAWLIBRE]
-BackSprite = 6,42
-FrontSprite = 0,20
-ShadowSprite = 0,-4,6
-AnimationSpeed = 1
+BackSprite = 9,38
+FrontSprite = 3,20
+ShadowSprite = 0,-4,-1
+AnimationSpeed = 2,1
 #-------------------------------
 [DEDENNE]
 BackSprite = 5,53
@@ -3967,6 +3967,11 @@ ShadowSprite = 0,-4,0
 [CRABOMINABLE]
 BackSprite = 6,43
 FrontSprite = -4,13
+ShadowSprite = 1,6,4
+#-------------------------------
+[CRABARBAROUS]
+BackSprite = 6,20
+FrontSprite = 6,13
 ShadowSprite = 1,6,4
 #-------------------------------
 [ORICORIO]
@@ -4667,10 +4672,10 @@ FrontSprite = 0,29
 ShadowSprite = 4,-16,-10
 #-------------------------------
 [FALDIZER]
-BackSprite = 13,38
+BackSprite = 13,19
 FrontSprite = -3,15
 ShadowSprite = 4,-16,-10
-AnimationSpeed = 1
+AnimationSpeed = 2,1
 #-------------------------------
 [PINCURCHIN]
 BackSprite = 0,49
@@ -4842,7 +4847,7 @@ FrontSprite = 0,0
 ShadowSprite = 0,0,0
 #-------------------------------
 [SCRADRICK]
-BackSprite = 5,48
+BackSprite = -4,42
 FrontSprite = 3,19
 ShadowSprite = 0,0,0
 AnimationSpeed = 2,1

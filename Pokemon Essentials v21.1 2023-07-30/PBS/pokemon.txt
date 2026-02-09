@@ -19760,6 +19760,32 @@ Category = Woolly Crab
 Pokedex = It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.
 Generation = 7
 WildItemUncommon = CHERIBERRY
+Evolutions = CRABARBAROUS,Level,36
+#-------------------------------
+[CRABARBAROUS]
+Name = Crabarbarous
+Types = FIGHTING,ICE
+BaseStats = 97,147,112,33,107,67
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 167
+EVs = ATTACK,2
+CatchRate = 60
+Happiness = 50
+Abilities = HYPERCUTTER,IRONFIST
+HiddenAbilities = ANGERPOINT
+Moves = 0,ICEHAMMER,1,BUBBLE,1,ROCKSMASH,1,LEER,1,PURSUIT,5,ROCKSMASH,9,LEER,13,PURSUIT,17,BUBBLEBEAM,22,POWERUPPUNCH,25,DIZZYPUNCH,29,AVALANCHE,33,REVERSAL,37,DRAINPUNCH,42,IRONDEFENSE,45,THUNDERPUNCH,48,CLOSECOMBAT
+TutorMoves = ATTRACT,BLIZZARD,BLOCK,BRICKBREAK,BRUTALSWING,BULKUP,BULLDOZE,CAPTIVATE,CONFIDE,DOUBLETEAM,DRAINPUNCH,DUALCHOP,EARTHQUAKE,ENDEAVOR,ENDURE,FACADE,FLING,FOCUSBLAST,FOCUSPUNCH,FROSTBREATH,FRUSTRATION,GIGAIMPACT,HAIL,HIDDENPOWER,ICEBEAM,ICEPUNCH,ICYWIND,IRONDEFENSE,IRONHEAD,MIMIC,NATURALGIFT,PAYBACK,PROTECT,RAINDANCE,REST,RETURN,ROCKSLIDE,ROCKTOMB,ROUND,SCALD,SECRETPOWER,SLEEPTALK,SNORE,STONEEDGE,SUBSTITUTE,SUNNYDAY,SUPERPOWER,SWAGGER,THIEF,THUNDERPUNCH,TOXIC,WORKUP,ZENHEADBUTT
+EggGroups = Water3
+HatchSteps = 5120
+Height = 1.7
+Weight = 180.0
+Color = White
+Shape = Insectoid
+Category = Woolly Crab
+Pokedex = It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.
+Generation = 7
+WildItemUncommon = CHERIBERRY
 #-------------------------------
 [ORICORIO]
 Name = Oricorio
