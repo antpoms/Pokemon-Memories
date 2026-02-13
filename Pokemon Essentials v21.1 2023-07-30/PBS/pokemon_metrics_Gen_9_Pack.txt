@@ -539,6 +539,13 @@ ShadowSize = -1
 ShadowSprite = 2,24,22
 AnimationSpeed = 2,1
 #-------------------------------
+[GLIMMOWER]
+BackSprite = -6,49
+FrontSprite = 1,27
+ShadowSize = -1
+ShadowSprite = 2,24,11
+AnimationSpeed = 2,1
+#-------------------------------
 [GREAVARD]
 BackSprite = 3,31
 FrontSprite = -3,25
