@@ -301,11 +301,13 @@ ShadowSprite = 0,2,3
 BackSprite = -4,51
 FrontSprite = 2,19
 ShadowSprite = -1,2,-1
+AnimationSpeed = 1
 #-------------------------------
 [ARCANINE]
 BackSprite = -2,36
 FrontSprite = -3,19
 ShadowSprite = 3,1,1
+AnimationSpeed = 1
 #-------------------------------
 [POLIWAG]
 BackSprite = -12,23
