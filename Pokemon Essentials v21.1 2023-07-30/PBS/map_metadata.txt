@@ -425,3 +425,7 @@ Weather = Rain,100
 [076] #Iron Treads Zone
 Name = Lumiose Ruins
 BattleBack = cityRuins
+#-------------------------------
+[079] #Pyrenem Mountain
+Name = Pyrenem Mountain
+Outdoor = true
