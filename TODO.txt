@@ -1,20 +1,12 @@
-Portraits Raya et Gab (combat)
-PC exp share
-effets de particules
-
-certains event deviennent illogiques si on sauvegarde au mauvais moment
-rajouter un petit tuto qui explique pour ceux qui ont jamais joué à Pokémon
-rajouter portraits PMD et les portraits personnages
-
 Pour quand le jeu sera quasi fini
 
 -Faire et mettre en forme un pokedex régional
 -supprimer les pokemons pas dans le jeu et leurs sprites (voir ce qui prends le plus de place et le supprimer)
--dans le message sur les features du jeu, dire combien il y a de zones au total pour ceux qui veulent nuzlock le jeu
 
 Ressources intéressantes sur lesquelles je suis tombé dans mes recherches:
 
 -collection de tilesets 4G: https://steamcommunity.com/sharedfiles/filedetails/?id=2436216636
+- giga tileset 4g: https://www.deviantart.com/chaoticcherrycake/art/Pokemon-Tileset-From-Public-Tiles-32x32-623246343
 -afficher gif: https://eeveeexpo.com/resources/1613/
 -battle background XY P1: https://www.deviantart.com/midnitez-remix/art/Free-Pokemon-XY-Battle-BGs-4002951851
 -battle background XY P2: https://www.deviantart.com/midnitez-remix/art/Pokecchi-Winter-Adventure-Battle-BGs-421310951
