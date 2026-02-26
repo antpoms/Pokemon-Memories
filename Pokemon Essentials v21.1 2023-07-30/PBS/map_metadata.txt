@@ -429,3 +429,7 @@ BattleBack = cityRuins
 [079] #Pyrenem Mountain
 Name = Pyrenem Mountain
 Outdoor = true
+#-------------------------------
+[080] #Nexus Lab Outdoor
+Name = Pyrenem Mountain
+Outdoor = true
