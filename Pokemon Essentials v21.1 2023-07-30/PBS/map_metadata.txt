@@ -433,3 +433,8 @@ Outdoor = true
 [080] #Nexus Lab Outdoor
 Name = Pyrenem Mountain
 Outdoor = true
+#-------------------------------
+[082] #Pyrenem Mountain Snow
+Name = Pyrenem Mountain
+Outdoor = true
+Weather = Snow,100
