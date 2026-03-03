@@ -31,7 +31,8 @@ class Sprite_Character < RPG::Sprite
       "coquillage",
       "herbe",
       "capteur",
-      "waterPokemon"
+      "waterPokemon",
+      "noShadow"
     ].freeze
 
     #  List of event name inclusions that will always render a shadow
