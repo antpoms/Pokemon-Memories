@@ -428,13 +428,20 @@ BattleBack = cityRuins
 #-------------------------------
 [079] #Pyrenem Mountain
 Name = Pyrenem Mountain
+BattleBack = field
 Outdoor = true
 #-------------------------------
 [080] #Nexus Lab Outdoor
 Name = Pyrenem Mountain
+BattleBack = field
 Outdoor = true
+#-------------------------------
+[081] #Pyrenem Mountain Inside
+Name = Pyrenem Mountain
+BattleBack = grotto
 #-------------------------------
 [082] #Pyrenem Mountain Snow
 Name = Pyrenem Mountain
+BattleBack = snow
 Outdoor = true
 Weather = Snow,100
