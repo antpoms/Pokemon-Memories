@@ -377,8 +377,8 @@ SnowyGrass,21
     12,SNEASEL,5
     11,VULPIX,5
     11,SPHEAL,5
+    11,CETODDLE,5
     8,DELIBIRD,5
-    8,DARUMAKA,5
     8,FRIGIBAX,5
     8,SNOM,5
 #-------------------------------
