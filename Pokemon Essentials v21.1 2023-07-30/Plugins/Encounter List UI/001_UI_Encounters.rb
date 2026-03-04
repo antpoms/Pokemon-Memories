@@ -35,6 +35,7 @@ USER_DEFINED_NAMES = {
 :GoodRod => "Fishing (Good Rod)",
 :SuperRod => "Fishing (Super Rod)",
 :RockSmash => "Rock Smash",
+:Grotto => "Grotto",
 :HeadbuttLow => "Headbutt (rare)",
 :HeadbuttHigh => "Headbutt (common)",
 :Beach => "Sand",

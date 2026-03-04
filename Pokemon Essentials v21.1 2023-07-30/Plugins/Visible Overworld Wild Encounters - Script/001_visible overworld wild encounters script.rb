@@ -504,6 +504,9 @@ class PokemonEncounters
         if !ret && $game_map.terrain_tag(x, y).id_number == 3
           ret = find_valid_encounter_type_for_time(:Beach, time)
         end
+        if !ret && $game_map.terrain_tag(x, y).id_number == 4
+          ret = find_valid_encounter_type_for_time(:Grotto, time)
+        end
         ret = find_valid_encounter_type_for_time(:Land, time) if !ret
       end
       if !ret && has_cave_encounters?
