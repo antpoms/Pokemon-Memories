@@ -372,6 +372,15 @@ Grotto,21
     8,LARVITAR,5
     8,SANDILE,5
     8,TOGEDEMARU,5
+SnowyGrass,21
+    12,SWINUB,5
+    12,SNEASEL,5
+    11,VULPIX,5
+    11,SPHEAL,5
+    8,DELIBIRD,5
+    8,DARUMAKA,5
+    8,FRIGIBAX,5
+    8,SNOM,5
 #-------------------------------
 [080] # Nexus Lab Outside
 Land,21
@@ -405,3 +414,24 @@ Grotto,21
     8,LARVITAR,5
     8,SANDILE,5
     8,TOGEDEMARU,5
+#-------------------------------
+[082] # Mountain outside
+Land,21
+    12,CHINGLING,5
+    12,RIOLU,5
+    11,HAWLUCHA,5
+    11,MEDITITE,5
+    8,ABSOL,5
+    8,DUSKULL,5
+    8,FALINKS,5
+    8,JANGMOO,5
+    8,PAWNIARD,5
+SnowyGrass,21
+    12,SWINUB,5
+    12,SNEASEL,5
+    11,VULPIX,5
+    11,SPHEAL,5
+    8,DELIBIRD,5
+    8,DARUMAKA,5
+    8,FRIGIBAX,5
+    8,SNOM,5
