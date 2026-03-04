@@ -356,7 +356,7 @@ Description = Adjusts power according to a foe's defenses.
 #-------------------------------
 [IRONFIST]
 Name = Iron Fist
-Description = Boosts the power of punching moves.
+Description = Boosts the power of punching moves by 30%.
 #-------------------------------
 [POISONHEAL]
 Name = Poison Heal
