@@ -445,3 +445,7 @@ Name = Pyrenem Mountain
 BattleBack = snow
 Outdoor = true
 Weather = Snow,100
+#-------------------------------
+[083] #Pyrenem Mountain Inside (type null room)
+Name = Pyrenem Mountain
+BattleBack = grotto
