@@ -505,3 +505,9 @@ BaseMoney = 32
 Name = Ace Trainer
 Gender = Female
 BaseMoney = 32
+#-------------------------------
+[SALLY]
+Name = Pokemon Trainer
+Gender = Female
+BaseMoney = 45
+BattleBGM = Battle Sally

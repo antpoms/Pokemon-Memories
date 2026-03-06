@@ -360,3 +360,10 @@ Pokemon = FRIGIBAX,3
 Pokemon = SPHEAL,3
 Pokemon = CUBCHOO,3
 Pokemon = LAPRAS,5
+#-------------------------------
+[SALLY,Sally,1]
+LoseText = Je dois encore progresser.
+Pokemon = GLIMMET,3
+Pokemon = BUDEW,3
+Pokemon = PAWNIARD,3
+Pokemon = FROGADIER,5
