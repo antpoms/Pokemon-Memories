@@ -173,6 +173,7 @@ BaseMoney = 40
 Name = Black Belt
 Gender = Male
 BaseMoney = 32
+#IntroBGM = Trainers_ Eyes Meet (Blackbelt)
 #-------------------------------
 [CRUSHGIRL]
 Name = Crush Girl
@@ -494,3 +495,13 @@ BaseMoney = 70
 BattleBGM = Battle Einer
 VictoryBGM = Victory! (Nexus)
 SkillLevel = 100
+#-------------------------------
+[ACETRAINERSNOW]
+Name = Ace Trainer
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[ACETRAINERSNOW_F]
+Name = Ace Trainer
+Gender = Female
+BaseMoney = 32

@@ -318,3 +318,45 @@ Pokemon = LARVITAR,3
 Pokemon = MAKUHITA,3
 Pokemon = BELDUM,3
 Pokemon = CYCLIZAR,5
+#-------------------------------
+[BLACKBELT,Nelson]
+LoseText = J'ai beaucoup appris.
+Pokemon = RIOLU,3
+Pokemon = MACHOP,3
+Pokemon = TORCHIC,3
+Pokemon = MEDITITE,5
+#-------------------------------
+[SCIENTIST2,Jane]
+LoseText = La nuit, je les entends...
+Pokemon = MAGNEMITE,3
+Pokemon = PORYGON,3
+Pokemon = PLUSLE,3
+Pokemon = BELDUM,5
+#-------------------------------
+[BACKPACKER_F,Gabriella]
+LoseText = Wow ! Toi aussi apparemment !
+Pokemon = ONIX,3
+Pokemon = RHYHORN,3
+Pokemon = ARON,3
+Pokemon = BINACLE,5
+#-------------------------------
+[ACETRAINERSNOW,Jake]
+LoseText = J'étais pourtant certains que j'allais gagner.
+Pokemon = VULPIX,3
+Pokemon = DELIBIRD,3
+Pokemon = SNOVER,3
+Pokemon = SNEASEL,5
+#-------------------------------
+[HIKER,John]
+LoseText = Tu es en bonne voie.
+Pokemon = ARON,3
+Pokemon = CLEFFA,3
+Pokemon = ROCKRUFF,3
+Pokemon = TINKATINK,5
+#-------------------------------
+[ACETRAINERSNOW_F,Robin]
+LoseText = Tu avais prévu ce combat ?
+Pokemon = FRIGIBAX,3
+Pokemon = SPHEAL,3
+Pokemon = CUBCHOO,3
+Pokemon = LAPRAS,5
