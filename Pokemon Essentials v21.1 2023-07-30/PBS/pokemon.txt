@@ -7878,7 +7878,7 @@ Generation = 3
 #-------------------------------
 [SHEDINJA]
 Name = Shedinja
-Types = STEEL,GHOST
+Types = BUG,GHOST
 BaseStats = 1,90,45,40,30,30
 GenderRatio = Genderless
 GrowthRate = Erratic
