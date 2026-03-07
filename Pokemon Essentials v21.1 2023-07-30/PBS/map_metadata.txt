@@ -457,3 +457,7 @@ TrainerBattleBGM = Battle Trainer Mountain
 [083] #Pyrenem Mountain Inside (type null room)
 Name = Pyrenem Mountain
 BattleBack = grotto
+#-------------------------------
+[084] #Pyrenem Mountain House (froslass room)
+Name = Pyrenem Mountain
+BattleBack = indoor2
