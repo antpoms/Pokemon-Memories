@@ -511,3 +511,10 @@ Name = Pokemon Trainer
 Gender = Female
 BaseMoney = 45
 BattleBGM = Battle Sally
+#-------------------------------
+[ZINNIA]
+Name = Lorekeper
+Gender = Female
+BaseMoney = 45
+BattleBGM = Battle Zinnia
+SkillLevel = 100

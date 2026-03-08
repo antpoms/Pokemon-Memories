@@ -2626,7 +2626,7 @@ Habitat = Mountain
 Category = Ice Fin
 Pokedex = Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.
 Generation = 9
-Evolutions = ARCTIBAX,Level,35
+Evolutions = ARCTIBAX,Level,30
 #-------------------------------
 [ARCTIBAX]
 Name = Arctibax

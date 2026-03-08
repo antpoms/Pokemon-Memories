@@ -367,3 +367,11 @@ Pokemon = GLIMMET,3
 Pokemon = BUDEW,3
 Pokemon = PAWNIARD,3
 Pokemon = FROGADIER,5
+#-------------------------------
+[ZINNIA,Zinnia]
+LoseText = Hehe...
+Pokemon = GOOMY,3
+Pokemon = FRIGIBAX,3
+Pokemon = GIBLE,3
+Pokemon = BAGON,3
+Pokemon = SWABLU,5
