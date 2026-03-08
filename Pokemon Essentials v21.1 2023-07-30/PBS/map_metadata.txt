@@ -461,3 +461,9 @@ BattleBack = grotto
 [084] #Pyrenem Mountain House (froslass room)
 Name = Pyrenem Mountain
 BattleBack = indoor2
+#-------------------------------
+[085] #Pyrenem Mountain Outside (Zinnia)
+Name = Pyrenem Mountain
+BattleBack = snow
+Outdoor = true
+Weather = Snow,100
