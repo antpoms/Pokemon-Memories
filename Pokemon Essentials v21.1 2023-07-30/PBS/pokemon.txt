@@ -4028,7 +4028,7 @@ Category = Dragon
 Pokedex = A Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
-Evolutions = DRAGONAIR,Level,30
+Evolutions = DRAGONAIR,Level,25
 #-------------------------------
 [DRAGONAIR]
 Name = Dragonair
@@ -6677,7 +6677,7 @@ Habitat = Mountain
 Category = Rock Skin
 Pokedex = A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.
 Generation = 2
-Evolutions = PUPITAR,Level,30
+Evolutions = PUPITAR,Level,25
 #-------------------------------
 [PUPITAR]
 Name = Pupitar
@@ -10141,7 +10141,7 @@ Category = Rock Head
 Pokedex = Although it is small, this Pokémon is very powerful because its body is a bundle of muscles. It launches head-butts with its ironlike skull.
 Generation = 3
 WildItemUncommon = DRAGONFANG
-Evolutions = SHELGON,Level,30
+Evolutions = SHELGON,Level,25
 #-------------------------------
 [SHELGON]
 Name = Shelgon
@@ -16946,7 +16946,7 @@ Shape = Quadruped
 Category = Irate
 Pokedex = They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.
 Generation = 5
-Evolutions = ZWEILOUS,Level,30
+Evolutions = ZWEILOUS,Level,24
 #-------------------------------
 [ZWEILOUS]
 Name = Zweilous
@@ -18856,7 +18856,7 @@ Category = Soft Tissue
 Pokedex = Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing.
 Generation = 6
 WildItemUncommon = SHEDSHELL
-Evolutions = SLIGGOO,Level,30
+Evolutions = SLIGGOO,Level,25
 #-------------------------------
 [SLIGGOO]
 Name = Sliggoo
@@ -20862,7 +20862,7 @@ Category = Scaly
 Pokedex = It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.
 Generation = 7
 WildItemUncommon = RAZORCLAW
-Evolutions = HAKAMOO,Level,35
+Evolutions = HAKAMOO,Level,25
 #-------------------------------
 [HAKAMOO]
 Name = Hakamo-o
@@ -23530,7 +23530,7 @@ Shape = Serpentine
 Category = Lingering
 Pokedex = After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.
 Generation = 8
-Evolutions = DRAKLOAK,Level,30
+Evolutions = DRAKLOAK,Level,26
 #-------------------------------
 [DRAKLOAK]
 Name = Drakloak
