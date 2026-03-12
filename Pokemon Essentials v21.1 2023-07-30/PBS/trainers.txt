@@ -368,6 +368,15 @@ Pokemon = BUDEW,3
 Pokemon = PAWNIARD,3
 Pokemon = FROGADIER,5
 #-------------------------------
+[JANE,Jane,1]
+LoseText = Même ça, je peux pas y arriver...
+Pokemon = CHINGLING,3
+Pokemon = FLABEBE,3
+Pokemon = CHATOT,3
+Pokemon = FLITTLE,3
+Pokemon = ORICORIO,5
+    Form = 3
+#-------------------------------
 [ZINNIA,Zinnia]
 LoseText = Hehe...
 Pokemon = GOOMY,3

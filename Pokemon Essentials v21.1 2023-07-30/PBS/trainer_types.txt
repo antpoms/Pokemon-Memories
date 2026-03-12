@@ -512,6 +512,12 @@ Gender = Female
 BaseMoney = 45
 BattleBGM = Battle Sally
 #-------------------------------
+[JANE]
+Name = Violinist
+Gender = Female
+BaseMoney = 45
+BattleBGM = Battle Jane
+#-------------------------------
 [ZINNIA]
 Name = Lorekeper
 Gender = Female
