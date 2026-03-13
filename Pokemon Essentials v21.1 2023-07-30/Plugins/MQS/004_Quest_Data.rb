@@ -138,4 +138,86 @@ module QuestModule
     :QuestDescription => "Parlez au Stari malicieux",
   }
 
+  QuestBeedrill = {
+    :ID => "14",
+    :Name => "Rancoeur",
+    :Stage1 => "Affronter Dardargnan.",
+    :Location1 => "Laboratoire, Ouest",
+  :StageLabel1 => "1",
+    :QuestDescription => "Parlez au Dardargnan haineux",
+  }
+
+  QuestJane = {
+    :ID => "15",
+    :Name => "Mélodie du Deuil",
+    :Stage1 => "Ecoutez la violoniste",
+    :Location1 => "Pont, Est",
+  :StageLabel1 => "1",
+    :QuestDescription => "Parlez à la violoniste",
+  }
+
+  QuestStrangeMan = {
+    :ID => "16",
+    :Name => "Discussion au coin du feu",
+    :Stage1 => "Parlez à l'homme encapuchoné.",
+    :Location1 => "Au fond de la montagne",
+  :StageLabel1 => "1",
+    :QuestDescription => "Parlez à l'homme encapuchoné.",
+  }
+
+  QuestTypeNull = {
+    :ID => "17",
+    :Name => "L'Expérience",
+    :Stage1 => "Affronter le sujet issue du projet RKS",
+    :Location1 => "Grotte, Est",
+  :StageLabel1 => "1",
+    :QuestDescription => "Affronter le sujet issue du projet RKS",
+  }
+
+  QuestFroslass = {
+    :ID => "18",
+    :Name => "La dame à la robe blanche",
+    :Stage1 => "Affronter le fantôme du passé.",
+    :Location1 => "Maison, Extérieur neige",
+  :StageLabel1 => "1",
+    :QuestDescription => "Parlez à la vieille dame",
+  }
+
+  QuestEevee = {
+    :ID => "19",
+    :Name => "Pouvoir des gènes",
+    :Stage1 => "Affronter le... évoli ?",
+    :Location1 => "Montagne, extérieur neige, Est",
+  :StageLabel1 => "1",
+    :QuestDescription => "Parlez à l'évoli instable",
+  }
+
+  QuestZinnia = {
+    :ID => "20",
+    :Name => "Sommet Delta",
+    :Stage1 => "Affronter la dresseuse au sommet",
+    :Location1 => "Sommet de la Montagne",
+  :StageLabel1 => "1",
+    :QuestDescription => "Parlez à la dresseuse au sommet",
+  }
+
+  QuestSally = {
+    :ID => "21",
+    :Name => "Je dois progresser",
+    :Stage1 => "Aidez la dresseuse en détresse",
+    :Location1 => "Montagne, Est",
+  :StageLabel1 => "1",
+    :QuestDescription => "Aidez la dresseuse en détresse",
+  }
+
+  QuestMountain = {
+    :ID => "22",
+    :Name => "(Quête principale) Allumer le feu",
+    :Stage1 => "Trouvez 5 morceaux de bois.",
+    :Stage2 => "Retournez voir Raya.",
+    :Location1 => "Montagne Pyrenem",
+    :Location2 => "Montagne Pyrenem, au coin du feu",
+    :QuestDescription => "Trouvez 5 morceaux de bois pour raviver le feu.",
+  }
+
 end
