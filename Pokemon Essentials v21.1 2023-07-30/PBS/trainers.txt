@@ -384,3 +384,37 @@ Pokemon = FRIGIBAX,3
 Pokemon = GIBLE,3
 Pokemon = BAGON,3
 Pokemon = SWABLU,5
+#-------------------------------
+[POKEMONTRAINER_Raya,Raya,1]
+Items = ZPOWERRING
+LoseText = Ok. On va le faire.
+Pokemon = CYNDAQUIL,3
+Pokemon = CHIKORITA,3
+Pokemon = CHEWTLE,3
+Pokemon = JANGMOO,3
+Pokemon = MAGNEMITE,5
+    Item = ELECTRIUMZ
+    Moves = THUNDERSHOCK,TACKLE,SCREECH
+    AbilityIndex = 0
+#-------------------------------
+[POKEMONTRAINER_Raya,Raya,2]
+Items = ZPOWERRING
+LoseText = Ok. On va le faire.
+Pokemon = CHIKORITA,3
+Pokemon = TOTODILE,3
+Pokemon = CHARCADET,3
+Pokemon = JANGMOO,3
+Pokemon = MAGNEMITE,5
+    Item = ELECTRIUMZ
+    AbilityIndex = 0
+#-------------------------------
+[POKEMONTRAINER_Raya,Raya,3]
+Items = ZPOWERRING
+LoseText = Ok. On va le faire.
+Pokemon = TOTODILE,3
+Pokemon = CYNDAQUIL,3
+Pokemon = BUDEW,3
+Pokemon = JANGMOO,3
+Pokemon = MAGNEMITE,5
+    Item = ELECTRIUMZ
+    AbilityIndex = 0

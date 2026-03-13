@@ -19,6 +19,8 @@ BaseMoney = 60
 Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
+BattleBGM = Battle Raya Resolve
+SkillLevel = 100
 #-------------------------------
 [BRENDAN]
 Name = Pokémon Trainer
