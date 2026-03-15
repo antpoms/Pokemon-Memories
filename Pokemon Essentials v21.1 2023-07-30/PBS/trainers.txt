@@ -418,3 +418,88 @@ Pokemon = JANGMOO,3
 Pokemon = MAGNEMITE,5
     Item = ELECTRIUMZ
     AbilityIndex = 0
+#-------------------------------
+[NEXUSSENTINEL,THZ-236]
+LoseText = MISE À JOUR EN COURS: 4% 
+Pokemon = SKRELP,3
+Pokemon = BINACLE,3
+Pokemon = GLAMEOW,5
+Pokemon = STUNKY,5
+#-------------------------------
+[NEXUSSENTINEL,CTX-110]
+LoseText = 10100101001110011111
+Pokemon = PORYGON,3
+Pokemon = BELDUM,3
+Pokemon = BRONZOR,5
+Pokemon = MAGNEMITE,5
+#-------------------------------
+[NEXUSSENTINEL,BZT-897]
+LoseText = PROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L!Cz02'zPHDkpF/4|{
+Pokemon = ZUBAT,3
+Pokemon = HOUNDOUR,3
+Pokemon = GRIMER,5
+Pokemon = GRIMER,5
+   Form = 1
+#-------------------------------
+[NEXUSSENTINEL,RKY-573]
+LoseText = J'AI ÉTÉ MAL PROGRAMMÉ
+Pokemon = ARON,3
+Pokemon = RIOLU,3
+Pokemon = TRUBBISH,5
+Pokemon = VOLTORB,5
+#-------------------------------
+[NEXUSSENTINEL,WFY-791]
+LoseText = MA STRATÉGIE EST BATTABLE.
+Pokemon = PAWNIARD,3
+Pokemon = NYMBLE,3
+Pokemon = CAPSAKID,5
+Pokemon = BLIPBUG,5
+#-------------------------------
+[NEXUSSENTINEL,CRM-513]
+LoseText = BIP BIP BOUP. J'AI PERDU.
+Pokemon = SEEDOT,3
+Pokemon = YAMASK,3
+Pokemon = GOTHITA,5
+Pokemon = GOLETT,5
+#-------------------------------
+[NEXUSSENTINEL,ZSX-815]
+LoseText = VOUS REFUSEZ MES COOKIES ?
+Pokemon = MURKROW,3
+Pokemon = CHARCADET,3
+Pokemon = BLITZLE,5
+Pokemon = CACNEA,5
+#-------------------------------
+[NEXUSSENTINEL,FJR-439]
+LoseText = :(
+Pokemon = STARYU,3
+Pokemon = GASTLY,3
+Pokemon = SPINDA,5
+Pokemon = TOGEDEMARU,5
+#-------------------------------
+[NEXUSSENTINEL,FJR-439]
+LoseText = BOMBARDIRO CROCODILO
+Pokemon = CARVANHA,3
+Pokemon = SANDILE,3
+Pokemon = SINISTEA,5
+Pokemon = POLTCHAGEIST,5
+#-------------------------------
+[NEXUSSENTINEL,BGO-467]
+LoseText = J'AI ENCORE PERDU. OUIN.
+Pokemon = PARAS,3
+Pokemon = PATRAT,3
+Pokemon = PLUSLE,5
+Pokemon = MINUN,5
+#-------------------------------
+[NEXUSSENTINEL,CPA-806]
+LoseText = CECI N'EST PAS UNE IMAGE DE VOITURE.
+Pokemon = VAROOM,3
+Pokemon = CYCLIZAR,3
+Pokemon = ROOKIDEE,5
+Pokemon = VENIPEDE,5
+#-------------------------------
+[NEXUSSENTINEL,CPA-806]
+LoseText = VOUS PRÉFÉREZ UN THÉ ?
+Pokemon = CROAGUNK,3
+Pokemon = SNEASEL,3
+Pokemon = ZANGOOSE,5
+Pokemon = SEVIPER,5

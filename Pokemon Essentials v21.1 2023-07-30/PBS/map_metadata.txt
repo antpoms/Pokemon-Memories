@@ -467,3 +467,7 @@ Name = Pyrenem Mountain
 BattleBack = snow
 Outdoor = true
 Weather = Snow,100
+#-------------------------------
+[087] #Nexus Lab
+Name = Nexus Lab
+BattleBack = indoordark
