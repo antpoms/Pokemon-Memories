@@ -469,7 +469,7 @@ Pokemon = CHARCADET,3
 Pokemon = BLITZLE,5
 Pokemon = CACNEA,5
 #-------------------------------
-[NEXUSSENTINEL,FJR-439]
+[NEXUSSENTINEL,KMT-845]
 LoseText = :(
 Pokemon = STARYU,3
 Pokemon = GASTLY,3
@@ -497,7 +497,7 @@ Pokemon = CYCLIZAR,3
 Pokemon = ROOKIDEE,5
 Pokemon = VENIPEDE,5
 #-------------------------------
-[NEXUSSENTINEL,CPA-806]
+[NEXUSSENTINEL,RKX-409]
 LoseText = VOUS PRÉFÉREZ UN THÉ ?
 Pokemon = CROAGUNK,3
 Pokemon = SNEASEL,3
