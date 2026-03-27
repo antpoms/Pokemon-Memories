@@ -471,3 +471,7 @@ Weather = Snow,100
 [087] #Nexus Lab
 Name = Nexus Lab
 BattleBack = indoordark
+#-------------------------------
+[088] #Nexus Lab Underground
+Name = Nexus Lab
+BattleBack = indoordark

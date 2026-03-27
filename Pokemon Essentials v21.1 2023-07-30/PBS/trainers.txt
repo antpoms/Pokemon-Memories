@@ -503,3 +503,17 @@ Pokemon = CROAGUNK,3
 Pokemon = SNEASEL,3
 Pokemon = ZANGOOSE,5
 Pokemon = SEVIPER,5
+#-------------------------------
+[NEXUSSENTINEL,DCR-192]
+LoseText = SORTEZ IMMÉDIATEMMENT S'IL-VOUS-PLAÎT ?
+Pokemon = DRAMPA,3
+Pokemon = SPIRITOMB,3
+Pokemon = DRUDDIGON,5
+Pokemon = TURTONATOR,5
+#-------------------------------
+[NEXUSSENTINEL,QTX-487]
+LoseText = ALERTE ! ALERTE !
+Pokemon = CAPSAKID,3
+Pokemon = PORYGON,3
+Pokemon = RIOLU,5
+Pokemon = SNORUNT,5
