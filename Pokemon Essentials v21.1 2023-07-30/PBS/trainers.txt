@@ -158,6 +158,10 @@ Pokemon = SLAKOTH,5
 [POKEMONPROFESSOR_Raya,Raya,0]
 LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = GARDEVOIR,79
+     Moves = DAZZLINGGLEAM
+     IV = 31,31,31,31,31,31
+     EV = 0,0,0,252,252,0
+     Item = CHOICESPECS
 Pokemon = DONPHAN,81
 Pokemon = VOLCARONA,78
 Pokemon = DELIBIRD,80
@@ -517,3 +521,30 @@ Pokemon = CAPSAKID,3
 Pokemon = PORYGON,3
 Pokemon = RIOLU,5
 Pokemon = SNORUNT,5
+#-------------------------------
+[STEVE,Steve,2]
+LoseText = On fait 40/60 ?
+Pokemon = KOMMOO,54
+     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+     IV = 0,0,0,0,0,0
+Pokemon = HYDREIGON,54
+     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+     IV = 0,0,0,0,0,0
+Pokemon = BAXCALIBUR,54
+     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+     IV = 0,0,0,0,0,0
+Pokemon = SALAMENCE,54
+     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+     IV = 0,0,0,0,0,0
+#-------------------------------
+[POKEMONTRAINER_Raya,Raya,0]
+LoseText = Pas mal. On va dire que tu es engagée.
+Pokemon = GARDEVOIR,79
+     Moves = DAZZLINGGLEAM
+     IV = 31,31,31,31,31,31
+     EV = 0,0,0,252,252,0
+     Item = CHOICESPECS
+Pokemon = DONPHAN,81
+Pokemon = VOLCARONA,78
+Pokemon = DELIBIRD,80
+Pokemon = HYDREIGON,82
