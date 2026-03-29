@@ -155,13 +155,13 @@ Pokemon = APPLIN,3
     Moves = TACKLE,ASTONISH
 Pokemon = SLAKOTH,5
 #-------------------------------
-[POKEMONPROFESSOR_Raya,Raya,0]
+[POKEMONPROFESSOR_Raya,Raya]
 LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = GARDEVOIR,79
-     Moves = DAZZLINGGLEAM
-     IV = 31,31,31,31,31,31
-     EV = 0,0,0,252,252,0
-     Item = CHOICESPECS
+    Moves = DAZZLINGGLEAM
+    Item = CHOICESPECS
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,252,0
 Pokemon = DONPHAN,81
 Pokemon = VOLCARONA,78
 Pokemon = DELIBIRD,80
@@ -173,9 +173,9 @@ LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = CYNDAQUIL,3
 Pokemon = CHIKORITA,3
 Pokemon = MAGNEMITE,5
-    Item = ELECTRIUMZ
     Moves = THUNDERSHOCK,TACKLE,SCREECH
     AbilityIndex = 0
+    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,2]
 Items = ZPOWERRING
@@ -183,9 +183,9 @@ LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = CHIKORITA,3
 Pokemon = TOTODILE,3
 Pokemon = MAGNEMITE,5
-    Item = ELECTRIUMZ
     Moves = THUNDERSHOCK,TACKLE,SCREECH
     AbilityIndex = 0
+    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,3]
 Items = ZPOWERRING
@@ -193,53 +193,53 @@ LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = TOTODILE,3
 Pokemon = CYNDAQUIL,3
 Pokemon = MAGNEMITE,5
-    Item = ELECTRIUMZ
     Moves = THUNDERSHOCK,TACKLE,SCREECH
     AbilityIndex = 0
+    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONTRAINER_Sonia,Sonia,1]
 LoseText = Alors Voltoutou ? Tu es content ?
 Pokemon = YAMPER,3
 Pokemon = ROOKIDEE,3
 Pokemon = SCORBUNNY,5
-     AbilityIndex = 2
+    AbilityIndex = 2
 #-------------------------------
 [POKEMONTRAINER_Sonia,Sonia,2]
 LoseText = Alors Voltoutou ? Tu es content ?
 Pokemon = YAMPER,3
 Pokemon = ROOKIDEE,3
 Pokemon = GROOKEY,5
-     AbilityIndex = 2
+    AbilityIndex = 2
 #-------------------------------
 [NEXUSSENTINEL,RKX-135]
 LoseText = ERREUR. DÉFAITE ENREGISTRÉE.
 Pokemon = MAGNETON,3
 Pokemon = KLINKLANG,5
-   IV = 0,0,0,0,0,0
+    IV = 0,0,0,0,0,0
 #-------------------------------
 [NEXUSSENTINEL,CKM-RA9]
 LoseText = ÉCHEC DE LA MISSION.
 Pokemon = METANG,3
 Pokemon = BEHEEYEM,5
-   IV = 0,0,0,0,0,0
-   Moves = POWERSPLIT,GUARDSPLIT,FUTURESIGHT
+    Moves = POWERSPLIT,GUARDSPLIT,FUTURESIGHT
+    IV = 0,0,0,0,0,0
 #-------------------------------
 [NEXUSSENTINEL,DXS-896]
 LoseText = ÉCHEC. MISE À JOUR DU SYSTÈME.
 Pokemon = PORYGON2,3
-   Ability = ANALYTIC
+    Ability = ANALYTIC
 Pokemon = PORYGONZ,5
-   Ability = ANALYTIC
+    Ability = ANALYTIC
 #-------------------------------
 [ESSENTIA,Millie,1]
 LoseText = ...
 Pokemon = RIOJIN,3
 Pokemon = MALAFRIEND,3
-   IV = 0,0,0,0,0,0
+    IV = 0,0,0,0,0,0
 Pokemon = MEEYESTIC,5
-   Gender = male
-   IV = 0,0,0,0,0,0
-   AbilityIndex = 2
+    AbilityIndex = 2
+    Gender = male
+    IV = 0,0,0,0,0,0
 #-------------------------------
 [SWIMMER_M,Clément]
 LoseText = Skibidi rizz.
@@ -292,11 +292,11 @@ LoseText = Wow ! Quel flow !
 Pokemon = STEENEE,3
 Pokemon = SCRAGGY,3
 Pokemon = KIRLIA,5
-     Gender = male
-     Name = Léo
+    Name = Léo
+    Gender = male
 Pokemon = KIRLIA,5
-     Gender = female
-     Name = Léa
+    Name = Léa
+    Gender = female
 #-------------------------------
 [LUSAMINE,Elsa-Mina]
 Items = ZPOWERRING
@@ -305,8 +305,8 @@ Pokemon = CLEFAIRY,3
 Pokemon = PETILIL,3
 Pokemon = STUFFUL,3
 Pokemon = MISDREAVUS,5
-    Item = GHOSTIUMZ
     Moves = HEX,CONFUSION,MEANLOOK,GROWL
+    Item = GHOSTIUMZ
 #-------------------------------
 [STEVE,Steve,1]
 LoseText = Fuck, j'ai fail le training.
@@ -397,9 +397,9 @@ Pokemon = CHIKORITA,3
 Pokemon = CHEWTLE,3
 Pokemon = JANGMOO,3
 Pokemon = MAGNEMITE,5
-    Item = ELECTRIUMZ
     Moves = THUNDERSHOCK,TACKLE,SCREECH
     AbilityIndex = 0
+    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONTRAINER_Raya,Raya,2]
 Items = ZPOWERRING
@@ -409,8 +409,8 @@ Pokemon = TOTODILE,3
 Pokemon = CHARCADET,3
 Pokemon = JANGMOO,3
 Pokemon = MAGNEMITE,5
-    Item = ELECTRIUMZ
     AbilityIndex = 0
+    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONTRAINER_Raya,Raya,3]
 Items = ZPOWERRING
@@ -420,11 +420,11 @@ Pokemon = CYNDAQUIL,3
 Pokemon = BUDEW,3
 Pokemon = JANGMOO,3
 Pokemon = MAGNEMITE,5
-    Item = ELECTRIUMZ
     AbilityIndex = 0
+    Item = ELECTRIUMZ
 #-------------------------------
 [NEXUSSENTINEL,THZ-236]
-LoseText = MISE À JOUR EN COURS: 4% 
+LoseText = MISE À JOUR EN COURS: 4%
 Pokemon = SKRELP,3
 Pokemon = BINACLE,3
 Pokemon = GLAMEOW,5
@@ -443,7 +443,7 @@ Pokemon = ZUBAT,3
 Pokemon = HOUNDOUR,3
 Pokemon = GRIMER,5
 Pokemon = GRIMER,5
-   Form = 1
+    Form = 1
 #-------------------------------
 [NEXUSSENTINEL,RKY-573]
 LoseText = J'AI ÉTÉ MAL PROGRAMMÉ
@@ -525,83 +525,83 @@ Pokemon = SNORUNT,5
 [STEVE,Steve,2]
 LoseText = On fait 40/60 ?
 Pokemon = KOMMOO,54
-     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
-     IV = 0,0,0,0,0,0
+    Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+    IV = 0,0,0,0,0,0
 Pokemon = HYDREIGON,54
-     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
-     IV = 0,0,0,0,0,0
+    Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+    IV = 0,0,0,0,0,0
 Pokemon = BAXCALIBUR,54
-     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
-     IV = 0,0,0,0,0,0
+    Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+    IV = 0,0,0,0,0,0
 Pokemon = SALAMENCE,54
-     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
-     IV = 0,0,0,0,0,0
+    Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+    IV = 0,0,0,0,0,0
 #-------------------------------
-[POKEMONTRAINER_Raya,Raya,0]
+[POKEMONTRAINER_Raya,Raya]
 LoseText = Pas mal. On va dire que tu es engagée.
 Pokemon = GARDEVOIR,79
-     Moves = DAZZLINGGLEAM
-     IV = 31,31,31,31,31,31
-     EV = 0,0,0,252,252,0
-     Item = CHOICESPECS
+    Moves = DAZZLINGGLEAM
+    Item = CHOICESPECS
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,252,0
 Pokemon = DONPHAN,81
 Pokemon = VOLCARONA,78
 Pokemon = DELIBIRD,80
 Pokemon = HYDREIGON,82
 #-------------------------------
 [MIAPAST,Mia]
-LoseText = T'en as pas marre de gagner ?
 Items = TERAORB
+LoseText = T'en as pas marre de gagner ?
 Pokemon = PALAFIN,78
-     Moves = FLIPTURN,JETPUNCH,WAVECRASH,DRAINPUNCH
-     IV = 31,31,31,31,31,31
-     EV = 0,252,0,252,0,0
-     Nature = ADAMANT
-     TeraType = WATER
-     Gender = Male
-     Name = All Might
+    Name = All Might
+    Moves = FLIPTURN,JETPUNCH,WAVECRASH,DRAINPUNCH
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+    TeraType = WATER
 Pokemon = ARMAROUGE,80
-     Moves = ARMORCANNON,PSYSHOCK,ENERGYBALL,CALMMIND
-     IV = 31,31,31,31,31,31
-     EV = 0,0,0,252,252,0
-     Nature = TIMID
-     AbilityIndex = 0
-     TeraType = GRASS
-     Gender = Male
-     Name = Megaman
+    Name = Megaman
+    Moves = ARMORCANNON,PSYSHOCK,ENERGYBALL,CALMMIND
+    AbilityIndex = 0
+    Gender = male
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,252,0
+    TeraType = GRASS
 Pokemon = BAXCALIBUR,77
-     Moves = ICICLECRASH,GLAIVERUSH,EARTHQUAKE,DRAGONDANCE
-     IV = 31,31,31,31,31,31
-     EV = 0,252,0,252,0,0
-     Nature = ADAMANT
-     AbilityIndex = 0
-     TeraType = STEEL
-     Gender = Male
-     Name = Godzy
+    Name = Godzy
+    Moves = ICICLECRASH,GLAIVERUSH,EARTHQUAKE,DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+    TeraType = STEEL
 Pokemon = TINKATON,79
-     Moves = THUNDERWAVE,STEALTHROCK,GIGATONHAMMER,PLAYROUGH
-     IV = 31,31,31,31,31,31
-     EV = 248,0,184,0,0,76
-     Nature = CAREFUL
-     AbilityIndex = 0
-     TeraType = STEEL
-     Gender = Female
-     Name = BONK
+    Name = BONK
+    Moves = THUNDERWAVE,STEALTHROCK,GIGATONHAMMER,PLAYROUGH
+    AbilityIndex = 0
+    Gender = female
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    EV = 248,0,184,0,0,76
+    TeraType = STEEL
 Pokemon = PAWMOT,81
-     Moves = DOUBLESHOCK,CLOSECOMBAT,ICEPUNCH,MACHPUNCH
-     IV = 31,31,31,31,31,31
-     EV = 0,252,0,252,0,0
-     Nature = ADAMANT
-     AbilityIndex = 2
-     TeraType = ELECTRIC
-     Gender = Male
-     Name = Cookie
+    Name = Cookie
+    Moves = DOUBLESHOCK,CLOSECOMBAT,ICEPUNCH,MACHPUNCH
+    AbilityIndex = 2
+    Gender = male
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+    TeraType = ELECTRIC
 Pokemon = MEOWSCARADA,82
-     Moves = FLOWERTRICK,CRUNCH,TRIPLEAXEL,PLAYROUGH
-     IV = 31,31,31,31,31,31
-     EV = 0,252,0,252,0,0
-     Nature = ADAMANT
-     AbilityIndex = 2
-     TeraType = FAIRY
-     Gender = Female
-     Name = Leyla
+    Name = Leyla
+    Moves = FLOWERTRICK,CRUNCH,TRIPLEAXEL,PLAYROUGH
+    AbilityIndex = 2
+    Gender = female
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+    TeraType = FAIRY

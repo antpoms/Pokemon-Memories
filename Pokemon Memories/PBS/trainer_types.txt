@@ -14,20 +14,22 @@ BaseMoney = 60
 Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
+ShadowXY = 0,-3
 #-------------------------------
 [MIAPAST]
 Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
-BattleBGM = Battle Mia
 SkillLevel = 100
+BattleBGM = Battle Mia
 #-------------------------------
 [POKEMONTRAINER_Raya]
 Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
-BattleBGM = Battle Raya Resolve
 SkillLevel = 100
+BattleBGM = Battle Raya Resolve
+ShadowXY = 0,-4
 #-------------------------------
 [BRENDAN]
 Name = Pokémon Trainer
@@ -116,6 +118,7 @@ BaseMoney = 72
 Name = Hiker
 Gender = Male
 BaseMoney = 32
+ShadowXY = 0,-10
 #-------------------------------
 [JUGGLER]
 Name = Juggler
@@ -182,7 +185,6 @@ BaseMoney = 40
 Name = Black Belt
 Gender = Male
 BaseMoney = 32
-#IntroBGM = Trainers_ Eyes Meet (Blackbelt)
 #-------------------------------
 [CRUSHGIRL]
 Name = Crush Girl
@@ -219,6 +221,7 @@ Name = Youngster
 Gender = Male
 BaseMoney = 16
 IntroBGM = Trainers_ Eyes Meet (Youngster)
+ShadowXY = 0,-17
 #-------------------------------
 [LASS]
 Name = Lass
@@ -229,6 +232,7 @@ BaseMoney = 16
 Name = Pokémon Ranger
 Gender = Male
 BaseMoney = 60
+ShadowXY = 0,-5
 #-------------------------------
 [POKEMONRANGER_F]
 Name = Pokémon Ranger
@@ -432,27 +436,30 @@ VictoryBGM = Battle victory leader
 Name = Pokémon Breeder
 Gender = Male
 BaseMoney = 48
+ShadowXY = 0,-8
 #-------------------------------
 [POKEMONTRAINER_Gab]
 Name = Pokemon Trainer
 Gender = Male
 BaseMoney = 36
-BattleBGM = Gab fight
 SkillLevel = 100
+BattleBGM = Gab fight
 #-------------------------------
 [POKEMONPROFESSOR_Raya]
 Name = Pokemon Professor
 Gender = Female
 BaseMoney = 36
-BattleBGM = Battle Raya
 SkillLevel = 100
+BattleBGM = Battle Raya
+ShadowXY = 0,-3
 #-------------------------------
 [POKEMONTRAINER_Sonia]
 Name = Pokemon Trainer
 Gender = Female
 BaseMoney = 36
-BattleBGM = Battle Sonia
 SkillLevel = 100
+BattleBGM = Battle Sonia
+ShadowXY = 0,-2
 #-------------------------------
 [NEXUSSENTINEL]
 Name = Nexus Sentinel
@@ -461,35 +468,37 @@ BaseMoney = 36
 IntroBGM = Trainers_ Eyes Meet (Nexus)
 BattleBGM = Battle Nexus
 VictoryBGM = Victory! (Nexus)
+ShadowXY = 0,-4
 #-------------------------------
 [ESSENTIA]
 Name = Nexus Agent
 Gender = Female
 BaseMoney = 36
+SkillLevel = 100
 BattleBGM = Battle Essentia
 VictoryBGM = Victory! (Nexus)
-SkillLevel = 100
 #-------------------------------
 [GABSNAKE]
 Name = Pokemon Trainer
 Gender = Male
 BaseMoney = 36
-BattleBGM = Gab fight
 SkillLevel = 100
+BattleBGM = Gab fight
 #-------------------------------
 [NEMONA]
 Name = Young Trainer
 Gender = Female
 BaseMoney = 36
-BattleBGM = Battle Nemona
 SkillLevel = 100
+BattleBGM = Battle Nemona
 #-------------------------------
 [LUSAMINE]
 Name = Pokemon Trainer
 Gender = Female
 BaseMoney = 72
-BattleBGM = Battle Lusamine
 SkillLevel = 100
+BattleBGM = Battle Lusamine
+ShadowXY = 0,-4
 #-------------------------------
 [STEVE]
 Name = Nexus CGRI lead Manager
@@ -501,9 +510,10 @@ BattleBGM = Battle Steve
 Name = Nexus Vice-President
 Gender = Male
 BaseMoney = 70
+SkillLevel = 100
 BattleBGM = Battle Einer
 VictoryBGM = Victory! (Nexus)
-SkillLevel = 100
+ShadowXY = 0,-5
 #-------------------------------
 [ACETRAINERSNOW]
 Name = Ace Trainer
@@ -520,6 +530,7 @@ Name = Pokemon Trainer
 Gender = Female
 BaseMoney = 45
 BattleBGM = Battle Sally
+ShadowXY = 0,-4
 #-------------------------------
 [JANE]
 Name = Violinist
@@ -531,5 +542,6 @@ BattleBGM = Battle Jane
 Name = Lorekeper
 Gender = Female
 BaseMoney = 45
-BattleBGM = Battle Zinnia
 SkillLevel = 100
+BattleBGM = Battle Zinnia
+ShadowXY = 0,-6

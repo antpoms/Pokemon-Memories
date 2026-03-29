@@ -212,8 +212,8 @@ ShadowXY = 0,-4
 Name = School Kid
 Gender = Female
 BaseMoney = 16
-ShadowXY = 0,-1
 IntroBGM = Trainers_ Eyes Meet (Schooler)
+ShadowXY = 0,-1
 #-------------------------------
 [RICHBOY]
 Name = Rich Boy
@@ -232,8 +232,8 @@ ShadowXY = 0,-3
 Name = Parasol Lady
 Gender = Female
 BaseMoney = 32
-ShadowXY = 0,-2
 IntroBGM = Trainers_ Eyes Meet (Lady)
+ShadowXY = 0,-2
 #-------------------------------
 [CLERK_M]
 Name = Clerk
@@ -345,8 +345,8 @@ ShadowXY = 0,-2
 Name = Dancer
 Gender = Male
 BaseMoney = 24
-ShadowXY = 0,-14
 BattleBGM = Battle Dan
+ShadowXY = 0,-14
 #-------------------------------
 [ARTIST]
 Name = Artist
