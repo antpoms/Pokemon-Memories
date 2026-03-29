@@ -6463,7 +6463,7 @@ Evolutions = JYNX,Level,30
 #-------------------------------
 [ELEKID]
 Name = Elekid
-Types = ELECTRIC
+Types = ELECTRIC,FIGHTING
 BaseStats = 45,63,37,95,65,55
 GenderRatio = Female25Percent
 GrowthRate = Medium
