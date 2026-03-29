@@ -8220,7 +8220,7 @@ Category = Iron Armor
 Pokedex = A Pokémon that is clad in steel armor. A new suit of armor is made when it evolves. The old, discarded armor is salvaged as metal for making iron products.
 Generation = 3
 WildItemUncommon = HARDSTONE
-Evolutions = LAIRON,Level,32
+Evolutions = LAIRON,Level,24
 #-------------------------------
 [LAIRON]
 Name = Lairon
@@ -8247,7 +8247,7 @@ Category = Iron Armor
 Pokedex = When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.
 Generation = 3
 WildItemUncommon = HARDSTONE
-Evolutions = AGGRON,Level,42
+Evolutions = AGGRON,Level,34
 #-------------------------------
 [AGGRON]
 Name = Aggron
@@ -11709,7 +11709,7 @@ Shape = Quadruped
 Category = Catty
 Pokedex = It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.
 Generation = 4
-Evolutions = PURUGLY,Level,38
+Evolutions = PURUGLY,Level,24
 #-------------------------------
 [PURUGLY]
 Name = Purugly
