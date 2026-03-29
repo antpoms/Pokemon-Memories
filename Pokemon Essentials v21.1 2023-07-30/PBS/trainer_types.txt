@@ -15,6 +15,13 @@ Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
 #-------------------------------
+[MIAPAST]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+BattleBGM = Battle Mia
+SkillLevel = 100
+#-------------------------------
 [POKEMONTRAINER_Raya]
 Name = Pokémon Trainer
 Gender = Female

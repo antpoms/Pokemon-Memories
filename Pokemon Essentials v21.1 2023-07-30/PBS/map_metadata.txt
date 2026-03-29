@@ -409,6 +409,7 @@ Weather = Rain,100
 #-------------------------------
 [042] #Inarritz Beach
 Name = Inarritz Beach
+Outdoor = true
 BattleBack = sand
 TrainerBattleBGM = Battle Trainer Beach
 WildBattleBGM = Battle Wild Beach
