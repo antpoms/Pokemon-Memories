@@ -57,112 +57,6 @@
 #
 
 GameData::InstantMessageConversation.register({
-    :id             => :ADVERTISEMENT_TEST_1,
-    :group          => :ADVERTISEMENT_1,
-    :instant        => true,
-    :messages       => [
-                        [1, :Text, _INTL("Please buy Potions!")]
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :ADVERTISEMENT_TEST_2,
-    :group          => :ADVERTISEMENT_1,
-    :instant        => true,
-    :messages       => [
-                        [1, :Text, _INTL("Please buy Super Potions!")]
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :ADVERTISEMENT_TEST_3,
-    :group          => :ADVERTISEMENT_1,
-    :instant        => true,
-    :messages       => [
-                        [1, :Text, _INTL("Please buy Hyper Potions!")]
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :ADVERTISEMENT_TEST_4,
-    :group          => :ADVERTISEMENT_1,
-    :instant        => true,
-    :messages       => [
-                        [1, :Text, _INTL("Please buy Max Potions!")]
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :ADVERTISEMENT_RANDOM_1,
-    :group          => :ADVERTISEMENT_2,
-    :instant        => true,
-    :messages       => [
-                        [1, :Text, _INTL("Come visit Pokémon Centers!")]
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :ADVERTISEMENT_RANDOM_2,
-    :group          => :ADVERTISEMENT_2,
-    :instant        => true,
-    :messages       => [
-                        [1, :Text, _INTL("Come visit Pokémon Marts!")]
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :ADVERTISEMENT_RANDOM_3,
-    :group          => :ADVERTISEMENT_2,
-    :instant        => true,
-    :messages       => [
-                        [1, :Text, _INTL("Come visit Pokémon Gyms!")]
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :CHATBOT_VARIABLE_TEST,
-    :group          => :CHATBOT,
-    :important      => true,
-    :messages       => [
-                        [1, :Text, _INTL("I'm a chat bot.")],
-                        [1, :Text, _INTL("Your next choice will save to Game Variable 2"), 0.5],
-                        [0, :Text, [_INTL("Set to 0"), _INTL("Set to 1"), _INTL("Set to 2")], 2],
-                        [1, :Text, [_INTL("You chose choice 1."), _INTL("You chose choice 2."), _INTL("You chose choice 3.")]],
-                        [1, :Text, [_INTL("Choice 1 was a good one."), _INTL("Choice 2 was alright."), _INTL("Choice 3 was not a good choice. You should have chosen another.")]],
-                        [1, :RedoText, _INTL("Your next choice will execute code to change your first Pokémon's gender")],
-                        [1, :Text, _INTL("Change your Pokémon's gender to what?")],
-                        [0, :Text, [_INTL("Male"),_INTL("Female")],"$player.party[0].gender = {VALUE}"],
-                        [1, :Text, [_INTL("You chose choice 1."),_INTL("You chose choice 2.")]],
-                        [1, :Text, _INTL("That's it for now.")],
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :OAK_TEST,
-    :group          => :PROFOAK,
-    :important      => true,
-    :messages       => [
-                        [1, :Text, _INTL("Hello, this is Professor Oak")],
-                        [1, :Text, _INTL("Did this message <b>reach</b> you?")],
-                        [-1, :Text, _INTL("Please answer the question.")],
-                        [0, :Text, [_INTL("Message received"), _INTL("No")]],
-                        [1, :Text, [_INTL("<icon=emojiHappy> "), _INTL("<icon=emojiAngry> ")]],
-                        [1, :Text, [_INTL("Very good"), _INTL("There is no time for jokes")]],
-                        [1, :Text, _INTL("I'm going to try something")],
-                        [-1, :Enter, 2, 2],
-                        [-1, :GroupName, _INTL("Prof. Oak & Chatbot")],
-                        [2, :Text, _INTL("Thank you for including me in your chat.")],
-                        [1, :Text, _INTL("Oh no not that")],
-                        [2, :Text, _INTL("I wish to stay.")],
-                        [-1, :Leave, 2, 0.25],
-                        [-1, :GroupName, nil],
-                        [1, :Picture, "Pikachu"],
-                        [1, :Text, _INTL("I meant to send you that Pikachu picture <icon=emojiPokeball> ")],
-                        [1, :Text, _INTL("That's all for now")],
-                    ]
-})
-
-GameData::InstantMessageConversation.register({
     :id             => :MIA1,
     :group          => :MIA,
     :important      => true,
@@ -224,24 +118,6 @@ GameData::InstantMessageConversation.register({
                         [1, :Text, _INTL("Prout.")],
                         [1, :Text, _INTL("Prout.")],
                         [0, :Text, _INTL("Tu n'es vraiment pas pertinente.")]
-    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :OAK_30_MIN_AGO,
-    :group          => :PROFOAK,
-    :reltimestamp   => [0, 0, 0, 0, 30],
-    :messages       => [
-                        [1, :Text, _INTL("I messaged you again like I said I would.")]
-    ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :CHATBOT_5_MIN_AGO,
-    :group          => :CHATBOT,
-    :reltimestamp   => [0, 0, 0, 0, 5, 30],
-    :messages       => [
-                        [1, :Text, _INTL("I'm a bot.")]
     ]
 })
 
