@@ -429,14 +429,14 @@ BattleBack = cityRuins
 #-------------------------------
 [079] #Pyrenem Mountain
 Name = Pyrenem Mountain
-BattleBack = field
+BattleBack = mountain
 Outdoor = true
 WildBattleBGM = Battle Wild Mountain
 TrainerBattleBGM = Battle Trainer Mountain
 #-------------------------------
 [080] #Nexus Lab Outdoor
 Name = Pyrenem Mountain
-BattleBack = field
+BattleBack = mountain
 Outdoor = true
 WildBattleBGM = Battle Wild Mountain
 TrainerBattleBGM = Battle Trainer Mountain
