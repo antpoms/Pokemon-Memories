@@ -1,0 +1,5 @@
+Name       = Evolutions in Battle
+Version    = 1.0.0
+Essentials = 21.1
+Credits    = Vendily, TechSkylander12, Hedgie
+Requires     = Multi Exp Panel

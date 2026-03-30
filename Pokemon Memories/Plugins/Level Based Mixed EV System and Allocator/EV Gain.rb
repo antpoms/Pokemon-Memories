@@ -54,12 +54,12 @@ end
 
 class Battle
 
-  alias mixed_ev_alloc_pbGainExpOne pbGainExpOne
-  def pbGainExpOne(idxParty, defeatedBattler, numPartic, expShare, expAll, showMessages = true)
+  alias mixed_ev_alloc_pbActualLevelUpAndGatherMoves pbActualLevelUpAndGatherMoves
+  def pbActualLevelUpAndGatherMoves(idxParty, expGained)
     pkmn = pbParty(0)[idxParty]   # The Pokémon gaining Exp from defeatedBattler
     current_level = pkmn.level
 
-    mixed_ev_alloc_pbGainExpOne(idxParty, defeatedBattler, numPartic, expShare, expAll, showMessages)
+    mixed_ev_alloc_pbActualLevelUpAndGatherMoves(idxParty, expGained)
     
     if pkmn.level > current_level
       # DemICE edit
@@ -107,7 +107,7 @@ class Battle
           pkmn.calc_stats
         end
       end	       
-    end  
+    end 
   end
 
   def pbGainEVsOne(idxParty, defeatedBattler)

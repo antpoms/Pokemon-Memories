@@ -37,8 +37,8 @@ class Battle
             values[i] = 0
             next
           end
-          pbGainEVsOne(i, b)
           values[i] = pbGainExpOne_Panel(i, b, numPartic, expShare, expAll, !pkmn.shadowPokemon?)
+          pbGainEVsOne(i, b)
         end
         # Gain EVs and Exp for all other Pokémon because of Exp All
         if expAll
@@ -48,8 +48,8 @@ class Battle
             next if b.participants.include?(i) || expShare.include?(i)
             #pbDisplayPaused(_INTL("Your other Pokémon also gained Exp. Points!")) if showMessage
             showMessage = false
-            pbGainEVsOne(i, b)
             values[i] = pbGainExpOne_Panel(i, b, numPartic, expShare, expAll, false)
+            pbGainEVsOne(i, b)
           end
         end
       end

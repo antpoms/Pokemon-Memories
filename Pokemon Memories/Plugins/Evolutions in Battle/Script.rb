@@ -1,0 +1,54 @@
+#===============================================================================
+# Evolutions in Battle
+# Allows level-based or related evolutions to be done in battle.
+#===============================================================================
+#-----------------------------------------------------------------------------
+# Makes it so a Pokémon will try to evolve immediately after gaining experience from a battle (if eligible).
+#-----------------------------------------------------------------------------
+class Battle
+  alias_method :pbActualLevelUpAndGatherMoves_original, :pbActualLevelUpAndGatherMoves
+
+  def pbActualLevelUpAndGatherMoves(idxParty, expGained)
+    pbActualLevelUpAndGatherMoves_original(idxParty, expGained)
+    # Evolution code
+    pkmn = pbParty(0)[idxParty]
+    battler = pbFindBattler(idxParty)
+    newspecies = pkmn.check_evolution_on_level_up
+    return if !newspecies
+
+    old_item = pkmn.item
+    pbFadeOutInWithMusic(99999) do
+      evo = PokemonEvolutionScene.new
+      evo.pbStartScreen(pkmn, newspecies)
+      evo.pbEvolution
+      evo.pbEndScreen
+      if battler
+        @scene.pbChangePokemon(@battlers[battler.index], @battlers[battler.index].pokemon)
+        battler.name = pkmn.name
+      end
+    end
+
+    if battler
+      pkmn.moves.each_with_index do |m, i|
+        battler.moves[i] = Battle::Move.from_pokemon_move(self, m)
+      end
+      battler.pbCheckFormOnMovesetChange
+
+      if pkmn.item != old_item
+        battler.item = pkmn.item
+        battler.setInitialItem(pkmn.item)
+        battler.setRecycleItem(pkmn.item)
+      end
+    end
+  end
+end
+
+def pbEndBattle(_result)
+    @abortable = false
+    pbShowWindow(BLANK)
+    # Fade out all sprites
+    pbBGMFade(1.0)
+    pbFadeOutAndHide(@sprites)
+    pbDisposeSprites
+    $game_map.autoplay
+end

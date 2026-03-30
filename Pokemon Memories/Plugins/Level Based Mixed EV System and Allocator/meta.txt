@@ -7,6 +7,7 @@ Optional   = Enhanced UI,1.1.1
 Optional   = EVs and IVs in Summary v20,1.0
 Optional   = BW Summary Screen,1.0
 Website    = https://eeveeexpo.com/resources/1241/
+Requires     = Multi Exp Panel
 Credits    = DemICE, grogro(v21.1 compatibility edits)
 #-v1.0.5
 # An Essentials v21.1 version is now available.
