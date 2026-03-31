@@ -145,7 +145,7 @@ Pokemon = PIKACHU,5
 LoseText = Humain humain...
 Pokemon = SKWOVET,3
 Pokemon = TOGEPI,3
-Pokemon = EEVEE,5
+Pokemon = SMOLIV,5
     Moves = TACKLE,QUICKATTACK,GROWL,TAILWHIP
 #-------------------------------
 [POKEMONTRAINER_Gab,Gab,1]
