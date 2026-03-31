@@ -129,8 +129,8 @@ class VoltseonsPauseMenu < Component
       @sprites["icon_#{mdr}"].zoom_x += (ACTIVE_SCALE - 1.0) / duration
       @sprites["icon_#{mdr}"].zoom_y += (ACTIVE_SCALE - 1.0) / duration
     end
-    recalc_icon_positions
     refresh_menu
+    recalc_icon_positions
     @sprites["leftarrow"].visible  = @entries.length != 1
     @sprites["rightarrow"].visible = @disp_indices.length > 1
   end
@@ -255,11 +255,12 @@ class VoltseonsPauseMenu < Component
   end
 
   def refresh_menu
+    recalc_menu_entries
     calc_display_index
     middle = @disp_indices.length / 2
     @disp_indices.each_with_index do |idx, val|
       if !@entries[idx]
-        raise "Entrée invalide dans le menu: idx=#{idx}, entries=#{@entries.length}"
+        next
       end
       icon = MENU_FILE_PATH + @entries[idx][:icon]
       @sprites["icon_#{val}"].setBitmap(icon)
@@ -284,6 +285,7 @@ class VoltseonsPauseMenu < Component
     @sprites["icon_dummy_r"].setBitmap(b2)
     return if !SHOW_MENU_NAMES
     @sprites["entrytext"].bitmap.clear
+    @current_selection = @current_selection.clamp(0, @entries.length - 1)
     text = @entries[@current_selection][:name]
     pbSetSystemFont(@sprites["entrytext"].bitmap)
     base_color = $PokemonSystem.from_current_menu_theme(MENU_TEXTCOLOR, Color.new(248, 248, 248))
