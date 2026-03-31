@@ -146,7 +146,6 @@ LoseText = Humain humain...
 Pokemon = SKWOVET,3
 Pokemon = TOGEPI,3
 Pokemon = SMOLIV,5
-    Moves = TACKLE,QUICKATTACK,GROWL,TAILWHIP
 #-------------------------------
 [POKEMONTRAINER_Gab,Gab,1]
 LoseText = Bien ouèj.
