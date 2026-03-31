@@ -227,9 +227,13 @@ class VPM_NewQuestHud < Component
     super
     @counter += 1
     if @counter > Graphics.frame_rate / 2
-      @sprites["overlay"].y += 1 if @counter % (Graphics.frame_rate / 8) == 0
+      if @sprites["overlay"]
+        @sprites["overlay"].y += 1 if @counter % (Graphics.frame_rate / 8) == 0
+      end
     else
-      @sprites["overlay"].y -= 1 if @counter % (Graphics.frame_rate / 8) == 0
+      if @sprites["overlay"]
+        @sprites["overlay"].y -= 1 if @counter % (Graphics.frame_rate / 8) == 0
+      end
     end
     @counter = 0 if @counter >= Graphics.frame_rate
   end
