@@ -24,6 +24,11 @@ AtomicReactor
 -mega starmie running video by cgchefs
 -mega starmie dancing video by WINGLAYER
 -animated fire by Pablus94
+-battlebacks from Pokemon Anil
+-most OW sprites for other gen than 4 and 5 from Pokemon Re:union
+-lab, cave, and snow tilesets from Pokemon Re:union
+-most trainers sprites comes from the Smogon Trainer Sprites, thanks to everyone contributing, especially Beliot419, Brumirage, Gnomowladny and ZacWeavile
+-Nexus Lab drawn from Pokemon Lab by aveontrainer
 
 Musics
 
@@ -56,6 +61,22 @@ GoatFromTheStars
 -Iron Treads Zone -> Pokemon USUM - Ultra Plant
 -Battle Iron Treads -> DELTARUNE X CYBERPUNK 2077 - HAMMER OF JUSTICE REMIX (CHAPTER 3+4) [Lufus] by Lufus
 -Phanpy flashback -> Wise words/DELTARUNE Chapter 4 [Music Box] by R3 Music Box
+-Pyrenem Mountain -> DELTARUNE OST - 12am [Hiphop Remix by Ilay Boter]
+-Nexus Lab Outside -> Smile.ogg from Deltarune
+-Pyrenem Mountain trainer battle -> Deltarune - Chapter 4: The Third Sanctuary Arrangement by The Noble Demon
+-Pyrenem Mountain wild battle -> Deltarune - Chapter 4: From Now On Arrangement by The Noble Demon
+-Stronger Wild Battle -> DELTARUNE - Rude Buster (punkett edition) by punkett
+-Battle Sally -> Naruto: Gekitō Ninja Taisen! 4 - "Konoha Gate" (Theme of Hidden Leaf Entrance Gate)
+-Battle Zinnia -> Battle Zinnia - Pokemon ORAS
+-Battle Jane -> Pokken Tournament - Tellur Town (Autumn)
+-Violin Jane 1 -> J.S. Bach: Partita No. 1 for Solo Violin in B Minor, BWV 1002: VI. Double
+-Violin Jane 2 -> J.S. Bach: Sonata No. 1 for Solo Violin in G Minor, BWV 1001: II. Fuga. Allegro
+-Violin Jane 3 -> Hilary Hahn - J.S. Bach: Partita for Violin Solo No. 1 in B Minor, BWV 1002 - 4. Double (Presto)
+-Battle Raya Resolve -> Pokemon Realidea System - VS Jeremiah
+-Nexus Lab -> Here We Are Remix || Undertale by MochYee
+-Battle Subject 466 -> Deltarune - SPAWN (Remix) by Claire Noelle - Music
+-Battle Mia -> [OMORI] Battle Among Friends (remix) [console] by 404p
+
 
 
 Plugins
@@ -127,6 +148,7 @@ Akizakura16
 Thundaga
 Armin (Fairies Resource Pack)
 Maruno
+-Evolutions in Battle by Vendily, TechSkylander12, Hedgie
 
 
 
