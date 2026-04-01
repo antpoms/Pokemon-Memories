@@ -496,13 +496,13 @@ Pokemon = MEEYESTIC,5
     Gender = male
     IV = 0,0,0,0,0,0
 #-------------------------------
-[SWIMMER_M,Clément]
+[SWIMMER_M,Clément,1]
 LoseText = Skibidi rizz.
 Pokemon = WINGULL,3
 Pokemon = PSYDUCK,3
 Pokemon = CORPHISH,5
 #-------------------------------
-[SWIMMER_M,Clément,1]
+[SWIMMER_M,Clément,11]
 LoseText = Skibidi rizz.
 Pokemon = WINGULL,3
     Moves = WATERPULSE,AIRCUTTER,SUPERSONIC,RAINDANCE
@@ -523,13 +523,13 @@ Pokemon = CORPHISH,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[FISHERMAN,Hubert]
+[FISHERMAN,Hubert,1]
 LoseText = Habile.
 Pokemon = CHINCHOU,3
 Pokemon = FEEBAS,3
 Pokemon = CARVANHA,5
 #-------------------------------
-[FISHERMAN,Hubert,1]
+[FISHERMAN,Hubert,11]
 LoseText = Habile.
 Pokemon = CHINCHOU,3
     Moves = BUBBLEBEAM,CHARGEBEAM,THUNDERWAVE,CONFUSERAY
@@ -550,13 +550,13 @@ Pokemon = CARVANHA,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[PARASOLLADY,Jeanne]
+[PARASOLLADY,Jeanne,1]
 LoseText = C'est fou, je n'ai pensé à aucune banane durant ce combat.
 Pokemon = SWABLU,3
 Pokemon = RALTS,3
 Pokemon = VANILLITE,5
 #-------------------------------
-[PARASOLLADY,Jeanne,1]
+[PARASOLLADY,Jeanne,11]
 LoseText = C'est fou, je n'ai pensé à aucune banane durant ce combat.
 Pokemon = SWABLU,3
     Moves = AIRCUTTER,TWISTER,DISARMINGVOICE,ECHOEDVOICE
@@ -577,13 +577,13 @@ Pokemon = VANILLITE,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[SCHOOLKID_F,Maria]
+[SCHOOLKID_F,Maria,1]
 LoseText = Je rentre en growth zone.
 Pokemon = MEOWTH,3
 Pokemon = PORYGON,3
 Pokemon = GIMMIGHOUL,5
 #-------------------------------
-[SCHOOLKID_F,Maria,1]
+[SCHOOLKID_F,Maria,11]
 LoseText = Je rentre en growth zone.
 Pokemon = MEOWTH,3
     Moves = FAKEOUT,SCRATCH,BITE,TAUNT
@@ -604,14 +604,14 @@ Pokemon = GIMMIGHOUL,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[YOUNGSTER2,Titouan]
+[YOUNGSTER2,Titouan,1]
 LoseText = Mes genoux boudent si je ne sors pas en shorts.
 Pokemon = SPEAROW,3
     Form = 1
 Pokemon = PIDGEY,3
 Pokemon = MANKEY,5
 #-------------------------------
-[YOUNGSTER2,Titouan,1]
+[YOUNGSTER2,Titouan,11]
 LoseText = Mes genoux boudent si je ne sors pas en shorts.
 Pokemon = SPEAROW,3
     Moves = AERIALACE,ASSURANCE,FURYATTACK,DOUBLETEAM
@@ -633,13 +633,13 @@ Pokemon = MANKEY,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[GABSNAKE,Gab]
+[GABSNAKE,Gab,1]
 LoseText = Cool. J'ai gagné.
 Pokemon = MORELULL,3
 Pokemon = APPLIN,3
 Pokemon = SLAKOTH,5
 #-------------------------------
-[GABSNAKE,Gab,1]
+[GABSNAKE,Gab,11]
 LoseText = Cool. J'ai gagné.
 Pokemon = MORELULL,3
     Moves = GIGADRAIN,DAZZLINGGLEAM,SPORE,STRENGTHSAP
@@ -672,7 +672,7 @@ Pokemon = SLAKOTH,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEMONA,Menzie]
+[NEMONA,Menzie,1]
 Items = TERAORB
 LoseText = Wow… Vous êtes trop forte !
 Pokemon = ROCKRUFF,3
@@ -681,7 +681,7 @@ Pokemon = PAWMI,3
 Pokemon = ROWLET,5
     TeraType = GRASS
 #-------------------------------
-[NEMONA,Menzie,1]
+[NEMONA,Menzie,11]
 Items = TERAORB
 LoseText = Wow… Vous êtes trop forte !
 Pokemon = ROCKRUFF,3
@@ -710,7 +710,7 @@ Pokemon = ROWLET,5
     EV = 0,252,0,252,252,0
     TeraType = GRASS
 #-------------------------------
-[DANCER,Dan]
+[DANCER,Dan,1]
 LoseText = Wow ! Quel flow !
 Pokemon = STEENEE,3
 Pokemon = SCRAGGY,3
@@ -721,7 +721,7 @@ Pokemon = KIRLIA,5
     Name = Léa
     Gender = female
 #-------------------------------
-[DANCER,Dan,1]
+[DANCER,Dan,11]
 LoseText = Wow ! Quel flow !
 Pokemon = STEENEE,3
     Moves = RAZORLEAF,STOMP,TRAILBLAZE,LOWSWEEP
@@ -752,7 +752,7 @@ Pokemon = KIRLIA,5
     Name = Léa
     Gender = female
 #-------------------------------
-[LUSAMINE,Elsa-Mina]
+[LUSAMINE,Elsa-Mina,1]
 Items = ZPOWERRING
 LoseText = Merci.
 Pokemon = CLEFAIRY,3
@@ -762,7 +762,7 @@ Pokemon = MISDREAVUS,5
     Moves = HEX,CONFUSION,MEANLOOK,GROWL
     Item = GHOSTIUMZ
 #-------------------------------
-[LUSAMINE,Elsa-Mina,1]
+[LUSAMINE,Elsa-Mina,11]
 Items = ZPOWERRING
 LoseText = Merci.
 Pokemon = CLEFAIRY,3
@@ -861,14 +861,14 @@ Pokemon = CYCLIZAR,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[BLACKBELT,Nelson]
+[BLACKBELT,Nelson,1]
 LoseText = J'ai beaucoup appris.
 Pokemon = RIOLU,3
 Pokemon = MACHOP,3
 Pokemon = TORCHIC,3
 Pokemon = MEDITITE,5
 #-------------------------------
-[BLACKBELT,Nelson,1]
+[BLACKBELT,Nelson,11]
 LoseText = J'ai beaucoup appris.
 Pokemon = RIOLU,3
     Moves = DRAINPUNCH,METEORMASH,VACUUMWAVE,EXTREMESPEED
@@ -895,14 +895,14 @@ Pokemon = MEDITITE,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[SCIENTIST2,Jane]
+[SCIENTIST2,Jane,1]
 LoseText = La nuit, je les entends...
 Pokemon = MAGNEMITE,3
 Pokemon = PORYGON,3
 Pokemon = PLUSLE,3
 Pokemon = BELDUM,5
 #-------------------------------
-[SCIENTIST2,Jane,1]
+[SCIENTIST2,Jane,11]
 LoseText = La nuit, je les entends...
 Pokemon = MAGNEMITE,3
     Moves = DISCHARGE,FLASHCANNON,VOLTSWITCH,THUNDERWAVE
@@ -929,14 +929,14 @@ Pokemon = BELDUM,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[BACKPACKER_F,Gabriella]
+[BACKPACKER_F,Gabriella,1]
 LoseText = Wow ! Toi aussi apparemment !
 Pokemon = ONIX,3
 Pokemon = RHYHORN,3
 Pokemon = ARON,3
 Pokemon = BINACLE,5
 #-------------------------------
-[BACKPACKER_F,Gabriella,1]
+[BACKPACKER_F,Gabriella,11]
 LoseText = Wow ! Toi aussi apparemment !
 Pokemon = ONIX,3
     Moves = DIG,ROCKSLIDE,IRONHEAD,STEALTHROCK
@@ -963,14 +963,14 @@ Pokemon = BINACLE,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[ACETRAINERSNOW,Jake]
+[ACETRAINERSNOW,Jake,1]
 LoseText = J'étais pourtant certains que j'allais gagner.
 Pokemon = VULPIX,3
 Pokemon = DELIBIRD,3
 Pokemon = SNOVER,3
 Pokemon = SNEASEL,5
 #-------------------------------
-[ACETRAINERSNOW,Jake,1]
+[ACETRAINERSNOW,Jake,11]
 LoseText = J'étais pourtant certains que j'allais gagner.
 Pokemon = VULPIX,3
     Moves = FREEZEDRY,DAZZLINGGLEAM,EXTRASENSORY,AURORAVEIL
@@ -996,14 +996,14 @@ Pokemon = SNEASEL,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[HIKER,John]
+[HIKER,John,1]
 LoseText = Tu es en bonne voie.
 Pokemon = ARON,3
 Pokemon = CLEFFA,3
 Pokemon = ROCKRUFF,3
 Pokemon = TINKATINK,5
 #-------------------------------
-[HIKER,John,1]
+[HIKER,John,11]
 LoseText = Tu es en bonne voie.
 Pokemon = ARON,3
     Moves = IRONHEAD,ROCKSLIDE,DIG,STEALTHROCK
@@ -1030,14 +1030,14 @@ Pokemon = TINKATINK,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[ACETRAINERSNOW_F,Robin]
+[ACETRAINERSNOW_F,Robin,1]
 LoseText = Tu avais prévu ce combat ?
 Pokemon = FRIGIBAX,3
 Pokemon = SPHEAL,3
 Pokemon = CUBCHOO,3
 Pokemon = LAPRAS,5
 #-------------------------------
-[ACETRAINERSNOW_F,Robin,1]
+[ACETRAINERSNOW_F,Robin,11]
 LoseText = Tu avais prévu ce combat ?
 Pokemon = FRIGIBAX,3
     Moves = DRAGONCLAW,ICICLECRASH,CRUNCH,DIG
@@ -1153,7 +1153,7 @@ Pokemon = ORICORIO,5
     EV = 0,252,0,252,252,0
     Form = 3
 #-------------------------------
-[ZINNIA,Zinnia]
+[ZINNIA,Zinnia,1]
 LoseText = Hehe...
 Pokemon = GOOMY,3
 Pokemon = FRIGIBAX,3
@@ -1161,7 +1161,7 @@ Pokemon = GIBLE,3
 Pokemon = BAGON,3
 Pokemon = SWABLU,5
 #-------------------------------
-[ZINNIA,Zinnia,1]
+[ZINNIA,Zinnia,2]
 LoseText = Hehe...
 Pokemon = GOOMY,3
     Moves = DRAGONPULSE,FLASHCANNON,MUDDYWATER,ACIDSPRAY
@@ -1360,14 +1360,14 @@ Pokemon = MAGNEMITE,5
     EV = 0,252,0,252,252,0
     Item = ELECTRIUMZ
 #-------------------------------
-[NEXUSSENTINEL,THZ-236]
+[NEXUSSENTINEL,THZ-236,1]
 LoseText = MISE À JOUR EN COURS: 4%
 Pokemon = SKRELP,3
 Pokemon = BINACLE,3
 Pokemon = GLAMEOW,5
 Pokemon = STUNKY,5
 #-------------------------------
-[NEXUSSENTINEL,THZ-236,1]
+[NEXUSSENTINEL,THZ-236,11]
 LoseText = MISE À JOUR EN COURS: 4%
 Pokemon = SKRELP,3
     Moves = SLUDGEWAVE,DRAGONPULSE,HYDROPUMP,TOXIC
@@ -1394,14 +1394,14 @@ Pokemon = STUNKY,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,CTX-110]
+[NEXUSSENTINEL,CTX-110,1]
 LoseText = 10100101001110011111
 Pokemon = PORYGON,3
 Pokemon = BELDUM,3
 Pokemon = BRONZOR,5
 Pokemon = MAGNEMITE,5
 #-------------------------------
-[NEXUSSENTINEL,CTX-110,1]
+[NEXUSSENTINEL,CTX-110,11]
 LoseText = 10100101001110011111
 Pokemon = PORYGON,3
     Moves = TRIATTACK,RECOVER,PSYCHIC,THUNDERBOLT
@@ -1428,7 +1428,7 @@ Pokemon = MAGNEMITE,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,BZT-897]
+[NEXUSSENTINEL,BZT-897,1]
 LoseText = PROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L!Cz02'zPHDkpF/4|{
 Pokemon = ZUBAT,3
 Pokemon = HOUNDOUR,3
@@ -1436,7 +1436,7 @@ Pokemon = GRIMER,5
 Pokemon = GRIMER,5
     Form = 1
 #-------------------------------
-[NEXUSSENTINEL,BZT-897,1]
+[NEXUSSENTINEL,BZT-897,11]
 LoseText = PROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L!Cz02'zPHDkpF/4|{
 Pokemon = ZUBAT,3
     Moves = SLUDGEWAVE,AIRSLASH,TOXIC,SUPERSONIC
@@ -1464,14 +1464,14 @@ Pokemon = GRIMER,5
     EV = 0,252,0,252,252,0
     Form = 1
 #-------------------------------
-[NEXUSSENTINEL,RKY-573]
+[NEXUSSENTINEL,RKY-573,1]
 LoseText = J'AI ÉTÉ MAL PROGRAMMÉ
 Pokemon = ARON,3
 Pokemon = RIOLU,3
 Pokemon = TRUBBISH,5
 Pokemon = VOLTORB,5
 #-------------------------------
-[NEXUSSENTINEL,RKY-573,1]
+[NEXUSSENTINEL,RKY-573,11]
 LoseText = J'AI ÉTÉ MAL PROGRAMMÉ
 Pokemon = ARON,3
     Moves = HEADSMASH,IRONHEAD,STEALTHROCK,EARTHQUAKE
@@ -1498,14 +1498,14 @@ Pokemon = VOLTORB,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,WFY-791]
+[NEXUSSENTINEL,WFY-791,1]
 LoseText = MA STRATÉGIE EST BATTABLE.
 Pokemon = PAWNIARD,3
 Pokemon = NYMBLE,3
 Pokemon = CAPSAKID,5
 Pokemon = BLIPBUG,5
 #-------------------------------
-[NEXUSSENTINEL,WFY-791,1]
+[NEXUSSENTINEL,WFY-791,11]
 LoseText = MA STRATÉGIE EST BATTABLE.
 Pokemon = PAWNIARD,3
     Moves = IRONHEAD,KOWTOWCLEAVE,SUCKERPUNCH,KNOCKOFF
@@ -1532,14 +1532,14 @@ Pokemon = BLIPBUG,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,CRM-513]
+[NEXUSSENTINEL,CRM-513,1]
 LoseText = BIP BIP BOUP. J'AI PERDU.
 Pokemon = SEEDOT,3
 Pokemon = YAMASK,3
 Pokemon = GOTHITA,5
 Pokemon = GOLETT,5
 #-------------------------------
-[NEXUSSENTINEL,CRM-513,1]
+[NEXUSSENTINEL,CRM-513,11]
 LoseText = BIP BIP BOUP. J'AI PERDU.
 Pokemon = SEEDOT,3
     Moves = TAILWIND,FAKEOUT,LEAFBLADE,THROATCHOP
@@ -1566,14 +1566,14 @@ Pokemon = GOLETT,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,ZSX-815]
+[NEXUSSENTINEL,ZSX-815,1]
 LoseText = VOUS REFUSEZ MES COOKIES ?
 Pokemon = MURKROW,3
 Pokemon = CHARCADET,3
 Pokemon = BLITZLE,5
 Pokemon = CACNEA,5
 #-------------------------------
-[NEXUSSENTINEL,ZSX-815,1]
+[NEXUSSENTINEL,ZSX-815,11]
 LoseText = VOUS REFUSEZ MES COOKIES ?
 Pokemon = INDEEDEE,3
     Moves = TRICKROOM,PROTECT,FOLLOWME,PSYCHIC
@@ -1601,14 +1601,14 @@ Pokemon = CACNEA,5
     IV = 31,31,31,0,31,31
     EV = 252,252,0,0,252,0
 #-------------------------------
-[NEXUSSENTINEL,KMT-845]
+[NEXUSSENTINEL,KMT-845,1]
 LoseText = :(
 Pokemon = STARYU,3
 Pokemon = GASTLY,3
 Pokemon = SPINDA,5
 Pokemon = TOGEDEMARU,5
 #-------------------------------
-[NEXUSSENTINEL,KMT-845,1]
+[NEXUSSENTINEL,KMT-845,11]
 LoseText = :(
 Pokemon = STARYU,3
     Moves = LIQUIDATION,PSYCHIC,ICEBEAM,PSYCHICFANGS
@@ -1635,14 +1635,14 @@ Pokemon = TOGEDEMARU,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,FJR-439]
+[NEXUSSENTINEL,FJR-439,1]
 LoseText = BOMBARDIRO CROCODILO
 Pokemon = CARVANHA,3
 Pokemon = SANDILE,3
 Pokemon = SINISTEA,5
 Pokemon = POLTCHAGEIST,5
 #-------------------------------
-[NEXUSSENTINEL,FJR-439,1]
+[NEXUSSENTINEL,FJR-439,11]
 LoseText = BOMBARDIRO CROCODILO
 Pokemon = CARVANHA,3
     Moves = LIQUIDATION,CRUNCH,ICEFANG,AQUAJET
@@ -1669,14 +1669,14 @@ Pokemon = POLTCHAGEIST,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,BGO-467]
+[NEXUSSENTINEL,BGO-467,1]
 LoseText = J'AI ENCORE PERDU. OUIN.
 Pokemon = PARAS,3
 Pokemon = PATRAT,3
 Pokemon = PLUSLE,5
 Pokemon = MINUN,5
 #-------------------------------
-[NEXUSSENTINEL,BGO-467,1]
+[NEXUSSENTINEL,BGO-467,11]
 LoseText = J'AI ENCORE PERDU. OUIN.
 Pokemon = PARAS,3
     Moves = SPORE,LEECHLIFE,SEEDBOMB,POISONPOWDER
@@ -1703,14 +1703,14 @@ Pokemon = MINUN,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,CPA-806]
+[NEXUSSENTINEL,CPA-806,1]
 LoseText = CECI N'EST PAS UNE IMAGE DE VOITURE.
 Pokemon = VAROOM,3
 Pokemon = CYCLIZAR,3
 Pokemon = ROOKIDEE,5
 Pokemon = VENIPEDE,5
 #-------------------------------
-[NEXUSSENTINEL,CPA-806,1]
+[NEXUSSENTINEL,CPA-806,11]
 LoseText = CECI N'EST PAS UNE IMAGE DE VOITURE.
 Pokemon = VAROOM,3
     Moves = SHIFTGEAR,IRONHEAD,GUNKSHOT,TOXIC
@@ -1737,14 +1737,14 @@ Pokemon = VENIPEDE,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,RKX-409]
+[NEXUSSENTINEL,RKX-409,1]
 LoseText = VOUS PRÉFÉREZ UN THÉ ?
 Pokemon = CROAGUNK,3
 Pokemon = SNEASEL,3
 Pokemon = ZANGOOSE,5
 Pokemon = SEVIPER,5
 #-------------------------------
-[NEXUSSENTINEL,RKX-409,1]
+[NEXUSSENTINEL,RKX-409,11]
 LoseText = VOUS PRÉFÉREZ UN THÉ ?
 Pokemon = CROAGUNK,3
     Moves = SUCKERPUNCH,POISONJAB,CLOSECOMBAT,POWERUPPUNCH
@@ -1771,14 +1771,14 @@ Pokemon = SEVIPER,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,DCR-192]
+[NEXUSSENTINEL,DCR-192,1]
 LoseText = SORTEZ IMMÉDIATEMMENT S'IL-VOUS-PLAÎT ?
 Pokemon = DRAMPA,3
 Pokemon = SPIRITOMB,3
 Pokemon = DRUDDIGON,5
 Pokemon = TURTONATOR,5
 #-------------------------------
-[NEXUSSENTINEL,DCR-192,1]
+[NEXUSSENTINEL,DCR-192,11]
 LoseText = SORTEZ IMMÉDIATEMMENT S'IL-VOUS-PLAÎT ?
 Pokemon = DRAMPA,3
     Moves = HYPERVOICE,DRACOMETEOR,HEATWAVE,SHADOWBALL
@@ -1805,14 +1805,14 @@ Pokemon = TURTONATOR,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 #-------------------------------
-[NEXUSSENTINEL,QTX-487]
+[NEXUSSENTINEL,QTX-487,1]
 LoseText = ALERTE ! ALERTE !
 Pokemon = CAPSAKID,3
 Pokemon = PORYGON,3
 Pokemon = RIOLU,5
 Pokemon = SNORUNT,5
 #-------------------------------
-[NEXUSSENTINEL,QTX-487,1]
+[NEXUSSENTINEL,QTX-487,11]
 LoseText = ALERTE ! ALERTE !
 Pokemon = CAPSAKID,3
     Moves = OVERHEAT,LEAFSTORM,SOLARBEAM,PROTECT
