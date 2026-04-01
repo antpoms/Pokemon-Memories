@@ -123,29 +123,144 @@ Pokemon = BIDOOF,3
 Pokemon = PIKIPEK,3
 Pokemon = TORCHIC,5
 #-------------------------------
-[POKEMONBREEDER2,Valérian,2]
+[POKEMONBREEDER2,Valérian,11]
 LoseText = Je surestime peut-être mes compétences.
 Pokemon = BIDOOF,3
+    Moves = TACKLE,BITE,GROWL,YAWN
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 252,252,0,0,0,0
 Pokemon = PIKIPEK,3
+    Moves = PLUCK,ROCKSMASH,TACKLE,GROWL
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+Pokemon = TORCHIC,5
+    Moves = EMBER,FLAMECHARGE,QUICKATTACK,GROWL
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
+[POKEMONBREEDER2,Valérian,12]
+LoseText = Je surestime peut-être mes compétences.
+Pokemon = BIDOOF,3
+    Moves = TACKLE,BITE,GROWL,YAWN
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 252,252,0,0,0,0
+Pokemon = PIKIPEK,3
+    Moves = PLUCK,ROCKSMASH,TACKLE,GROWL
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
 Pokemon = ROWLET,5
+    Moves = LEAFAGE,PLUCK,SHADOWSNEAK,GROWL
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
 #-------------------------------
-[POKEMONBREEDER2,Valérian,3]
+[POKEMONBREEDER2,Valérian,13]
 LoseText = Je surestime peut-être mes compétences.
 Pokemon = BIDOOF,3
+    Moves = TACKLE,BITE,GROWL,YAWN
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 252,252,0,0,0,0
 Pokemon = PIKIPEK,3
+    Moves = PLUCK,ROCKSMASH,TACKLE,GROWL
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
 Pokemon = SQUIRTLE,5
+    Moves = WATERPULSE,BITE,RAPIDSPIN,RAINDANCE
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
-[YOUNGSTER,Théo]
+[YOUNGSTER,Théo,11]
+LoseText = Feur.
+Pokemon = SENTRET,3
+    Moves = TACKLE,QUICKATTACK,FURYSWIPES,DEFENSECURL
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 252,252,0,0,0,0
+Pokemon = WURMPLE,3
+Pokemon = PIKACHU,5
+    Moves = THUNDERSHOCK,SPARK,QUICKATTACK,THUNDERWAVE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
+[YOUNGSTER,Théo,1]
 LoseText = Feur.
 Pokemon = SENTRET,3
 Pokemon = WURMPLE,3
 Pokemon = PIKACHU,5
 #-------------------------------
-[LASS,Karen]
+[LASS,Karen,1]
 LoseText = Humain humain...
 Pokemon = SKWOVET,3
 Pokemon = TOGEPI,3
 Pokemon = SMOLIV,5
+#-------------------------------
+[LASS,Karen,11]
+LoseText = Humain humain...
+Pokemon = SKWOVET,3
+    Moves = TACKLE,BITE,STOCKPILE,SWALLOW
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+Pokemon = TOGEPI,3
+    Moves = DRAININGKISS,ANCIENTPOWER,CHARM,YAWN
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SMOLIV,5
+    Moves = MEGADRAIN,LEECHSEED,SWIFT,GRASSYTERRAIN
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
+[POKEMONTRAINER_Gab,Gab,11]
+LoseText = Bien ouèj.
+Pokemon = MORELULL,3
+    Moves = MEGADRAIN,SLEEPPOWDER,DRAININGKISS,LIGHTSCREEN
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = APPLIN,3
+    Moves = TWISTER,LEECHSEED,ACIDSPRAY,WITHDRAW
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = LITTEN,3
+    Moves = FIREFANG,BITE,EMBER,WILLOWISP
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SLAKOTH,5
+    Moves = HEADBUTT,YAWN,ENCORE,SLACKOFF
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
 #-------------------------------
 [POKEMONTRAINER_Gab,Gab,1]
 LoseText = Bien ouèj.
@@ -196,6 +311,93 @@ Pokemon = MAGNEMITE,5
     AbilityIndex = 0
     Item = ELECTRIUMZ
 #-------------------------------
+[POKEMONPROFESSOR_Raya,Raya,11]
+Items = ZPOWERRING
+LoseText = Pas mal. On va dire que tu es engagée.
+Pokemon = CYNDAQUIL,3
+    Moves = EMBER,SHADOWSNEAK,WILLOWISP,LEER
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CHIKORITA,3
+    Moves = MEGADRAIN,DISARMINGVOICE,POISONPOWDER,LEECHSEED
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CHEWTLE,3
+    Moves = WATERGUN,BITE,HEADBUTT,PROTECT
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MAGNEMITE,5
+    Moves = THUNDERSHOCK,MIRRORSHOT,SONICBOOM,THUNDERWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Item = ELECTRIUMZ
+#-------------------------------
+[POKEMONPROFESSOR_Raya,Raya,12]
+Items = ZPOWERRING
+LoseText = Pas mal. On va dire que tu es engagée.
+Pokemon = CHIKORITA,3
+    Moves = MEGADRAIN,DISARMINGVOICE,POISONPOWDER,LEECHSEED
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = TOTODILE,3
+    Moves = WATERGUN,TWISTER,BITE,SCARYFACE
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CHARCADET,3
+    Moves = EMBER,FLAMECHARGE,PSYBEAM,WILLOWISP
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MAGNEMITE,5
+    Moves = THUNDERSHOCK,MIRRORSHOT,SONICBOOM,THUNDERWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Item = ELECTRIUMZ
+#-------------------------------
+[POKEMONPROFESSOR_Raya,Raya,13]
+Items = ZPOWERRING
+LoseText = Pas mal. On va dire que tu es engagée.
+Pokemon = TOTODILE,3
+    Moves = WATERGUN,TWISTER,BITE,SCARYFACE
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CYNDAQUIL,3
+    Moves = EMBER,SHADOWSNEAK,WILLOWISP,LEER
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BUDEW,3
+    Moves = MEGADRAIN,ACID,POISONPOWDER,LEECHSEED
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MAGNEMITE,5
+    Moves = THUNDERSHOCK,MIRRORSHOT,SONICBOOM,THUNDERWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Item = ELECTRIUMZ
+#-------------------------------
 [POKEMONTRAINER_Sonia,Sonia,1]
 LoseText = Alors Voltoutou ? Tu es content ?
 Pokemon = YAMPER,3
@@ -209,6 +411,60 @@ Pokemon = YAMPER,3
 Pokemon = ROOKIDEE,3
 Pokemon = GROOKEY,5
     AbilityIndex = 2
+#-------------------------------
+[POKEMONTRAINER_Sonia,Sonia,11]
+LoseText = Alors Voltoutou ? Tu es content ?
+Pokemon = YAMPER,3
+    Moves = NUZZLE,SPARK,BITE,TAILWHIP
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = WOOLOO,3
+    Moves = HEADBUTT,DOUBLEKICK,GROWL,DEFENSECURL
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+Pokemon = ROOKIDEE,3
+    Moves = PLUCK,POWERTRIP,HONECLAWS,LEER
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+Pokemon = SCORBUNNY,5
+    Moves = FLAMECHARGE,DOUBLEKICK,QUICKATTACK,TRAILBLAZE
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
+[POKEMONTRAINER_Sonia,Sonia,12]
+LoseText = Alors Voltoutou ? Tu es content ?
+Pokemon = YAMPER,3
+    Moves = NUZZLE,SPARK,BITE,TAILWHIP
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = WOOLOO,3
+    Moves = HEADBUTT,DOUBLEKICK,GROWL,DEFENSECURL
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+Pokemon = ROOKIDEE,3
+    Moves = PLUCK,POWERTRIP,HONECLAWS,LEER
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+Pokemon = GROOKEY,5
+    Moves = BRANCHPOKE,KNOCKOFF,TRAILBLAZE,TAUNT
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [NEXUSSENTINEL,RKX-135]
 LoseText = ERREUR. DÉFAITE ENREGISTRÉE.
@@ -246,11 +502,53 @@ Pokemon = WINGULL,3
 Pokemon = PSYDUCK,3
 Pokemon = CORPHISH,5
 #-------------------------------
+[SWIMMER_M,Clément,1]
+LoseText = Skibidi rizz.
+Pokemon = WINGULL,3
+    Moves = WATERPULSE,AIRCUTTER,SUPERSONIC,RAINDANCE
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PSYDUCK,3
+    Moves = WATERPULSE,CONFUSION,DISABLE,SCREECH
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CORPHISH,5
+    Moves = KNOCKOFF,RAZORSHELL,SWORDSDANCE,TAUNT
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [FISHERMAN,Hubert]
 LoseText = Habile.
 Pokemon = CHINCHOU,3
 Pokemon = FEEBAS,3
 Pokemon = CARVANHA,5
+#-------------------------------
+[FISHERMAN,Hubert,1]
+LoseText = Habile.
+Pokemon = CHINCHOU,3
+    Moves = BUBBLEBEAM,CHARGEBEAM,THUNDERWAVE,CONFUSERAY
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = FEEBAS,3
+    Moves = SPLASH,TACKLE,FLAIL
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CARVANHA,5
+    Moves = AQUAJET,BITE,FLIPTURN,LEER
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [PARASOLLADY,Jeanne]
 LoseText = C'est fou, je n'ai pensé à aucune banane durant ce combat.
@@ -258,11 +556,53 @@ Pokemon = SWABLU,3
 Pokemon = RALTS,3
 Pokemon = VANILLITE,5
 #-------------------------------
+[PARASOLLADY,Jeanne,1]
+LoseText = C'est fou, je n'ai pensé à aucune banane durant ce combat.
+Pokemon = SWABLU,3
+    Moves = AIRCUTTER,TWISTER,DISARMINGVOICE,ECHOEDVOICE
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = RALTS,3
+    Moves = DRAININGKISS,CONFUSION,HYPNOSIS,CALMMIND
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = VANILLITE,5
+    Moves = ICYWIND,TAUNT,FROSTBREATH,LIGHTSCREEN
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [SCHOOLKID_F,Maria]
 LoseText = Je rentre en growth zone.
 Pokemon = MEOWTH,3
 Pokemon = PORYGON,3
 Pokemon = GIMMIGHOUL,5
+#-------------------------------
+[SCHOOLKID_F,Maria,1]
+LoseText = Je rentre en growth zone.
+Pokemon = MEOWTH,3
+    Moves = FAKEOUT,SCRATCH,BITE,TAUNT
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PORYGON,3
+    Moves = TACKLE,THUNDERSHOCK,PSYBEAM,MAGNETRISE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31	
+    EV = 0,252,0,252,252,0
+Pokemon = GIMMIGHOUL,5
+    Moves = HEX,CONFUSERAY,NASTYPLOT
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [YOUNGSTER2,Titouan]
 LoseText = Mes genoux boudent si je ne sors pas en shorts.
@@ -271,11 +611,66 @@ Pokemon = SPEAROW,3
 Pokemon = PIDGEY,3
 Pokemon = MANKEY,5
 #-------------------------------
+[YOUNGSTER2,Titouan,1]
+LoseText = Mes genoux boudent si je ne sors pas en shorts.
+Pokemon = SPEAROW,3
+    Moves = AERIALACE,ASSURANCE,FURYATTACK,DOUBLETEAM
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Form = 1
+Pokemon = PIDGEY,3
+    Moves = QUICKATTACK,AIRCUTTER,TWISTER,WHIRLWIND
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MANKEY,5
+    Moves = BRICKBREAK,ASSURANCE,BULLDOZE,ROCKTHROW
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [GABSNAKE,Gab]
 LoseText = Cool. J'ai gagné.
 Pokemon = MORELULL,3
 Pokemon = APPLIN,3
 Pokemon = SLAKOTH,5
+#-------------------------------
+[GABSNAKE,Gab,1]
+LoseText = Cool. J'ai gagné.
+Pokemon = MORELULL,3
+    Moves = GIGADRAIN,DAZZLINGGLEAM,SPORE,STRENGTHSAP
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = APPLIN,3
+    Moves = TWISTER,LEECHSEED,ACIDSPRAY,WITHDRAW
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = LITTEN,3
+    Moves = FIREFANG,BITE,EMBER,WILLOWISP
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = STARYU,3
+    Moves = BUBBLEBEAM,PSYBEAM,ICYWIND,SWIFT
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SLAKOTH,5
+    Moves = SLASH,THROATCHOP,BRICKBREAK,ENCORE
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [NEMONA,Menzie]
 Items = TERAORB
@@ -284,6 +679,35 @@ Pokemon = ROCKRUFF,3
 Pokemon = JANGMOO,3
 Pokemon = PAWMI,3
 Pokemon = ROWLET,5
+    TeraType = GRASS
+#-------------------------------
+[NEMONA,Menzie,1]
+Items = TERAORB
+LoseText = Wow… Vous êtes trop forte !
+Pokemon = ROCKRUFF,3
+    Moves = ROCKTOMB,BITE,FIREFANG,THUNDERFANG
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = JANGMOO,3
+    Moves = DRAGONTAIL,DRAGONDANCE,BRICKBREAK,BULLDOZE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PAWMI,3
+    Moves = NUZZLE,SPARK,DIG,ARMTHRUST
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ROWLET,5
+    Moves = RAZORLEAF,PLUCK,SHADOWSNEAK,SHADOWCLAW
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
     TeraType = GRASS
 #-------------------------------
 [DANCER,Dan]
@@ -297,6 +721,37 @@ Pokemon = KIRLIA,5
     Name = Léa
     Gender = female
 #-------------------------------
+[DANCER,Dan,1]
+LoseText = Wow ! Quel flow !
+Pokemon = STEENEE,3
+    Moves = RAZORLEAF,STOMP,TRAILBLAZE,LOWSWEEP
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SCRAGGY,3
+    Moves = BRICKBREAK,PAYBACK,POWERUPPUNCH,PARTINGSHOT
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = KIRLIA,5
+    Moves = PSYBEAM,DRAININGKISS,CALMMIND,MAGICALLEAF
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Name = Léo
+    Gender = male
+Pokemon = KIRLIA,5
+    Moves = PSYBEAM,DRAININGKISS,CALMMIND,MAGICALLEAF
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Name = Léa
+    Gender = female
+#-------------------------------
 [LUSAMINE,Elsa-Mina]
 Items = ZPOWERRING
 LoseText = Merci.
@@ -307,6 +762,35 @@ Pokemon = MISDREAVUS,5
     Moves = HEX,CONFUSION,MEANLOOK,GROWL
     Item = GHOSTIUMZ
 #-------------------------------
+[LUSAMINE,Elsa-Mina,1]
+Items = ZPOWERRING
+LoseText = Merci.
+Pokemon = CLEFAIRY,3
+    Moves = DRAININGKISS,MAGICALLEAF,BUBBLEBEAM,METRONOME
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PETILIL,3
+    Moves = GIGADRAIN,SLEEPPOWDER,STUNSPORE,SUNNYDAY
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = STUFFUL,3
+    Moves = STRENGTH,BRICKBREAK,BRUTALSWING,ICEPUNCH
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MISDREAVUS,5
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Moves = SHADOWBALL,CONFUSION,MEANLOOK,GROWL
+    Item = GHOSTIUMZ
+#-------------------------------
 [STEVE,Steve,1]
 LoseText = Fuck, j'ai fail le training.
 Pokemon = MEOWTH,3
@@ -315,12 +799,67 @@ Pokemon = BELDUM,3
 Pokemon = CUFANT,3
 Pokemon = GIMMIGHOUL,5
 #-------------------------------
+[STEVE,Steve,11]
+LoseText = Fuck, j'ai fail le training.
+Pokemon = MEOWTH,3
+    Moves = FAKEOUT,BITE,TRAILBLAZE,AERIALACE
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Form = 1
+Pokemon = BELDUM,3
+    Moves = BULLETPUNCH,METALCLAW,ZENHEADBUTT,BULLDOZE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CUFANT,3
+    Moves = BULLDOZE,IRONHEAD,STEALTHROCK,BODYPRESS
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = GIMMIGHOUL,5
+    Moves = HEX,CONFUSERAY,NASTYPLOT
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [EINER,Einer,1]
 LoseText = Pas mal.
 Pokemon = LARVITAR,3
 Pokemon = MAKUHITA,3
 Pokemon = BELDUM,3
 Pokemon = CYCLIZAR,5
+#-------------------------------
+[EINER,Einer,11]
+LoseText = Pas mal.
+Pokemon = LARVITAR,3
+    Moves = STOMPINGTANTRUM,ROCKSLIDE,CRUNCH,IRONDEFENSE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MAKUHITA,3
+    Moves = FAKEOUT,FORCEPALM,KNOCKOFF,BULLDOZE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BELDUM,3
+    Moves = BULLETPUNCH,METALCLAW,ZENHEADBUTT,BULLDOZE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CYCLIZAR,5
+    Moves = BREAKINGSWIPE,RAPIDSPIN,SHIFTGEAR,BITE
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [BLACKBELT,Nelson]
 LoseText = J'ai beaucoup appris.
@@ -329,12 +868,66 @@ Pokemon = MACHOP,3
 Pokemon = TORCHIC,3
 Pokemon = MEDITITE,5
 #-------------------------------
+[BLACKBELT,Nelson,1]
+LoseText = J'ai beaucoup appris.
+Pokemon = RIOLU,3
+    Moves = DRAINPUNCH,METEORMASH,VACUUMWAVE,EXTREMESPEED
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MACHOP,1
+    Moves = BRICKBREAK,THUNDERPUNCH,ICEPUNCH,FIREPUNCH
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = TORCHIC,3
+    Moves = BLAZEKICK,BRICKBREAK,PROTECT,SWORDSDANCE
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MEDITITE,5
+    Moves = BRICKBREAK,ZENHEADBUTT,ICEPUNCH,THUNDERPUNCH
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [SCIENTIST2,Jane]
 LoseText = La nuit, je les entends...
 Pokemon = MAGNEMITE,3
 Pokemon = PORYGON,3
 Pokemon = PLUSLE,3
 Pokemon = BELDUM,5
+#-------------------------------
+[SCIENTIST2,Jane,1]
+LoseText = La nuit, je les entends...
+Pokemon = MAGNEMITE,3
+    Moves = DISCHARGE,FLASHCANNON,VOLTSWITCH,THUNDERWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PORYGON,3
+    Moves = TRIATTACK,DISCHARGE,PSYSHOCK,SHADOWBALL
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PLUSLE,3
+    Moves = DISCHARGE,ELECTROWEB,ENCORE,CHARM
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BELDUM,5
+    Moves = PSYCHICFANGS,IRONHEAD,BULLETPUNCH,ICEPUNCH
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [BACKPACKER_F,Gabriella]
 LoseText = Wow ! Toi aussi apparemment !
@@ -343,12 +936,65 @@ Pokemon = RHYHORN,3
 Pokemon = ARON,3
 Pokemon = BINACLE,5
 #-------------------------------
+[BACKPACKER_F,Gabriella,1]
+LoseText = Wow ! Toi aussi apparemment !
+Pokemon = ONIX,3
+    Moves = DIG,ROCKSLIDE,IRONHEAD,STEALTHROCK
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = RHYHORN,3
+    Moves = DIG,ROCKBLAST,CRUNCH,STEALTHROCK
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ARON,3
+    Moves = IRONHEAD,ROCKSLIDE,DIG,STEALTHROCK
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BINACLE,5
+    Moves = BRICKBREAK,LIQUIDATION,ROCKBLAST,NIGHTSLASH
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [ACETRAINERSNOW,Jake]
 LoseText = J'étais pourtant certains que j'allais gagner.
 Pokemon = VULPIX,3
 Pokemon = DELIBIRD,3
 Pokemon = SNOVER,3
 Pokemon = SNEASEL,5
+#-------------------------------
+[ACETRAINERSNOW,Jake,1]
+LoseText = J'étais pourtant certains que j'allais gagner.
+Pokemon = VULPIX,3
+    Moves = FREEZEDRY,DAZZLINGGLEAM,EXTRASENSORY,AURORAVEIL
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = DELIBIRD,3
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SNOVER,3
+    Moves = ICEPUNCH,ICESHARD,LEECHSEED,SEEDBOMB
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SNEASEL,5
+    Moves = ICEPUNCH,THROATCHOP,KNOCKOFF,BRICKBREAK
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [HIKER,John]
 LoseText = Tu es en bonne voie.
@@ -357,6 +1003,33 @@ Pokemon = CLEFFA,3
 Pokemon = ROCKRUFF,3
 Pokemon = TINKATINK,5
 #-------------------------------
+[HIKER,John,1]
+LoseText = Tu es en bonne voie.
+Pokemon = ARON,3
+    Moves = IRONHEAD,ROCKSLIDE,DIG,STEALTHROCK
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CLEFFA,3
+    Moves = DAZZLINGGLEAM,SHADOWBALL,LIGHTSCREEN,REFLECT
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ROCKRUFF,3
+    Moves = ROCKSLIDE,CRUNCH,STEALTHROCK,DIG
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = TINKATINK,5
+    Moves = PLAYROUGH,FAKEOUT,THUNDERWAVE,ICEHAMMER
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [ACETRAINERSNOW_F,Robin]
 LoseText = Tu avais prévu ce combat ?
 Pokemon = FRIGIBAX,3
@@ -364,12 +1037,72 @@ Pokemon = SPHEAL,3
 Pokemon = CUBCHOO,3
 Pokemon = LAPRAS,5
 #-------------------------------
+[ACETRAINERSNOW_F,Robin,1]
+LoseText = Tu avais prévu ce combat ?
+Pokemon = FRIGIBAX,3
+    Moves = DRAGONCLAW,ICICLECRASH,CRUNCH,DIG
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SPHEAL,3
+    Moves = ICYWIND,SURF,ICEBEAM,SHEERCOLD
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CUBCHOO,3
+    Moves = ICICLECRASH,BRICKBREAK,DIG,BULKUP
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = LAPRAS,5
+    Moves = SURF,FREEZEDRY,ICYWIND,PERISHSONG
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [SALLY,Sally,1]
 LoseText = Je dois encore progresser.
 Pokemon = GLIMMET,3
 Pokemon = BUDEW,3
 Pokemon = PAWNIARD,3
 Pokemon = FROGADIER,5
+#-------------------------------
+[SALLY,Sally,11]
+LoseText = Je dois encore progresser.
+Pokemon = GLIMMET,3
+    Moves = POWERGEM,SLUDGEWAVE,REFLECT,LIGHTSCREEN
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BUDEW,3
+    Moves = GIGADRAIN,SLUDGEBOMB,TOXIC,DAZZLINGGLEAM
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PAWNIARD,3
+    Moves = IRONHEAD,NIGHTSLASH,SWORDSDANCE,SUCKERPUNCH
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = FENNEKIN,5
+    Moves = MYSTICALFIRE,PSYSHOCK,SHADOWBALL,DAZZLINGGLEAM
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = FROGADIER,5
+    Moves = DARKPULSE,SURF,ICEBEAM,SLUDGEWAVE
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [JANE,Jane,1]
 LoseText = Même ça, je peux pas y arriver...
@@ -380,6 +1113,46 @@ Pokemon = FLITTLE,3
 Pokemon = ORICORIO,5
     Form = 3
 #-------------------------------
+[JANE,Jane,11]
+LoseText = Même ça, je peux pas y arriver...
+Pokemon = CHINGLING,3
+    Moves = EXTRASENSORY,BOOMBURST,ICYWIND,CALMMIND
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = POPPLIO,3
+    Moves = HYPERVOICE,DAZZLINGGLEAM,ICYWIND,DRAININGKISS
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = FLABEBE,3
+    Moves = DAZZLINGGLEAM,ENERGYBALL,WISH,CALMMIND
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CHATOT,3
+    Moves = BOOMBURST,AIRSLASH,PARTINGSHOT,ENCORE
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = FLITTLE,3
+    Moves = LUMINACRASH,DAZZLINGGLEAM,LIGHTSCREEN,SHADOWBALL
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ORICORIO,5
+    Moves = AIRSLASH
+    AbilityIndex = 0
+    Nature = TIMID,REVELATIONDANCE,ALLURINGVOICE,QUIVERDANCE
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Form = 3
+#-------------------------------
 [ZINNIA,Zinnia]
 LoseText = Hehe...
 Pokemon = GOOMY,3
@@ -387,6 +1160,45 @@ Pokemon = FRIGIBAX,3
 Pokemon = GIBLE,3
 Pokemon = BAGON,3
 Pokemon = SWABLU,5
+#-------------------------------
+[ZINNIA,Zinnia,1]
+LoseText = Hehe...
+Pokemon = GOOMY,3
+    Moves = DRAGONPULSE,FLASHCANNON,MUDDYWATER,ACIDSPRAY
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = FRIGIBAX,3
+    Moves = DRAGONCLAW,ICICLECRASH,CRUNCH,EARTHQUAKE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = GIBLE,3
+    Moves = DRAGONCLAW,EARTHQUAKE,IRONHEAD,SWORDSDANCE
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BAGON,3
+    Moves = DRAGONCLAW,EARTHQUAKE,CRUNCH,BRICKBREAK
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = DRUDDIGON,3
+    Moves = DRAGONCLAW,CRUNCH,IRONHEAD,SUPERPOWER
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SWABLU,5
+    Moves = DRAGONPULSE,AIRSLASH,DAZZLINGGLEAM,PERISHSONG
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [POKEMONTRAINER_Raya,Raya,1]
 Items = ZPOWERRING
@@ -400,6 +1212,48 @@ Pokemon = MAGNEMITE,5
     AbilityIndex = 0
     Item = ELECTRIUMZ
 #-------------------------------
+[POKEMONTRAINER_Raya,Raya,11]
+Items = ZPOWERRING
+LoseText = Ok. On va le faire.
+Pokemon = CYNDAQUIL,3
+    Moves = FLAMETHROWER,SHADOWBALL,OVERHEAT,SOLARBEAM
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CHIKORITA,3
+    Moves = GIGADRAIN,DAZZLINGGLEAM,DRAININGKISS,LIGHTSCREEN
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CHEWTLE,3
+    Moves = LIQUIDATION,ROCKSLIDE,CRUNCH,EARTHQUAKE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = JANGMOO,3
+    Moves = DRAGONCLAW,BRICKBREAK,EARTHQUAKE,DRAGONDANCE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ABSOL,5
+    Moves = DARKPULSE,DAZZLINGGLEAM,SHADOWBALL,FLAMETHROWER
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Item = ELECTRIUMZ
+Pokemon = MAGNEMITE,5
+    Moves = THUNDERBOLT,FLASHCANNON,BODYPRESS,THUNDERWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Item = ELECTRIUMZ
+#-------------------------------
 [POKEMONTRAINER_Raya,Raya,2]
 Items = ZPOWERRING
 LoseText = Ok. On va le faire.
@@ -409,6 +1263,48 @@ Pokemon = CHARCADET,3
 Pokemon = JANGMOO,3
 Pokemon = MAGNEMITE,5
     AbilityIndex = 0
+    Item = ELECTRIUMZ
+#-------------------------------
+[POKEMONTRAINER_Raya,Raya,12]
+Items = ZPOWERRING
+LoseText = Ok. On va le faire.
+Pokemon = CHIKORITA,3
+    Moves = GIGADRAIN,DAZZLINGGLEAM,DRAININGKISS,LIGHTSCREEN
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = TOTODILE,3
+    Moves = LIQUIDATION,DRAGONCLAW,CRUNCH,ICEFANG
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CHARCADET,3
+    Moves = LAVAPLUME,PSYSHOCK,ENERGYBALL,CALMMIND
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = JANGMOO,3
+    Moves = DRAGONCLAW,BRICKBREAK,EARTHQUAKE,DRAGONDANCE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ABSOL,5
+    Moves = DARKPULSE,DAZZLINGGLEAM,SHADOWBALL,FLAMETHROWER
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Item = ELECTRIUMZ
+Pokemon = MAGNEMITE,5
+    Moves = THUNDERBOLT,FLASHCANNON,BODYPRESS,THUNDERWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
     Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONTRAINER_Raya,Raya,3]
@@ -422,6 +1318,48 @@ Pokemon = MAGNEMITE,5
     AbilityIndex = 0
     Item = ELECTRIUMZ
 #-------------------------------
+[POKEMONTRAINER_Raya,Raya,13]
+Items = ZPOWERRING
+LoseText = Ok. On va le faire.
+Pokemon = TOTODILE,3
+    Moves = LIQUIDATION,DRAGONCLAW,CRUNCH,ICEFANG
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CYNDAQUIL,3
+    Moves = FLAMETHROWER,SHADOWBALL,OVERHEAT,SOLARBEAM
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BUDEW,3
+    Moves = ENERGYBALL,SLUDGEWAVE,DAZZLINGGLEAM,SLEEPPOWDER
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = JANGMOO,3
+    Moves = DRAGONCLAW,BRICKBREAK,EARTHQUAKE,DRAGONDANCE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ABSOL,5
+    Moves = DARKPULSE,DAZZLINGGLEAM,SHADOWBALL,FLAMETHROWER
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Item = ELECTRIUMZ
+Pokemon = MAGNEMITE,5
+    Moves = THUNDERBOLT,FLASHCANNON,BODYPRESS,THUNDERWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Item = ELECTRIUMZ
+#-------------------------------
 [NEXUSSENTINEL,THZ-236]
 LoseText = MISE À JOUR EN COURS: 4%
 Pokemon = SKRELP,3
@@ -429,12 +1367,66 @@ Pokemon = BINACLE,3
 Pokemon = GLAMEOW,5
 Pokemon = STUNKY,5
 #-------------------------------
+[NEXUSSENTINEL,THZ-236,1]
+LoseText = MISE À JOUR EN COURS: 4%
+Pokemon = SKRELP,3
+    Moves = SLUDGEWAVE,DRAGONPULSE,HYDROPUMP,TOXIC
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BINACLE,3
+    Moves = BRICKBREAK,STONEEDGE,LIQUIDATION,SHELLSMASH
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = GLAMEOW,5
+    Moves = FAKEOUT,BODYSLAM,DIG,UTURN
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = STUNKY,5
+    Moves = SUCKERPUNCH,GUNKSHOT,CRUNCH,PLAYROUGH
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [NEXUSSENTINEL,CTX-110]
 LoseText = 10100101001110011111
 Pokemon = PORYGON,3
 Pokemon = BELDUM,3
 Pokemon = BRONZOR,5
 Pokemon = MAGNEMITE,5
+#-------------------------------
+[NEXUSSENTINEL,CTX-110,1]
+LoseText = 10100101001110011111
+Pokemon = PORYGON,3
+    Moves = TRIATTACK,RECOVER,PSYCHIC,THUNDERBOLT
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BELDUM,3
+    Moves = EARTHQUAKE,IRONHEAD,PSYCHICFANGS,BULLETPUNCH
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BRONZOR,5
+    Moves = GYROBALL,CONFUSERAY,IRONDEFENSE,ZENHEADBUTT
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MAGNEMITE,5
+    Moves = VOLTSWITCH,FLASHCANNON,THUNDERBOLT,THUNDERWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [NEXUSSENTINEL,BZT-897]
 LoseText = PROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L!Cz02'zPHDkpF/4|{
@@ -444,12 +1436,67 @@ Pokemon = GRIMER,5
 Pokemon = GRIMER,5
     Form = 1
 #-------------------------------
+[NEXUSSENTINEL,BZT-897,1]
+LoseText = PROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L!Cz02'zPHDkpF/4|{
+Pokemon = ZUBAT,3
+    Moves = SLUDGEWAVE,AIRSLASH,TOXIC,SUPERSONIC
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = HOUNDOUR,3
+    Moves = FLAMETHROWER,DARKPULSE,NASTYPLOT,OVERHEAT
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = GRIMER,5
+    Moves = GUNKSHOT,TOXIC,FIREPUNCH,KNOCKOFF
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = GRIMER,5
+    Moves = GUNKSHOT,TOXIC,FIREPUNCH,KNOCKOFF
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+    Form = 1
+#-------------------------------
 [NEXUSSENTINEL,RKY-573]
 LoseText = J'AI ÉTÉ MAL PROGRAMMÉ
 Pokemon = ARON,3
 Pokemon = RIOLU,3
 Pokemon = TRUBBISH,5
 Pokemon = VOLTORB,5
+#-------------------------------
+[NEXUSSENTINEL,RKY-573,1]
+LoseText = J'AI ÉTÉ MAL PROGRAMMÉ
+Pokemon = ARON,3
+    Moves = HEADSMASH,IRONHEAD,STEALTHROCK,EARTHQUAKE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = RIOLU,3
+    Moves = FOCUSBLAST,FLASHCANNON,SHADOWBALL,VACUUMWAVE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = TRUBBISH,5
+    Moves = GUNKSHOT,TOXIC,EXPLOSION,RECOVER
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = VOLTORB,5
+    Moves = VOLTSWITCH,THUNDERBOLT,EXPLOSION,SCREECH
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [NEXUSSENTINEL,WFY-791]
 LoseText = MA STRATÉGIE EST BATTABLE.
@@ -458,12 +1505,66 @@ Pokemon = NYMBLE,3
 Pokemon = CAPSAKID,5
 Pokemon = BLIPBUG,5
 #-------------------------------
+[NEXUSSENTINEL,WFY-791,1]
+LoseText = MA STRATÉGIE EST BATTABLE.
+Pokemon = PAWNIARD,3
+    Moves = IRONHEAD,KOWTOWCLEAVE,SUCKERPUNCH,KNOCKOFF
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = NYMBLE,3
+    Moves = FIRSTIMPRESSION,UTURN,SUCKERPUNCH,KNOCKOFF
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CAPSAKID,5
+    Moves = FLAMETHROWER,GIGADRAIN,OVERHEAT,FIREBLAST
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = BLIPBUG,5
+    Moves = BUGBUZZ,ENERGYBALL,PSYCHIC,LIGHTSCREEN
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [NEXUSSENTINEL,CRM-513]
 LoseText = BIP BIP BOUP. J'AI PERDU.
 Pokemon = SEEDOT,3
 Pokemon = YAMASK,3
 Pokemon = GOTHITA,5
 Pokemon = GOLETT,5
+#-------------------------------
+[NEXUSSENTINEL,CRM-513,1]
+LoseText = BIP BIP BOUP. J'AI PERDU.
+Pokemon = SEEDOT,3
+    Moves = TAILWIND,FAKEOUT,LEAFBLADE,THROATCHOP
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = YAMASK,3
+    Moves = CONFUSERAY,HEX,SHADOWBALL,WILLOWISP
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = GOTHITA,5
+    Moves = PSYCHIC,SHADOWBALL,TAUNT,TRICKROOM
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = GOLETT,5
+    Moves = DRAINPUNCH,EARTHQUAKE,ICEPUNCH,SHADOWPUNCH
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [NEXUSSENTINEL,ZSX-815]
 LoseText = VOUS REFUSEZ MES COOKIES ?
@@ -472,12 +1573,67 @@ Pokemon = CHARCADET,3
 Pokemon = BLITZLE,5
 Pokemon = CACNEA,5
 #-------------------------------
+[NEXUSSENTINEL,ZSX-815,1]
+LoseText = VOUS REFUSEZ MES COOKIES ?
+Pokemon = INDEEDEE,3
+    Moves = TRICKROOM,PROTECT,FOLLOWME,PSYCHIC
+    AbilityIndex = 2
+    Nature = TIMID
+    IV = 31,31,31,0,31,31
+    EV = 252,252,0,0,252,0
+    Gender = Female
+Pokemon = CHARCADET,3
+    Moves = ARMORCANNON,HEATWAVE,EXPANDINGFORCE,ENERGYBALL
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,0,31,31
+    EV = 252,252,0,0,252,0
+Pokemon = MURKROW,3
+    Moves = SUCKERPUNCH,BRAVEBIRD,NIGHTSLASH,UTURN
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,0,31,31
+    EV = 252,252,0,0,252,0
+Pokemon = CACNEA,5
+    Moves = DESTINYBOND,SEEDBOMB,DARKPULSE,SUCKERPUNCH
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,0,31,31
+    EV = 252,252,0,0,252,0
+#-------------------------------
 [NEXUSSENTINEL,KMT-845]
 LoseText = :(
 Pokemon = STARYU,3
 Pokemon = GASTLY,3
 Pokemon = SPINDA,5
 Pokemon = TOGEDEMARU,5
+#-------------------------------
+[NEXUSSENTINEL,KMT-845,1]
+LoseText = :(
+Pokemon = STARYU,3
+    Moves = LIQUIDATION,PSYCHIC,ICEBEAM,PSYCHICFANGS
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = GASTLY,3
+    Moves = SHADOWBALL,SLUDGEBOMB,DESTINYBOND,ENCORE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SPINDA,5
+    Moves = BODYSLAM,SUCKERPUNCH,TRICKROOM,BRICKBREAK
+    AbilityIndex = 1
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = TOGEDEMARU,5
+    Moves = NUZZLE,SPIKYSHIELD,ZINGZAP,HELPINGHAND
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [NEXUSSENTINEL,FJR-439]
 LoseText = BOMBARDIRO CROCODILO
@@ -486,12 +1642,66 @@ Pokemon = SANDILE,3
 Pokemon = SINISTEA,5
 Pokemon = POLTCHAGEIST,5
 #-------------------------------
+[NEXUSSENTINEL,FJR-439,1]
+LoseText = BOMBARDIRO CROCODILO
+Pokemon = CARVANHA,3
+    Moves = LIQUIDATION,CRUNCH,ICEFANG,AQUAJET
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SANDILE,3
+    Moves = EARTHQUAKE,CRUNCH,CLOSECOMBAT,OUTRAGE
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SINISTEA,5
+    Moves = SHADOWBALL,SHELLSMASH,GIGADRAIN,PROTECT
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = POLTCHAGEIST,5
+    Moves = MATCHAGOTCHA,SHADOWBALL,GIGADRAIN,ENERGYBALL
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [NEXUSSENTINEL,BGO-467]
 LoseText = J'AI ENCORE PERDU. OUIN.
 Pokemon = PARAS,3
 Pokemon = PATRAT,3
 Pokemon = PLUSLE,5
 Pokemon = MINUN,5
+#-------------------------------
+[NEXUSSENTINEL,BGO-467,1]
+LoseText = J'AI ENCORE PERDU. OUIN.
+Pokemon = PARAS,3
+    Moves = SPORE,LEECHLIFE,SEEDBOMB,POISONPOWDER
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PATRAT,3
+    Moves = CONFUSERAY,HYPERFANG,MEANLOOK,SUPERFANG
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PLUSLE,5
+    Moves = HELPINGHAND,DISCHARGE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = MINUN,5
+    Moves = HELPINGHAND,DISCHARGE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [NEXUSSENTINEL,CPA-806]
 LoseText = CECI N'EST PAS UNE IMAGE DE VOITURE.
@@ -500,12 +1710,66 @@ Pokemon = CYCLIZAR,3
 Pokemon = ROOKIDEE,5
 Pokemon = VENIPEDE,5
 #-------------------------------
+[NEXUSSENTINEL,CPA-806,1]
+LoseText = CECI N'EST PAS UNE IMAGE DE VOITURE.
+Pokemon = VAROOM,3
+    Moves = SHIFTGEAR,IRONHEAD,GUNKSHOT,TOXIC
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = CYCLIZAR,3
+    Moves = DRAGONCLAW,SHIFTGEAR,SHEDTAIL,TAUNT
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ROOKIDEE,5
+    Moves = IRONDEFENSE,BODYPRESS,UTURN,BRAVEBIRD
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = VENIPEDE,5
+    Moves = PROTECT,SWORDSDANCE,GUNKSHOT,MEGAHORN
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [NEXUSSENTINEL,RKX-409]
 LoseText = VOUS PRÉFÉREZ UN THÉ ?
 Pokemon = CROAGUNK,3
 Pokemon = SNEASEL,3
 Pokemon = ZANGOOSE,5
 Pokemon = SEVIPER,5
+#-------------------------------
+[NEXUSSENTINEL,RKX-409,1]
+LoseText = VOUS PRÉFÉREZ UN THÉ ?
+Pokemon = CROAGUNK,3
+    Moves = SUCKERPUNCH,POISONJAB,CLOSECOMBAT,POWERUPPUNCH
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SNEASEL,3
+    Moves = ICICLECRASH,THROATCHOP,KNOCKOFF,POISONJAB
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = ZANGOOSE,5
+    Moves = CLOSECOMBAT,BODYSLAM,SWORDSDANCE,ICEPUNCH
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SEVIPER,5
+    Moves = CRUNCH,COIL,GUNKSHOT,EARTHQUAKE
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [NEXUSSENTINEL,DCR-192]
 LoseText = SORTEZ IMMÉDIATEMMENT S'IL-VOUS-PLAÎT ?
@@ -514,12 +1778,66 @@ Pokemon = SPIRITOMB,3
 Pokemon = DRUDDIGON,5
 Pokemon = TURTONATOR,5
 #-------------------------------
+[NEXUSSENTINEL,DCR-192,1]
+LoseText = SORTEZ IMMÉDIATEMMENT S'IL-VOUS-PLAÎT ?
+Pokemon = DRAMPA,3
+    Moves = HYPERVOICE,DRACOMETEOR,HEATWAVE,SHADOWBALL
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = SPIRITOMB,3
+    Moves = SUCKERPUNCH,SHADOWBALL,DARKPULSE,HYPNOSIS
+    AbilityIndex = 2
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = DRUDDIGON,5
+    Moves = DRAGONCLAW,EARTHQUAKE,CRUNCH,IRONHEAD
+    AbilityIndex = 0
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = TURTONATOR,5
+    Moves = EXPLOSION,OVERHEAT,SHELLSMASH,DRAGONPULSE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+#-------------------------------
 [NEXUSSENTINEL,QTX-487]
 LoseText = ALERTE ! ALERTE !
 Pokemon = CAPSAKID,3
 Pokemon = PORYGON,3
 Pokemon = RIOLU,5
 Pokemon = SNORUNT,5
+#-------------------------------
+[NEXUSSENTINEL,QTX-487,1]
+LoseText = ALERTE ! ALERTE !
+Pokemon = CAPSAKID,3
+    Moves = OVERHEAT,LEAFSTORM,SOLARBEAM,PROTECT
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = TORKOAL,5
+    Moves = ERUPTION,SHELLSMASH,PROTECT,HEATWAVE
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = PORYGON,3
+    Moves = TRIATTACK,RECOVER,PSYCHIC,THUNDERBOLT
+    AbilityIndex = 1
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
+Pokemon = RIOLU,5
+    Moves = FOCUSBLAST,FLASHCANNON,SHADOWBALL,VACUUMWAVE
+    AbilityIndex = 0
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [STEVE,Steve,2]
 LoseText = On fait 40/60 ?

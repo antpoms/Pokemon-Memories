@@ -51,7 +51,7 @@ module Compiler
           end
         end
         pkmn[:ev] = ev_hash
-        if ev_total > 512
+        if ev_total > 756
           raise _INTL("Invalid EV set (must sum to {1} or less).\n{2}",
                       Pokemon::EV_LIMIT, FileLineData.linereport)
         end

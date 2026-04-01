@@ -12072,7 +12072,7 @@ Shape = BipedalTail
 Category = Mach
 Pokedex = When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.
 Generation = 4
-Flags = HasGenderedSprites
+Flags = HasGenderedSprites, Mythical
 #-------------------------------
 [MUNCHLAX]
 Name = Munchlax
