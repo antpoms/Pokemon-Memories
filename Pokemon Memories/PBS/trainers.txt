@@ -335,10 +335,10 @@ Pokemon = CHEWTLE,3
 Pokemon = MAGNEMITE,5
     Moves = THUNDERSHOCK,MIRRORSHOT,SONICBOOM,THUNDERWAVE
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,12]
 Items = ZPOWERRING
@@ -364,10 +364,10 @@ Pokemon = CHARCADET,3
 Pokemon = MAGNEMITE,5
     Moves = THUNDERSHOCK,MIRRORSHOT,SONICBOOM,THUNDERWAVE
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONPROFESSOR_Raya,Raya,13]
 Items = ZPOWERRING
@@ -393,10 +393,10 @@ Pokemon = BUDEW,3
 Pokemon = MAGNEMITE,5
     Moves = THUNDERSHOCK,MIRRORSHOT,SONICBOOM,THUNDERWAVE
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONTRAINER_Sonia,Sonia,1]
 LoseText = Alors Voltoutou ? Tu es content ?
@@ -595,7 +595,7 @@ Pokemon = PORYGON,3
     Moves = TACKLE,THUNDERSHOCK,PSYBEAM,MAGNETRISE
     AbilityIndex = 1
     Nature = TIMID
-    IV = 31,31,31,31,31,31	
+    IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 Pokemon = GIMMIGHOUL,5
     Moves = HEX,CONFUSERAY,NASTYPLOT
@@ -614,12 +614,12 @@ Pokemon = MANKEY,5
 [YOUNGSTER2,Titouan,11]
 LoseText = Mes genoux boudent si je ne sors pas en shorts.
 Pokemon = SPEAROW,3
+    Form = 1
     Moves = AERIALACE,ASSURANCE,FURYATTACK,DOUBLETEAM
     AbilityIndex = 2
     Nature = ADAMANT
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Form = 1
 Pokemon = PIDGEY,3
     Moves = QUICKATTACK,AIRCUTTER,TWISTER,WHIRLWIND
     AbilityIndex = 2
@@ -736,21 +736,21 @@ Pokemon = SCRAGGY,3
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 Pokemon = KIRLIA,5
-    Moves = PSYBEAM,DRAININGKISS,CALMMIND,MAGICALLEAF
-    AbilityIndex = 2
-    Nature = TIMID
-    IV = 31,31,31,31,31,31
-    EV = 0,252,0,252,252,0
     Name = Léo
-    Gender = male
-Pokemon = KIRLIA,5
     Moves = PSYBEAM,DRAININGKISS,CALMMIND,MAGICALLEAF
     AbilityIndex = 2
+    Gender = male
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
+Pokemon = KIRLIA,5
     Name = Léa
+    Moves = PSYBEAM,DRAININGKISS,CALMMIND,MAGICALLEAF
+    AbilityIndex = 2
     Gender = female
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,252,0
 #-------------------------------
 [LUSAMINE,Elsa-Mina,1]
 Items = ZPOWERRING
@@ -784,12 +784,12 @@ Pokemon = STUFFUL,3
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 Pokemon = MISDREAVUS,5
+    Moves = SHADOWBALL,CONFUSION,MEANLOOK,GROWL
     AbilityIndex = 0
+    Item = GHOSTIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Moves = SHADOWBALL,CONFUSION,MEANLOOK,GROWL
-    Item = GHOSTIUMZ
 #-------------------------------
 [STEVE,Steve,1]
 LoseText = Fuck, j'ai fail le training.
@@ -802,12 +802,12 @@ Pokemon = GIMMIGHOUL,5
 [STEVE,Steve,11]
 LoseText = Fuck, j'ai fail le training.
 Pokemon = MEOWTH,3
+    Form = 1
     Moves = FAKEOUT,BITE,TRAILBLAZE,AERIALACE
     AbilityIndex = 1
     Nature = ADAMANT
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Form = 1
 Pokemon = BELDUM,3
     Moves = BULLETPUNCH,METALCLAW,ZENHEADBUTT,BULLDOZE
     AbilityIndex = 0
@@ -1146,12 +1146,12 @@ Pokemon = FLITTLE,3
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 Pokemon = ORICORIO,5
+    Form = 3
     Moves = AIRSLASH
     AbilityIndex = 0
-    Nature = TIMID,REVELATIONDANCE,ALLURINGVOICE,QUIVERDANCE
+    Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Form = 3
 #-------------------------------
 [ZINNIA,Zinnia,1]
 LoseText = Hehe...
@@ -1242,17 +1242,17 @@ Pokemon = JANGMOO,3
 Pokemon = ABSOL,5
     Moves = DARKPULSE,DAZZLINGGLEAM,SHADOWBALL,FLAMETHROWER
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 Pokemon = MAGNEMITE,5
     Moves = THUNDERBOLT,FLASHCANNON,BODYPRESS,THUNDERWAVE
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONTRAINER_Raya,Raya,2]
 Items = ZPOWERRING
@@ -1295,17 +1295,17 @@ Pokemon = JANGMOO,3
 Pokemon = ABSOL,5
     Moves = DARKPULSE,DAZZLINGGLEAM,SHADOWBALL,FLAMETHROWER
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 Pokemon = MAGNEMITE,5
     Moves = THUNDERBOLT,FLASHCANNON,BODYPRESS,THUNDERWAVE
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 #-------------------------------
 [POKEMONTRAINER_Raya,Raya,3]
 Items = ZPOWERRING
@@ -1348,17 +1348,17 @@ Pokemon = JANGMOO,3
 Pokemon = ABSOL,5
     Moves = DARKPULSE,DAZZLINGGLEAM,SHADOWBALL,FLAMETHROWER
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 Pokemon = MAGNEMITE,5
     Moves = THUNDERBOLT,FLASHCANNON,BODYPRESS,THUNDERWAVE
     AbilityIndex = 1
+    Item = ELECTRIUMZ
     Nature = TIMID
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Item = ELECTRIUMZ
 #-------------------------------
 [NEXUSSENTINEL,THZ-236,1]
 LoseText = MISE À JOUR EN COURS: 4%
@@ -1457,12 +1457,12 @@ Pokemon = GRIMER,5
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
 Pokemon = GRIMER,5
+    Form = 1
     Moves = GUNKSHOT,TOXIC,FIREPUNCH,KNOCKOFF
     AbilityIndex = 0
     Nature = ADAMANT
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,252,0
-    Form = 1
 #-------------------------------
 [NEXUSSENTINEL,RKY-573,1]
 LoseText = J'AI ÉTÉ MAL PROGRAMMÉ
@@ -1578,10 +1578,10 @@ LoseText = VOUS REFUSEZ MES COOKIES ?
 Pokemon = INDEEDEE,3
     Moves = TRICKROOM,PROTECT,FOLLOWME,PSYCHIC
     AbilityIndex = 2
+    Gender = female
     Nature = TIMID
     IV = 31,31,31,0,31,31
     EV = 252,252,0,0,252,0
-    Gender = Female
 Pokemon = CHARCADET,3
     Moves = ARMORCANNON,HEATWAVE,EXPANDINGFORCE,ENERGYBALL
     AbilityIndex = 0

@@ -120,7 +120,7 @@ module InstantMessagesSettings
     # - 3 => Use both Time and Steps to determine when to trigger sending. The Time
     #        requirements will be checked first, then Step requirements.
     #------------------------------------------------------------------------------------
-    PASSIVE_TRIGGER_TYPE                = 3
+    PASSIVE_TRIGGER_TYPE                = 0
 
     #------------------------------------------------------------------------------------
     # Set the number of minimum steps the player has to take before receiving the next   

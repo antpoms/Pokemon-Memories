@@ -145,6 +145,7 @@ BaseMoney = 100
 Name = Old Man
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
 #-------------------------------
 [POKEDUDE]
 Name = Poké Dude
@@ -155,18 +156,21 @@ BaseMoney = 60
 Name = Scientist
 Gender = Female
 BaseMoney = 48
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [BACKPACKER_M]
 Name = Backpacker
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
 ShadowXY = 0,-3
 #-------------------------------
 [BACKPACKER_F]
 Name = Backpacker
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
 ShadowXY = 0,-3
 #-------------------------------
 [POKEFAN_M]
@@ -199,7 +203,7 @@ ShadowXY = 0,-1
 Name = Nursery Aide
 Gender = Female
 BaseMoney = 16
-SkillLevel = 32
+SkillLevel = 100
 ShadowXY = 4,-5
 #-------------------------------
 [SCHOOLKID_M]
@@ -212,6 +216,7 @@ ShadowXY = 0,-4
 Name = School Kid
 Gender = Female
 BaseMoney = 16
+SkillLevel = 100
 IntroBGM = Trainers_ Eyes Meet (Schooler)
 ShadowXY = 0,-1
 #-------------------------------
@@ -219,7 +224,7 @@ ShadowXY = 0,-1
 Name = Rich Boy
 Gender = Male
 BaseMoney = 160
-SkillLevel = 72
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [SOCIALITE]
@@ -232,6 +237,7 @@ ShadowXY = 0,-3
 Name = Parasol Lady
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
 IntroBGM = Trainers_ Eyes Meet (Lady)
 ShadowXY = 0,-2
 #-------------------------------
@@ -239,29 +245,34 @@ ShadowXY = 0,-2
 Name = Clerk
 Gender = Male
 BaseMoney = 32
+SkillLevel = 100
 #-------------------------------
 [CLERK2_M]
 Name = Clerk
 Gender = Male
 BaseMoney = 56
+SkillLevel = 100
 ShadowXY = 2,-2
 #-------------------------------
 [CLERK_F]
 Name = Clerk
 Gender = Female
 BaseMoney = 32
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [JANITOR]
 Name = Janitor
 Gender = Male
 BaseMoney = 24
+SkillLevel = 100
 ShadowXY = 0,-12
 #-------------------------------
 [MAID]
 Name = Maid
 Gender = Female
 BaseMoney = 24
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [BAKER]
@@ -286,18 +297,21 @@ ShadowXY = 0,-2
 Name = Doctor
 Gender = Male
 BaseMoney = 72
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [NURSE]
 Name = Nurse
 Gender = Female
 BaseMoney = 56
+SkillLevel = 100
 ShadowXY = 0,-3
 #-------------------------------
 [WORKER]
 Name = Worker
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
 ShadowXY = 2,-3
 #-------------------------------
 [WORKER_Snow]
@@ -309,18 +323,21 @@ BaseMoney = 48
 Name = Depot Agent
 Gender = Male
 BaseMoney = 48
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [PILOT]
 Name = Pilot
 Gender = Male
 BaseMoney = 56
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [POLICEMAN]
 Name = Police Man
 Gender = Male
 BaseMoney = 56
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [HOOLIGANS]
@@ -333,18 +350,21 @@ ShadowXY = 0,-5
 Name = Guitarist
 Gender = Female
 BaseMoney = 24
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [MUSICIAN]
 Name = Musician
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [DANCER]
 Name = Dancer
 Gender = Male
 BaseMoney = 24
+SkillLevel = 100
 BattleBGM = Battle Dan
 ShadowXY = 0,-14
 #-------------------------------
@@ -352,6 +372,7 @@ ShadowXY = 0,-14
 Name = Artist
 Gender = Male
 BaseMoney = 16
+SkillLevel = 100
 ShadowXY = 0,-4
 #-------------------------------
 [HARLEQUIN]
@@ -417,12 +438,14 @@ ShadowXY = 0,-5
 Name = Veteran
 Gender = Male
 BaseMoney = 72
+SkillLevel = 100
 ShadowXY = 0,-2
 #-------------------------------
 [VETERAN_F]
 Name = Veteran
 Gender = Female
 BaseMoney = 72
+SkillLevel = 100
 ShadowXY = 0,-3
 #-------------------------------
 [ROCKETADMIN_Archer]
