@@ -623,7 +623,7 @@ Dynamax
 The Pokémon is Terastallized into the {1} type.
 The Pokémon is Terastallized into the {1} type.
 Terastallization
-Terastallization
+Teracristallisation
 Hailstorm
 Hailstorm
 Fire type moves deal 50% more damage. Halves Water move damage.
@@ -1775,7 +1775,7 @@ The Z-Power healed {1}!
 {1} couldn't fully protect itself and got hurt!
 {1} couldn't fully protect itself and got hurt!
 {1} surrounded itself with its Z-Power!
-{1} surrounded itself with its Z-Power!
+{1} s'entoure de force Z!
 {1} unleashed its full force Z-Move!
 {1} unleashed its full force Z-Move!
 {1} restored its HP using its Z-Power!
@@ -1899,11 +1899,11 @@ Tera type of the Pokémon.
 Tera Orb
 Tera Orb
 {1} Terastallized into the {2}-type!
-{1} Terastallized into the {2}-type!
+{1} Teracristallise et devint de type {2}!
 {1} surrounded itself in Terastal energy!
-{1} surrounded itself in Terastal energy!
+{1} s'entoure d'énergie teracristal!
 {1} is reacting to {2}'s {3}!
-{1} is reacting to {2}'s {3}!
+{1} réagit à l'{3} de {2}!
 Video file not found: {1}
 Video file not found: {1}
 Could not play video: {1}
