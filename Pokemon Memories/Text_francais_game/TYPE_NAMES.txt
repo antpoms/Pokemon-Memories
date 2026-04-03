@@ -3,4 +3,4 @@
 #-------------------------------
 [TYPE_NAMES]
 Stellar
-Stellar
+Stellaire

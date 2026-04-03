@@ -5,284 +5,284 @@
 Upside-Down
 Upside-Down
 Floaty Fall
-Floaty Fall
+Pika-Piqué
 Splishy Splash
-Splishy Splash
+Pika-Splash
 Zippy Zap
-Zippy Zap
+Pika-Sprint
 Baddy Bad
-Baddy Bad
+Évo-Ténèbro
 Bouncy Bubble
-Bouncy Bubble
+Évo-Thalasso
 Buzzy Buzz
-Buzzy Buzz
+Évo-Dynamo
 Freezy Frost
-Freezy Frost
+Évo-Congélo
 Glitzy Glow
-Glitzy Glow
+Évo-Psycho
 Sappy Seed
-Sappy Seed
+Évo-Écolo
 Sizzly Slide
-Sizzly Slide
+Évo-Flambo
 Sparkly Swirl
-Sparkly Swirl
+Évo-Fabulo
 Veevee Volley
-Veevee Volley
+Évo-Chardasso
 Icy Brease
 Brise Glacière
 Dire Claw
-Dire Claw
+Griffe Funeste
 Springtide Storm
-Springtide Storm
+Typhon Passionné
 Raging Fury
-Raging Fury
+Grand Courroux
 Wave Crash
-Wave Crash
+Aquatacle
 Chloroblast
-Chloroblast
+Herbale
 Mountain Gale
-Mountain Gale
+Bise Glaciaire
 Headlong Rush
-Headlong Rush
+Assaut Frontal
 Barb Barrage
-Barb Barrage
+Multitoxik
 Esper Wing
-Esper Wing
+Ailes Psycho
 Bitter Malice
-Bitter Malice
+Cœur de Rancœur
 Triple Arrows
-Triple Arrows
+Triple Flèche
 Bleakwind Storm
-Bleakwind Storm
+Typhon Hivernal
 Wildbolt Storm
-Wildbolt Storm
+Typhon Fulgurant
 Sandsear Storm
-Sandsear Storm
+Typhon Pyrosable
 Lunar Blessing
-Lunar Blessing
+Prière Lunaire
 Psyshield Bash
-Psyshield Bash
+Sprint Bouclier
 Power Shift
-Power Shift
+Echange Force
 Stone Axe
-Stone Axe
+Hache de Pierre
 Mystical Power
-Mystical Power
+Force Mystique
 Victory Dance
-Victory Dance
+Danse Victoire
 Shelter
-Shelter
+Mur Fumigène
 Infernal Parade
-Infernal Parade
+Cortège Funèbre
 Ceaseless Edge
-Ceaseless Edge
+Vagues à Lames
 Take Heart
-Take Heart
+Extravaillance
 Aqua Cutter
-Aqua Cutter
+Tranch'Aqua
 Aqua Step
-Aqua Step
+Danse Aquatique
 Armor Cannon
-Armor Cannon
+Canon Blindé
 Axe Kick
-Axe Kick
+Talon Marteau
 Bitter Blade
-Bitter Blade
+Lame en Peine
 Blazing Torque
-Blazing Torque
+Vrille Flamboyante
 Chilling Water
-Chilling Water
+Douche Froide
 Chilly Reception
-Chilly Reception
+Neigeux de Mots
 Collision Course
-Collision Course
+Nitrocrash
 Combat Torque
-Combat Torque
+Vrille Combative
 Comeuppance
-Comeuppance
+Rétorsion
 Doodle
-Doodle
+Gribouillis
 Double Shock
-Double Shock
+Double Décharge
 Electro Drift
-Electro Drift
+Turbo-Volt
 Fillet Away
-Fillet Away
+Dépiautage
 Flower Trick
-Flower Trick
+Magie Florale
 Gigaton Hammer
-Gigaton Hammer
+Marteau Mastoc
 Glaive Rush
-Glaive Rush
+Charge Glaive
 Hyper Drill
-Hyper Drill
+Hyperceuse
 Ice Spinner
-Ice Spinner
+Cryo-Pirouette
 Jet Punch
-Jet Punch
+Poing Sonique
 Kowtow Cleave
-Kowtow Cleave
+Génusection
 Last Respects
-Last Respects
+Hommage Posthume
 Lumina Crash
-Lumina Crash
+Lumino-Impact
 Magical Torque
-Magical Torque
+Vrille Magique
 Make It Rain
-Make It Rain
+Ruée d'Or
 Mortal Spin
-Mortal Spin
+Toupie Eclat
 Noxious Torque
-Noxious Torque
+Vrille Toxique
 Order Up
-Order Up
+Plat du Jour
 Population Bomb
-Population Bomb
+Prolifération
 Pounce
-Pounce
+Bond
 Rage Fist
-Rage Fist
+Poing de Colère
 Raging Bull
-Raging Bull
+Taurogne
 Revival Blessing
-Revival Blessing
+Second Souffle
 Ruination
-Ruination
+Cataclysme
 Salt Cure
-Salt Cure
+Salaison
 Shed Tail
-Shed Tail
+Queulonage
 Silk Trap
-Silk Trap
+Fil de Soie
 Snowscape
-Snowscape
+Chute de Neige
 Spicy Extract
-Spicy Extract
+Habanerage
 Spin Out
-Spin Out
+Dérapage
 Tidy Up
-Tidy Up
+Grand Nettoyage
 Torch Song
-Torch Song
+Chant Flamboyant
 Trailblaze
-Trailblaze
+Désherbaffe
 Triple Dive
-Triple Dive
+Triple Plongeon
 Twin Beam
-Twin Beam
+Double Rayon
 Wicked Torque
-Wicked Torque
+Vrille Ténébreuse
 Hydro Steam
-Hydro Steam
+Hydrovapeur
 Psyblade
-Psyblade
+Lame Psychique
 Blood Moon
-Blood Moon
+Lune Rouge
 Matcha Gotcha
-Matcha Gotcha
+Mortier Matcha
 Syrup Bomb
-Syrup Bomb
+Bombe au Sirop
 Ivy Cudgel
-Ivy Cudgel
+Massue Liane
 Electro Shot
-Electro Shot
+Fulgurayon
 Tera Starstorm
-Tera Starstorm
+Pluie Térastrale
 Fickle Beam
-Fickle Beam
+Laser Hasard
 Burning Bulwark
-Burning Bulwark
+Rempart Brûlant
 Thunderclap
-Thunderclap
+Vif Éclair
 Mighty Cleave
-Mighty Cleave
+Lame Puissante
 Tachyon Cutter
-Tachyon Cutter
+Lame Tachyon
 Hard Press
-Hard Press
+Pression Extrême
 Dragon Cheer
-Dragon Cheer
+Cri Draconique
 Alluring Voice
-Alluring Voice
+Voix Envoûtante
 Temper Flare
-Temper Flare
+Indignition
 Supercell Slam
-Supercell Slam
+Volt Assaut
 Psychic Noise
-Psychic Noise
+Dissonance Psy
 Upper Hand
-Upper Hand
+Prio-Parade
 Malignant Chain
-Malignant Chain
+Chaîne Malsaine
 Tera Blast
-Tera Blast
+Téra Explosion
 Breakneck Blitz
-Breakneck Blitz
+Turbo-Charge Bulldozer
 All-Out Pummeling
-All-Out Pummeling
+Combo Hyper-Furie
 Supersonic Skystrike
-Supersonic Skystrike
+Piqué Supersonique
 Acid Downpour
-Acid Downpour
+Déluge Causti-Toxique
 Tectonic Rage
-Tectonic Rage
+Éruption Géo-Sismique
 Continental Crush
-Continental Crush
+Apocalypse Gigalithique
 Savage Spin-Out
-Savage Spin-Out
+Cocon Fatal
 Never-Ending Nightmare
-Never-Ending Nightmare
+Appel des Ombres Éternelles
 Corkscrew Crash
-Corkscrew Crash
+Vrille Maximum
 Inferno Overdrive
-Inferno Overdrive
+Pyro-Explosion Cataclysmique
 Hydro Vortex
-Hydro Vortex
+Super Tourbillon Abyssal
 Bloom Doom
-Bloom Doom
+Plante 	Pétalexplosion Éblouissante
 Gigavolt Havoc
-Gigavolt Havoc
+Fulguro-Lance Gigavolt
 Shattered Psyche
-Shattered Psyche
+Psycho-Pulvérisation EX
 Subzero Slammer
-Subzero Slammer
+Laser Cryogénique
 Devastating Drake
-Devastating Drake
+Chaos Draconique
 Black Hole Eclipse
-Black Hole Eclipse
+Trou Noir des Ombres
 Twinkle Tackle
-Twinkle Tackle
+Impact Choupinova
 Catastropika
-Catastropika
+Pikachute Foudroyante
 10_000_000 Volt Thunderbolt
-10_000_000 Volt Thunderbolt
+Giga-Tonnerre
 Stoked Sparksurfer
-Stoked Sparksurfer
+Électro-Surf Survolté
 Extreme Evoboost
-Extreme Evoboost
+Neuf pour Un
 Pulverizing Pancake
-Pulverizing Pancake
+Gare au Ronflex
 Genesis Supernova
-Genesis Supernova
+Supernova Originelle
 Sinister Arrow Raid
-Sinister Arrow Raid
+Fureur des Plumes Spectrales
 Malicious Moonsault
-Malicious Moonsault
+Dark Body Press
 Oceanic Operetta
-Oceanic Operetta
+Symphonie des Ondines
 Splintered Stormshards
-Splintered Stormshards
+Hurlement des Roches-Lames
 Let's Snuggle Forever
-Let's Snuggle Forever
+Patati-Patattrape
 Clangorous Soulblaze
-Clangorous Soulblaze
+Dracacophonie Flamboyante
 Guardian of Alola
-Guardian of Alola
+Colère du Gardien d'Alola
 Searing Sunraze Smash
-Searing Sunraze Smash
+Hélio-Choc Dévastateur
 Menacing Moonraze Maelstrom
-Menacing Moonraze Maelstrom
+Rayons Séléno-Explosifs
 Light That Burns the Sky
-Light That Burns the Sky
+Apocalypsis Luminis
 Soul-Stealing 7-Star Strike
-Soul-Stealing 7-Star Strike
+Fauche-Âme des Sept Étoileske
