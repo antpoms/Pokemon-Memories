@@ -55,262 +55,262 @@ Goldodron
 Elerajah
 Elerajah
 Wyrdeer
-Wyrdeer
+Cerbyllin
 Kleavor
-Kleavor
+Hachécateur
 Ursaluna
-Ursaluna
+Ursaking
 Basculegion
-Basculegion
+Paragruel
 Sneasler
-Sneasler
+Farfurex
 Overqwil
-Overqwil
+Qwilpik
 Enamorus
-Enamorus
+Amovénus
 Sprigatito
-Sprigatito
+Poussacha
 Floragato
-Floragato
+Matourgeon
 Meowscarada
-Meowscarada
+Miascarade
 Fuecoco
-Fuecoco
+Chochodile
 Crocalor
-Crocalor
+Crocogril
 Skeledirge
-Skeledirge
+Flâmigator
 Quaxly
-Quaxly
+Coiffeton
 Quaxwell
-Quaxwell
+Canarbello
 Quaquaval
-Quaquaval
+Palmaval
 Lechonk
-Lechonk
+Gourmelet
 Oinkologne
-Oinkologne
+Fragroin
 Tarountula
-Tarountula
+Tissenboule
 Spidops
-Spidops
+Filentrappe
 Nymble
-Nymble
+Lilliterelle
 Lokix
-Lokix
+Gambex
 Pawmi
-Pawmi
+Pohm
 Pawmo
-Pawmo
+Pohmotte
 Pawmot
-Pawmot
+Pohmarmotte
 Tandemaus
-Tandemaus
+Compagnol
 Maushold
-Maushold
+Famignol
 Fidough
-Fidough
+Pâtachiot
 Dachsbun
-Dachsbun
+Briochien
 Smoliv
-Smoliv
+Olivini
 Dolliv
-Dolliv
+Olivado
 Arboliva
 Arboliva
 Squawkabilly
-Squawkabilly
+Tapatoès
 Nacli
-Nacli
+Selutin
 Naclstack
-Naclstack
+Amassel
 Garganacl
-Garganacl
+Gigansel
 Charcadet
-Charcadet
+Charbambin
 Armarouge
-Armarouge
+Carmadura
 Ceruledge
-Ceruledge
+Malvalame
 Tadbulb
-Tadbulb
+Têtampoule
 Bellibolt
-Bellibolt
+Ampibidou
 Wattrel
-Wattrel
+Zapétrel
 Kilowattrel
-Kilowattrel
+Fulgulairo
 Maschiff
-Maschiff
+Grondogue
 Mabosstiff
-Mabosstiff
+Dogrino
 Shroodle
-Shroodle
+Gribouraigne
 Grafaiai
-Grafaiai
+Tag-Tag
 Bramblin
-Bramblin
+Virovent
 Brambleghast
-Brambleghast
+Virevorreur
 Toedscool
-Toedscool
+Terracool
 Toedscruel
-Toedscruel
+Terracruel
 Klawf
-Klawf
+Craparoi
 Capsakid
-Capsakid
+Pimito
 Scovillain
-Scovillain
+Scovilain
 Scolutor
 Scolutor
 Rellor
-Rellor
+Léboulérou
 Rabsca
-Rabsca
+Bérasca
 Flittle
-Flittle
+Flotillon
 Espathra
-Espathra
+Cléopsytra
 Tinkatink
-Tinkatink
+Forgerette
 Tinkatuff
-Tinkatuff
+Forgella
 Tinkaton
-Tinkaton
+Forgelina
 Wiglett
-Wiglett
+Taupikeau
 Wugtrio
-Wugtrio
+Triopikeau
 Bombirdier
-Bombirdier
+Lestombaile
 Finizen
-Finizen
+Dofin
 Palafin
-Palafin
+Superdofin
 Varoom
-Varoom
+Vrombi
 Revavroom
-Revavroom
+Vrombotor
 Cyclizar
-Cyclizar
+Motorizard
 Orthworm
-Orthworm
+Ferdeter
 Glimmet
-Glimmet
+Germéclat
 Glimmora
-Glimmora
+Floréclat
 Glimmower
 Glimmower
-Greavard
-Greavard
+Tournéclat
+Toutombe
 Houndstone
-Houndstone
+Tomberro
 Flamigo
 Flamigo
 Cetoddle
-Cetoddle
+Piétacé
 Cetitan
-Cetitan
+Balbalèze
 Veluza
-Veluza
+Délestin
 Dondozo
-Dondozo
+Oyacata
 Tatsugiri
-Tatsugiri
+Nigirigon
 Tatsushi
-Tatsushi
+Sushirigon
 Annihilape
-Annihilape
+Courrousinge
 Clodsire
-Clodsire
+Terraiste
 Farigiraf
 Farigiraf
 Dudunsparce
-Dudunsparce
+Deusolourdo
 Kingambit
-Kingambit
+Scalpereur
 Great Tusk
-Great Tusk
+Fort-Ivoire
 Scream Tail
-Scream Tail
+Hurle-Queue
 Brute Bonnet
-Brute Bonnet
+Fongus-Furie
 Flutter Mane
-Flutter Mane
+Flotte-Mèche
 Slither Wing
-Slither Wing
+Rampe-Ailes
 Sandy Shocks
-Sandy Shocks
+Pelage-Sablé
 Iron Treads
-Iron Treads
+Roue-de-Fer
 Iron Bundle
-Iron Bundle
+Hotte-de-Fer
 Iron Hands
-Iron Hands
+Paume-de-Fer
 Iron Jugulis
-Iron Jugulis
+Têtes-de-Fer
 Iron Moth
-Iron Moth
+Mite-de-Fer
 Iron Thorns
-Iron Thorns
+Épine-de-Fer
 Frigibax
-Frigibax
+Frigodo
 Arctibax
-Arctibax
+Cryodo
 Baxcalibur
-Baxcalibur
+Glaivodo
 Gimmighoul
-Gimmighoul
+Mordudor
 Gholdengo
-Gholdengo
+Gromago
 Wo-Chien
-Wo-Chien
+Chongjian
 Chien-Pao
-Chien-Pao
+Baojian
 Ting-Lu
-Ting-Lu
+Dinglu
 Chi-Yu
-Chi-Yu
+Yuyu
 Roaring Moon
-Roaring Moon
+Rugit-Lune
 Iron Valiant
-Iron Valiant
+Garde-de-Fer
 Koraidon
 Koraidon
 Miraidon
 Miraidon
 Walking Wake
-Walking Wake
+Serpente-Eau
 Iron Leaves
-Iron Leaves
+Vert-de-Fer
 Dipplin
-Dipplin
+Pomdramour
 Poltchageist
-Poltchageist
+Théffroi
 Sinistcha
-Sinistcha
+Théffroyable
 Okidogi
-Okidogi
+Fortusimia
 Munkidori
-Munkidori
+Favianos
 Fezandipiti
-Fezandipiti
+Félicanis
 Ogerpon
 Ogerpon
 Archaludon
-Archaludon
+Pondralugon
 Hydrapple
-Hydrapple
+Pomdorochi
 Gouging Fire
-Gouging Fire
+Feu-Perçant
 Raging Bolt
-Raging Bolt
+Ire-Foudre
 Iron Boulder
-Iron Boulder
+Roch-de-Fer
 Iron Crown
-Iron Crown
+Chef-de-Fer
 Terapagos
 Terapagos
 Pecharunt
-Pecharunt
+Pêchaminus
