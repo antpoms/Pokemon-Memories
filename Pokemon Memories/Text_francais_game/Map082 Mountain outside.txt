@@ -1,0 +1,92 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map082]
+Vous ramassez le bois. Plus que 4.
+Vous ramassez le bois. Plus que 4.
+Vous ramassez le bois. Plus que 3.
+Vous ramassez le bois. Plus que 3.
+Vous ramassez le bois. Plus que 2.
+Vous ramassez le bois. Plus que 2.
+Vous ramassez le bois. Plus que 1.
+Vous ramassez le bois. Plus que 1.
+Vous avez ramassé assez de bois.
+Vous avez ramassé assez de bois.
+\b???: Pourquoi...
+\b???: Pourquoi...
+\b???: Pourquoi ??
+\b???: Pourquoi ??
+\b???: On était à ça d'y arriver...
+\b???: On était à ça d'y arriver...
+\b???: Alors...
+\b???: Alors...
+\b???: POURQUOI
+\b???: POURQUOI
+\b???: IL A FALLU
+\b???: IL A FALLU
+\b???: QUE TU ME LAISSE TOUTE SEULE !?
+\b???: QUE TU ME LAISSE TOUTE SEULE !?
+\b???: ENCORE TOI !?
+\b???: ENCORE TOI !?
+\b???: MAIS FOUS-MOI LA PAIX À LA FIN !!
+\b???: MAIS FOUS-MOI LA PAIX À LA FIN !!
+\b???: Je... Je suis vraiment désolé...
+\b???: Je... Je suis vraiment désolé...
+\b???: J'aurais pas dû m'énerver comme ça. T'y es pour rien...
+\b???: J'aurais pas dû m'énerver comme ça. T'y es pour rien...
+\bMIA: T'inquiète pas, je comprends.
+\bMIA: T'inquiète pas, je comprends.
+\bMIA: Des fois, on a juste besoin d'une occasion de se défouler...
+\bMIA: Des fois, on a juste besoin d'une occasion de se défouler...
+\bMIA: Je... Je sais pas ce qui s'est passé... Mais t'as le droit d'être triste.
+\bMIA: Je... Je sais pas ce qui s'est passé... Mais t'as le droit d'être triste.
+\b???: ...Merci.
+\b???: ...Merci.
+\bMIA: Je m'appelle Mia. Et toi ?
+\bMIA: Je m'appelle Mia. Et toi ?
+\b???: Jane.
+\b???: Jane.
+\bJANE: ...Je peux te demander quelque chose ?
+\bJANE: ...Je peux te demander quelque chose ?
+\bMIA: Bien sûr.
+\bMIA: Bien sûr.
+\bJANE: Tes Pokémon ont l'air de t'apprécier. Tu pourrais prendre soin de ce Lokhlass pour moi ?
+\bJANE: Tes Pokémon ont l'air de t'apprécier. Tu pourrais prendre soin de ce Lokhlass pour moi ?
+\bJANE: Je... Je ne peux plus m'occuper de lui.
+\bJANE: Je... Je ne peux plus m'occuper de lui.
+\bJANE: C'est bon Mary... J'ai trouvé quelqu'un...
+\bJANE: C'est bon Mary... J'ai trouvé quelqu'un...
+\bJANE: J'espère qu'on se reverra, Mia.
+\bJANE: J'espère qu'on se reverra, Mia.
+\bMIA: Ok la team.
+\bMIA: Ok la team.
+\bMIA: C'est l'heure du-
+\bMIA: C'est l'heure du-
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+Le potentiel de vos Pokémon a été maximisé.
+Le potentiel de vos Pokémon a été maximisé.
+\f[eevee]...
+\f[eevee]...
+\f[glaceon]...
+\f[glaceon]...
+Evoli vous trouve aussi instable que lui !
+Evoli vous trouve aussi instable que lui !
+Il souhaite vous rejoindre.
+Il souhaite vous rejoindre.
+\bLes certitudes sont dangereuses.
+\bLes certitudes sont dangereuses.
+\bQuelqu'un qui doute saura toujours se remettre en question et avancer.
+\bQuelqu'un qui doute saura toujours se remettre en question et avancer.
+\bUne personne remplie de certitude va se piéger dans ses croyances.
+\bUne personne remplie de certitude va se piéger dans ses croyances.
+\bLa vie est pleine d'imprévus !
+\bLa vie est pleine d'imprévus !
+\bLes meilleures choses qui me sont arrivés sont celles que je n'avais pas prévus.
+\bLes meilleures choses qui me sont arrivés sont celles que je n'avais pas prévus.

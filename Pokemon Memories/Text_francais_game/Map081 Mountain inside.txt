@@ -1,0 +1,44 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map081]
+\b???: Vous... pouvez arrêter de me regarder ?
+\b???: Vous... pouvez arrêter de me regarder ?
+\bMIA: Promis. J'essaierai de me faire discrète !
+\bMIA: Promis. J'essaierai de me faire discrète !
+\b???: ...
+\b???: ...
+\bMIA: Mais...
+\bMIA: Mais...
+\f[zoroark]...
+\f[zoroark]...
+Zoroark est curieux.
+Zoroark est curieux.
+Il souhaite vous rejoindre.
+Il souhaite vous rejoindre.
+\bMIA: Ok la team.
+\bMIA: Ok la team.
+\bMIA: C'est l'heure du-
+\bMIA: C'est l'heure du-
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+Le potentiel de vos Pokémon a été maximisé.
+Le potentiel de vos Pokémon a été maximisé.
+\bJe vise le sommet !
+\bJe vise le sommet !
+\bOn y est presque !
+\bOn y est presque !
+\bRéalise tes rêves, pas ceux des autres.
+\bRéalise tes rêves, pas ceux des autres.
+\bJ'ai perdu 5 ans de ma vie à étudier pour réaliser le rêve de mon père.
+\bJ'ai perdu 5 ans de ma vie à étudier pour réaliser le rêve de mon père.
+\bQuand je lui ai annoncé que j'abandonnais, ça n'a pas été facile.
+\bQuand je lui ai annoncé que j'abandonnais, ça n'a pas été facile.
+\bMais bon, mieux vaut une dispute compliquée plutôt qu'une vie à m'ennuyer !
+\bMais bon, mieux vaut une dispute compliquée plutôt qu'une vie à m'ennuyer !

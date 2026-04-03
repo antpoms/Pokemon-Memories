@@ -1,0 +1,184 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map079]
+\bMIA: Ouf ! On est enfin arrivés !
+\bMIA: Ouf ! On est enfin arrivés !
+\bMIA: On sort les chamallows ??
+\bMIA: On sort les chamallows ??
+\rRAYA: ...
+\rRAYA: ...
+\bMIA: Rayou ?
+\bMIA: Rayou ?
+\rRAYA: Hein ?
+\rRAYA: Hein ?
+\rRAYA: Euh... Oui, si tu veux. Ils sont au fond de mon sac.
+\rRAYA: Euh... Oui, si tu veux. Ils sont au fond de mon sac.
+\bMIA: Cool ! Brûlez en enfer, bande de chamallows !
+\bMIA: Cool ! Brûlez en enfer, bande de chamallows !
+\bMIA: Merde... On a plus de bois ?
+\bMIA: Merde... On a plus de bois ?
+\rRAYA: Apparemment.
+\rRAYA: Apparemment.
+\bMIA: ...
+\bMIA: ...
+\bMIA: Bon, je vais en chercher !
+\bMIA: Bon, je vais en chercher !
+\bMIA: Chamallows ! Profitez de vos derniers instants !
+\bMIA: Chamallows ! Profitez de vos derniers instants !
+Vous prenez des affaires dans le sac.
+Vous prenez des affaires dans le sac.
+De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
+De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
+Vous pouvez apprendre de nouvelles capacités à vos Pokémons.
+Vous pouvez apprendre de nouvelles capacités à vos Pokémons.
+\bMIA: Ouf ! On va enfin pouvoir bouffer !
+\bMIA: Ouf ! On va enfin pouvoir bouffer !
+\bMIA: Tu me passes les chamallows ?
+\bMIA: Tu me passes les chamallows ?
+\bMIA: On va vraiment continuer à ne pas en parler ?
+\bMIA: On va vraiment continuer à ne pas en parler ?
+\bMIA: Je vois bien que ça va pas...
+\bMIA: Je vois bien que ça va pas...
+\bMIA: Tu penses encore à ce qui s'est passé à la plage ?
+\bMIA: Tu penses encore à ce qui s'est passé à la plage ?
+\bMIA: Ok, puisque tu veux pas en parler, on n'en parle pas.
+\bMIA: Ok, puisque tu veux pas en parler, on n'en parle pas.
+\rRAYA: Qu'est-ce que tu veux que je te dises ?
+\rRAYA: Qu'est-ce que tu veux que je te dises ?
+\rRAYA: Toutes les multinationales de cette planète ont décidé de sacrifier leur éthique pour faire plus de profits.
+\rRAYA: Toutes les multinationales de cette planète ont décidé de sacrifier leur éthique pour faire plus de profits.
+\rRAYA: Pendant un moment, Einer a réussi a me faire croire qu'on pouvait y changer quelque chose, mais il mentait.
+\rRAYA: Pendant un moment, Einer a réussi a me faire croire qu'on pouvait y changer quelque chose, mais il mentait.
+\bMIA: Donc quoi ? On reste là sans rien faire ?
+\bMIA: Donc quoi ? On reste là sans rien faire ?
+\rRAYA: Qu'est-ce que tu comptes faire de plus exactement ?
+\rRAYA: Qu'est-ce que tu comptes faire de plus exactement ?
+\rRAYA: Tu l'as entendu. Si on se bat, on va finir assassinées.
+\rRAYA: Tu l'as entendu. Si on se bat, on va finir assassinées. 
+\bMIA: Pas si on en parle à la police.
+\bMIA: Pas si on en parle à la police. 
+\rRAYA: Einer déjeune avec des ministres chaque semaine. Ça ne changera rien.
+\rRAYA: Einer déjeune avec des ministres chaque semaine. Ça ne changera rien.
+\rRAYA: Ils ont plus de pouvoirs que la plupart des gouvernements. On ne peut juste pas gagner....
+\rRAYA: Ils ont plus de pouvoirs que la plupart des gouvernements. On ne peut juste pas gagner....
+\bMIA: Je préfère essayer en sachant que je vais échouer plutôt que ne rien faire.
+\bMIA: Je préfère essayer en sachant que je vais échouer plutôt que ne rien faire.
+\bMIA: Si tu ne comptes pas prévenir la police, je vais le faire moi-même.
+\bMIA: Si tu ne comptes pas prévenir la police, je vais le faire moi-même.
+\rRAYA: J'espère que je ne vais pas regretter ça...
+\rRAYA: J'espère que je ne vais pas regretter ça...
+\rRAYA: Mia. J'ai besoin de savoir si tu es assez forte.
+\rRAYA: Mia. J'ai besoin de savoir si tu es assez forte.
+\rRAYA: Prépare-toi !
+\rRAYA: Prépare-toi !
+\rRAYA: Mia. Ce que je vais te dire est strictement confidentiel, et peut mettre ta vie en danger.
+\rRAYA: Mia. Ce que je vais te dire est strictement confidentiel, et peut mettre ta vie en danger.
+\rRAYA: Est-ce que tu veux vraiment être impliquée ?
+\rRAYA: Est-ce que tu veux vraiment être impliquée ?
+\bMIA: Tu es impliquée ?
+\bMIA: Tu es impliquée ?
+\rRAYA: Oui.
+\rRAYA: Oui.
+\bMIA: Alors oui.
+\bMIA: Alors oui.
+\rRAYA: Suis-moi.
+\rRAYA: Suis-moi.
+\rRAYA: La police internationale m'a contacté en octobre à propos de Nexus.
+\rRAYA: La police internationale m'a contacté en octobre à propos de Nexus.
+\rRAYA: Ils enquêtent sur le projet ARK, et ont besoin de moi pour obtenir plus d'informations.
+\rRAYA: Ils enquêtent sur le projet ARK, et ont besoin de moi pour obtenir plus d'informations.
+\rRAYA: On ne sait pas en quoi consiste le projet, mais on en sait assez pour savoir que ça implique des expériences sur des humains et des Pokémon.
+\rRAYA: On ne sait pas en quoi consiste le projet, mais on en sait assez pour savoir que ça implique des expériences sur des humains et des Pokémon.
+\rRAYA: Et qu'elles ont commencé ici.
+\rRAYA: Et qu'elles ont commencé ici.
+\rRAYA: Tu es prête ?
+\rRAYA: Tu es prête ?
+\bMIA: Prête.
+\bMIA: Prête.
+\rRAYA: Alors c'est parti.
+\rRAYA: Alors c'est parti.
+Raya utilise son badge Nexus.
+Raya utilise son badge Nexus.
+Grahyèna est impressioné par vos talent de dresseuse.
+Grahyèna est impressioné par vos talent de dresseuse.
+Il décide de vous rejoindre.
+Il décide de vous rejoindre.
+\b???: Wow ! Merci beaucoup ! Tu m'as sauvé la vie !
+\b???: Wow ! Merci beaucoup ! Tu m'as sauvé la vie !
+\bMIA: Y'a pas de quoi ! Tu aurais fait pareil à ma place !
+\bMIA: Y'a pas de quoi ! Tu aurais fait pareil à ma place !
+\b???: Si seulement... On a besoin d'encore pas mal d'entraînement avant d'atteindre votre niveau.
+\b???: Si seulement... On a besoin d'encore pas mal d'entraînement avant d'atteindre votre niveau.
+\b???: Comment tu t'appelles ?
+\b???: Comment tu t'appelles ?
+\bMIA: Je m'appelle Mia ! Et toi ?
+\bMIA: Je m'appelle Mia ! Et toi ?
+\bSALLY: Je m'appelle Sally !
+\bSALLY: Je m'appelle Sally !
+\bSALLY: Je sais que ce grahyèna a failli nous tuer, mais... est-ce qu'on pourrait l'affronter avec le reste de ton équipe ?
+\bSALLY: Je sais que ce grahyèna a failli nous tuer, mais... est-ce qu'on pourrait l'affronter avec le reste de ton équipe ?
+\bSALLY: Je... Je dois devenir plus forte !
+\bSALLY: Je... Je dois devenir plus forte !
+\bMIA: Si tu veux ! Prépare-toi, je ne te ferait pas de cadeaux !
+\bMIA: Si tu veux ! Prépare-toi, je ne te ferait pas de cadeaux !
+\bSALLY: O...Ok !! En garde !!
+\bSALLY: O...Ok !! En garde !!
+\bSALLY: Merci beaucoup ! Je sens que j'ai appris plein de trucs !
+\bSALLY: Merci beaucoup ! Je sens que j'ai appris plein de trucs !
+\bSALLY: Allez viens crôaporal ! On va s'entraîner !
+\bSALLY: Allez viens crôaporal ! On va s'entraîner !
+\f[frogadier happy]...
+\f[frogadier happy]...
+\bMIA: Ok la team.
+\bMIA: Ok la team.
+\bMIA: C'est l'heure du-
+\bMIA: C'est l'heure du-
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+Le potentiel de vos Pokémon a été maximisé.
+Le potentiel de vos Pokémon a été maximisé.
+Vous ramassez le bois. Plus que 4.
+Vous ramassez le bois. Plus que 4.
+Vous ramassez le bois. Plus que 3.
+Vous ramassez le bois. Plus que 3.
+Vous ramassez le bois. Plus que 2.
+Vous ramassez le bois. Plus que 2.
+Vous ramassez le bois. Plus que 1.
+Vous ramassez le bois. Plus que 1.
+Vous avez ramassé assez de bois.
+Vous avez ramassé assez de bois.
+\bMIA: Wow ! Tu joues trop bien !
+\bMIA: Wow ! Tu joues trop bien !
+\bMIA: Tu en fais depuis longtemps ?
+\bMIA: Tu en fais depuis longtemps ?
+\b???: Euh... Oui. Merci.
+\b???: Euh... Oui. Merci.
+\b???: Excusez-moi...
+\b???: Excusez-moi...
+\bJe ne perds jamais, soit je gagne, soit j'apprends.
+\bJe ne perds jamais, soit je gagne, soit j'apprends.
+\bGrâce à toi, je vais pouvoir progresser et apprendre de mes erreurs.
+\bGrâce à toi, je vais pouvoir progresser et apprendre de mes erreurs.
+\b???: Croâporal ! Attaque Vibraqua !
+\b???: Croâporal ! Attaque Vibraqua !
+\f[frogadier scared]...
+\f[frogadier scared]...
+\b???: Mais... mais reviens !
+\b???: Mais... mais reviens !
+\f[mightyena angry]...
+\f[mightyena angry]...
+\b???: Eeeeuuuuuh... tout doux... gentil doggo...
+\b???: Eeeeuuuuuh... tout doux... gentil doggo...
+\b???: Aaaaaahhh !! Toi !! S'il te plaît aide-moi !!
+\b???: Aaaaaahhh !! Toi !! S'il te plaît aide-moi !!
+Soigner mon équipe
+Soigner mon équipe
+Liste des Pokémon disponible
+Liste des Pokémon disponible
+J'ai fini !
+J'ai fini !

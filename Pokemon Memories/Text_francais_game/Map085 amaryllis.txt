@@ -1,0 +1,58 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map085]
+\b???: ...
+\b???: ...
+\b???: Sacré vue, hein ?
+\b???: Sacré vue, hein ?
+\b???: Depuis toute petite, j'adore regarder les étoiles.
+\b???: Depuis toute petite, j'adore regarder les étoiles.
+\b???: Ça me rappelle que nous somme entourés d'un espace infini peuplé d'univers inconnus.
+\b???: Ça me rappelle que nous somme entourés d'un espace infini peuplé d'univers inconnus.
+\b???: Étrangement, ça m'apaise.
+\b???: Étrangement, ça m'apaise.
+\b???: Au milieu de cet espace infini, mes problèmes paraîssent insignifiants.
+\b???: Au milieu de cet espace infini, mes problèmes paraîssent insignifiants.
+\b???: On cours toujours après des objectifs superficiels, et on en oublie l'essentiel.
+\b???: On cours toujours après des objectifs superficiels, et on en oublie l'essentiel.
+\b???: Tu ne crois pas ?
+\b???: Tu ne crois pas ?
+\b???: Cette lueur dans ton regard...
+\b???: Cette lueur dans ton regard...
+\b???: Ne t'inquiète pas, tu trouveras un sens à ta quête.
+\b???: Ne t'inquiète pas, tu trouveras un sens à ta quête.
+\b???: Tu as un feu en toi qui a besoin de s'exprimer.
+\b???: Tu as un feu en toi qui a besoin de s'exprimer.
+\b???: Montre-moi ce que vous ressentez, toi et tes Pokémon !
+\b???: Montre-moi ce que vous ressentez, toi et tes Pokémon !
+\b???: Tu devras faire des choix difficiles, mais tu vas y arriver.
+\b???: Tu devras faire des choix difficiles, mais tu vas y arriver.
+\b???: Tiens, on va t'entraîner un peu !
+\b???: Tiens, on va t'entraîner un peu !
+\b???: Tu choisis qui ?
+\b???: Tu choisis qui ?
+\b???: Bon courage pour la suite !
+\b???: Bon courage pour la suite !
+...
+...
+\bMIA: Ok la team.
+\bMIA: Ok la team.
+\bMIA: C'est l'heure du-
+\bMIA: C'est l'heure du-
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+Le potentiel de vos Pokémon a été maximisé.
+Le potentiel de vos Pokémon a été maximisé.
+Arcko
+Arcko
+Poussifeu
+Poussifeu
+Gobou
+Gobou

@@ -1,0 +1,54 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map001]
+Voulez-vous jouer en mode normal ou difficile ?
+Voulez-vous jouer en mode normal ou difficile ?
+Le jeu est encore en cours de développement. N'hésitez pas à sauvegarder régulièrement.
+Le jeu est encore en cours de développement. N'hésitez pas à sauvegarder régulièrement.
+\rBonjour. Je vous attendais.
+\rBonjour. Je vous attendais.
+\rBienvenue dans le monde des Pokémon.
+\rBienvenue dans le monde des Pokémon.
+\rJe m'appelle Raya Koa, et j'étudie les comportements des Pokémon.
+\rJe m'appelle Raya Koa, et j'étudie les comportements des Pokémon.
+\rCertaines espèces vivent en harmonie avec celles qui les entourent.
+\rCertaines espèces vivent en harmonie avec celles qui les entourent.
+\rD'autres sont en lutte constante pour leur survie.
+\rD'autres sont en lutte constante pour leur survie.
+\rLa diversité présente dans la nature me fascine.
+\rLa diversité présente dans la nature me fascine.
+\rC'est pour essayer de la préserver que je me lève tout les matins.
+\rC'est pour essayer de la préserver que je me lève tout les matins. 
+\rBref, assez parlé de moi.
+\rBref, assez parlé de moi.
+\rC'est laquelle ta photo ?
+\rC'est laquelle ta photo ?
+\rQuel est ton nom ?
+\rQuel est ton nom ?
+\rTu t'appelles \PN?
+\rTu t'appelles \PN?
+\r\PN, ton aventure est sur le point de commencer !
+\r\PN, ton aventure est sur le point de commencer !
+\rParcours le monde, apprends des autres, et-
+\rParcours le monde, apprends des autres, et-
+\b???: RAYOOOUUUUUUUU!! OUVRE-MOI BESTIE!!
+\b???: RAYOOOUUUUUUUU!! OUVRE-MOI BESTIE!!
+\rRAYA: (Mia, c'est pas le moment. Je suis occupée là.)
+\rRAYA: (Mia, c'est pas le moment. Je suis occupée là.)
+\bMIA: T'AS DIS QUOI !?!
+\bMIA: T'AS DIS QUOI !?!
+\bMIA: BON, JE RENTRE !
+\bMIA: BON, JE RENTRE !
+Normal
+Normal
+Difficile
+Difficile
+Gauche
+Gauche
+Droite
+Droite
+Oui
+Oui
+Non
+Non

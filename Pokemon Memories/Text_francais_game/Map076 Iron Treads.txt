@@ -1,0 +1,138 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map076]
+\rRAYA: ALLER DONPHAN !! ON DOIT Y ALLER MAINTENANT !!
+\rRAYA: ALLER DONPHAN !! ON DOIT Y ALLER MAINTENANT !!
+\f[irontreads happy]...
+\f[irontreads happy]...
+\rRAYA: Donphan ?
+\rRAYA: Donphan ?
+\rRAYA: Wow ! Tu t'es amélioré ! Bravo mon grand !
+\rRAYA: Wow ! Tu t'es amélioré ! Bravo mon grand !
+\rRAYA: Je suis si contente de vous avoir retrouvé...
+\rRAYA: Je suis si contente de vous avoir retrouvé...
+\rRAYA: Aller ! Les autres ne doivent pas être loin !
+\rRAYA: Aller ! Les autres ne doivent pas être loin !
+\f[ironvaliant happy]...
+\f[ironvaliant happy]...
+\f[phanpy neutre]...
+\f[phanpy neutre]...
+\rRAYA: Pour l'intestin grêle c'est... le duodénum, le jéjunum et l'iléon !
+\rRAYA: Pour l'intestin grêle c'est... le duodénum, le jéjunum et l'iléon !
+\f[phanpy happy]...
+\f[phanpy happy]...
+\rRAYA: Ceux qui sont mobiles c'est le jéjunum et...
+\rRAYA: Ceux qui sont mobiles c'est le jéjunum et...
+\rRAYA: Merde, c'est lequel des deux déjà ?
+\rRAYA: Merde, c'est lequel des deux déjà ?
+\rRAYA: Raaaaahhhh, Phanpy, je vais jamais y arriveeeeerrrr !!
+\rRAYA: Raaaaahhhh, Phanpy, je vais jamais y arriveeeeerrrr !!
+\f[phanpy sad]...
+\f[phanpy sad]...
+\rRAYA: T'es bien le seul à y croire...
+\rRAYA: T'es bien le seul à y croire...
+\rRAYA: L'examen, c'est demain. Tu vois bien que je suis pas prête du tout...
+\rRAYA: L'examen, c'est demain. Tu vois bien que je suis pas prête du tout...
+\f[phanpy determination]...
+\f[phanpy determination]...
+\rRAYA: T'as raison. Je vais faire de mon mieux, et on verra !
+\rRAYA: T'as raison. Je vais faire de mon mieux, et on verra !
+\rRAYA: Facile, c'est le cortex préfontal.
+\rRAYA: Facile, c'est le cortex préfontal.
+\rRAYA: Ouf, on a semé ces foutues sentinelles.
+\rRAYA: Ouf, on a semé ces foutues sentinelles.
+\rRAYA: C'est bizarre, elles ont arrêté de nous suivre ici...
+\rRAYA: C'est bizarre, elles ont arrêté de nous suivre ici...
+\rRAYA: C'est... DONPHAN !?
+\rRAYA: C'est... DONPHAN !?
+\rRAYA: Hé merde, j'ai perdu.
+\rRAYA: Hé merde, j'ai perdu.
+\rRAYA: ALLER MON GRAND !! J'ATTENDS TES QUESTIONS !!
+\rRAYA: ALLER MON GRAND !! J'ATTENDS TES QUESTIONS !!
+\f[squawkabilly]Selon le Pokédex, Zacian est:
+\f[squawkabilly]Selon le Pokédex, Zacian est:
+\f[ironvaliant neutre]...
+\f[ironvaliant neutre]...
+\rRAYA: Ah bon ?
+\rRAYA: Ah bon ?
+\rRAYA: Question suivante !
+\rRAYA: Question suivante !
+\f[squawkabilly]Si un Pokémon possédait tous les types, il serait faible au type:
+\f[squawkabilly]Si un Pokémon possédait tous les types, il serait faible au type:
+\rRAYA: Hé oh, ça fait longtemps que j'ai pas étudié ça, ok !?
+\rRAYA: Hé oh, ça fait longtemps que j'ai pas étudié ça, ok !?
+\rRAYA: BIM !! Question suivante !
+\rRAYA: BIM !! Question suivante !
+\f[squawkabilly]Selon le Pokédex, quel Pokémon a pour catégorie "Dragon" ?
+\f[squawkabilly]Selon le Pokédex, quel Pokémon a pour catégorie "Dragon" ?
+\rRAYA: Tu veux pas me donner les réponses au lieu de râler ?
+\rRAYA: Tu veux pas me donner les réponses au lieu de râler ?
+\rRAYA: Et c'eeeeesssst bon !
+\rRAYA: Et c'eeeeesssst bon ! 
+\rRAYA: ALLER DONPHAN !! ON REDESCEND MAINTENANT !!
+\rRAYA: ALLER DONPHAN !! ON REDESCEND MAINTENANT !!
+\rRAYA: DONPHAN !? QU'EST-CE QUE TU FAIS LÀ- HAUT !?
+\rRAYA: DONPHAN !? QU'EST-CE QUE TU FAIS LÀ- HAUT !?
+\rRAYA: MOI AUSSI JE SUIS CONTENT DE TE VOIR, MON GRAND !!
+\rRAYA: MOI AUSSI JE SUIS CONTENT DE TE VOIR, MON GRAND !!
+\rRAYA: EUUUHHH... MAINTENANT !? MAIS ON DOIT RETROUVER LES AUTRES !!
+\rRAYA: EUUUHHH... MAINTENANT !? MAIS ON DOIT RETROUVER LES AUTRES !!
+\rRAYA: BON OK !! MAIS APRÈS ON Y VA !!
+\rRAYA: BON OK !! MAIS APRÈS ON Y VA !!
+\f[squawkabilly]Prêt pour le Super Méga Quizz de Donphan !?
+\f[squawkabilly]Prêt pour le Super Méga Quizz de Donphan !?
+\rRAYA: Prête !
+\rRAYA: Prête !
+\f[squawkabilly]Alors c'est parti !
+\f[squawkabilly]Alors c'est parti !
+\f[squawkabilly]Parmi ces Pokémon, lequel n'a pas une évolution de type combat ?
+\f[squawkabilly]Parmi ces Pokémon, lequel n'a pas une évolution de type combat ?
+\rRAYA: Roooh, ça va ! L'erreur est humaine !
+\rRAYA: Roooh, ça va ! L'erreur est humaine !
+\rRAYA: C'est trivial, ça.
+\rRAYA: C'est trivial, ça.
+\f[squawkabilly]Selon le Pokédex, quelle est la température corporelle de Volcaropod ?
+\f[squawkabilly]Selon le Pokédex, quelle est la température corporelle de Volcaropod ?
+\f[squawkabilly]Parmis ces Pokémon, lequel est de type insecte/ténèbre ?
+\f[squawkabilly]Parmis ces Pokémon, lequel est de type insecte/ténèbre ?
+\rRAYA: Mais la question est super dure aussi...
+\rRAYA: Mais la question est super dure aussi...
+\rRAYA: J'espère que les prochaines questions seront plus difficiles.
+\rRAYA: J'espère que les prochaines questions seront plus difficiles.
+Un mâle
+Un mâle
+Une femelle
+Une femelle
+Asexué
+Asexué
+Fée
+Fée
+Combat
+Combat
+Roche
+Roche
+Muplodocus
+Muplodocus
+Dracolosse
+Dracolosse
+Tranchodon
+Tranchodon
+Poussifeu
+Poussifeu
+Salamèche
+Salamèche
+Ouisticram
+Ouisticram
+1 000 °C
+1 000 °C
+10 000 °C
+10 000 °C
+100 000 °C
+100 000 °C
+Migalos
+Migalos
+Munja
+Munja
+Gambex
+Gambex

@@ -1,0 +1,28 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map087]
+L'Anomalie
+L'Anomalie
+L'intelligence purement humaine est vouée à disparaître.
+L'intelligence purement humaine est vouée à disparaître.
+Transcript 23/05/2028
+Transcript 23/05/2028
+Compte rendu des tests d'aptitudes.
+Compte rendu des tests d'aptitudes.
+Transcript 15/03/2031
+Transcript 15/03/2031
+Rapport d'aptitude: EVE et ADAM
+Rapport d'aptitude: EVE et ADAM
+Qu'est-ce qui définit une conscience ?
+Qu'est-ce qui définit une conscience ?
+Transcript 13/04/2029
+Transcript 13/04/2029
+Rapport d'activité: sujets 400 à 499
+Rapport d'activité: sujets 400 à 499
+Le paradoxe de Derek Parfit
+Le paradoxe de Derek Parfit
+Rapport d'activité: sujets 800 à 899
+Rapport d'activité: sujets 800 à 899
+La loi de Moore se vérifie avec les années.
+La loi de Moore se vérifie avec les années.

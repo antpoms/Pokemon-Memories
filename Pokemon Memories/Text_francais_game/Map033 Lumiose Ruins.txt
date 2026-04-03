@@ -1,0 +1,94 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map033]
+\bJE DOIS ACCOMPLIR MA MISSION.
+\bJE DOIS ACCOMPLIR MA MISSION.
+\bÉCHEC DE LA MISSION.
+\bÉCHEC DE LA MISSION.
+\rRAYA: Millie, c'est toi ?
+\rRAYA: Millie, c'est toi ?
+\rRAYA: Dieu merci, tu vas bien !
+\rRAYA: Dieu merci, tu vas bien !
+\rRAYA: Comment s'est fini l'opération ? Einer a été arrêté ?
+\rRAYA: Comment s'est fini l'opération ? Einer a été arrêté ? 
+\bMILLIE: ...
+\bMILLIE: ...
+\rRAYA: M...Millie ?
+\rRAYA: M...Millie ?
+\rRAYA: Pourquoi tu me regardes comme ça ?
+\rRAYA: Pourquoi tu me regardes comme ça ?
+\rRAYA: Millie ?
+\rRAYA: Millie ?
+\bMILLIE: Je n'abandonnerai pas.
+\bMILLIE: Je n'abandonnerai pas.
+\rRAYA: Hé ! Reviens !
+\rRAYA: Hé ! Reviens !
+\rRAYA: ...
+\rRAYA: ...
+\rRAYA: ... Pourquoi ?
+\rRAYA: ... Pourquoi ?
+Rapport Biodiversité et Climat 2031
+Rapport Biodiversité et Climat 2031
+2030 a été l'année la plus chaude jamais enregistrée à Kalos.
+2030 a été l'année la plus chaude jamais enregistrée à Kalos.
+Mégafeux de forêts, inondations, sécheresses se sont succédés lors de cette année marquée par les conséquences du dérèglement climatique.
+Mégafeux de forêts, inondations, sécheresses se sont succédés lors de cette année marquée par les conséquences du dérèglement climatique.
+Des conséquences qui ont également provoqué des pertes majeures de biodiversité.
+Des conséquences qui ont également provoqué des pertes majeures de biodiversité.
+En 2030, 28% des espèces des milieux humides sont considérées comme éteintes ou menacées selon la Liste rouge nationale.
+En 2030, 28% des espèces des milieux humides sont considérées comme éteintes ou menacées selon la Liste rouge nationale.
+La taille moyenne des populations de Pokémons sauvages suivies a diminué de 73 % entre 1970 et 2030.
+La taille moyenne des populations de Pokémons sauvages suivies a diminué de 73 % entre 1970 et 2030.
+Les espèces d'eaux douces affichent le plus fort déclin (85%), suivi des espèces terrestres (69%) et maritimes (56%).
+Les espèces d'eaux douces affichent le plus fort déclin (85%), suivi des espèces terrestres (69%) et maritimes (56%).
+Les différents indicateurs du domaine montrent tous que la nature disparaît à un rythme inquiétant.
+Les différents indicateurs du domaine montrent tous que la nature disparaît à un rythme inquiétant.
+Si certaines transformations peuvent être mineures et progressives, leurs effets cumulatifs peuvent accélérer et accentuer le changement.
+Si certaines transformations peuvent être mineures et progressives, leurs effets cumulatifs peuvent accélérer et accentuer le changement.
+Quand les impacts se cumulent et atteignent un certain seuil, le changement s’auto-alimente, entrainant des impacts graves et irréversibles.
+Quand les impacts se cumulent et atteignent un certain seuil, le changement s’auto-alimente, entrainant des impacts graves et irréversibles.
+C’est ce qu’on appelle un point de bascule.
+C’est ce qu’on appelle un point de bascule.
+L’apparition de plusieurs points de bascule est très probable si les tendances actuelles se poursuivent.
+L’apparition de plusieurs points de bascule est très probable si les tendances actuelles se poursuivent.
+Leurs dépassement entrainerait des conséquences catastrophique pour l'humanité et la plupart des espèces.
+Leurs dépassement entrainerait des conséquences catastrophique pour l'humanité et la plupart des espèces.
+La disparition massive des récifs coralliens détruirait la pêche et empêcherait la protection de millions de personnes vivant sur la côte contre les tempêtes.
+La disparition massive des récifs coralliens détruirait la pêche et empêcherait la protection de millions de personnes vivant sur la côte contre les tempêtes.
+La fonte des calottes glaciaires entraînerait une élévation du niveau de la mer de plusieurs mètres.
+La fonte des calottes glaciaires entraînerait une élévation du niveau de la mer de plusieurs mètres.
+Les points de bascule de la forêt tropicale et des calottes glacières libérerait des tonnes de carbone et de méthane dans l’atmosphère.
+Les points de bascule de la forêt tropicale et des calottes glacières libérerait des tonnes de carbone et de méthane dans l’atmosphère.
+D'ici 2050, 1/3 des zones peuplées pourraient devenir inhabitables, et les rendements agricoles pourraient être divisés par 2.
+D'ici 2050, 1/3 des zones peuplées pourraient devenir inhabitables, et les rendements agricoles pourraient être divisés par 2.
+\b???: Besoin d'air ?
+\b???: Besoin d'air ?
+\bINTRU DÉTÉCTÉ. INITIATION DU MODE COMBAT.
+\bINTRU DÉTÉCTÉ. INITIATION DU MODE COMBAT.
+\bINITIATION DU MODE PLS.
+\bINITIATION DU MODE PLS.
+\bMENACE DÉTÉCTÉE. LANCEMENT DU PROTOCOLE OFFENSIF.
+\bMENACE DÉTÉCTÉE. LANCEMENT DU PROTOCOLE OFFENSIF.
+\bMISE À JOUR EN COURS. PROGRESSION: 2%.
+\bMISE À JOUR EN COURS. PROGRESSION: 2%.
+\rRAYA: Aïe...ma tête...
+\rRAYA: Aïe...ma tête...
+\rRAYA: Hé oh ? Y'a quelqu'un ?
+\rRAYA: Hé oh ? Y'a quelqu'un ?
+\rRAYA: G...Gardevoir ?
+\rRAYA: G...Gardevoir ?
+\rRAYA: Qu'est-ce qui t'es arrivé ? Et qu'est-ce qui s'est passé ici ?
+\rRAYA: Qu'est-ce qui t'es arrivé ? Et qu'est-ce qui s'est passé ici ?
+\f[ironvaliant neutre]...
+\f[ironvaliant neutre]...
+\rRAYA: Toi aussi tu ne te souviens de rien ?
+\rRAYA: Toi aussi tu ne te souviens de rien ?
+\rRAYA: Allez viens, il faut qu'on retrouve les autres.
+\rRAYA: Allez viens, il faut qu'on retrouve les autres.
+\f[ironvaliant happy]...
+\f[ironvaliant happy]...
+Gardevoir vous rejoint.
+Gardevoir vous rejoint.
+\rRAYA: C'est bon. On les a semé.
+\rRAYA: C'est bon. On les a semé.

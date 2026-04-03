@@ -1,0 +1,120 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map086]
+\bMIA: Ok la team.
+\bMIA: Ok la team.
+\bMIA: C'est l'heure du-
+\bMIA: C'est l'heure du-
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+Le potentiel de vos Pokémon a été maximisé.
+Le potentiel de vos Pokémon a été maximisé.
+Voulez-vous vous reposer ?
+Voulez-vous vous reposer ?
+\b???: Bonsoir.
+\b???: Bonsoir.
+\b???: Ton nom est... \v[44] ?
+\b???: Ton nom est... \v[44] ?
+\b???: Que pense-tu de ta dresseuse ?
+\b???: Que pense-tu de ta dresseuse ?
+\b???: ...
+\b???: ...
+\b???: Je vois.
+\b???: Je vois.
+\b???: \v[44] à l'air de t'apprécier.
+\b???: \v[44] à l'air de t'apprécier.
+\bMIA: Tu... Tu sais parler aux Pokémon ?
+\bMIA: Tu... Tu sais parler aux Pokémon ?
+\b???: Tout le monde peut leur parler, pour peu qu'on les écoute.
+\b???: Tout le monde peut leur parler, pour peu qu'on les écoute.
+\b???: Le voyage a dû être rude. Vous voulez vous reposer avec nous ?
+\b???: Le voyage a dû être rude. Vous voulez vous reposer avec nous ?
+\b???: Parfait. Installez-vous.
+\b???: Parfait. Installez-vous.
+\b???: Vous voyagez ensemble depuis longtemps ?
+\b???: Vous voyagez ensemble depuis longtemps ?
+\bMIA: Avec ceux qui sont dans cette pièce, depuis quelques jours seulement.
+\bMIA: Avec ceux qui sont dans cette pièce, depuis quelques jours seulement.
+\bMIA: Mais j'ai reçu mon premier Pokémon quand j'avais 8 ans.
+\bMIA: Mais j'ai reçu mon premier Pokémon quand j'avais 8 ans.
+\b???: Où est-il aujourd'hui ?
+\b???: Où est-il aujourd'hui ?
+\bMIA: Leyla devenait un peu trop vieille pour les combats Pokémon, donc je l'ai mise en pension le temps que mon stage se termine.
+\bMIA: Leyla devenait un peu trop vieille pour les combats Pokémon, donc je l'ai mise en pension le temps que mon stage se termine.
+\bMIA: J'ai hâte de la revoir !
+\bMIA: J'ai hâte de la revoir !
+\b???: Tu me rappelles un ami que j'ai connu il y a très longtemps.
+\b???: Tu me rappelles un ami que j'ai connu il y a très longtemps.
+\b???: Vous auriez à peu près le même âge, aujourd'hui...
+\b???: Vous auriez à peu près le même âge, aujourd'hui...
+\bMIA: Où est-il, maintenant ?
+\bMIA: Où est-il, maintenant ?
+\b???: Il continue son voyage à travers le monde.
+\b???: Il continue son voyage à travers le monde.
+\b???: Peut-être se recroisera-t-on un jour, peut-être pas...
+\b???: Peut-être se recroisera-t-on un jour, peut-être pas...
+\bMIA: Vous avez pas des téléphones ? Organisez- vous un weekend !
+\bMIA: Vous avez pas des téléphones ? Organisez- vous un weekend !
+\b???: Hehe... L'Univers est gouverné par des équations étranges mais bien faites.
+\b???: Hehe... L'Univers est gouverné par des équations étranges mais bien faites.
+\b???: Nous pourrions organiser nos retrouvailles, mais le destin nous réuni toujours à un moment ou un autre.
+\b???: Nous pourrions organiser nos retrouvailles, mais le destin nous réuni toujours à un moment ou un autre.
+\b???: Apparemment, les opposés s'attirent..
+\b???: Apparemment, les opposés s'attirent..
+\bMIA: Vous êtes différents ?
+\bMIA: Vous êtes différents ?
+\b???: Disons que nous ne voyons pas le monde de la même manière.
+\b???: Disons que nous ne voyons pas le monde de la même manière.
+\b???: C'est ce qui rends nos conversations intéressantes.
+\b???: C'est ce qui rends nos conversations intéressantes.
+\b???: ...Puis-je te demander quelque chose ?
+\b???: ...Puis-je te demander quelque chose ?
+\bMIA: Bien sûr.
+\bMIA: Bien sûr.
+\b???: Il y a beaucoup de questions que j'aurais aimé poser à mon ami. Puisque vous êtes similaires, peut- être pourras-tu m'apporter des réponses ?
+\b???: Il y a beaucoup de questions que j'aurais aimé poser à mon ami. Puisque vous êtes similaires, peut- être pourras-tu m'apporter des réponses ?
+\bMIA: Okay ! Je suis toute ouïe.
+\bMIA: Okay ! Je suis toute ouïe.
+\b???: Merci.
+\b???: Merci.
+\b???: Est-ce que tu penses que les Humains et les Pokémon pourraient cohabiter sans rapport de domination ?
+\b???: Est-ce que tu penses que les Humains et les Pokémon pourraient cohabiter sans rapport de domination ?
+\b???: Est-ce que tu penses que les Humains sont plus intelligents que les Pokémon ?
+\b???: Est-ce que tu penses que les Humains sont plus intelligents que les Pokémon ?
+\b???: Est-ce que tu penses que la science pourra un jour tout expliquer ?
+\b???: Est-ce que tu penses que la science pourra un jour tout expliquer ?
+\b???: Est-ce que tu manges des Pokémon ?
+\b???: Est-ce que tu manges des Pokémon ?
+\b???: Est-ce que tu penses que les humains sont des Pokémon ?
+\b???: Est-ce que tu penses que les humains sont des Pokémon ?
+\b???: Est-ce qu'on devrait interdire les combats Pokémon ?
+\b???: Est-ce qu'on devrait interdire les combats Pokémon ?
+\b???: Est-ce que tu considères tes Pokémon comme des amis ?
+\b???: Est-ce que tu considères tes Pokémon comme des amis ?
+\b???: Est-ce qu'on peut changer le monde ?
+\b???: Est-ce qu'on peut changer le monde ?
+\b???: Merci pour cette discussion.
+\b???: Merci pour cette discussion.
+\b???: Je ne sais pas si c'est ce qu'il aurait répondu, mais c'était très intéressant.
+\b???: Je ne sais pas si c'est ce qu'il aurait répondu, mais c'était très intéressant.
+\b???: J'espère que nos destins se recroiseront.
+\b???: J'espère que nos destins se recroiseront.
+\b???: Comme vous voulez.
+\b???: Comme vous voulez.
+Oui
+Oui
+Non
+Non
+Ça dépend lesquels
+Ça dépend lesquels
+Peu
+Peu
+C'est un lien différent
+C'est un lien différent

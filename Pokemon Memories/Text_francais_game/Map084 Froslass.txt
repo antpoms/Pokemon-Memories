@@ -1,0 +1,68 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map084]
+Voulez-vous vous reposer ?
+Voulez-vous vous reposer ?
+\bMIA: Ok la team.
+\bMIA: Ok la team.
+\bMIA: C'est l'heure du-
+\bMIA: C'est l'heure du-
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+Le potentiel de vos Pokémon a été maximisé.
+Le potentiel de vos Pokémon a été maximisé.
+\bVIEILLE DAME: Faites comme chez vous. Le froid a dû vous épuiser.
+\bVIEILLE DAME: Faites comme chez vous. Le froid a dû vous épuiser.
+\bVIEILLE DAME: J'étais justement en train de préparer le thé. Voulez-vous vous joindre à moi ?
+\bVIEILLE DAME: J'étais justement en train de préparer le thé. Voulez-vous vous joindre à moi ?
+\bVIEILLE DAME: Bien. Installez-vous, je vous en prie.
+\bVIEILLE DAME: Bien. Installez-vous, je vous en prie.
+\bVIEILLE DAME: Connaissez-vous l'histoire de la dame à la robe blanche ?
+\bVIEILLE DAME: Connaissez-vous l'histoire de la dame à la robe blanche ?
+\bVIEILLE DAME: Elle est assez répandue dans la région.
+\bVIEILLE DAME: Elle est assez répandue dans la région.
+\bVIEILLE DAME: On raconte qu'il y a très longtemps, vivait au village une jeune fille magnifique.
+\bVIEILLE DAME: On raconte qu'il y a très longtemps, vivait au village une jeune fille magnifique.
+\bVIEILLE DAME: Tout les prétendants de la région était à ses pieds, mais elle n'en avait que faire.
+\bVIEILLE DAME: Tout les prétendants de la région était à ses pieds, mais elle n'en avait que faire. 
+\bVIEILLE DAME: Ces perspectives de mariage ne l'intéressait guère, car elle était plus attirée par d'autres interêts.
+\bVIEILLE DAME: Ces perspectives de mariage ne l'intéressait guère, car elle était plus attirée par d'autres interêts.
+\bVIEILLE DAME: Depuis toute petite, elle était fascinée par la musique, et se voyait chanteuse d'opéra.
+\bVIEILLE DAME: Depuis toute petite, elle était fascinée par la musique, et se voyait chanteuse d'opéra.
+\bVIEILLE DAME: Elle dévouait tout son temps libre à l'apprentissage du piano, de la danse, et du chant.
+\bVIEILLE DAME: Elle dévouait tout son temps libre à l'apprentissage du piano, de la danse, et du chant.
+\bVIEILLE DAME: Un jour, le fils du roi lui-même arriva dans le village, et tomba immédiatement sous son charme.
+\bVIEILLE DAME: Un jour, le fils du roi lui-même arriva dans le village, et tomba immédiatement sous son charme.
+\bVIEILLE DAME: Il la voyait déjà mère des futurs héritiers de la couronne.
+\bVIEILLE DAME: Il la voyait déjà mère des futurs héritiers de la couronne.
+\bVIEILLE DAME: Il demanda sa main.
+\bVIEILLE DAME: Il demanda sa main.
+\bVIEILLE DAME: Ne voulant pas abandonner son rêve, elle refusa. Mais... son père accepta.
+\bVIEILLE DAME: Ne voulant pas abandonner son rêve, elle refusa. Mais... son père accepta.
+\bVIEILLE DAME: Le jour de son mariage, personne n'est venu rejoindre le prince à l'autel.
+\bVIEILLE DAME: Le jour de son mariage, personne n'est venu rejoindre le prince à l'autel.
+\bVIEILLE DAME: La jeune fille s'était enfui dans les montagne, espérant pouvoir atteindre la ville et refaire sa vie.
+\bVIEILLE DAME: La jeune fille s'était enfui dans les montagne, espérant pouvoir atteindre la ville et refaire sa vie.
+\bVIEILLE DAME: On retrouva son corps enfoui dans la neige quelques jours plus tard, encore dans sa robe blanche.
+\bVIEILLE DAME: On retrouva son corps enfoui dans la neige quelques jours plus tard, encore dans sa robe blanche.
+\bMIA: Wow... la pauvre...
+\bMIA: Wow... la pauvre...
+\bVIEILLE DAME: Ne vous en faites pas. Elle va mieux aujourd'hui...
+\bVIEILLE DAME: Ne vous en faites pas. Elle va mieux aujourd'hui...
+\f[froslass]...
+\f[froslass]...
+La dame à la robe blanche apprécie votre audace.
+La dame à la robe blanche apprécie votre audace.
+Elle décide de se joindre à vous.
+Elle décide de se joindre à vous.
+Oui
+Oui
+Non
+Non

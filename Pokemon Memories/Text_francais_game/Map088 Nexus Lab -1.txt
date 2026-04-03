@@ -1,0 +1,86 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map088]
+\bMIA: M...Merde ! Il est trop fort !
+\bMIA: M...Merde ! Il est trop fort !
+\rRAYA: Retiens-le encore un peu ! J'ai des potions, attrape !
+\rRAYA: Retiens-le encore un peu ! J'ai des potions, attrape !
+\bSTEVE: Steve Stevenson, lead manager CGRI de Nexus Corporation.
+\bSTEVE: Steve Stevenson, lead manager CGRI de Nexus Corporation.
+\bSTEVE: Que puis-je faire pour vous les miss ?
+\bSTEVE: Que puis-je faire pour vous les miss ?
+\rRAYA: C'est vous qui dirigez tout ça ?
+\rRAYA: C'est vous qui dirigez tout ça ?
+\bSTEVE: Bien sûr que non.
+\bSTEVE: Bien sûr que non.
+\bSTEVE: Je viens de vous dire que j'étais lead manager CGRI, et ce service dépend clairement du CTO DRRD.
+\bSTEVE: Je viens de vous dire que j'étais lead manager CGRI, et ce service dépend clairement du CTO DRRD. 
+\bSTEVE: Vous connaissez pas l'organigramme ? C'est qui votre manager ?
+\bSTEVE: Vous connaissez pas l'organigramme ? C'est qui votre manager ?
+\bMIA: Je vais le frapper.
+\bMIA: Je vais le frapper.
+\rRAYA: Moi aussi.
+\rRAYA: Moi aussi.
+\bSTEVE: Wow ! calmos les miss ! Cet endroit est rempli de Pokémon très puissants, et maintenant ils sont dans ma team.
+\bSTEVE: Wow ! calmos les miss ! Cet endroit est rempli de Pokémon très puissants, et maintenant ils sont dans ma team.
+\bSTEVE: J'imagine que vous non plus, vous n'êtes pas censées être ici, donc je vous propose un deal.
+\bSTEVE: J'imagine que vous non plus, vous n'êtes pas censées être ici, donc je vous propose un deal.
+\bSTEVE: Vous faites pas de vague, je tire quelques ficelles, et à la fin, on fait 50/50 sur les bénéfices du projet. Qu'est-ce que vous en dites ?
+\bSTEVE: Vous faites pas de vague, je tire quelques ficelles, et à la fin, on fait 50/50 sur les bénéfices du projet. Qu'est-ce que vous en dites ?
+\rRAYA: Ok je vais le frapper.
+\rRAYA: Ok je vais le frapper.
+\bSTEVE: Oh... Waw...
+\bSTEVE: Oh... Waw...
+\bSTEVE: Vous... Vous êtes fortes, hein ?
+\bSTEVE: Vous... Vous êtes fortes, hein ?
+\rRAYA: Dégage.
+\rRAYA: Dégage.
+\bSTEVE: Ok !
+\bSTEVE: Ok !
+\rRAYA: Ça a l'air d'être le poste de contrôle. Je libère les prisonniers.
+\rRAYA: Ça a l'air d'être le poste de contrôle. Je libère les prisonniers.
+\rRAYA: Je transmet les données sur un disque dur, puis on se casse.
+\rRAYA: Je transmet les données sur un disque dur, puis on se casse.
+\f[garchomp angry]...
+\f[garchomp angry]...
+Affronter le sujet 466 ?
+Affronter le sujet 466 ?
+\bMIA: Tout doux... On est pas obligés de se battre.
+\bMIA: Tout doux... On est pas obligés de se battre.
+\f[garchomp]...
+\f[garchomp]...
+\f[garchomp pain]...
+\f[garchomp pain]...
+\bMIA: Calme-toi, ça va aller !
+\bMIA: Calme-toi, ça va aller !
+\f[garchomp special]...
+\f[garchomp special]...
+\bMIA: Attends ! Reviens !
+\bMIA: Attends ! Reviens !
+\rRAYA: Laisse. Il faut qu'on y aille avant que la sécurité arrive.
+\rRAYA: Laisse. Il faut qu'on y aille avant que la sécurité arrive.
+\rRAYA: Viens !
+\rRAYA: Viens !
+\bMIA: Ok la team.
+\bMIA: Ok la team.
+\bMIA: C'est l'heure du-
+\bMIA: C'est l'heure du-
+\rRAYA: Nop. C'est vraiment pas le moment.
+\rRAYA: Nop. C'est vraiment pas le moment.
+\rRAYA: Tenez. Prenez des vitamines.
+\rRAYA: Tenez. Prenez des vitamines.
+Le potentiel de vos Pokémon a été maximisé.
+Le potentiel de vos Pokémon a été maximisé.
+\bSORTEZ D'ICI IMMËDIATEMMENT !
+\bSORTEZ D'ICI IMMËDIATEMMENT !
+\bMAIS SORTEZ EUH
+\bMAIS SORTEZ EUH
+\bALERTE ! INTRUS ! ALERTE ! INTRUS !
+\bALERTE ! INTRUS ! ALERTE ! INTRUS ! 
+\bALERTE ! ALERTE !
+\bALERTE ! ALERTE !
+Oui
+Oui
+Non
+Non

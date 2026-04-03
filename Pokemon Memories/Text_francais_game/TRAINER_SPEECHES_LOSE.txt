@@ -1,0 +1,122 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[TRAINER_SPEECHES_LOSE]
+A very good battle, indeed!
+A very good battle, indeed!
+Very good.
+Very good.
+You're too good for me!
+You're too good for me!
+Aww, I lost.
+Aww, I lost.
+You beat me again!
+You beat me again!
+Defeated! Oh my!
+Defeated! Oh my!
+Washed out!
+Washed out!
+My Skitty!
+My Skitty!
+You didn't have to win so convincingly!
+You didn't have to win so convincingly!
+Our teamwork failed!
+Our teamwork failed!
+...
+...
+Not too shabby.
+Not too shabby.
+A good battle indeed!
+A good battle indeed!
+Je surestime peut-être mes compétences.
+Je surestime peut-être mes compétences.
+Feur.
+Feur.
+Humain humain...
+Humain humain...
+Bien ouèj.
+Bien ouèj.
+Pas mal. On va dire que tu es engagée.
+Pas mal. On va dire que tu es engagée.
+Alors Voltoutou ? Tu es content ?
+Alors Voltoutou ? Tu es content ?
+ERREUR. DÉFAITE ENREGISTRÉE.
+ERREUR. DÉFAITE ENREGISTRÉE.
+ÉCHEC DE LA MISSION.
+ÉCHEC DE LA MISSION.
+ÉCHEC. MISE À JOUR DU SYSTÈME.
+ÉCHEC. MISE À JOUR DU SYSTÈME.
+Skibidi rizz.
+Skibidi rizz.
+Habile.
+Habile.
+C'est fou, je n'ai pensé à aucune banane durant ce combat.
+C'est fou, je n'ai pensé à aucune banane durant ce combat.
+Je rentre en growth zone.
+Je rentre en growth zone.
+Mes genoux boudent si je ne sors pas en shorts.
+Mes genoux boudent si je ne sors pas en shorts.
+Cool. J'ai gagné.
+Cool. J'ai gagné.
+Wow… Vous êtes trop forte !
+Wow… Vous êtes trop forte !
+Wow ! Quel flow !
+Wow ! Quel flow !
+Merci.
+Merci.
+Fuck, j'ai fail le training.
+Fuck, j'ai fail le training.
+Pas mal.
+Pas mal.
+J'ai beaucoup appris.
+J'ai beaucoup appris.
+La nuit, je les entends...
+La nuit, je les entends...
+Wow ! Toi aussi apparemment !
+Wow ! Toi aussi apparemment !
+J'étais pourtant certains que j'allais gagner.
+J'étais pourtant certains que j'allais gagner.
+Tu es en bonne voie.
+Tu es en bonne voie.
+Tu avais prévu ce combat ?
+Tu avais prévu ce combat ?
+Je dois encore progresser.
+Je dois encore progresser.
+Même ça, je peux pas y arriver...
+Même ça, je peux pas y arriver...
+Hehe...
+Hehe...
+Ok. On va le faire.
+Ok. On va le faire.
+MISE À JOUR EN COURS: 4%
+MISE À JOUR EN COURS: 4%
+10100101001110011111
+10100101001110011111
+PROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L!Cz02'zPHDkpF/4|{
+PROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L!Cz02'zPHDkpF/4|{
+J'AI ÉTÉ MAL PROGRAMMÉ
+J'AI ÉTÉ MAL PROGRAMMÉ
+MA STRATÉGIE EST BATTABLE.
+MA STRATÉGIE EST BATTABLE.
+BIP BIP BOUP. J'AI PERDU.
+BIP BIP BOUP. J'AI PERDU.
+VOUS REFUSEZ MES COOKIES ?
+VOUS REFUSEZ MES COOKIES ?
+:(
+:(
+BOMBARDIRO CROCODILO
+BOMBARDIRO CROCODILO
+J'AI ENCORE PERDU. OUIN.
+J'AI ENCORE PERDU. OUIN.
+CECI N'EST PAS UNE IMAGE DE VOITURE.
+CECI N'EST PAS UNE IMAGE DE VOITURE.
+VOUS PRÉFÉREZ UN THÉ ?
+VOUS PRÉFÉREZ UN THÉ ?
+SORTEZ IMMÉDIATEMMENT S'IL-VOUS-PLAÎT ?
+SORTEZ IMMÉDIATEMMENT S'IL-VOUS-PLAÎT ?
+ALERTE ! ALERTE !
+ALERTE ! ALERTE !
+On fait 40/60 ?
+On fait 40/60 ?
+T'en as pas marre de gagner ?
+T'en as pas marre de gagner ?
