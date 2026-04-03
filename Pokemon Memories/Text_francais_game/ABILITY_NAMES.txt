@@ -7,82 +7,82 @@ Pouvoir Génétique
 Blood Lust
 Soif de Sang
 Anger Shell
-Anger Shell
+Courroupace
 Armor Tail
-Armor Tail
+Armure Caudale
 Beads of Ruin
-Beads of Ruin
+Perles du Fléau
 Commander
-Commander
+Commandant
 Costar
-Costar
+Collab
 Cud Chew
-Cud Chew
+Ruminant
 Earth Eater
-Earth Eater
+Absorbe-Terre
 Electromorphosis
-Electromorphosis
+Grecharge
 Good as Gold
-Good as Gold
+Corps en or
 Guard Dog
-Guard Dog
+Chien de Garde
 Hadron Engine
-Hadron Engine
+Moteur à Hadrons
 Lingering Aroma
-Lingering Aroma
+Odeur Tenace
 Mycelium Might
-Mycelium Might
+Force Fongique
 Opportunist
-Opportunist
+Opportuniste
 Orichalcum Pulse
-Orichalcum Pulse
+Pouls Orichalque
 Protosynthesis
-Protosynthesis
+Paléosynthèse
 Purifying Salt
-Purifying Salt
+Sel Purificateur
 Quark Drive
-Quark Drive
+Charge Quantique
 Rocky Payload
-Rocky Payload
+Porte-Roche
 Seed Sower
-Seed Sower
+Semencier
 Sharpness
-Sharpness
+Incisif
 Supreme Overlord
-Supreme Overlord
+Général Suprême
 Sword of Ruin
-Sword of Ruin
+Épée du Fléau
 Tablets of Ruin
-Tablets of Ruin
+Tablettes du Fléau
 Thermal Exchange
-Thermal Exchange
+Thermodynamique
 Toxic Debris
-Toxic Debris
+Dépôt Toxique
 Vessel of Ruin
-Vessel of Ruin
+Urne du Fléau
 Well-Baked Body
-Well-Baked Body
+Bien Cuit
 Wind Power
-Wind Power
+Turbine Éolienne
 Wind Rider
-Wind Rider
+Aéroporté
 Zero to Hero
-Zero to Hero
+Supermutation
 Supersweet Syrup
-Supersweet Syrup
+Nectar Mielleux
 Hospitality
-Hospitality
+Aux Petits Soins
 Toxic Chain
-Toxic Chain
+Chaîne Toxique
 Mind's Eye
-Mind's Eye
+Œil Révélateur
 Embody Aspect
-Embody Aspect
+Force Mémorielle
 Poison Puppeteer
-Poison Puppeteer
+Emprise Toxique
 Tera Shift
-Tera Shift
+Téramorphose
 Tera Shell
-Tera Shell
+Téra-Carapace
 Teraform Zero
-Teraform Zero
+Téraformation 0

@@ -45,19 +45,19 @@ Scroll of Waters
 Leader's Crest
 Leader's Crest
 Booster Energy
-Booster Energy
+Énergie Booster
 Ability Shield
-Ability Shield
+Garde-Talent
 Clear Amulet
-Clear Amulet
+Talisman Sain
 Mirror Herb
-Mirror Herb
+Herbe Copie
 Punching Glove
-Punching Glove
+Gant de Boxe
 Covert Cloak
-Covert Cloak
+Cape Obscure
 Loaded Dice
-Loaded Dice
+Dé Pipé
 Gimmighoul Coin
 Gimmighoul Coin
 Tiny Bamboo Shoot
@@ -113,7 +113,7 @@ Meteorite
 Briar's Book
 Briar's Book
 Tera Orb
-Tera Orb
+Orbe Téracristal
 Normal Tera Shard
 Normal Tera Shard
 Fire Tera Shard
@@ -161,78 +161,78 @@ Radiant Tera Jewel
 Glimmering Charm
 Glimmering Charm
 Z-Ring
-Z-Ring
+Anneau Z
 Z-Power Ring
-Z-Power Ring
+Super Anneau Z
 Z-Booster
-Z-Booster
+Booster Z
 Normalium Z
-Normalium Z
+Normazélite
 Fightinium Z
-Fightinium Z
+Combazélite
 Flyinium Z
-Flyinium Z
+Aérozélite
 Poisonium Z
-Poisonium Z
+Toxizélite
 Groundium Z
-Groundium Z
+Terrazélite
 Rockium Z
-Rockium Z
+Rocazélite
 Buginium Z
-Buginium Z
+Insectozélite
 Ghostium Z
-Ghostium Z
+Spectrozélite
 Steelium Z
-Steelium Z
+Métallozélite
 Firium Z
-Firium Z
+Pyrozélite
 Waterium Z
-Waterium Z
+Aquazélite
 Grassium Z
-Grassium Z
+Florazélite
 Electrium Z
-Electrium Z
+Voltazélite
 Psychium Z
-Psychium Z
+Psychézélite
 Icium Z
-Icium Z
+Criozélite
 Dragonium Z
-Dragonium Z
+Dracozélite
 Darkinium Z
-Darkinium Z
+Ténébrozélite
 Fairium Z
-Fairium Z
+Nymphézélite
 Pikanium Z
-Pikanium Z
+Pikazélite
 Pikashunium Z
-Pikashunium Z
+Pikachazélite
 Aloraichium Z
-Aloraichium Z
+Aloraïzélite
 Eevium Z
-Eevium Z
+Évozélite
 Snorlium Z
-Snorlium Z
+Ronflézélite
 Mewnium Z
-Mewnium Z
+Mewzélite
 Decidium Z
-Decidium Z
+Archézélite
 Incinium Z
-Incinium Z
+Félinzélite
 Primarium Z
-Primarium Z
+Oratozélite
 Lycanium Z
-Lycanium Z
+Lougarozélite
 Mimikium Z
-Mimikium Z
+Mimiquizélite
 Kommonium Z
-Kommonium Z
+Ékaïzélite
 Tapunium Z
-Tapunium Z
+Tokozélite
 Solganium Z
-Solganium Z
+Solgazélite
 Lunalium Z
-Lunalium Z
+Lunazélite
 Marshadium Z
-Marshadium Z
+Marshadézélite
 Ultranecrozium Z
-Ultranecrozium Z
+Ultranécrozélite
