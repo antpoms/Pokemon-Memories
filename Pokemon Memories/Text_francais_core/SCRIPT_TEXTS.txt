@@ -1987,7 +1987,7 @@ Choisissez un Pokémon de votre groupe à envoyer dans vos boîtes.
 {1} has been sent to Box "{2}".
 {1} a été envoyé à la boîte "{2}".
 {1} has been added to your party.
-{1} a été ajouté à votre groupe.
+{1} a été ajouté à votre équipe.
 {1} has been sent to Box "{2}"!
 {1} a été envoyé à la boîte "{2}" !
 {1}'s data was added to the Pokédex.
@@ -1995,7 +1995,7 @@ Les données de {1} ont été ajoutées au Pokédex.
 {1} threw an {2}!
 {1} a lancé un {2} !
 {1} threw a {2}!
-{1} a lancé un {2} !
+{1} a lancé une {2} !
 The Trainer blocked your Poké Ball! Don't be a thief!
 Le Dresseur a bloqué votre Poké Ball ! Ne soyez pas un voleur !
 Oh no! The Pokémon broke free!
