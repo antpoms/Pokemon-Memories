@@ -2365,7 +2365,7 @@ Mars
 April
 Avril
 May
-Peut
+Mai
 June
 Juin
 July
@@ -2391,13 +2391,13 @@ Avr.
 Jun.
 Juin.
 Jul.
-Juillet.
+Jui.
 Aug.
 Août
 Sep.
 Sep.
 Oct.
-Octobre.
+Oct.
 Nov.
 Nov.
 Dec.
