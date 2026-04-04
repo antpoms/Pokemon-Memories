@@ -1,0 +1,92 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map082]
+Vous ramassez le bois. Plus que 4.
+You pick up the wood. 4 left.
+Vous ramassez le bois. Plus que 3.
+You pick up the wood. 3 left.
+Vous ramassez le bois. Plus que 2.
+You pick up the wood. 2 left.
+Vous ramassez le bois. Plus que 1.
+You pick up the wood. 1 left.
+Vous avez ramassé assez de bois.
+You've gathered enough wood.
+\b???: Pourquoi...
+\b???: Why...
+\b???: Pourquoi ??
+\b???: Why??
+\b???: On était à ça d'y arriver...
+\b???: We were this close to making it...
+\b???: Alors...
+\b???: So...
+\b???: POURQUOI
+\b???: WHY
+\b???: IL A FALLU
+\b???: DID YOU HAVE
+\b???: QUE TU ME LAISSE TOUTE SEULE !?
+\b???: TO LEAVE ME ALL ALONE!?
+\b???: ENCORE TOI !?
+\b???: YOU AGAIN!?
+\b???: MAIS FOUS-MOI LA PAIX À LA FIN !!
+\b???: JUST LEAVE ME THE HELL ALONE!!
+\b???: Je... Je suis vraiment désolé...
+\b???: I... I'm so sorry...
+\b???: J'aurais pas dû m'énerver comme ça. T'y es pour rien...
+\b???: I shouldn't have snapped like that. It's not your fault...
+\bMIA: T'inquiète pas, je comprends.
+\bMIA: Don't worry, I understand.
+\bMIA: Des fois, on a juste besoin d'une occasion de se défouler...
+\bMIA: Sometimes, you just need a chance to let it all out...
+\bMIA: Je... Je sais pas ce qui s'est passé... Mais t'as le droit d'être triste.
+\bMIA: I... I don't know what happened... but you have the right to be sad.
+\b???: ...Merci.
+\b???: ...Thank you.
+\bMIA: Je m'appelle Mia. Et toi ?
+\bMIA: My name's Mia. And yours?
+\b???: Jane.
+\b???: Jane.
+\bJANE: ...Je peux te demander quelque chose ?
+\bJANE: ...Can I ask you something?
+\bMIA: Bien sûr.
+\bMIA: Of course.
+\bJANE: Tes Pokémon ont l'air de t'apprécier. Tu pourrais prendre soin de ce Lokhlass pour moi ?
+\bJANE: Your Pokémon seem to really like you. Could you look after this Lapras for me?
+\bJANE: Je... Je ne peux plus m'occuper de lui.
+\bJANE: I... I can't take care of him anymore.
+\bJANE: C'est bon Mary... J'ai trouvé quelqu'un...
+\bJANE: It's okay, Mary... I found someone...
+\bJANE: J'espère qu'on se reverra, Mia.
+\bJANE: I hope we meet again, Mia.
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Sorry. I... I don't think I can do it today.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: It's so annoying. I can tell she's not okay, but when she's sad she always shuts herself off.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: It would be so much easier if we could just talk about it...
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
+\f[eevee]...
+\f[eevee]...
+\f[glaceon]...
+\f[glaceon]...
+Evoli vous trouve aussi instable que lui !
+Eevee finds you just as unstable as it is!
+Il souhaite vous rejoindre.
+It wishes to join you.
+\bLes certitudes sont dangereuses.
+\bCertainties are dangerous.
+\bQuelqu'un qui doute saura toujours se remettre en question et avancer.
+\bSomeone who doubts will always know how to question themselves and move forward.
+\bUne personneremplie de certitude va se piéger dans ses croyances.
+\bA person full of certainty will trap themselves in their own beliefs.
+\bLa vie est pleine d'imprévus !
+\bLife is full of the unexpected!
+\bLes meilleures choses qui me sont arrivés sont celles que je n'avais pas prévus.
+\bThe best things that ever happened to me were the ones I didn't plan for.

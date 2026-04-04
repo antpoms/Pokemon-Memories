@@ -1,0 +1,120 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map086]
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Sorry. I... I don't think I can do it today.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: It's so annoying. I can tell she's not okay, but when she's sad she always shuts herself off.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: It would be so much easier if we could just talk about it...
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
+Voulez-vous vous reposer ?
+Do you want to rest?
+\b???: Bonsoir.
+\b???: Good evening.
+\b???: Ton nom est... \v[44] ?
+\b???: Your name is... \v[44]?
+\b???: Que pense-tu de ta dresseuse ?
+\b???: What do you think of your trainer?
+\b???: ...
+\b???: ...
+\b???: Je vois.
+\b???: I see.
+\b???: \v[44] à l'air de t'apprécier.
+\b???: \v[44] seems to like you.
+\bMIA: Tu... Tu sais parler aux Pokémon ?
+\bMIA: You... You can talk to Pokémon?
+\b???: Tout le monde peut leur parler, pour peu qu'on les écoute.
+\b???: Anyone can talk to them, as long as they listen.
+\b???: Le voyage a dû être rude. Vous voulez vous reposer avec nous ?
+\b???: The journey must have been rough. Would you like to rest with us?
+\b???: Parfait. Installez-vous.
+\b???: Perfect. Make yourselves at home.
+\b???: Vous voyagez ensemble depuis longtemps ?
+\b???: Have you been traveling together for long?
+\bMIA: Avec ceux qui sont dans cette pièce, depuis quelques jours seulement.
+\bMIA: With the ones in this room, only for a few days.
+\bMIA: Mais j'ai reçu mon premier Pokémon quand j'avais 8 ans.
+\bMIA: But I got my first Pokémon when I was 8 years old.
+\b???: Où est-il aujourd'hui ?
+\b???: Where is it now?
+\bMIA: Leyla devenait un peu trop vieille pour les combats Pokémon, donc je l'ai mise en pension le temps que mon stage se termine.
+\bMIA: Leyla was getting a bit too old for Pokémon battles, so I put her in daycare until my internship is over.
+\bMIA: J'ai hâte de la revoir !
+\bMIA: I can't wait to see her again!
+\b???: Tu me rappelles un ami que j'ai connu il y a très longtemps.
+\b???: You remind me of a friend I knew a very long time ago.
+\b???: Vous auriez à peu près le même âge, aujourd'hui...
+\b???: You'd be about the same age today...
+\bMIA: Où est-il, maintenant ?
+\bMIA: Where is he now?
+\b???: Il continue son voyage à travers le monde.
+\b???: He's continuing his journey across the world.
+\b???: Peut-être se recroisera-t-on un jour, peut-être pas...
+\b???: Perhaps our paths will cross again one day, perhaps not...
+\bMIA: Vous avez pas des téléphones ? Organisez- vous un weekend !
+\bMIA: Don't you guys have phones? Just plan a weekend trip!
+\b???: Hehe... L'Univers est gouverné par des équations étranges mais bien faites.
+\b???: Hehe... The Universe is governed by strange but well-crafted equations.
+\b???: Nous pourrions organiser nos retrouvailles, mais le destin nous réuni toujours à un moment ou un autre.
+\b???: We could organize a reunion, but destiny always brings us together at one point or another.
+\b???: Apparemment, les opposés s'attirent..
+\b???: Apparently, opposites attract...
+\bMIA: Vous êtes différents ?
+\bMIA: Are you two different?
+\b???: Disons que nous ne voyons pas le monde de la même manière.
+\b???: Let's just say we don't see the world the same way.
+\b???: C'est ce qui rends nos conversations intéressantes.
+\b???: That's what makes our conversations interesting.
+\b???: ...Puis-je te demander quelque chose ?
+\b???: ...May I ask you something?
+\bMIA: Bien sûr.
+\bMIA: Of course.
+\b???: Il y a beaucoup de questions que j'aurais aimé poser à mon ami. Puisque vous êtes similaires, peut- être pourras-tu m'apporter des réponses ?
+\b???: There are many questions I wish I'd asked my friend. Since you're similar, perhaps you can provide some answers?
+\bMIA: Okay ! Je suis toute ouïe.
+\bMIA: Okay! I'm all ears.
+\b???: Merci.
+\b???: Thank you.
+\b???: Est-ce que tu penses que les Humains et les Pokémon pourraient cohabiter sans rapport de domination ?
+\b???: Do you think Humans and Pokémon could coexist without a relationship of dominance?
+\b???: Est-ce que tu penses que les Humains sont plus intelligents que les Pokémon ?
+\b???: Do you think Humans are more intelligent than Pokémon?
+\b???: Est-ce que tu penses que la science pourra un jour tout expliquer ?
+\b???: Do you think science will one day be able to explain everything?
+\b???: Est-ce que tu manges des Pokémon ?
+\b???: Do you eat Pokémon?
+\b???: Est-ce que tu penses que les humains sont des Pokémon ?
+\b???: Do you think humans are Pokémon?
+\b???: Est-ce qu'on devrait interdire les combats Pokémon ?
+\b???: Should Pokémon battles be banned?
+\b???: Est-ce que tu considères tes Pokémon comme des amis ?
+\b???: Do you consider your Pokémon as friends?
+\b???: Est-ce qu'on peut changer le monde ?
+\b???: Can we change the world?
+\b???: Merci pour cette discussion.
+\b???: Thank you for this discussion.
+\b???: Je ne sais pas si c'est ce qu'il aurait répondu, mais c'était très intéressant.
+\b???: I don't know if that's how he would have answered, but it was very interesting.
+\b???: J'espère que nos destins se recroiseront.
+\b???: I hope our destinies cross again.
+\b???: Comme vous voulez.
+\b???: As you wish.
+Oui
+Yes
+Non
+No
+Ça dépend lesquels
+It depends on which ones
+Peu
+Not much
+C'est un lien différent
+It's a different kind of bond

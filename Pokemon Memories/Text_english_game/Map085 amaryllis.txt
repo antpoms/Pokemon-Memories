@@ -1,0 +1,58 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map085]
+\b???: ...
+\b???: ...
+\b???: Sacré vue, hein ?
+\b???: Quite a view, isn't it?
+\b???: Depuis toute petite, j'adore regarder les étoiles.
+\b???: Since I was a little girl, I've loved looking at the stars.
+\b???: Ça me rappelle que nous somme entourés d'un espace infini peuplé d'univers inconnus.
+\b???: It reminds me that we're surrounded by an infinite space filled with unknown universes.
+\b???: Étrangement, ça m'apaise.
+\b???: Strangely, it calms me down.
+\b???: Au milieu de cet espace infini, mes problèmes paraîssent insignifiants.
+\b???: In the middle of all that infinite space, my problems seem insignificant.
+\b???: On cours toujours après des objectifs superficiels, et on en oublie l'essentiel.
+\b???: We're always chasing superficial goals and forgetting what really matters.
+\b???: Tu ne crois pas ?
+\b???: Don't you think?
+\b???: Cette lueur dans ton regard...
+\b???: That spark in your eyes...
+\b???: Ne t'inquiète pas, tu trouveras un sens à ta quête.
+\b???: Don't worry, you'll find meaning in your quest.
+\b???: Tu as un feu en toi qui a besoin de s'exprimer.
+\b???: You have a fire inside you that needs to be expressed.
+\b???: Montre-moi ce que vous ressentez, toi et tes Pokémon !
+\b???: Show me what you and your Pokémon feel!
+\b???: Tu devras faire des choix difficiles, mais tu vas y arriver.
+\b???: You'll have to make some tough choices, but you're going to make it.
+\b???: Tiens, on va t'entraîner un peu !
+\b???: Here, let's get some training in!
+\b???: Tu choisis qui ?
+\b???: Who do you choose?
+\b???: Bon courage pour la suite !
+\b???: Good luck with everything!
+...
+...
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Sorry. I... I don't think I can do it today.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: It's so annoying. I can tell she's not okay, but when she's sad she always shuts herself off.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: It would be so much easier if we could just talk about it...
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
+Arcko
+Treecko
+Poussifeu
+Torchic
+Gobou
+Mudkip

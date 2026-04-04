@@ -1,0 +1,374 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map032]
+Pour lancer l'appel ancestral, résolvez les énigmes de l'espace et du temps.
+To launch the ancestral call, solve the riddles of space and time.
+\rRAYA: Tu as de la chance.
+\rRAYA: You're in luck.
+\rRAYA: Un collègue de la région de Johto m'a récemment confié 3 Pokémon.
+\rRAYA: A colleague from the Johto region recently entrusted me with 3 Pokémon.
+\rRAYA: Ils sont justement en train de se balader dans le parc.
+\rRAYA: They are wandering around the park right now.
+\rRAYA: Tu pourrais aller les chercher ?
+\rRAYA: Could you go get them?
+\bMIA: Dacodac !
+\bMIA: Okey-dokey!
+Vous avez retrouvé les 3 Pokémon !
+You found the 3 Pokémon!
+\rRAYA: Ils ont l'air de bien t'aimer.
+\rRAYA: They seem to really like you.
+\rRAYA: Alors ? Qui sera ton partenaire ?
+\rRAYA: So? Who will be your partner?
+\bMIA: Salut toi !
+\bMIA: Hello there!
+\bMIA: Tu vas voir, on va bien s'entendre toi et moi !
+\bMIA: You'll see, we're going to get along great!
+\rRAYA: Vous êtes trop mignons !
+\rRAYA: You guys are so cute!
+\rRAYA: Allez vous deux, c'est l'heure de rentrer dans vos pokéballs.
+\rRAYA: Alright you two, time to get back into your Poké Balls.
+\rRAYA: Je mets la facture sur ton compte ?
+\rRAYA: Should I put the bill on your tab?
+\bMIA: Euh...quelle facture ?
+\bMIA: Uh... what bill?
+\rRAYA: Celle qui officialise le contrat d'adoption, voyons.
+\rRAYA: The one that officializes the adoption contract, obviously.
+\rRAYA: Tu préfère 500000$ maintenant ou tu préfères payer en 3 fois ?
+\rRAYA: Would you prefer 500,000$ now or paying in 3 installments?
+\bMIA:COMBIEN???
+\bMIA:HOW MUCH???
+\rRAYA:500000.
+\rRAYA: $500,000.
+\rRAYA: Il faut bien payer les vaccins et les vétérinaires, sans parler des abonnements aux centres Pokémon...
+\rRAYA: You have to pay for vaccines and vets, not to mention Pokémon Center subscriptions...
+\bMIA: MAIS C'ÉTAIT PAS GRATUIT TOUT ÇA ???
+\bMIA: BUT WASN'T ALL THAT FREE???
+\rRAYA: Euh...non.
+\rRAYA: Uh... no.
+\rRAYA: Rassure-moi, tu sais que c'est ta mère qui payait pour ça quand tu étais petite ?
+\rRAYA: Reassure me, you know your mother was the one paying for all that when you were little?
+\bMIA: Euh...ouais... grave... haha...
+\bMIA: Uh... yeah... totally... haha...
+\rRAYA: Il te reste combien sur ton compte ?
+\rRAYA: How much is left in your account?
+\bMIA: PAS ASSEZ DU TOUT !!!
+\bMIA: NOT NEARLY ENOUGH!!!
+\bMIA: STEUPLÉ RAYOU !! FAIS-MOI UN PRIX D'AMI !!
+\bMIA: PLEASE RAY-RAY!! GIVE ME A FRIEND DISCOUNT!!
+\rRAYA: Tu sais que ce que tu demandes est complètement illégal ?
+\rRAYA: You know what you're asking is completely illegal?
+\bMIA: STEUPLÉ STEUPLÉ STEUPLÉ STEUPLÉ STEUPLÉ STEUPLÉ STEUPLÉ STEUPLÉ STEUPLÉ STEUPLÉ-
+\bMIA: PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE-
+\rRAYA: Héhé, j'ai peut-être une solution.
+\rRAYA: Hehe, I might have a solution.
+\rRAYA: J'ai besoin de quelqu'un pour m'accompagner dans mes prochaines expéditions, mais mes assistants sont tous déjà occupés ici.
+\rRAYA: I need someone to accompany me on my next expeditions, but my assistants are all busy here.
+\rRAYA: Si je t'embauche en tant que stagiaire, le labo pourra financer tes déplacements et prendre en charge les frais liés à tes Pokémon.
+\rRAYA: If I hire you as an intern, the lab can fund your travels and cover the expenses for your Pokémon.
+\rRAYA: Qu'est-ce que tu en dis ?
+\rRAYA: What do you say?
+\bMIA: Tu veux que je sois ton larbin pendant 1 mois, c'est ça ?
+\bMIA: You want me to be your lackey for a month, right?
+\rRAYA: Yep.
+\rRAYA: Yep.
+\rRAYA: Mais la nourriture est comprise dans les frais professionels.
+\rRAYA: But food is included in the business expenses.
+Vous signez immédiatement la convention de stage.
+You immediately sign the internship agreement.
+\bMIA: Parfait ! Je commence quand ?
+\bMIA: Perfect! When do I start?
+\rRAYA: Maintenant.
+\rRAYA: Now.
+\rRAYA: Tiens, prends ça.
+\rRAYA: Here, take this.
+\rRAYA: Tes Pokémon ont besoin d'entraînement.
+\rRAYA: Your Pokémon need training.
+\rRAYA: Reviens me voir quand tu auras battu 4 dresseurs.
+\rRAYA: Come back to see me when you've defeated 4 trainers.
+De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
+New quests have been added to your quest list.
+\bMIA: C'est l'heure de passer aux choses sérieuses.
+\bMIA: It's time to get serious.
+\bMIA: Ok mon petit pote. J'ai une bonne et une mauvaise nouvelle.
+\bMIA: Okay, little buddy. I have good news and bad news.
+\bMIA: La mauvaise nouvelle, c'est que tu es globalement NUL.
+\bMIA: The bad news is, you're basically USELESS.
+\bMIA: Je vais pas te mentir. Si on croise un Dracolosse dans les hautes herbes, on est dans la merde.
+\bMIA: I'm not gonna lie. If we run into a Dragonite in the tall grass, we're screwed.
+\bMIA: Mais la bonne nouvelle, c'est qu'on peut changer ça ! Grâce au-
+\bMIA: But the good news is, we can change that! Thanks to-
+\bMIA: Ok la team. J'ai une bonne et une mauvaise nouvelle.
+\bMIA: Okay team. I have good news and bad news.
+\bMIA: La mauvaise nouvelle, c'est que vous êtes globalement NULS.
+\bMIA: The bad news is, you guys are basically USELESS.
+\bMIA: Je vais pas vous mentir. Si on croise un Dracolosse dans les hautes herbes, on est dans la merde.
+\bMIA: I'm not gonna lie. If we run into a Dragonite in the tall grass, we're screwed.
+\bMIA: C'EST PARTI !!!
+\bMIA: HERE WE GO!!!
+Salut à tous ! C'est Fildrong !
+Hello everyone! My name is Wolfe Glick!
+Aujourd'hui, on se retrouve pour un nouveau top stratégique sur vos daronnes.
+Today, I'm going to talk about Incineroar ! Again !.
+Le potentiel de vos Pokémon a été maximisé !
+Your Pokémon's potential has been maximized!
+\bMIA: C'est l'heure du-
+\bMIA: It's time for-
+Jouer avec Caninos ?
+Play with Growlithe?
+Un étrange mécanisme apparaît.
+A strange mechanism appears.
+Vous entendez un mécanisme interne se mettre en route.
+You hear an internal mechanism starting up.
+Le mécanisme est déjà enclenché.
+The mechanism is already activated.
+\rRAYA: Tu les as trouvé ?
+\rRAYA: Did you find them?
+\rRAYA: En général, ils aiment bien jouer à côté du pont.
+\rRAYA: Usually, they like to play near the bridge.
+\bMIA: Je peux prendre les 3 ?
+\bMIA: Can I take all 3?
+\rRAYA: Non.
+\rRAYA: No.
+\rRAYA: Qu'est-ce que tu veux ?
+\rRAYA: What do you want?
+\bMIA: Ça y est ! J'ai battu 4 dresseurs !
+\bMIA: There! I've defeated 4 trainers!
+\rRAYA: Cool. Plus qu'un, donc.
+\rRAYA: Cool. Only one left, then.
+\bMIA: Comment ça ?
+\bMIA: What do you mean?
+\rRAYA: Tu croyais que j'allais t'engager sans t'avoir testé moi-même ?
+\rRAYA: You thought I'd hire you without testing you myself?
+\rRAYA: Prépare-toi, bestie.
+\rRAYA: Get ready, bestie.
+Oups. Pardon, c'est l'habitude.
+Oups. Sorry, it's just a habit.
+\rRAYA: Désolé. J'avais oublié que tu avais une nouvelle équipe.
+\rRAYA: Sorry. I forgot you had a new team.
+\rRAYA: Laisse-moi prendre des Pokémon... plus proches de ton niveau.
+\rRAYA: Let me take some Pokémon... closer to your level.
+\bMIA: CHEH !! J'AI GAGNÉ !!
+\bMIA: SUCK IT!! I WON!!
+\rRAYA: Héhé... Pour une fois.
+\rRAYA: Hehe... For once.
+\bMIA: Chut. J'entends pas les rageux.
+\bMIA: Hush. I can't hear the haters.
+\bMIA: DANSE DE LA VICTOIRE !!
+\bMIA: VICTORY DANCE!!
+\rRAYA: ...
+\rRAYA: ...
+\rRAYA: Bon, tu prépareras tes affaires. On se retrouve à la gare demain à 8h.
+\rRAYA: Well, get your things ready. Let's meet at the station tomorrow at 8 AM.
+\rRAYA: Prends de quoi prendre des notes, je t'expliquerai tes missions plus en détails.
+\rRAYA: Bring something to take notes with, I'll explain your missions in more detail.
+\rRAYA: Mia ?
+\rRAYA: Mia?
+\bMIA: Yep ?
+\bMIA: Yep?
+\rRAYA: Non, rien.
+\rRAYA: Nothing.
+\rRAYA: Bah alors ? T'as perdu ?
+\rRAYA: Well then? You lost?
+\bMIA: Oui bon ça va, hein.
+\bMIA: Yeah, yeah, I get it.
+\f[arcanine angry]...
+\f[arcanine angry]...
+\f[growlith joyous]...
+\f[growlith joyous]...
+Caninos souhaite vous rejoindre !
+Growlithe wants to join you!
+Le roi de la mare vous juge du regard.
+The king of the pond judges you with his gaze.
+\f[THE KING]...
+\f[THE KING]...
+Une aura puissante se dégage du roi de la mare.
+A powerful aura emanates from the king of the pond.
+Des frissons parcourent votre nuque.
+Shivers run down your spine.
+Le roi de la mare souhaite tester vos aptitudes.
+The king of the pond wishes to test your skills.
+Affronter le roi de la mare ?
+Challenge the king of the pond?
+Vous tenez à la vie.
+You value your life.
+Le roi reconnaît votre valeur.
+The king recognizes your worth.
+Il pense que vous pourrez être utile en tant que chevalier de son empire.
+He thinks you could be useful as a knight of his empire.
+Il décide de conquérir le monde à vos côtés.
+He decides to conquer the world by your side.
+\bTu penses que tu saurais faire atterrir un avion en cas d'urgence ?
+\bDo you think you could land a plane in an emergency?
+\bEn vrai, ça doit pas être si compliqué.
+\bHonestly, it probably isn't that complicated.
+\bJe ne dirais pas que je suis naif, je dirais que je suis optimiste.
+\bI wouldn't say I'm naive, I'd say I'm optimistic.
+\rRAYA: On se connaît ?
+\rRAYA: Do we know each other?
+\b???: Vous, non. Mais moi, oui.
+\b???: You don't, but I do.
+\b???: Raya Koa. Née le 22 mai 2001 à Alola. Emménage à Kalos en 2015.
+\b???: Raya Koa. Born May 22, 2001 in Alola. Moved to Kalos in 2015.
+\b???: Intègre l'université d'Illumis en 2019, spécialité biologie comportementale. Termine major de sa promotion.
+\b???: Entered Lumiose University in 2019, specializing in behavioral biology. Graduated top of her class.
+\b???:Contribue à plusieurs études sur le dépassement des limites planétaires. Recrutée par Nexus en tant que chercheuse biodiversité et climat.
+\b???:Contributed to several studies on planetary boundaries. Recruited by Nexus as a biodiversity and climate researcher.
+\b???: En moyenne, vous prenez 8 cafés par jour et et dormez 6h par nuit.
+\b???: On average, you drink 8 coffees a day and sleep 6 hours a night.
+\b???: J'ai tout bon ?
+\b???: Did I get it all right?
+\rRAYA: ...Qui êtes-vous ?
+\rRAYA: ...Who are you?
+\b???: Millie Keran. Détective privée. J'aimerais vous poser quelques questions sur Zake Einer et la politique de Nexus.
+\b???: Millie Keran. Private investigator. I'd like to ask you a few questions about Zake Einer and Nexus's policies.
+\rRAYA: Vous voulez que je vous dévoile des secrets professionels ?
+\rRAYA: You want me to reveal professional secrets?
+\bMILLIE: Disont que nous pourrions faire un échange d'informations...
+\bMILLIE: Let's just say we could exchange information...
+\bMILLIE: J'ai la deuxième partie sur une clé USB. Si ça vous intéresse, voici ma carte.
+\bMILLIE: I have the second part on a USB drive. If you're interested, here's my card.
+\bMILLIE: Au plaisir.
+\bMILLIE: A pleasure.
+\f[yamper joyous]...
+\f[yamper joyous]...
+\b???: Voltoutou ?
+\b???: Yamper?
+\b???: Tu es là ! Je t'ai cherché partout !
+\b???: There you are! I've been looking everywhere for you!
+\b???: Désolé pour le dérangement. Je m'appelle Sonia, et je suis la dresseuse de ce petit hyperactif.
+\b???: Sorry for the trouble. My name is Sonia, and I'm the trainer of this little hyperactive pup.
+\bSONIA: Tu veux encore jouer ?
+\bSONIA: You want to play more?
+\bSONIA: Désolé de vous demander ça, mais... ça vous tente un combat amical ?
+\bSONIA: Sorry to ask, but... would you like a friendly battle?
+\bSONIA: Ouf ! Il est enfin calmé !
+\bSONIA: Whew! He's finally calmed down!
+\bSONIA: Vous êtes vraiment forte en tout cas.
+\bSONIA: You're really strong, in any case.
+\bSONIA: Ça tombe bien, j'ai un autre hyperactif avec moi.
+\bSONIA: It's good timing, I have another hyperactive one with me.
+\bSONIA: Il aimerais continuer à voyager, mais je dois rentrer aider ma grand-mère à Galar.
+\bSONIA: He'd like to keep traveling, but I have to go back to Galar to help my grandmother.
+\bSONIA: Tenez. Pour vous remercier d'avoir joué avec mon Voltoutou.
+\bSONIA: Here. To thank you for playing with my Yamper.
+\bSONIA: Bon voyage !
+\bSONIA: Have a safe trip!
+\f[totodile joyous]Choisissez-vous Kaiminus ?
+\f[totodile joyous]Do you choose Totodile?
+Elekid créé un courant électrique entre ses antennes.
+Elekid creates an electric current between its antennae.
+C'est... du morse ?
+Is that... Morse code?
+\c[6]\f[en]... . .-. ...- .. -.-. . / .... ..- -- .- .. -. .
+\c[6]\f[en].... ..- -- .- -. / ... . .-. ...- .. -.-. .
+\f[en]\c[6].- .--. .--. --- .-. - . .-. / .- .. -- .- -. - / -.. . .-. .-. .. .-..- .-. . / .-.. .- -... --- .-. .- - --- .. .-. .
+\f[en]\c[6]-... .-. .. -. --. / -- .- --. -. . - / -... . .... .. -. -.. / .-.. .- -... --- .-. .- - --- .-. -.--
+\bMIA: Dacodac ! Je t'apporte ça !
+\bMIA: Okey-dokey! I'll bring you that!
+\f[ej]\c[6]-- . .-. -.-. .. / . ... -.-. .-.. .- ...- .
+\f[ej]\c[6]- .... .- -. -.- ... / ... .-.. .- ...- .
+\bMIA: Hé oh.
+\bMIA: Hey now.
+\f[ej]\c[6]-... .- ... - --- -. / ..--..
+\f[ej]\c[6]..-. .. --. .... - / ..--..
+\f[ej]\c[6]- --- .. / .... ..- -- .- .. -. . / -.. .-. ---. .-.. .
+\f[ej]\c[6]-.-- --- ..- / ..-. ..- -. -. -.-- / .... ..- -- .- -.
+\bHumain humain. Hum hum, humain.
+\bHuman human. Hum hum, human.
+\bT'as vu ? Je parle comme les Pokémon !
+\bSee? I speak like Pokémon!
+\bTu penses que les Pokémon répètent leur nom parce qu'on les appelle comme ça ? Ou qu'on les appelle comme ça parce qu'ils répètent leur nom ?
+\bDo you think Pokémon repeat their names because we call them that? Or do we call them that because they repeat their names?
+\bLa première hypothèse est très anthropocentrée, mais la seconde implique que Regirock devrait s'appeler "ün ün ün KIKIkiKIKIkikiKIKI"
+\bThe first hypothesis is very anthropocentric, but the second implies Regirock should be called "ün ün ün KIKIkiKIKIkikiKIKI"
+Vous arrêtez d'écouter.
+You stop listening.
+Voltoutou veut jouer à cache-cache avec vous !
+Yamper wants to play hide-and-seek with you!
+Il part se cacher !
+It's going to hide!
+\f[cyndaquil joyous]Choisissez-vous Héricendre ?
+\f[cyndaquil joyous]Do you choose Cyndaquil?
+\f[en]\c[6]... . .-. ...- .. -.-. . / .... ..- -- .- .. -. .
+\f[en]\c[6].... ..- -- .- -. / ... . .-. ...- .. -.-. .
+\bFeur.
+\bLigma.
+\f[chikorita joyous]Choisissez-vous Germignon ?
+\f[chikorita joyous]Do you choose Chikorita?
+Découvrez le premier train ayant relié les régions de Kanto et Johto ! Une exposition présentée par Sylphe Co.
+Discover the first train to connect the Kanto and Johto regions! An exhibition presented by Silph Co.
+PS: Veuillez ne pas monter dans le train.
+PS: Please do not board the train.
+PPS: Veuillez ne pas monter sur le train.
+PPS: Please do not climb on the train.
+PPPS: Veuillez ne pas aller sous le train.
+PPPS: Please do not go under the train.
+PPPPS: Veuillez ne pas intéragir avec le train d'une quelconque manière qui pourrait le dégrader ou porter atteinte à votre sécurité physique ou morale.
+PPPPS: Please do not interact with the train in any way that could damage it or compromise your physical or emotional safety.
+PPPPPS: Bon sérieux organisez vos soirées ailleurs, ça deviens relou là.
+PPPPPS: Seriously, host your parties elsewhere, it's getting annoying now.
+\bMIA: Salut ! Je m'appelle Mia !
+\bMIA: Hi! My name is Mia!
+\bMIA: Je viens d'avoir mon premier Pokémon, et on a besoin d'entraînement.
+\bMIA: I just got my first Pokémon, and we need some training.
+\bMIA: Ça te tente un combat amical ?
+\bMIA: Are you up for a friendly battle?
+\b???: Ouais attends, 30 secondes.
+\b???: Yeah, wait, 30 seconds.
+\b???: C'est bon. Tu veux qu'on se batte ducoup ?
+\b???: All good. So, you wanna fight?
+\bMIA: MAIS T'ES DÉGUEULASSE !!
+\bMIA: THAT'S DISGUSTING!!
+\bMIA: RETIENS-TOI UN MINIMUM !! MERDE !!
+\bMIA: HAVE SOME SELF-RESTRAINT!! DAMN!!
+\b???: Bah quoi ? Pisser, c'est naturel.
+\b???: What? Peeing is natural.
+\bMIA: C'EST PAS UNE RAISON POUR LE FAIRE DEVANT LES GENS !!
+\bMIA: THAT'S NO REASON TO DO IT IN FRONT OF PEOPLE!!
+\b???: Pourquoi ? C'est bien ce que font tes Pokémon.
+\b???: Why? Your Pokémon do it too.
+\bMIA: C'EST PAS PAREIL !!
+\bMIA: IT'S NOT THE SAME!!
+\bMIA: BON, ÉCOUTE, EUH...
+\bMIA: OKAY, LOOK, UH...
+\bMIA: Comment tu t'appelles ?
+\bMIA: What's your name?
+\b???: Gab.
+\b???: Gab.
+\bMIA: BON, ÉCOUTE GAB ! DANS LA VIE, IL Y A UN TRUC QUI S'APPELLE LA POLITESSE, ET QUELQU'UN DOIT TE L'APPRENDRE !
+\bMIA: OKAY, LOOK GAB! IN LIFE, THERE'S THIS THING CALLED MANNERS, AND SOMEONE NEEDS TO TEACH THEM TO YOU!
+\bGAB: Ok.
+\bGAB: Okay.
+\bGAB: C'est bon, t'es calmée ?
+\bGAB: You done? Calmed down?
+\bMIA: Non.
+\bMIA: No.
+\bGAB: Dommage.
+\bGAB: Too bad.
+\bMIA: MAIS REVIENS !!
+\bMIA: HEY, COME BACK!!
+Oui
+Yes
+Non
+No
+Soigner mon équipe
+Heal my team
+Liste des Pokémon disponible
+List of available Pokémon
+J'ai battu 4 dresseurs !
+I've defeated 4 trainers!
+--- ..- ..
+-.-- . ...
+-. --- -.
+-. ---
+Tu veux que je soigne ton équipe ?
+Do you want me to heal your team?
+Je devrais pouvoir tenter un truc...
+I should be able to try something...
+Humain hum hum...
+Human hum hum...
+Feur.
+Ligma.
+...
+...

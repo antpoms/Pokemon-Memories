@@ -1,0 +1,30 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map083]
+\f[typenull]...
+\f[typenull]...
+\bMIA: Tout doux, on est plus obligés de se battre.
+\bMIA: Easy now, we don't have to fight anymore.
+\bMIA: T'inquiète pas, ça va aller. Je vais pas te faire de mal.
+\bMIA: Don't worry, it's going to be okay. I'm not going to hurt you.
+Le Pokémon ne se souvient plus de la dernière fois qu'un humain lui a montré de l'empathie.
+The Pokémon can't remember the last time a human showed it any empathy.
+Il décide de vous faire confiance.
+It decides to trust you.
+Vous obtenez un ensemble de modules.
+You obtained a set of drives.
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Sorry. I... I don't think I can do it today.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: It's so annoying. I can tell she's not okay, but when she's sad she always shuts herself off.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: It would be so much easier if we could just talk about it...
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.

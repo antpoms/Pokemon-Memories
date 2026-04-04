@@ -1,0 +1,140 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map022]
+Un canapé. Quelqu'un a dormis dedans la nuit dernière.
+A couch. Someone slept in it last night.
+Beaucoup de calculs très compliqués.
+Lots of very complicated calculations.
+"Les hommes sérieux ont tort de ne prendre au sérieux que ceux qui leurs ressemblent.", E-E Schmitt
+"Serious men are wrong to take seriously only those who resemble them.", E-E Schmitt
+Voici Olivier l'olivier.
+This is Oliver the olive tree.
+C'est une machine à café très sophistiquée.
+It's a very sophisticated coffee machine.
+"La Terre fournit assez pour satisfaire les besoins de chacun, mais pas l’avidité de tous.", M.Gandhi
+"Earth provides enough to satisfy every man's needs, but not every man's greed.", M. Gandhi
+Magnifique.
+Magnificent.
+"Il n'y a ni mauvaises herbes, ni mauvais hommes. Juste des mauvais cultivateurs." V.Hugo
+"There are no such things as bad plants or bad men. There are only bad cultivators." V. Hugo
+"Le monde ne sera pas détruit par ceux qui font le mal, mais par ceux qui les regardent sans rien faire.", A.Einstein
+"The world will not be destroyed by those who do evil, but by those who watch them without doing anything.", A. Einstein
+"Tout le monde est un génie. Mais si vous jugez un poisson à sa capacité de grimper à un arbre, il vivra toute sa vie en croyant qu'il est stupide.", A.Einstein
+"Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.", A. Einstein
+"Le mal qui est dans le monde vient presque toujours de l’ignorance.", A.Camus
+"The evil that is in the world almost always comes from ignorance.", A. Camus
+\bMIA: RAYOOOOOOUUUUU !!
+\bMIA: RAY-RAAAAAAAAY !!
+\bMIA: Comment ça va bestie !?
+\bMIA: How's it going, bestie!?
+\rRAYA: Mia, c'est pas le moment. Je bosse là.
+\rRAYA: Mia, not now. I'm working here.
+\rRAYA: Ces jeunes dresseurs attendent leur Pokedex et leurs Pokémon, me fout pas la honte !
+\rRAYA: These young trainers are waiting for their Pokedex and their Pokémon, don't embarrass me!
+\bMIA: Roohhhhh, ça va ! Tu leur fait le même discours tout les ans.
+\bMIA: Ohhh, come on! You give them the same speech every year.
+\bMIA: Regarde-les, ils veulent juste commencer leur aventure !
+\bMIA: Look at them, they just want to start their adventure!
+\bMIA: Allez les enfants ! Prenez vos Pokémon et allez-y !
+\bMIA: Go on, kids! Take your Pokémon and get going!
+\rRAYA: Mais... et vos Pokédex ?
+\rRAYA: But... what about your Pokedexes?
+\bMIA: Bon voyage les enfants !
+\bMIA: Have a great trip, kids!
+\rRAYA: ...
+\rRAYA: ...
+\rRAYA: Bon. Qu'est-ce que tu veux ?
+\rRAYA: What do you want?
+\bMIA: J'ai démissioné de mon taff de dresseuse d'arène.
+\bMIA: I quit my job as a Gym Trainer.
+\rRAYA: Hein ? Pourquoi ?
+\rRAYA: Huh? Why?
+\bMIA: L'ambiance de travail devenait toxique. Il y avait beaucoup de pression, ça devenait très compétitif...
+\bMIA: The work environment was getting toxic. There was so much pressure, it was becoming very competitive...
+\rRAYA: Ils t'ont viré parce que tu te pointais au travail à 14h ?
+\rRAYA: They fired you because you kept showing up for work at 2 PM?
+\bMIA: ...
+\bMIA: ...
+\bMIA: Nous avions des divergences professionelles.
+\bMIA: We had professional differences.
+\bMIA: Bref. Maintenant, j'ai beaucoup de temps libre: j'ai envie de repartir à l'aventure !
+\bMIA: Anyway. Now that I have plenty of free time, I want to go on an adventure again!
+\bMIA: Le soucis, c'est que mes Pokémon sont un peu trop vieux pour ça maintenant.
+\bMIA: The problem is, my Pokémon are a bit too old for that now.
+\bMIA: Il te resterait pas un Pokémon par hasard ?
+\bMIA: You wouldn't happen to have a Pokémon left, would you?
+\rRAYA: Hmm... J'ai peut-être ce qu'il te faut.
+\rRAYA: Hmm... I might have just what you need.
+\rRAYA: Suis-moi.
+\rRAYA: Follow me.
+\bMIA: J'arrive !
+\bMIA: I'm coming!
+"Je ne perds jamais. Soit je gagne, soit j'apprends.", N.Mandela
+"I never lose. I either win or learn.", N. Mandela
+Vous voyez un diaporama intitulé "Modélisation systémique de la coévolution biodiversité anthroposphère en pression extractive différenciée"
+You see a slideshow titled "Systemic modeling of biodiversity-anthroposphere coevolution under differentiated extractive pressure"
+\bMIA: Waw ! J'ai rien compris !
+\bMIA: Wow! I didn't understand a word of that!
+"La vie c’est dur, ça fait mal dès qu’ça commence, c’est pour ça qu’on pleure tous à la naissance", Booba
+"Life is hard, it hurts as soon as it starts, that's why we all cry at birth.", Booba
+"Le mal est banal.", H.Arendt
+"Evil is banal.", H. Arendt
+"Je suis capable du meilleur comme du pire, et c'est dans le pire que je suis le meilleur.", Kaaris
+"I am capable of the best as well as the worst, and it is in the worst that I am the best.", Kaaris
+"Ce que nous savons est une goutte, ce que nous ignorons est un océan.", I.Newton
+"What we know is a drop, what we don't know is an ocean.", I. Newton
+\bMIA: J'adore fouiller les poubelles, et c'est tout à fait normal !
+\bMIA: I love rummaging through trash cans, and it's completely normal!
+"Le monde a commencé sans l’homme et il s’achèvera sans lui.", C.Levi-Strauss
+"The world began without man and it will end without him.", C. Levi-Strauss
+Salut \v[41] ! Merci de jouer à Pokemon Memories !
+Hi \v[41]! Thanks for playing Pokemon Memories!
+Si tu as des questions sur le jeu, je suis là pour y répondre !
+If you have any questions about the game, I'm here to answer them!
+\bMIA: Euuuhhhh... Vous parlez à qui ?
+\bMIA: Uhhhhh... Who are you talking to?
+À \v[41] ! Un être cosmique qui contrôle tes moindres mouvements !
+To \v[41]! A cosmic being who controls your every move!
+\bMIA: Waw ! Mais c'est terrifiant !
+\bMIA: Wow! That's terrifying!
+Les combats peuvent être accelérés dans les paramètres..
+Battles can be sped up in the settings.
+Le niveau des dresseurs et des Pokémon sauvages s'ajuste automatiquement à celui de ton équipe.
+The levels of trainers and wild Pokémon automatically scale to your team's level.
+Les Pokémon dans le PC reçoivent également de l'expérience à la fin d'un combat.
+Pokémon in the PC also receive experience at the end of a battle.
+Les Pokémon peuvent réapprendre des capacités depuis le menu.
+Pokémon can relearn moves from the menu.
+Les EV peuvent être modifiés depuis le menu.
+EVs can be modified from the menu.
+\bMIA: C'est quoi des EV ?
+\bMIA: What are EVs?
+Ta gueule. Tu n'es pas réelle.
+Shut up. You're not real.
+Le taux de shiny est de 1/1024.
+The shiny rate is 1/1024.
+Tous les Pokémon évoluent maintenant par niveau.
+All Pokémon now evolve by level.
+Certaines Méga-évolutions et formes Gigamax ont été ajoutées en tant que nouvelles évolutions pour certains Pokémon.
+Certain Mega Evolutions and Gigantamax forms have been added as new evolutions for some Pokémon.
+La plupart des Pokémon ont eut des changement de statistiques ou de movepool. Ils sont tous répertoriés dans la page DATA du Pokedex.
+Most Pokémon have had stat or movepool changes. They are all listed on the DATA page of the Pokedex.
+\bMIA: Bah, mon Pokedex a pas changé pourtant...
+\bMIA: Well, my Pokedex hasn't changed though...
+TA VIE EST UN MENSONGE !!
+YOUR LIFE IS A LIE!!
+Le jeu est en monde semi-ouvert, comme Legend Arceus. Il n'y a donc que 6 zones au total.
+The game is semi-open world, like Legends Arceus. There are only 6 zones in total.
+Si tu souhaites faire le jeu en Nuzlocke, je conseille donc d'autoriser entre 4 et 6 captures par zone.
+If you wish to play a Nuzlocke, I recommend allowing between 4 and 6 catches per zone.
+\bMIA: Mais j'ai pas envie que mes Pokémon meurent, moi...
+\bMIA: But I don't want my Pokémon to die...
+Chut. Tu n'as aucun libre arbitre.
+Hush. You have no free will.
+1
+1
+2
+2
+3
+3

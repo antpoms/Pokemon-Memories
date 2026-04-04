@@ -1,0 +1,86 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map088]
+\bMIA: M...Merde ! Il est trop fort !
+\bMIA: S...Shit! He's too strong!
+\rRAYA: Retiens-le encore un peu ! J'ai des potions, attrape !
+\rRAYA: Hold him off a little longer! I've got potions, catch!
+\bSTEVE: Steve Stevenson, lead manager CGRI de Nexus Corporation.
+\bSTEVE: Steve Stevenson, CGRI Lead Manager for Nexus Corporation.
+\bSTEVE: Que puis-je faire pour vous les miss ?
+\bSTEVE: What can I do for you, ladies?
+\rRAYA: C'est vous qui dirigez tout ça ?
+\rRAYA: Are you the one running all this?
+\bSTEVE: Bien sûr que non.
+\bSTEVE: Of course not.
+\bSTEVE: Je viens de vous dire que j'étais lead manager CGRI, et ce service dépend clairement du CTO DRRD.
+\bSTEVE: I just told you I was the CGRI Lead Manager, and that department clearly reports to the DRRD CTO.
+\bSTEVE: Vous connaissez pas l'organigramme ? C'est qui votre manager ?
+\bSTEVE: Don't you know the org chart? Who's your manager?
+\bMIA: Je vais le frapper.
+\bMIA: I'm going to punch him.
+\rRAYA: Moi aussi.
+\rRAYA: Me too.
+\bSTEVE: Wow ! calmos les miss ! Cet endroit est rempli de Pokémon très puissants, et maintenant ils sont dans ma team.
+\bSTEVE: Whoa! Chill out, ladies! This place is full of very powerful Pokémon, and now they're on my team.
+\bSTEVE: J'imagine que vous non plus, vous n'êtes pas censées être ici, donc je vous propose un deal.
+\bSTEVE: I'm guessing you're not supposed to be here either, so I'm offering you a deal.
+\bSTEVE: Vous faites pas de vague, je tire quelques ficelles, et à la fin, on fait 50/50 sur les bénéfices du projet. Qu'est-ce que vous en dites ?
+\bSTEVE: You don't make waves, I pull a few strings, and in the end, we go 50/50 on the project profits. What do you say?
+\rRAYA: Ok je vais le frapper.
+\rRAYA: Okay, I'm definitely punching him.
+\bSTEVE: Oh... Waw...
+\bSTEVE: Oh... Wow...
+\bSTEVE: Vous... Vous êtes fortes, hein ?
+\bSTEVE: You... You're pretty strong, huh?
+\rRAYA: Dégage.
+\rRAYA: Get out.
+\bSTEVE: Ok !
+\bSTEVE: Okay!
+\rRAYA: Ça a l'air d'être le poste de contrôle. Je libère les prisonniers.
+\rRAYA: This looks like the control station. I'm releasing the prisoners.
+\rRAYA: Je transmet les données sur un disque dur, puis on se casse.
+\rRAYA: I'm transferring the data to a hard drive, then we're getting out of here.
+\f[garchomp angry]...
+\f[garchomp angry]...
+Affronter le sujet 466 ?
+Face Subject 466?
+\bMIA: Tout doux... On est pas obligés de se battre.
+\bMIA: Easy now... We don't have to fight.
+\f[garchomp]...
+\f[garchomp]...
+\f[garchomp pain]...
+\f[garchomp pain]...
+\bMIA: Calme-toi, ça va aller !
+\bMIA: Calm down, it's going to be okay!
+\f[garchomp special]...
+\f[garchomp special]...
+\bMIA: Attends ! Reviens !
+\bMIA: Wait! Come back!
+\rRAYA: Laisse. Il faut qu'on y aille avant que la sécurité arrive.
+\rRAYA: Let it go. We have to leave before security arrives.
+\rRAYA: Viens !
+\rRAYA: Come on!
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\rRAYA: Nop. C'est vraiment pas le moment.
+\rRAYA: Nope. Now is really not the time.
+\rRAYA: Tenez. Prenez des vitamines.
+\rRAYA: Here. Take some vitamins.
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
+\bSORTEZ D'ICI IMMËDIATEMMENT !
+\bGET OUT OF HERE IMMEDIATELY!
+\bMAIS SORTEZ EUH
+\bJUST GET OUT ALREADY
+\bALERTE ! INTRUS ! ALERTE ! INTRUS !
+\bALERT! INTRUDERS! ALERT! INTRUDERS!
+\bALERTE ! ALERTE !
+\bALERT! ALERT!
+Oui
+Yes
+Non
+No

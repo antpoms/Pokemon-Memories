@@ -1,0 +1,12 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map043]
+\bVIEIL HOMME: La mer est agitée aujourd'hui.
+\bOLD MAN: The sea is rough today.
+\bVIEIL HOMME: Préparez-vous. Il arrive.
+\bOLD MAN: Get ready. It's coming.
+Kilowattrel reconnaît votre combativité. Il souhaite vous rejoindre.
+Kilowattrel recognizes your fighting spirit. It wishes to join you.
+\bVIEIL HOMME: Tu me manques tellement...
+\bOLD MAN: I miss you so much...

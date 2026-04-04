@@ -1,0 +1,184 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map079]
+\bMIA: Ouf ! On est enfin arrivés !
+\bMIA: Phew! We're finally here!
+\bMIA: On sort les chamallows ??
+\bMIA: Should we break out the marshmallows??
+\rRAYA: ...
+\rRAYA: ...
+\bMIA: Rayou ?
+\bMIA: Ray-Ray?
+\rRAYA: Hein ?
+\rRAYA: Huh?
+\rRAYA: Euh... Oui, si tu veux. Ils sont au fond de mon sac.
+\rRAYA: Uh... Yeah, if you want. They're at the bottom of my bag.
+\bMIA: Cool ! Brûlez en enfer, bande de chamallows !
+\bMIA: Cool! Burn in hell, you little marshmallows!
+\bMIA: Merde... On a plus de bois ?
+\bMIA: Crap... Are we out of wood?
+\rRAYA: Apparemment.
+\rRAYA: Looks like it.
+\bMIA: ...
+\bMIA: ...
+\bMIA: Bon, je vais en chercher !
+\bMIA: Well, I'm going to go find some!
+\bMIA: Chamallows ! Profitez de vos derniers instants !
+\bMIA: Marshmallows! Enjoy your final moments!
+Vous prenez des affaires dans le sac.
+You take some items from the bag.
+De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
+New quests have been added to your quest list.
+Vous pouvez apprendre de nouvelles capacités à vos Pokémons.
+You can teach your Pokémon new moves.
+\bMIA: Ouf ! On va enfin pouvoir bouffer !
+\bMIA: Phew! We can finally eat!
+\bMIA: Tu me passes les chamallows ?
+\bMIA: Can you pass me the marshmallows?
+\bMIA: On va vraiment continuer à ne pas en parler ?
+\bMIA: Are we really going to keep not talking about it?
+\bMIA: Je vois bien que ça va pas...
+\bMIA: I can tell something's wrong...
+\bMIA: Tu penses encore à ce qui s'est passé à la plage ?
+\bMIA: Are you still thinking about what happened at the beach?
+\bMIA: Ok, puisque tu veux pas en parler, on n'en parle pas.
+\bMIA: Okay, since you don't want to talk about it, we won't.
+\rRAYA: Qu'est-ce que tu veux que je te dises ?
+\rRAYA: What do you want me to say?
+\rRAYA: Toutes les multinationales de cette planète ont décidé de sacrifier leur éthique pour faire plus de profits.
+\rRAYA: Every corporation on this planet has decided to sacrifice their ethics for more profit.
+\rRAYA: Pendant un moment, Einer a réussi a me faire croire qu'on pouvait y changer quelque chose, mais il mentait.
+\rRAYA: For a moment, Einer actually made me believe we could change something, but he was lying.
+\bMIA: Donc quoi ? On reste là sans rien faire ?
+\bMIA: So what? We just sit here and do nothing?
+\rRAYA: Qu'est-ce que tu comptes faire de plus exactement ?
+\rRAYA: What exactly do you plan on doing?
+\rRAYA: Tu l'as entendu. Si on se bat, on va finir assassinées.
+\rRAYA: You heard him. If we fight, we're going to end up murdered.
+\bMIA: Pas si on en parle à la police.
+\bMIA: Not if we go to the police.
+\rRAYA: Einer déjeune avec des ministres chaque semaine. Ça ne changera rien.
+\rRAYA: Einer has lunch with government secretaries every week. It won't change a thing.
+\rRAYA: Ils ont plus de pouvoirs que la plupart des gouvernements. On ne peut juste pas gagner....
+\rRAYA: They have more power than most governments. We just can't win...
+\bMIA: Je préfère essayer en sachant que je vais échouer plutôt que ne rien faire.
+\bMIA: I'd rather try knowing I'm going to fail than do nothing at all.
+\bMIA: Si tu ne comptes pas prévenir la police, je vais le faire moi-même.
+\bMIA: If you don't plan on calling the police, I'll do it myself.
+\rRAYA: J'espère que je ne vais pas regretter ça...
+\rRAYA: I hope I won't regret this...
+\rRAYA: Mia. J'ai besoin de savoir si tu es assez forte.
+\rRAYA: Mia. I need to know if you're strong enough.
+\rRAYA: Prépare-toi !
+\rRAYA: Get ready!
+\rRAYA: Mia. Ce que je vais te dire est strictement confidentiel, et peut mettre ta vie en danger.
+\rRAYA: Mia. What I'm about to tell you is strictly confidential, and it could put your life in danger.
+\rRAYA: Est-ce que tu veux vraiment être impliquée ?
+\rRAYA: Do you really want to be involved?
+\bMIA: Tu es impliquée ?
+\bMIA: Are you involved?
+\rRAYA: Oui.
+\rRAYA: Yes.
+\bMIA: Alors oui.
+\bMIA: Then yes.
+\rRAYA: Suis-moi.
+\rRAYA: Follow me.
+\rRAYA: La police internationale m'a contacté en octobre à propos de Nexus.
+\rRAYA: International police contacted me in October regarding Nexus.
+\rRAYA: Ils enquêtent sur le projet ARK, et ont besoin de moi pour obtenir plus d'informations.
+\rRAYA: They're investigating Project ARK, and they need me to get more information.
+\rRAYA: On ne sait pas en quoi consiste le projet, mais on en sait assez pour savoir que ça implique des expériences sur des humains et des Pokémon.
+\rRAYA: We don't know what the project is exactly, but we know enough to know it involves experiments on humans and Pokémon.
+\rRAYA: Et qu'elles ont commencé ici.
+\rRAYA: And that they started here.
+\rRAYA: Tu es prête ?
+\rRAYA: Are you ready?
+\bMIA: Prête.
+\bMIA: Ready.
+\rRAYA: Alors c'est parti.
+\rRAYA: Then let's go.
+Raya utilise son badge Nexus.
+Raya uses her Nexus badge.
+Grahyèna est impressioné par vos talent de dresseuse.
+Mightyena is impressed by your skills as a trainer.
+Il décide de vous rejoindre.
+It decides to join you.
+\b???: Wow ! Merci beaucoup ! Tu m'as sauvé la vie !
+\b???: Wow! Thanks so much! You saved my life!
+\bMIA: Y'a pas de quoi ! Tu aurais fait pareil à ma place !
+\bMIA: Don't mention it! You would've done the same for me!
+\b???: Si seulement... On a besoin d'encore pas mal d'entraînement avant d'atteindre votre niveau.
+\b???: If only... We need a lot more training before we reach your level.
+\b???: Comment tu t'appelles ?
+\b???: What's your name?
+\bMIA: Je m'appelle Mia ! Et toi ?
+\bMIA: My name's Mia! And you?
+\bSALLY: Je m'appelle Sally !
+\bSALLY: I'm Sally!
+\bSALLY: Je sais que ce grahyèna a failli nous tuer, mais... est-ce qu'on pourrait l'affronter avec le reste de ton équipe ?
+\bSALLY: I know that Mightyena almost killed us, but... could we battle it with the rest of your team?
+\bSALLY: Je... Je dois devenir plus forte !
+\bSALLY: I... I have to get stronger!
+\bMIA: Si tu veux ! Prépare-toi, je ne te ferait pas de cadeaux !
+\bMIA: If you want! Get ready, I won't be going easy on you!
+\bSALLY: O...Ok !! En garde !!
+\bSALLY: O... Okay!! En garde!!
+\bSALLY: Merci beaucoup ! Je sens que j'ai appris plein de trucs !
+\bSALLY: Thank you so much! I feel like I learned a lot!
+\bSALLY: Allez viens crôaporal ! On va s'entraîner !
+\bSALLY: Come on, Frogadier! Let's go train!
+\f[frogadier happy]...
+\f[frogadier happy]...
+Vous ramassez le bois. Plus que 4.
+You pick up the wood. 4 left.
+Vous ramassez le bois. Plus que 3.
+You pick up the wood. 3 left.
+Vous ramassez le bois. Plus que 2.
+You pick up the wood. 2 left.
+Vous ramassez le bois. Plus que 1.
+You pick up the wood. 1 left.
+Vous avez ramassé assez de bois.
+You've gathered enough wood.
+\bMIA: Ok la team.
+\bMIA: Okay team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Sorry. I... I don't think I can do it today.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: It's so annoying. I can see she's not okay, but when she's sad she always shuts herself off.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: It would be so much easier if we could just talk about it...
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
+\bMIA: Wow ! Tu joues trop bien !
+\bMIA: Wow! You play so well!
+\bMIA: Tu en fais depuis longtemps ?
+\bMIA: Have you been playing for long?
+\b???: Euh... Oui. Merci.
+\b???: Uh... Yes. Thank you.
+\b???: Excusez-moi...
+\b???: Excuse me...
+\bJe ne perds jamais, soit je gagne, soit j'apprends.
+\bI never lose. I either win or I learn.
+\bGrâce à toi, je vais pouvoir progresser et apprendre de mes erreurs.
+\bThanks to you, I'll be able to progress and learn from my mistakes.
+\b???: Croâporal ! Attaque Vibraqua !
+\b???: Frogadier! Use Water Pulse!
+\f[frogadier scared]...
+\f[frogadier scared]...
+\b???: Mais... mais reviens !
+\b???: Wait... come back!
+\f[mightyena angry]...
+\f[mightyena angry]...
+\b???: Eeeeuuuuuh... tout doux... gentil doggo...
+\b???: Uhhh... easy... nice doggy...
+\b???: Aaaaaahhh !! Toi !! S'il te plaît aide-moi !!
+\b???: Aaaaaahhh!! You!! Please help me!!
+Soigner mon équipe
+Heal my team
+Liste des Pokémon disponible
+List of available Pokémon
+J'ai fini !
+I'm finished!

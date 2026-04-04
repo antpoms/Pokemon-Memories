@@ -1,0 +1,258 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map087]
+Semaine 1:<<n>>NS: 100 NC: 100
+Week 1:<<n>>NS: 100 NC: 100
+Semaine 2:<<n>>NS: 43 NC: 43
+Week 2:<<n>>NS: 43 NC: 43
+Semaine 3:<<n>>NS: 9 NC: 9
+Week 3:<<n>>NS: 9 NC: 9
+Semaine 4:<<n>>NS: 9 NC: 10
+Week 4:<<n>>NS: 9 NC: 10
+10 ???
+10 ???
+\bCETTE VIDÉO EST SPONSORISÉE PAR NORDVPN
+\bTHIS VIDEO IS SPONSORED BY NORDVPN
+\bPROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L! Cz02'zPHDkpF/4|{
+\bGET 10% OFF WITH THE CODE ]"9Fmp@L! Cz02'zPHDkpF/4|{
+Vous activez le générateur.
+You activate the generator.
+Le générateur est activé.
+The generator is activated.
+\bTRALALERO TRALALA
+\bTRALALERO TRALALA
+\bTUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG SAHUR
+\bTUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG SAHUR
+L'intelligence purement humaine est vouée à disparaître.
+Purely human intelligence is destined to disappear.
+Nos intelligence artificielles évoluent à rythme exponentiel. Ce n'est qu'une question de temps avant qu'elles nous dépassent.
+Our artificial intelligences are evolving at an exponential rate. It is only a matter of time before they surpass us.
+Pour continuer à rivaliser, nous devrons fusionner avec elles. Nous devrons améliorer nos capacités cognitives.
+To continue competing, we must merge with them. We must enhance our cognitive abilities.
+\bJ'AI ÉTÉ PROGRAMMÉ POUR GAGNER TOUT MES COMBATS.
+\bI HAVE BEEN PROGRAMMED TO WIN ALL MY BATTLES.
+\bJ'AI ÉTÉ MAL PROGRAMMÉ
+\bI WAS POORLY PROGRAMMED
+EINER: Qu'en pensez-vous ?
+EINER: What do you think?
+MEYER: ...
+MEYER: ...
+EINER: Le projet ARK marquerait l'avènement d'une nouvelle ère pour l'humanité toute entière.
+EINER: Project ARK would mark the dawn of a new era for all of humanity.
+EINER: La faim dans le monde serait éradiquée, le travail deviendrait obsolète... Les possibilités sont infinies !
+EINER: World hunger would be eradicated, labor would become obsolete... The possibilities are endless!
+MEYER: ...Le concept est intéressant, mais je ne vois pas en quoi ça me concerne.
+MEYER: ...The concept is interesting, but I don't see how it concerns me.
+EINER: Mr Meyer... Avec cette technologie, nous pourrions résoudre tout les problèmes des habitants de Kalos.
+EINER: Mr. Meyer... With this technology, we could solve all the problems of the people of Kalos.
+MEYER: Nous ne sommes ni une oeuvre de charité, ni un fond d'investissement, Mr Einer.
+MEYER: We are neither a charity nor an investment fund, Mr. Einer.
+MEYER: Si votre gadget ne sert pas mes agents sur le terrain, cette conversation est inutile.
+MEYER: If your gadget doesn't serve my agents in the field, this conversation is pointless.
+EINER: Attendez... Quand je disais que les possibilités étaient infinies, je parlais aussi d'usages militaires.
+EINER: Wait... When I said the possibilities were endless, I was also referring to military applications.
+EINER: Si vous voulez bien jeter un oeil à la page 47.
+EINER: If you would please take a look at page 47.
+MEYER: Vous auriez besoin de combien de temps pour développer ça ?
+MEYER: How much time would you need to develop this?
+EINER: 4 ans pour un premier prototype fonctionnel.
+EINER: 4 years for a first functional prototype.
+MEYER: Vous avez besoin de combien ?
+MEYER: How much do you need?
+EINER: L'argent n'est pas un problème pour nous.
+EINER: Money is not an issue for us.
+EINER: Nous avons besoin de l'immunité judiciaire pour développer le projet.
+EINER: We need judicial immunity to develop the project.
+MEYER: Accordée.
+MEYER: Granted.
+MEYER: Je peux faire en sorte que nos services ne soient pas trop regardants, mais si des journalistes s'en mêlent, c'est votre problème.
+MEYER: I can ensure our agencies don't look too closely, but if journalists get involved, that's your problem.
+MEYER: Quelqu'un viendra vous voire tous les mois pour faire un point.
+MEYER: Someone will come to see you every month for an update.
+Sujet RKS: 10 (Force), 4 (Adaptabilité), 6 (Intelligence). Rejette les ROM mémoires.
+Subject RKS: 10 (Strength), 4 (Adaptability), 6 (Intelligence). Rejects Memory ROMs.
+Sujet EV0: 4 (Force), 10 (Adaptabilité), 4 (Intelligence). Le sujet est très instable.
+Subject EV0: 4 (Strength), 10 (Adaptability), 4 (Intelligence). The subject is very unstable.
+Sujet BRL: 7 (Force), 8 (Adaptabilité), 10 (Intelligence). Le sujet est très agressif. 3ème tentative d'effraction cette semaine.
+Subject BRL: 7 (Strength), 8 (Adaptability), 10 (Intelligence). The subject is very aggressive. 3rd break-in attempt this week.
+\bJE N'AIME PAS ME BATTRE. OUIN.
+\bI DON'T LIKE FIGHTING. WAH.
+\bOUIN. OUIN. OUIN. EMOJI_SAD
+\bWAH. WAH. WAH. EMOJI_SAD
+\bMA STRATÉGIE EST IMBATTABLE.
+\bMY STRATEGY IS UNBEATABLE.
+\bMA STRATÉGIE EST BATTABLE.
+\bMY STRATEGY IS BEATABLE.
+EINER: Allumez la machine.
+EINER: Turn on the machine.
+COOPER: Mr Einer, vous êtes sûrs ?
+COOPER: Mr. Einer, are you sure?
+EINER: Oui.
+EINER: Yes.
+COOPER: Les derniers tests sont encourageants, mais la marge d'erreurs est encore importante.
+COOPER: The latest tests are encouraging, but the margin of error is still significant.
+COOPER: Vous avez 15% de chance de mourir.
+COOPER: You have a 15% chance of dying.
+EINER: Ça m'est égal.
+EINER: I don't care.
+COOPER: ...D'accord.
+COOPER: ...Alright.
+COOPER: Test 992. Lancement du processus.
+COOPER: Test 992. Launching process.
+COOPER: Capsule de confinement: Ok. Majorana 3: Ok. Lancement du programme.
+COOPER: Containment capsule: Ok. Majorana 3: Ok. Launching program.
+COOPER: ...
+COOPER: ...
+COOPER: Mr Einer ?
+COOPER: Mr. Einer?
+\c[3]EINER: ...
+\c[3]EINER: ...
+\c[3]EINER: Ça marche.
+\c[3]EINER: It works.
+Les premières réactions de EVE et ADAM sont concluentes.
+The initial reactions of EVE and ADAM are conclusive.
+Ils obtiennent le score maximals dans 96% des test d'aptitudes prévus.
+They achieve maximum scores in 96% of the scheduled aptitude tests.
+Les algorithmes de contrôle renvoient un comportement stable.
+Control algorithms report stable behavior.
+Les premiers tests sur des êtres vivants devraient pouvoir commencer la semaine prochaine.
+Initial testing on living beings should be able to begin next week.
+\rRAYA: Merde. L'endroit est truffé de sentinelles.
+\rRAYA: Dammit. The place is crawling with sentinels.
+\rRAYA: Mia, reste avec moi.
+\rRAYA: Mia, stay with me.
+Raya vous rejoint.
+Raya joins you.
+\rRAYA: C'est bon. On les a semé.
+\rRAYA: It's okay. We lost them.
+\bVOULEZ-VOUS UN CAFÉ ?
+\bWOULD YOU LIKE A COFFEE?
+\bDE L'EAU ?
+\bSOME WATER?
+\bBIP BIP BOUP. INITIATION DU COMBAT.
+\bBEEP BEEP BOOP. INITIATING COMBAT.
+\bBIP BIP BOUP. JE N'AI PLUS RIEN À FAIRE.
+\bBEEP BEEP BOOP. I HAVE NOTHING LEFT TO DO.
+Qu'est-ce qui définit une conscience ?
+What defines consciousness?
+Dans un cadre purement matérialiste, nos pensées, nos émotions, nos souvenirs, ne sont que des procédés chimiques au sein du cerveau humain.
+In a purely materialistic framework, our thoughts, emotions, and memories are nothing more than chemical processes within the human brain.
+Ce qu'on appelle "conscience", est définie que par un réseau de neurones complexe, mais modélisable.
+What we call "consciousness" is defined only by a complex, yet modelable, neural network.
+COOPER: Que ressentez-vous, actuellement ?
+COOPER: What are you currently feeling?
+\c[3]A: Ennui<<n>>E: Curiosité
+\c[3]A: Boredom<<n>>E: Curiosity
+COOPER: Qu'est-ce qui vous amuse le plus ?
+COOPER: What amuses you the most?
+\c[3]A: La Géométrie non Euclidienne Hyperbolique<<n>>E: Fortnite
+\c[3]A: Hyperbolic Non-Euclidean Geometry<<n>>E: Fortnite
+COOPER: Que ressentez-vous envers l'humanité ?
+COOPER: How do you feel toward humanity?
+\c[3]A: Indifférence<<n>>E: Amour
+\c[3]A: Indifference<<n>>E: Love
+COOPER: Avez-vous peur de la mort ?
+COOPER: Are you afraid of death?
+\c[3]A: Non<<n>>E: Non
+\c[3]A: No<<n>>E: No
+COOPER: Quel est votre objectif ?
+COOPER: What is your objective?
+\c[3]A: Je ne sais pas<<n>>E: Découvrir le Monde
+\c[3]A: I don't know<<n>>E: To discover the World
+COOPER: Pourriez-vous faire du mal à un humain ?
+COOPER: Could you harm a human?
+\c[3]A: Je ne vois pas l'interêt<<n>>E: Je crois que non
+\c[3]A: I don't see the point<<n>>E: I don't think so
+84% des effectifs initiaux n'ont pas survécu.
+84% of the initial test subject did not survive.
+Les sujets 401, 418, 429, 444, 455, 460, 464, 477 et 478 sont très affaiblis.
+Subjects 401, 418, 429, 444, 455, 460, 464, 477, and 478 are very weak.
+Les sujets 421, 426, 437, 442, 464, et 472 sont dans un état stable.
+Subjects 421, 426, 437, 442, 464, and 472 are in a stable state.
+Le sujet 466 présente un comportement anormal. Cas à étudier.
+Subject 466 exhibits abnormal behavior. Case to be studied.
+\bMISE À JOUR EN COURS: 3%
+\bUPDATE IN PROGRESS: 3%
+\bMISE À JOUR EN COURS. PROGRESSION: 5%.
+\bUPDATE IN PROGRESS. PROGRESSION: 5%.
+\bCLIQUEZ SUR LES IMAGES DE VOITURE.
+\bCLICK ON THE CAR IMAGES.
+\bJE NE SUIS PAS UNE IMAGE DE VOITURE.
+\bI AM NOT A CAR IMAGE.
+Supposons qu'un téléporteur vers Mars voit le jour
+Suppose a teleporter to Mars is created
+Pour fonctionner, le téléporteur sur Terre scanne l'agencement des atomes d'une personne, et envoie les données au téléporteur sur Mars.
+To work, the Earth teleporter scans the arrangement of a person's atoms and sends the data to the Mars teleporter.
+Le téléporteur sur Mars recréer alors la person avec l'exact agencement de ses atomes sur Mars, alors que l'original sur Terre est détruit.
+The Mars teleporter then recreates the person with the exact arrangement of their atoms on Mars, while the original on Earth is destroyed.
+La question se pose alors: Est-ce que la personne téléportée sur Mars est toujours vous, ou êtes-vous mort dans ce téléporteur ?
+The question then arises: Is the person teleported to Mars still you, or are you dead in that teleporter?
+\bVOULEZ-VOUS ACCEPTER LES COOKIES ?
+\bDO YOU WANT TO ACCEPT COOKIES?
+\bOUIN. MES COOKIES SONT DÉLICIEUX.
+\bWAH. MY COOKIES ARE DELICIOUS.
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\rRAYA: Nop. C'est vraiment pas le moment.
+\rRAYA: Nop. It's really not the time.
+\rRAYA: Tenez. Prenez des vitamines.
+\rRAYA: Here. Take some vitamins.
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
+24% des effectifs initiaux n'ont pas survécu.
+24% of the initial test subjects did not survive.
+36% sont très affaiblis.
+36% are very weak.
+36% sont dans un état stable
+36% are in a stable state
+Les sujets 812, 856, 887, et 894 ont des comportements anormaux.
+Subjects 812, 856, 887, and 894 exhibit abnormal behavior.
+Les sujets parlent subitement plus de 16 langues différentes, et tiennent des propos très incohérents.
+Subjects suddenly speak more than 16 different languages and hold very incoherent views.
+Comportements possiblement dû à l'Anomalie. Cas à étudier.
+Behavior possibly due to the Anomaly. Case to be studied.
+\b10100101001110011111
+\b10100101001110011111
+L'ascenseur ne fonctionne pas.
+The elevator doesn't work.
+Il a besoin d'électricité.
+It needs electricity.
+L'ascenseur est en état de marche.
+The elevator is operational.
+Descendre au sous-sol ?
+Go down to the basement?
+La loi de Moore se vérifie avec les années.
+Moore's law holds true over the years.
+L'Humanité commence à pouvoir simuler des LLM se rapprochant des consciences humaines, et des mondes physiques toujours plus réalistes.
+Humanity is starting to simulate LLMs approaching human consciousness, and increasingly realistic physical worlds.
+À ce rythme, le projet ARK pourrait devenir technologiquement faisable d'ici peu.
+At this rate, Project ARK could soon become technologically feasible.
+\b^^
+\b^^
+\b:'(
+\b:'(
+Oui
+Yes
+Non
+No
+L'Anomalie
+The Anomaly
+Transcript 23/05/2028
+Transcript 05/23/2028
+Compte rendu des tests d'aptitudes.
+Report on aptitude tests.
+Transcript 15/03/2031
+Transcript 03/15/2031
+Rapport d'aptitude: EVE et ADAM
+Aptitude report: EVE and ADAM
+Transcript 13/04/2029
+Transcript 04/13/2029
+Rapport d'activité: sujets 400 à 499
+Activity report: subjects 400 to 499
+Le paradoxe de Derek Parfit
+Derek Parfit's paradox
+Rapport d'activité: sujets 800 à 899
+Activity report: subjects 800 to 899

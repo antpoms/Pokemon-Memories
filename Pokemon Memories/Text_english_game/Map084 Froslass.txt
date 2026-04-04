@@ -1,0 +1,68 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map084]
+Voulez-vous vous reposer ?
+Do you want to rest?
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Sorry. I... I don't think I can do it today.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: It's so annoying. I can tell she's not okay, but when she's sad she always shuts herself off.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: It would be so much easier if we could just talk about it...
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
+\bVIEILLE DAME: Faites comme chez vous. Le froid a dû vous épuiser.
+\bOLD LADY: Make yourself at home. The cold must have exhausted you.
+\bVIEILLE DAME: J'étais justement en train de préparer le thé. Voulez-vous vous joindre à moi ?
+\bOLD LADY: I was just about to make some tea. Would you like to join me?
+\bVIEILLE DAME: Bien. Installez-vous, je vous en prie.
+\bOLD LADY: Good. Please, have a seat.
+\bVIEILLE DAME: Connaissez-vous l'histoire de la dame à la robe blanche ?
+\bOLD LADY: Do you know the story of the lady in the white dress?
+\bVIEILLE DAME: Elle est assez répandue dans la région.
+\bOLD LADY: It's quite well-known in these parts.
+\bVIEILLE DAME: On raconte qu'il y a très longtemps, vivait au village une jeune fille magnifique.
+\bOLD LADY: They say that a long time ago, a magnificent young girl lived in the village.
+\bVIEILLE DAME: Tout les prétendants de la région était à ses pieds, mais elle n'en avait que faire.
+\bOLD LADY: Every suitor in the region was at her feet, but she couldn't have cared less.
+\bVIEILLE DAME: Ces perspectives de mariage ne l'intéressait guère, car elle était plus attirée par d'autres interêts.
+\bOLD LADY: The prospect of marriage didn't interest her much, as she was drawn to other pursuits.
+\bVIEILLE DAME: Depuis toute petite, elle était fascinée par la musique, et se voyait chanteuse d'opéra.
+\bOLD LADY: Since she was a little girl, she was fascinated by music and dreamed of being an opera singer.
+\bVIEILLE DAME: Elle dévouait tout son temps libre à l'apprentissage du piano, de la danse, et du chant.
+\bOLD LADY: She devoted all her free time to learning piano, dance, and singing.
+\bVIEILLE DAME: Un jour, le fils du roi lui-même arriva dans le village, et tomba immédiatement sous son charme.
+\bOLD LADY: One day, the king's son himself arrived in the village and fell instantly under her spell.
+\bVIEILLE DAME: Il la voyait déjà mère des futurs héritiers de la couronne.
+\bOLD LADY: He already saw her as the mother of the future heirs to the crown.
+\bVIEILLE DAME: Il demanda sa main.
+\bOLD LADY: He asked for her hand in marriage.
+\bVIEILLE DAME: Ne voulant pas abandonner son rêve, elle refusa. Mais... son père accepta.
+\bOLD LADY: Not wanting to give up on her dream, she refused. But... her father accepted.
+\bVIEILLE DAME: Le jour de son mariage, personne n'est venu rejoindre le prince à l'autel.
+\bOLD LADY: On her wedding day, no one came to join the prince at the altar.
+\bVIEILLE DAME: La jeune fille s'était enfui dans les montagne, espérant pouvoir atteindre la ville et refaire sa vie.
+\bOLD LADY: The young girl had fled into the mountains, hoping to reach the city and start a new life.
+\bVIEILLE DAME: On retrouva son corps enfoui dans la neige quelques jours plus tard, encore dans sa robe blanche.
+\bOLD LADY: Her body was found buried in the snow a few days later, still in her white dress.
+\bMIA: Wow... la pauvre...
+\bMIA: Wow... poor thing...
+\bVIEILLE DAME: Ne vous en faites pas. Elle va mieux aujourd'hui...
+\bOLD LADY: Don't worry. She's doing better now...
+\f[froslass]...
+\f[froslass]...
+La dame à la robe blanche apprécie votre audace.
+The lady in the white dress appreciates your boldness.
+Elle décide de se joindre à vous.
+She decides to join you.
+Oui
+Yes
+Non
+No

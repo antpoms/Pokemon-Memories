@@ -1,0 +1,672 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map042]
+Vous avez placé le premier capteur.
+You placed the first sensor.
+Vous avez placé le deuxième capteur.
+You placed the second sensor.
+Vous avez placé le troisième capteur.
+You placed the third sensor.
+Vous avez placé le quatrième capteur.
+You placed the fourth sensor.
+Vous avez placé le dernier capteur.
+You placed the last sensor.
+\bTu savais qu'on pensait à une banane 8 fois par minute en moyenne ?
+\bDid you know that on average, people think about a banana 8 times per minute?
+\bTu savais qu'un pokémon sur deux était un keunotor !?
+\bDid you know that one out of every two Pokémon is a Bidoof!?
+\bQuelle grâce !
+\bSuch grace!
+\bMIA: Fuck le travail.
+\bMIA: Fuck work.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\bMIA: CHI-FOU-MI !!
+\bMIA: ROCK-PAPER-SCISSORS!!
+\rRAYA: Je peux savoir ce que tu fous ?
+\rRAYA: Care to tell me what the hell you're doing?
+\bMIA: \v[44] ! ATTAQUE !
+\bMIA: \v[44]! ATTACK!
+Le potentiel de vos Pokémon a été maximisé !
+Your Pokémon's potential has been maximized!
+\rRAYA: Qué pasa amiga ?
+\rRAYA: Qué pasa, amiga?
+\rRAYA: (Mia, c'est pas le moment.)
+\rRAYA: (Mia, not now.)
+\bMIA: C'est bon ! J'ai installé les capteurs !
+\bMIA: All done! I've installed the sensors!
+\rRAYA: (Mia, pas maintenant.)
+\rRAYA: (Mia, not now.)
+\b???: Tu ne nous présentes pas, Raya ?
+\b???: Aren't you going to introduce us, Raya?
+\rRAYA: ...
+\rRAYA: ...
+\rRAYA: Zake, je te présente Mia. Elle m'assistera dans mes recherches durant les prochaines semaines. Mia, je te présente-
+\rRAYA: Zake, this is Mia. She'll be assisting me with my research over the next few weeks. Mia, this is—
+\b???: Zake Einer, vice-président de Nexus Corporation.
+\b???: Zake Einer, Vice President of Nexus Corporation.
+\bMIA: Oh ! C'est vous qui faites les Motismart ?
+\bMIA: Oh! You're the ones who make the Rotom Phones?
+\bEINER: Entre autre, oui. Nous investissons dans différents secteurs.
+\bEINER: Among other things, yes. We invest in various sectors.
+\bEINER: Les Motismarts restent la partie la plus visible, mais nous misons aussi beaucoup sur la réalité virtuelle, les énergies renouvelables, et-
+\bEINER: Rotom Phones are our most visible product, but we're also betting heavily on virtual reality, renewable energy, and—
+\rRAYA: Le projet ARK ?
+\rRAYA: Project ARK?
+\bEINER: ...
+\bEINER: ...
+\bEINER: Qui t'en a parlé ?
+\bEINER: Who told you about that?
+\rRAYA: Tu n'as pas à le savoir.
+\rRAYA: You don't need to know.
+\rRAYA: Qu'est-ce que ce projet ? Pourquoi Nexus y consacre 28% de son budget ?
+\rRAYA: What exactly is this project? Why is Nexus allocating 28% of its budget to it?
+\bEINER: Tu sais bien que c'est confidentiel, Raya.
+\bEINER: You know perfectly well that's confidential, Raya.
+\rRAYA: J'en sais assez pour comprendre que les médias adoreraient en entendre parler.
+\rRAYA: I know enough to realize the media would love to hear about it.
+\rRAYA: "Nexus se retrouve impliqué dans du traffic d'êtres humains", ça fait une première page qui en jette, non ?
+\rRAYA: "Nexus implicated in human trafficking"—makes for a hell of a headline, doesn't it?
+\bEINER: C'est vrai, tu devrais en parler à la presse. Je peux te donner des contacts, si tu veux.
+\bEINER: True. You should talk to the press. I can give you some contacts, if you'd like.
+\rRAYA: Hein ?
+\rRAYA: Huh?
+\rRAYA: Vous... n'allez rien faire ?
+\rRAYA: You... aren't going to do anything?
+\bEINER: Oh si.
+\bEINER: Oh, I am.
+\bEINER: Nous allons porter plainte pour diffamation, et détruire toutes les preuves de l'existence du projet.
+\bEINER: We will file a lawsuit for defamation and destroy every scrap of evidence that the project ever existed.
+\bEINER: Après t'avoir viré et stoppé les financements de tes recherches, bien sûr.
+\bEINER: After firing you and cutting off all funding for your research, of course.
+\rRAYA: Vous croyez que ça va m'arrêter ?
+\rRAYA: You think that's going to stop me?
+\bEINER: Oh non. C'est pour ça que nous allons faire de ta vie un enfer.
+\bEINER: Oh, no. That's why we're going to make your life a living hell.
+\bEINER: Quelques coups de files devraient suffir pour couper tes accès banquaires, ou pour lancer des campagnes de cyberharcèlement.
+\bEINER: A few phone calls should be enough to freeze your bank accounts or trigger massive cyber-harassment campaigns against you.
+\bEINER: Nous allons faire durer le procès jusqu'à ce que tu craques, et accepte de revenir sur tes déclarations en échange de quelques millions.
+\bEINER: We'll drag out the trial until you break and agree to recant your statements in exchange for a few million.
+\bEINER: Ou jusqu'à ce que tu finisses assassinée dans des circonstances mystérieuses.
+\bEINER: Or until you end up murdered under mysterious circumstances.
+\bMIA: Hé !
+\bMIA: Hey!
+\bMIA: Vous ne toucherez pas à un cheveux de mon amie.
+\bMIA: You won't lay a finger on my friend.
+\bEINER: Bien sûr. Elle est assez intelligente pour comprendre que sa meilleure option est de garder le silence.
+\bEINER: Of course. She's smart enough to understand that her best option is to stay silent.
+\bEINER: Mais si elle s'obstine à vouloir jouer les lanceuses d'alerte, elle devra en subir les conséquences.
+\bEINER: But if she insists on playing whistleblower, she will have to suffer the consequences.
+\bMIA: Pas tant que je serais là.
+\bMIA: Not while I'm around.
+\bEINER: Très bien. Joue à l'héroïne si ça t'amuse.
+\bEINER: Fine. Play the hero if it amuses you.
+\bEINER: C'est bon, tu as fini ?
+\bEINER: Are you done now?
+\bEINER: Raya, rejoins-moi au siège le 15 avril. Je répondrais à toutes tes questions.
+\bEINER: Raya, meet me at headquarters on April 15th. I will answer all your questions.
+\bEINER: En attendant, évite de t'attirer des problèmes.
+\bEINER: In the meantime, try to stay out of trouble.
+\bMIA: Connard.
+\bMIA: Asshole.
+\rRAYA: Bah alors ? T'as perdu ?
+\rRAYA: Well? Did you lose?
+\bMIA: Oui bon ça va, hein.
+\bMIA: Yeah, yeah, I get it.
+\bQuelle puissance !
+\bSuch power!
+\bMIA: Wouhoooooooo !! Vamos a la playa amiga !!
+\bMIA: Woohoo!! Vamos a la playa, amiga!!
+\rRAYA: On est là pour bosser, je te rappelle.
+\rRAYA: We're here to work, remember.
+\rRAYA: Tiens, prends ça.
+\rRAYA: Here, take this.
+Raya vous confie 5 capteurs RMCP.
+Raya entrusts you with 5 RMCP sensors.
+\rRAYA: J'ai besoin que tu installes ces capteurs dans les environs.
+\rRAYA: I need you to install these sensors around the area.
+\rRAYA: Avec les données collectées, on devrait pouvoir établir un profil météorologique de la zone.
+\rRAYA: With the data collected, we should be able to establish a meteorological profile of the zone.
+\rRAYA: Si tu as besoin de moi, je serais devant l'hôtel juste au-dessus.
+\rRAYA: If you need me, I'll be in front of the hotel just up there.
+\bMIA: Hé oh, pourquoi tu viens pas installer des bidules avec moi, toi ?
+\bMIA: Hey! Why aren't you coming to install these gadgets with me?
+\rRAYA: J'ai un rendez-vous à 16h. Et une super stagiaire qui peut faire tous les trucs relous à ma place.
+\rRAYA: I have an appointment at 4 PM. And a great intern who can do all the annoying stuff for me.
+\rRAYA: Tiens, prend ça.
+\rRAYA: Here, take this.
+\rRAYA: Aller, amuse-toi bien !
+\rRAYA: Come on, have fun!
+\bMIA: Conasse.
+\bMIA: Asshole.
+De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
+New quests have been added to your quest list.
+Vous pouvez apprendre de nouvelles capacités à vos Pokémons.
+You can teach your Pokémon new moves.
+\bVIEIL HOMME: Excusez-moi madame, vous êtes dresseuse ?
+\bOLD MAN: Excuse me, miss, are you a trainer?
+\bMIA: Yep !
+\bMIA: Yep!
+\bVIEIL HOMME: Vous pourrez peut-être m'aider alors.
+\bOLD MAN: Perhaps you can help me then.
+\bVIEIL HOMME: Ma femme et moi nous sommes rencontré aux îles Picassaut, au sud.
+\bOLD MAN: My wife and I met at the Pikipek Islands, to the south.
+\bVIEIL HOMME: Tous les ans, nous y retournions en bâteau.
+\bOLD MAN: Every year, we would go back there by boat.
+\bVIEIL HOMME: Goélise et moi dirigions le navire, pendant qu'elle et son Lanturn nous défendais des Pokémon sauvages et des dangers de la mer.
+\bOLD MAN: Wingull and I would steer the ship, while she and her Lanturn defended us from wild Pokémon and the dangers of the sea.
+\bVIEIL HOMME: Aujourd'hui, elle n'est plus là pour défendre le navire...
+\bOLD MAN: Today, she's no longer here to defend the ship...
+\bVIEIL HOMME: On l'a enterré aux îles Picassaut, au milieu de ces paysages qu'elle aimait tant...
+\bOLD MAN: We buried her at the Pikipek Islands, in the middle of those landscapes she loved so much...
+\bVIEIL HOMME: J'ai essayé de continuer ce pélerinage sans elle, mais Goélise et moi ne sommes pas assez fort pour affronter la mer seuls.
+\bOLD MAN: I tried to continue this pilgrimage without her, but Wingull and I aren't strong enough to face the sea alone.
+\bVIEIL HOMME: J'en demande sûrement beaucoup mais... m'accompagneriez-vous dans ce voyage ?
+\bOLD MAN: I'm probably asking a lot, but... would you accompany me on this journey?
+\bVIEIL HOMME: Merci. Merci infiniment.
+\bOLD MAN: Thank you. Thank you so much.
+\bVIEIL HOMME: Je... je comprends.
+\bOLD MAN: I... I understand.
+\bVIEIL HOMME: C'était ses fleurs préférées...
+\bOLD MAN: They were her favorite flowers...
+\bVIEIL HOMME: Merci infiniment, madame.
+\bOLD MAN: Thank you so much, miss.
+\bMIA: Hé ! Mais c'est toi qui a pissé devant moi !
+\bMIA: Hey! You're the guy who peed in front of me!
+\bMIA: MAIS REVIENS !!
+\bMIA: HEY, COME BACK!!
+\bGAB: T'es encore énervée ?
+\bGAB: You still mad?
+\bMIA: OUI !
+\bMIA: YES!
+\bMIA: DÉJÀ QUE TU PISSES DEVANT MOI ALORS QUE J'AI RIEN DEMANDÉ, EN PLUS TU TE BARRES AU LIEU DE T'EXCUSER !!
+\bMIA: FIRST YOU PEE IN FRONT OF ME WHEN I DIDN'T ASK FOR ANYTHING, AND THEN YOU BAIL INSTEAD OF APOLOGIZING!!
+\bMIA: T'AS AUCUN RESPECT !! T'ES VRAIMENT UNE GROSSE MERDE !!
+\bMIA: YOU HAVE ZERO RESPECT!! YOU'RE A TOTAL PIECE OF SHIT!!
+\bGAB: ...
+\bGAB: ...
+\bMIA: MAIS TU M'ÉCOUTES !?
+\bMIA: ARE YOU EVEN LISTENING!?
+\bGAB: Attends j'essaie de battre mon high score.
+\bGAB: Hang on, I'm trying to beat my high score.
+\bMIA: ES-
+\bMIA: YOU—
+\bMIA: PÈCE
+\bMIA: SON—
+\bMIA: DE
+\bMIA: OF—
+\bMIA: CHEH ! Ça t'apprendra !
+\bMIA: HA! That'll teach you!
+\bGAB: Cool.
+\bGAB: Cool.
+\bMIA: Mais t'es encore sur ton jeu !?
+\bMIA: Are you still on your game!?
+\bMIA: Donne-moi ça !
+\bMIA: Give me that!
+\bGAB: T'es assez naze à ce jeu.
+\bGAB: You're pretty sucky at this game.
+\bMIA: Chut. C'est ta tablette qui marche pas.
+\bMIA: Shhh. Your tablet is just glitchy.
+\bGAB: Tu te débrouilles pas mal.
+\bGAB: You're doing alright.
+\bGAB: Tu peux continuer à jouer si tu veux.
+\bGAB: You can keep playing if you want.
+\bMIA: ...
+\bMIA: ...
+\bGAB: Désolé d'avoir pissé devant toi.
+\bGAB: Sorry for peeing in front of you.
+\bGAB: J'aime pas les règles inutiles, donc la plupart du temps je les ignore.
+\bGAB: I don't like useless rules, so most of the time I ignore them.
+\bGAB: Mais des fois, ça blesse les gens, et là c'est pas cool de ma part.
+\bGAB: But sometimes it hurts people, and that's not cool of me.
+\bGAB: Donc désolé pour tout ça...
+\bGAB: So, sorry about all that...
+\bMIA: ...Merci.
+\bMIA: ...Thanks.
+\bMIA: Et... désolé d'avoir dit que t'étais une grosse merde.
+\bMIA: And... sorry for saying you were a total piece of shit.
+\bGAB: T'inquiète.
+\bGAB: Don't sweat it.
+\bGAB: Tu veux jouer ?
+\bGAB: Wanna play?
+\bMIA: Avec plaisir !
+\bMIA: I'd love to!
+\bGAB: GG.
+\bGAB: GG.
+\bGAB: Tiens, prends ça.
+\bGAB: Here, take this.
+\bPETITE FILLE: ...Snif
+\bLITTLE GIRL: ...sniff
+\bMIA: Bah alors petite, qu'est-ce qui se passe ?
+\bMIA: Hey there, little one, what's wrong?
+\bPETITE FILLE: Chuis trop nulle !!
+\bLITTLE GIRL: I'm so bad at this!!
+\bPETITE FILLE: Mes Pokémon m'écoutent pas, et j'perds tout mes combats !!
+\bLITTLE GIRL: My Pokémon don't listen to me, and I lose all my battles!!
+\bPETITE FILLE: J'aurais jamais dû devenir dresseuse...
+\bLITTLE GIRL: I should never have become a trainer...
+\bMIA: Dis pas ça. C'est normal de ne pas tout réussir du premier coup.
+\bMIA: Don't say that. It's normal not to get everything right on the first try.
+\bMIA: Je me suis lancé en tant que dresseuse en même temps que ma meilleure amie. Au début, elle me battait tout le temps, mais...
+\bMIA: I started out as a trainer at the same time as my best friend. At first, she beat me all the time, but...
+\bMIA: J'ai perséveré.
+\bMIA: I persevered.
+\bMIA: Je me suis beaucoup entraîné, j'ai appris de mes erreurs, et j'ai beaucoup progressé avec mes Pokémon.
+\bMIA: I trained a lot, learned from my mistakes, and made tons of progress with my Pokémon.
+\bMIA: Ensemble, après des annés d'effort, on a pu collecter les 8 badges d'arène et battre la ligue.
+\bMIA: Together, after years of effort, we managed to collect all 8 Gym Badges and beat the League.
+\bMIA: Ça ne m'a jamais empêché d'apprécier chaque combat !
+\bMIA: That never stopped me from enjoying every single battle!
+\bMIA: Durant ma vie de dresseuse, j'ai fait des rencontres extraordinaires, vécu des moments magiques, et créé des liens forts avec mes Pokémon.
+\bMIA: During my life as a trainer, I've met extraordinary people, lived through magical moments, and built strong bonds with my Pokémon.
+\bMIA: Ces nuits à la belle étoile, ces victoires décisives, tout ces fous rires, je ne les aurais jamais vécu si j'avais abandonné au début.
+\bMIA: Those nights under the stars, those decisive victories, all those laughs—I would have never experienced them if I'd given up at the start.
+\bMIA: Je n'ai pas abandonné.
+\bMIA: I didn't give up.
+\bMIA: Je voulais partir et découvrir le monde, et j'avais promis à ma mère que je lui ramènerai des souvenirs de mes voyages.
+\bMIA: I wanted to head out and discover the world, and I promised my mom I'd bring her back souvenirs from my travels.
+\bMIA: Je ne voulais pas revenir sans avoir tenu ma promesse, alors j'ai perséveré.
+\bMIA: I didn't want to go back without keeping my promise, so I kept going.
+\bPETITE FILLE: Vous... vous croyez que je dois continuer ?
+\bLITTLE GIRL: Do... do you think I should keep going?
+\bMIA: Bien sûr ! La question, c'est plutôt...
+\bMIA: Of course! The real question is...
+\bMIA: Comment tu peux progresser ?
+\bMIA: How can you improve?
+\bMIA: Tu n'es pas obligée de gagner tout le temps. L'important d'être un peu meilleure à chaque fois.
+\bMIA: You don't have to win all the time. The important thing is to be a little better each time.
+\bMIA: Si tu tires des leçons après chaque combat, victoire comme défaite, alors tu t'améliorera naturellement !
+\bMIA: If you learn something after every battle, win or lose, then you'll naturally get better!
+\bMIA: Est-ce que tu aimes ça ?
+\bMIA: Do you enjoy it?
+\bMIA: Si tu aimes sincèrement les combats Pokémon, qu'importe si tu gagnes ou si tu perds !
+\bMIA: If you truly love Pokémon battles, it doesn't matter if you win or lose!
+\bMIA: Tes Pokémon sentent tes peurs et tes doutes. Mais si tu t'amuses, ils s'amuseront avec toi !
+\bMIA: Your Pokémon feel your fears and doubts. But if you're having fun, they'll have fun with you!
+\bMIA: Qu'est-ce qui te motive ?
+\bMIA: What motivates you?
+\bMIA: Si tu est dresseuse parce qu'on t'a poussé à l'être, tu ne vas pas apprécier ton aventure.
+\bMIA: If you're a trainer just because you were pushed into it, you won't enjoy your adventure.
+\bMIA: Il faut que ça vienne de toi. C'est cette raison intérieure qui te poussera à continuer dans les moments difficiles.
+\bMIA: It has to come from you. That inner reason is what will push you to keep going through the hard times.
+\bPETITE FILLE: Mais... qu'est-ce que je peux faire ?
+\bLITTLE GIRL: But... what can I do?
+\bMIA: Continue à t'entraîner !
+\bMIA: Keep training!
+\bMIA: Si tu fais ça régulièrement, tu progresseras forcément !
+\bMIA: If you do it regularly, you'll inevitably get better!
+\bMIA: Il faut juste savoir être patient.
+\bMIA: You just have to be patient.
+\bMIA: Va t'amuser avec tes Pokémon !
+\bMIA: Go have fun with your Pokémon!
+\bMIA: Jouez ensembles, allez vous balader, n'importe quoi tant que vous y prenez du plaisir !
+\bMIA: Play together, go for walks—anything, as long as you're enjoying yourselves!
+\bMIA: La vie de dresseur n'a pas besoin dêtre une compétition tout le temps.
+\bMIA: A trainer's life doesn't need to be a competition all the time.
+\bMIA: Prends du temps pour toi.
+\bMIA: Take some time for yourself.
+\bMIA: Prends le temps de te poser des questions et de savoir ce que tu veux.
+\bMIA: Take the time to ask yourself questions and find out what you want.
+\bMIA: Ce n'est jamais très agréable de douter, mais c'est ce qui te fais avancer.
+\bMIA: Doubting yourself is never pleasant, but it's what makes you move forward.
+\bMIA: C'est plus facile quand c'est plus clair dans notre tête.
+\bMIA: Things are easier when they're clearer in your head.
+\bPETITE FILLE: Merci... Je crois que ça va mieux.
+\bLITTLE GIRL: Thank you... I think I feel better.
+\bPETITE FILLE: Mes Pokémon et moi, on va pas abandonner !
+\bLITTLE GIRL: My Pokémon and I, we're not giving up!
+\bPETITE FILLE: Vous... vous pouvez nous aider à nous entraîner ?
+\bLITTLE GIRL: Can... can you help us train?
+\bMIA: Bien sûr !
+\bMIA: Of course!
+\bMIA: En garde !
+\bMIA: En garde!
+\bPETITE FILLE: C'était... TROP COOL !!
+\bLITTLE GIRL: That was... SO COOL!!
+\bPETITE FILLE: C'est décidé ! On va s'entraîner à fond avec mes Pokémon, jusqu'à devenir aussi forts que vous !
+\bLITTLE GIRL: It's decided! We're going to train as hard as we can until we're as strong as you!
+\bMIA: Héhé, j'ai hâte de voir ça.
+\bMIA: Hehe, I look forward to seeing that.
+\b???: Menzi ?
+\b???: Nemona?
+\bDOMESTIQUE: Vos parents sont rentrés à l'hôtel. Nous devons rentrer.
+\bSERVANT: Your parents have returned to the hotel. We must go back.
+\bMENZI: Déjà ? Je voulais continuer à m'entraîner avec mes Pokémon...
+\bNEMONA: Already? I wanted to keep training with my Pokémon...
+\bDOMESTIQUE: Oh ? Je croyais que vous n'aimiez plus les combats Pokémon.
+\bSERVANT: Oh? I thought you didn't like Pokémon battles anymore.
+\bMENZI: Si ! Maintenant, grâce à la dame, j'adore ça !
+\bNEMONA: I do! Now, thanks to the lady, I love them!
+\bMENZI: Je dois continuer à m'entraîner pour pouvoir être aussi forte qu'elle !
+\bNEMONA: I have to keep training so I can be as strong as her!
+\bDOMESTIQUE: Ça alors, vous m'en voyez ravie !
+\bSERVANT: Well, I'm delighted to hear that!
+\bDOMESTIQUE: Tenez. Pour vous remercier d'avoir redonner le sourire à mademoiselle Menzi.
+\bSERVANT: Here. To thank you for putting a smile back on Miss Nemona's face.
+\bDOMESTIQUE: Nous pourrions proposer à vos parents de vous inscrire dans une école de dresseurs. Il y en a des réputées à Paldea.
+\bSERVANT: We could suggest to your parents that they enroll you in a trainer school. There are some very reputable ones in Paldea.
+\bDOMESTIQUE: Qu'est-ce que vous en dites ?
+\bSERVANT: What do you say?
+\bPETITE FILLE: Oh ! Ça serait trop chouette !
+\bLITTLE GIRL: Oh! That would be wonderful!
+\bDOMESTIQUE: Super ! Allons proposer cela à vos parents.
+\bSERVANT: Great! Let's go suggest that to your parents.
+\bAPPRENTIE: Magikarp-sama ! Comment pouvons- nous égaler votre puissance ?
+\bAPPRENTICE: Magikarp-sama! How can we ever match your power?
+\bAPPRENTI: Comment oses-tu !? La puissance de Magikarp-sama est inégalable !
+\bAPPRENTICE: How dare you!? Magikarp-sama's power is matchless!
+\f[magikarpsama]...
+\f[magikarpsama]...
+\bAPPRENTIE: Vous... vous le pensez vraiment ?
+\bAPPRENTICE: Do... do you really think so?
+\bAPPRENTIE: D'accord ! Je continuerai à m'entraîner de toutes mes forces !
+\bAPPRENTICE: Alright! I'll keep training with all my might!
+\bMIA: Ça a l'air marrant votre jeu ! À moi !
+\bMIA: This game looks fun! My turn!
+\bMIA: Ohayo gozaimasu Magikarp-sensei !
+\bMIA: Ohayo gozaimasu, Magikarp-sensei!
+\bMIA: Vous très très fort, moi très très nulle ! Je suivrais mon nindô pour devenir Hokage !
+\bMIA: You very very strong, me very very sucky! I'll follow my nindo to become Hokage!
+\bMIA: Itadakimasu !
+\bMIA: Itadakimasu!
+\bAPPRENTI: S... sensei...pardonnez-la ! Elle ne sait pas ce qu'elle dit !
+\bAPPRENTICE: S... sensei... please forgive her! She doesn't know what she's saying!
+\bAPPRENTIE: Ç... ça alors ! Elle a réussi à vaincre Magikarp-sama à 10% de sa puissance !
+\bAPPRENTICE: W... wow! She managed to defeat Magikarp-sama at 10% of his power!
+\bAPPRENTI: Magikarp-sama ! Vous êtes sûr !?
+\bAPPRENTICE: Magikarp-sama! Are you sure!?
+\bAPPRENTI: Malgré votre racisme latent, Magikarp- sama reconnaît votre force et vous propose de devenir son apprentie !
+\bAPPRENTICE: Despite your underlying racism, Magikarp-sama recognizes your strength and offers you to become his apprentice!
+\bAPPRENTIE: Maître Makikarp ! Merci pour tout ce que vous m'avez apporté !
+\bAPPRENTICE: Master Magikarp! Thank you for everything you've given me!
+\bAPPRENTI: je ne vous oublierai jamais !
+\bAPPRENTICE: I will never forget you!
+\bQuelle force !
+\bWhat strength!
+\bDAN: Yo meuf.
+\bDAN: Yo, girl.
+\bDAN: Tu dégages grave une vibe artistique !
+\bDAN: You've got a total artistic vibe!
+\bDAN: Tu voudrais pas nous aider pour notre prochain spectacle ?
+\bDAN: Would you like to help us with our next show?
+\bMIA: Grave ! Qu'est-ce qui faut faire ?
+\bMIA: Totally! What do I need to do?
+\bDAN: Ok je te pitch le projet.
+\bDAN: Okay, let me pitch the project to you.
+\bDAN: Le spectacle s'appelle "Voyage autour du monde"
+\bDAN: The show is called "Journey Around the World."
+\bDAN: On emmène le public à la découverte de différentes régions à travers la danse et la musique.
+\bDAN: We take the audience on a discovery of different regions through dance and music.
+\bDAN: J'ai pas mal de musiques qu'on aime bien, mais je ne sais pas à quelle région les attribuer.
+\bDAN: I have a lot of tracks we like, but I don't know which region to assign them to.
+\bDAN: Par exemple, celle-là, c'est quelle région pour toi ?
+\bDAN: For example, this one—which region does it sound like to you?
+\bDAN: Ouais ! Ça matche bien ! Et celle-là ?
+\bDAN: Yeah! That matches well! And this one?
+\bDAN: Grave ! Qu'est-ce que tu penses pour celle-là ?
+\bDAN: Totally! What do you think for this one?
+\bDAN: Nan, ça correspond pas à la vibe.
+\bDAN: Nah, that doesn't fit the vibe.
+\bDAN: T'as le truc ! Tu dirais quoi pour celle-ci ?
+\bDAN: You've got the touch! What would you say for this one?
+\bDAN: Ouais ! T'as raison ! Plus qu'une, j'hésite pour celle-là.
+\bDAN: Yeah! You're right! One left—I'm torn on this one.
+\bDAN: Mais... MAIS OUI ! C'EST ÇA !
+\bDAN: Wait... YES! THAT'S IT!
+\bDAN: Merci beaucoup, meuf, tu nous as grave débloqué !
+\bDAN: Thanks a lot, girl, you really helped us out!
+\bDAN: Je crois qu'on est prêt pour la répétition finale !
+\bDAN: I think we're ready for the final rehearsal!
+\bDAN: Vous êtes prêts les guys ???
+\bDAN: Are you ready, guys???
+\bDAN: Wow ! Tu gères ! Merci meuf !
+\bDAN: Wow! You're killing it! Thanks, girl!
+\bDAN: Grâce à toi le spectacle sera ouf !
+\bDAN: Thanks to you, the show is gonna be insane!
+\f[kirlia2]...
+\f[kirlia2]...
+\bDAN: Qu'est-ce qu'il y a, Léo ?
+\bDAN: What's up, Leo?
+\f[kirlia1]...
+\f[kirlia1]...
+\bDAN: Toi aussi, Léa ?
+\bDAN: You too, Lea?
+\bDAN: Je vous comprends, mais j'ai besoin de vous pour le spectacle.
+\bDAN: I understand, but I need you for the show.
+\bDAN: C'est vrai, vous avez raison...
+\bDAN: It's true, you're right...
+\bDAN: Meuf, mes pokémon veulent vivre un vrai voyage à travers le monde...
+\bDAN: Girl, my Pokémon want to experience a real journey around the world...
+\bDAN: Tu voudrais bien en prendre un avec toi ?
+\bDAN: Would you take one with you?
+\bDAN: Cool ! Alors, qui viendra avec toi ?
+\bDAN: Cool! So, who's coming with you?
+\bDAN: Bon voyage !
+\bDAN: Have a safe trip!
+\bSkibidi.
+\bSkibidi.
+\bSkibidi toilet est une oeuvre qui dénonce les travers de nos sociétés capitalistes.
+\bSkibidi toilet is a work that denounces the flaws of our capitalist societies.
+\bÀ travers l'affrontement entre les skibidi et les hommes télé, elle dépeint le combat millénaire entre le chaos et l'ordre. La liberté et la dictature.
+\bThrough the clash between the Skibidi and the TV Men, it depicts the millennial struggle between chaos and order. Freedom and dictatorship.
+Vous arrêtez d'écouter.
+You stop listening.
+\bQuelle élégance !
+\bSuch elegance!
+\bJ'aime le bruit blanc de l'eau.
+\bI love the white noise of water.
+\bJ'aime me battre.
+\bI love to fight.
+\bELSA-MINA: ...
+\bLUSAMINE: ...
+\bELSA-MINA: Réponds-moi honnêtement: penses-tu que tout le monde puisse être pardonné ?
+\bLUSAMINE: Answer me honestly: do you think everyone can be forgiven?
+\bMIA: Je penses que oui.
+\bMIA: I think so.
+\bMIA: Les crimes les plus horribles naissent souvent d'un traumatisme ou du désespoir.
+\bMIA: The most horrific crimes are often born from trauma or despair.
+\bMIA: Ça n'excuse pas l'acte, mais ça aide à le comprendre la personne.
+\bMIA: It doesn't excuse the act, but it helps in understanding the person.
+\bMIA: Ça aide à accepter le passé et se tourner vers l'avenir.
+\bMIA: It helps in accepting the past and looking toward the future.
+\bELSA-MINA: J'aimerais te croire...
+\bLUSAMINE: I'd like to believe you...
+\bMIA: Ça dépend de la personne.
+\bMIA: It depends on the person.
+\bMIA: Certaines erreurs ne pourront jamais être réparées, mais les personnes qui les ont commisent peuvent toujours changer.
+\bMIA: Some mistakes can never be undone, but the people who committed them can always change.
+\bMIA: Si elles regrettent sincèrement leurs actes et font ce qu'il faut pour se racheter, alors oui, elles pourront être pardonnées.
+\bMIA: If they sincerely regret their actions and do what's necessary to make amends, then yes, they can be forgiven.
+\bMIA: Ça demande juste du temps...
+\bMIA: It just takes time...
+\bMIA: Non. Certains actes ne doivent pas être pardonnés.
+\bMIA: No. Some acts should not be forgiven.
+\bMIA: Certaines blessures ne partent jamais vraiment.
+\bMIA: Some wounds never truly heal.
+\bMIA: Pardonner, ça serait faire comme si ça n'était jamais arrivé. Et certains actes sont trop graves pour qu'on les oublie.
+\bMIA: Forgiving would be acting as if it never happened. And some acts are too serious to be forgotten.
+\bELSA-MINA: ...C'est ce que je pensais.
+\bLUSAMINE: ...That's what I thought.
+\bELSA-MINA: M'accorderais-tu un combat ?
+\bLUSAMINE: Would you grant me a battle?
+\bELSA-MINA: J'aimerais voir quel genre de dresseuses tu es.
+\bLUSAMINE: I'd like to see what kind of trainer you are.
+\bELSA-MINA: Tu es une dresseuse formidable.
+\bLUSAMINE: You are a formidable trainer.
+\bELSA-MINA: Tiens, ce Pokémon sera probablement plus heureux avec toi.
+\bLUSAMINE: Here, this Pokémon will likely be happier with you.
+\bGLADIO: Maman. Papa est arrivé.
+\bGLADION: Mother. Father is here.
+\bGLADIO: Tu es prête ?
+\bGLADION: Are you ready?
+\bELSA-MINA: ...Oui. Allons-y.
+\bLUSAMINE: ...Yes. Let's go.
+\f[staryu]...
+\f[staryu]...
+\bMIA: Oh ! Un stari ! Il est trop mimi !
+\bMIA: Oh! A Staryu! It's so cute!
+\bMIA: C'EST KIKI LA PETITE NÉTOILE !? C'EST KIKI LA PETITE NÉTOILE !?
+\bMIA: WHO'S THE WITTLE STAWRY!? WHO'S THE WITTLE STAWRY!?
+\bMIA: OOOOOOOUUUUUI C'EST TOI !!
+\bMIA: YEEEEEEES IT'S YOU!!
+\bMIA: Meeeeuuuuh oui t'es KRO FORT !!
+\bMIA: Awwwww yes you're SO STWONG!!
+\bMIA: T'es... kro... fort...
+\bMIA: You're... so... stwong...
+Vous plongez soudainement dans un profond sommeil...
+You suddenly fall into a deep sleep...
+???: Les derniers rapports montrent l'apparition de nouveaux phénomènes biologiques étranges.
+???: The latest reports show the appearance of strange new biological phenomena.
+???: Des Pokémon avec des formes alternatives temporaires ont été obervés sous ces mêmes formes à l'état sauvage.
+???: Pokémon with temporary alternative forms have been observed in those same forms in the wild.
+???: La Méga-évolution et le Dynamax soulèvent maintenant encore plus de questions au sein de la communauté scientifique.
+???: Mega Evolution and Dynamax are now raising even more questions within the scientific community.
+???: Est-ce une sélection naturelle accélerée ? L'oeuvre d'un Pokémon légendaire ? Une expérience qui a mal tourné ?
+???: Is it accelerated natural selection? The work of a Legendary Pokémon? An experiment gone wrong?
+\bMIA: Que... Qu'est-ce que... Pourquoi ?
+\bMIA: Wha... What... Why?
+Stari a trouvé ça très drôle. Il souhaite rejoindre votre équipe.
+Staryu found that very funny. It wishes to join your team.
+\bMaître magikarp est mon socle !
+\bMaster Magikarp is my rock!
+\bMIA: Toute ma vie, j'ai attendu ce moment. Et maintenant, ça y est. C'est fini.
+\bMIA: My whole life, I've waited for this moment. And now, this is it. It's over.
+\bMIA: J'ai obtenu tout les badges. J'ai vaincu le conseil 4. J'ai gagné contre la maître de la ligue.
+\bMIA: I've earned all the badges. I've defeated the Elite Four. I've won against the League Champion.
+\bMIA: J'ai passé des heures à me préparer pour ce combat.
+\bMIA: I spent hours preparing for this fight.
+\bMIA: Au final, il était presque... trop simple.
+\bMIA: In the end, it was almost... too simple.
+\bMIA: Et maintenant, quoi ?
+\bMIA: And now, what?
+\rRAYA: Comme d'habitude. Je te mets une raclée.
+\rRAYA: As usual. I'm gonna kick your butt.
+\bMIA: Hehe... C'est ce qu'on va voir !
+\bMIA: Hehe... We'll see about that!
+\bMIA: Merci.
+\bMIA: Thank you.
+\bJe suis en train de build mon entreprenor mindset.
+\bI'm currently building my entreprenor mindset.
+\bA Girl Boss on her way to build her empire.
+\bA Girl Boss on her way to build her empire.
+\bMaître magikarp, vous avez sauvé ma vie !
+\bMaster Magikarp, you saved my life!
+\bJ'aime. Les. Shorts.
+\bI. Like. Shorts.
+\bJ'aime les shorts, ça garde mes genoux bien au frais.
+\bI like shorts! They're comfy and easy to wear!
+\bKEVIN: Partez ! Sinon, il va me retrouver...
+\bKEVIN: Go away! Otherwise, he'll find me...
+\bMIA: Vous jouez à cache-cache ?? Trop cool !! Je peux jouer !?
+\bMIA: Are you playing hide-and-seek?? So cool!! Can I play!?
+\bKEVIN: Chhhhhhhttt ! Arrêtez ! Il va vous entendre !
+\bKEVIN: Shhhhhhh! Stop! He'll hear you!
+\bMIA: Rooooohhhhh, ça vaaaaaaaa... C'est qu'un jeu.
+\bMIA: Ohhhhh, come on... It's just a game.
+\bKEVIN: Vous ne comprenez pas... S'il me retrouve, il va-
+\bKEVIN: You don't understand... If he finds me, he'll—
+\b???: KEVIN !?
+\b???: KEVIN!?
+\bKEVIN: Oh non...
+\bKEVIN: Oh no...
+\b???: Bordel, t'es là ! J'ai besoin ASAP de l'extract SSDE pour la conf call RDI de demain !
+\b???: Dammit, there you are! I need the SSDE extract ASAP for tomorrow's R&D conference call!
+\b???: Ces blaireaux de DCMI ont dépassé la deadline post-workshop et ils nous mettent dans la merde pour pour le showback ASSF !
+\b???: Those DCMI morons missed the post-workshop deadline and now they're screwing us over for the ASSF showback!
+\bKEVIN: Steve... Je suis en VACANCES ! Il faut que tu me FOUTE LA PAIX !!
+\bKEVIN: Steve... I'm on VACATION! You need to LEAVE ME ALONE!!
+\bSTEVE: Wow, t'es pas dans les 3C, là. Si on veut +20% sur le KPI 2031, va falloir se bouger, Kev.
+\bSTEVE: Wow, you're not in the 3Cs mindset. If we want +20% on the 2031 KPI, we're gonna have to hustle, Kev.
+\bMIA: Hé ! Il a dit qu'il était en vacances. Va faire des PowerPoint ailleurs.
+\bMIA: Hey! He said he's on vacation. Go make your PowerPoints somewhere else.
+\bSTEVE: Alors écoute-moi bien, miss. Tu parles à Steve Stevenson, lead manager CGRI de Nexus Corporation. Dans 5 ans, le CEO, c'est moi.
+\bSTEVE: Now listen here, missy. You're talking to Steve Stevenson, CGRI Lead Manager at Nexus Corporation. In five years, I'll be the CEO.
+\bSTEVE: Donc tu vas te bouger, et me laisser faire mon travail !
+\bSTEVE: So you're gonna move aside and let me do my job!
+\bSTEVE: FUUUUUUUUUUUCK !! J'AI PERDU !!
+\bSTEVE: FUUUUUUUUUUUCK!! I LOST!!
+\bSTEVE: BOOOOOOOOOOOOM !! J'AI GAGNÉ !!
+\bSTEVE: BOOOOOOOOOOOOM!! I WON!!
+\bSTEVE: ESPÈCE DE-
+\bSTEVE: YOU LITTLE—
+\b???: Steve ?
+\b???: Steve?
+\bSTEVE: Mon... MONSIEUR EINER !!
+\bSTEVE: M... MR. EINER!!
+\bEINER: Te voilà enfin. J'aurais besoin du rapport DRFD pour 18h. C'est possible pour toi ?
+\bEINER: There you are. I'll need the DRFD report by 6 PM. Can you handle that?
+\bSTEVE: OUI MONSIEUR !! J'Y VAIS TOUT DE SUITE !!
+\bSTEVE: YES SIR!! ON IT RIGHT AWAY!!
+\bKEVIN: Le... le rapport que je vous avez envoyé hier ne vous convenais pas ?
+\bKEVIN: Was... wasn't the report I sent you yesterday satisfactory?
+\bEINER: Oh si, il est très bien. Mais comme ça, tu pourras profiter de tes congés en paix.
+\bEINER: Oh, it was excellent. But this way, you'll be able to enjoy your leave in peace.
+\bEINER: Je me charge de reporter son cas à la ligne éthique.
+\bEINER: I'll personally report his conduct to the ethics hotline.
+\bKEVIN: Me... Merci monsieur.
+\bKEVIN: Th... Thank you, sir.
+\bEINER: Pas de problèmes. Bonnes vacances Kevin.
+\bEINER: No problem. Enjoy your vacation, Kevin.
+\bKEVIN: Merci de m'avoir défendu tout à l'heure. Tenez, pour le dédomagement.
+\bKEVIN: Thanks for standing up for me earlier. Here, for your trouble.
+\bKEVIN: Bonne journée !
+\bKEVIN: Have a great day!
+Soigner mon équipe
+Heal my team
+Liste des Pokémon disponible
+List of available Pokémon
+J'ai fini !
+I'm done!
+Oui
+Yes
+Non
+No
+Parler de vos progrès
+Talk about your progress
+Parler de vos meilleurs souvi
+Talk about your best memories
+Parler de vos motivations
+Talk about your motivations
+Comment tu peux progresse
+How you can improve
+Est-ce que tu aimes ça ?
+Do you enjoy it?
+Qu'est-ce qui te motive ?
+What motivates you?
+Continue à t'entraîner !
+Keep on training!
+Va t'amuser avec tes Pokém
+Go have fun with your Pokémon
+Prends du temps pour toi
+Take some time for yourself
+Galar
+Galar
+Kalos
+Kalos
+Paldea
+Paldea
+Alola
+Alola
+Kanto
+Kanto
+Unys
+Unova
+Johto
+Johto
+Sinnoh
+Sinnoh
+Hoenn
+Hoenn
+Léo
+Leo
+Léa
+Lea
+Yes
+Yes
+maybe
+maybe
+non
+no
+Tu veux jouer ?
+Wanna play?

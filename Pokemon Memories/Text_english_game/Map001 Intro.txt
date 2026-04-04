@@ -1,0 +1,55 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map001]
+Voulez-vous jouer en mode normal ou difficile ?
+Would you like to play normal mode or hard mode?
+Le jeu est encore en cours de développement. N'hésitez pas à sauvegarder régulièrement.
+The game is still in development. Please save regularly.
+\rBonjour. Je vous attendais.
+\rHello. I’ve been expecting you.
+\rBienvenue dans le monde des Pokémon.
+\rWelcome to the world of Pokémon.
+\rJe m'appelle Raya Koa, et j'étudie les comportements des Pokémon.
+\rMy name is Raya Koa, and I study Pokémon behavior.
+\rCertaines espèces vivent en harmonie avec celles qui les entourent.
+\rSome species live in harmony with those around them.
+\rD'autres sont en lutte constante pour leur survie.
+\rOthers are in constant struggle for survival.
+\rLa diversité présente dans la nature me fascine.
+\rThe diversity found in nature fascinates me.
+\rC'est pour essayer de la préserver que je me lève tout les matins.
+\rThat’s why I get up every morning—to try to preserve it.
+\rBref, assez parlé de moi.
+\rAnyway, enough about me.
+\rC'est laquelle ta photo ?
+\rWhich one is your photo?
+\rQuel est ton nom ?
+\rWhat is your name?
+\rTu t'appelles \PN?
+\rYour name is \PN?
+\r\PN, ton aventure est sur le point de commencer !
+\r\PN, your adventure is about to begin!
+\rParcours le monde, apprends des autres, et-
+\rTravel the world, learn from others, and—
+\b???: RAYOOOUUUUUUUU!! OUVRE-MOI BESTIE!!
+\b???: RAY-RAAAAAAAAY!! OPEN UP, BESTIE!!
+\rRAYA: (Mia, c'est pas le moment. Je suis occupée là.)
+\rRAYA: (Mia, not now. I’m busy right now.)
+\bMIA: T'AS DIS QUOI !?!
+\bMIA: WHAT DID YOU SAY!?!
+\bMIA: BON, JE RENTRE !
+\bMIA: FINE, I’M COMING IN!
+Normal
+Normal
+Difficile
+Hard
+Gauche
+Left
+Droite
+Right
+Oui
+Yes
+Non
+No
+

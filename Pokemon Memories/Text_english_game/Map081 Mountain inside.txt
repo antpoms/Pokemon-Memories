@@ -1,0 +1,44 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map081]
+\b???: Vous... pouvez arrêter de me regarder ?
+\b???: Could you... stop staring at me?
+\bMIA: Promis. J'essaierai de me faire discrète !
+\bMIA: Promise. I'll try to be discreet!
+\b???: ...
+\b???: ...
+\bMIA: Mais...
+\bMIA: But...
+\f[zoroark]...
+\f[zoroark]...
+Zoroark est curieux.
+Zoroark is curious.
+Il souhaite vous rejoindre.
+It wants to join you.
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for—
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Sorry. I... I don't think I can do it today.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: It's so annoying. I can tell she's not okay, but when she's sad she always shuts herself off.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: It would be so much easier if we could just talk about it...
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
+\bJe vise le sommet !
+\bI'm aiming for the top!
+\bOn y est presque !
+\bWe're almost there!
+\bRéalise tes rêves, pas ceux des autres.
+\bFollow your dreams, not someone else's.
+\bJ'ai perdu 5 ans de ma vie à étudier pour réaliser le rêve de mon père.
+\bI wasted five years of my life studying to fulfill my father's dream.
+\bQuand je lui ai annoncé que j'abandonnais, ça n'a pas été facile.
+\bWhen I told him I was quitting, it wasn't easy.
+\bMais bon, mieux vaut une dispute compliquée plutôt qu'une vie à m'ennuyer !
+\bBut hey, better to have a messy argument than a life of being bored!
