@@ -102,6 +102,9 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]   # Raya Lab
+Name = Raya's Lab
+#-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
 Outdoor = true
@@ -476,3 +479,6 @@ BattleBack = indoordark
 [088] #Nexus Lab Underground
 Name = Nexus Lab
 BattleBack = indoordark
+#-------------------------------
+[089] #Waiting Room
+Name = Waiting Room

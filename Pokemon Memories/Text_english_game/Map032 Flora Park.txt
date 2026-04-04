@@ -221,7 +221,7 @@ He decides to conquer the world by your side.
 \rRAYA: ...Qui êtes-vous ?
 \rRAYA: ...Who are you?
 \b???: Millie Keran. Détective privée. J'aimerais vous poser quelques questions sur Zake Einer et la politique de Nexus.
-\b???: Millie Keran. Private investigator. I'd like to ask you a few questions about Zake Einer and Nexus's policies.
+\b???: Emma Keran. Private investigator. I'd like to ask you a few questions about Zake Einer and Nexus's policies.
 \rRAYA: Vous voulez que je vous dévoile des secrets professionels ?
 \rRAYA: You want me to reveal professional secrets?
 \bMILLIE: Disont que nous pourrions faire un échange d'informations...

@@ -128,7 +128,9 @@ class Swdfm_Exp_Screen
 	    :X       => b_w / 2,
 	    :Align   => 2
 	  }
-	  bmp = Swdfm_Bitmap.text("+" + @values[i].to_s_formatted, hash, @sprites["exp_#{i}"].bitmap)
+	  if @values[i]
+	  	bmp = Swdfm_Bitmap.text("+" + @values[i].to_s_formatted, hash, @sprites["exp_#{i}"].bitmap)
+	  end
 	end
   end
   

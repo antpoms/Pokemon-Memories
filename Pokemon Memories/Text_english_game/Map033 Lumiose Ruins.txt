@@ -7,7 +7,7 @@
 \bÉCHEC DE LA MISSION.
 \bMISSION FAILED.
 \rRAYA: Millie, c'est toi ?
-\rRAYA: Millie, is that you?
+\rRAYA: Emma, is that you?
 \rRAYA: Dieu merci, tu vas bien !
 \rRAYA: Thank God, you're okay!
 \rRAYA: Comment s'est fini l'opération ? Einer a été arrêté ?
@@ -15,11 +15,11 @@
 \bMILLIE: ...
 \bMILLIE: ...
 \rRAYA: M...Millie ?
-\rRAYA: M...Millie?
+\rRAYA: E...Emma?
 \rRAYA: Pourquoi tu me regardes comme ça ?
 \rRAYA: Why are you looking at me like that?
 \rRAYA: Millie ?
-\rRAYA: Millie?
+\rRAYA: Emma?
 \bMILLIE: Je n'abandonnerai pas.
 \bMILLIE: I will not give up.
 \rRAYA: Hé ! Reviens !

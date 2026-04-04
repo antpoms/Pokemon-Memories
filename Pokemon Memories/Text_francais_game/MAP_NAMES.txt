@@ -58,3 +58,7 @@ Pyrenem Mountain
 Montagne Pyrenem
 Nexus Lab
 Laboratoire Nexus
+Raya's Lab
+Laboratoire de Raya
+Waiting Room
+Salle d'attente

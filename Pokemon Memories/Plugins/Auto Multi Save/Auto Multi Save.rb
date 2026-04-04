@@ -551,7 +551,6 @@ module Game
     $player.save_slot = slot unless auto
     $player.last_time_saved = Time.now
     begin
-      SaveData.mark_values_as_unloaded
       SaveData.save_to_file(file_path) 
       Graphics.frame_reset
     rescue IOError, SystemCallError
