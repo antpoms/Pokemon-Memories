@@ -84,22 +84,6 @@ You can teach your Pokémon new moves.
 \bMIA: Then yes.
 \rRAYA: Suis-moi.
 \rRAYA: Follow me.
-\rRAYA: La police internationale m'a contacté en octobre à propos de Nexus.
-\rRAYA: International police contacted me in October regarding Nexus.
-\rRAYA: Ils enquêtent sur le projet ARK, et ont besoin de moi pour obtenir plus d'informations.
-\rRAYA: They're investigating Project ARK, and they need me to get more information.
-\rRAYA: On ne sait pas en quoi consiste le projet, mais on en sait assez pour savoir que ça implique des expériences sur des humains et des Pokémon.
-\rRAYA: We don't know what the project is exactly, but we know enough to know it involves experiments on humans and Pokémon.
-\rRAYA: Et qu'elles ont commencé ici.
-\rRAYA: And that they started here.
-\rRAYA: Tu es prête ?
-\rRAYA: Are you ready?
-\bMIA: Prête.
-\bMIA: Ready.
-\rRAYA: Alors c'est parti.
-\rRAYA: Then let's go.
-Raya utilise son badge Nexus.
-Raya uses her Nexus badge.
 Grahyèna est impressioné par vos talent de dresseuse.
 Mightyena is impressed by your skills as a trainer.
 Il décide de vous rejoindre.
