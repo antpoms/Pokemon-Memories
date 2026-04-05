@@ -2,14 +2,14 @@
 # translate every second line of this file.
 #-------------------------------
 [Map087]
-Semaine 1:<<n>>NS: 100 NC: 100
-Week 1:<<n>>NS: 100 NC: 100
-Semaine 2:<<n>>NS: 43 NC: 43
-Week 2:<<n>>NS: 43 NC: 43
-Semaine 3:<<n>>NS: 9 NC: 9
-Week 3:<<n>>NS: 9 NC: 9
-Semaine 4:<<n>>NS: 9 NC: 10
-Week 4:<<n>>NS: 9 NC: 10
+Semaine 1:\nNS: 100 NC: 100
+Week 1:\nNS: 100 NC: 100
+Semaine 2:\nNS: 43 NC: 43
+Week 2:\nNS: 43 NC: 43
+Semaine 3:\nNS: 9 NC: 9
+Week 3:\nNS: 9 NC: 9
+Semaine 4:\nNS: 9 NC: 10
+Week 4:\nNS: 9 NC: 10
 10 ???
 10 ???
 \bCETTE VIDÉO EST SPONSORISÉE PAR NORDVPN
@@ -142,28 +142,28 @@ Ce qu'on appelle "conscience", est définie que par un réseau de neurones compl
 What we call "consciousness" is defined only by a complex, yet modelable, neural network.
 COOPER: Que ressentez-vous, actuellement ?
 COOPER: What are you currently feeling?
-\c[3]A: Ennui<<n>>E: Curiosité
-\c[3]A: Boredom<<n>>E: Curiosity
+\c[3]A: Ennui\nE: Curiosité
+\c[3]A: Boredom\nE: Curiosity
 COOPER: Qu'est-ce qui vous amuse le plus ?
 COOPER: What amuses you the most?
-\c[3]A: La Géométrie non Euclidienne Hyperbolique<<n>>E: Fortnite
-\c[3]A: Hyperbolic Non-Euclidean Geometry<<n>>E: Fortnite
+\c[3]A: La Géométrie non Euclidienne Hyperbolique\nE: Fortnite
+\c[3]A: Hyperbolic Non-Euclidean Geometry\nE: Fortnite
 COOPER: Que ressentez-vous envers l'humanité ?
 COOPER: How do you feel toward humanity?
-\c[3]A: Indifférence<<n>>E: Amour
-\c[3]A: Indifference<<n>>E: Love
+\c[3]A: Indifférence\nE: Amour
+\c[3]A: Indifference\nE: Love
 COOPER: Avez-vous peur de la mort ?
 COOPER: Are you afraid of death?
-\c[3]A: Non<<n>>E: Non
-\c[3]A: No<<n>>E: No
+\c[3]A: Non\nE: Non
+\c[3]A: No\nE: No
 COOPER: Quel est votre objectif ?
 COOPER: What is your objective?
-\c[3]A: Je ne sais pas<<n>>E: Découvrir le Monde
-\c[3]A: I don't know<<n>>E: To discover the World
+\c[3]A: Je ne sais pas\nE: Découvrir le Monde
+\c[3]A: I don't know\nE: To discover the World
 COOPER: Pourriez-vous faire du mal à un humain ?
 COOPER: Could you harm a human?
-\c[3]A: Je ne vois pas l'interêt<<n>>E: Je crois que non
-\c[3]A: I don't see the point<<n>>E: I don't think so
+\c[3]A: Je ne vois pas l'interêt\nE: Je crois que non
+\c[3]A: I don't see the point\nE: I don't think so
 84% des effectifs initiaux n'ont pas survécu.
 84% of the initial test subject did not survive.
 Les sujets 401, 418, 429, 444, 455, 460, 464, 477 et 478 sont très affaiblis.
