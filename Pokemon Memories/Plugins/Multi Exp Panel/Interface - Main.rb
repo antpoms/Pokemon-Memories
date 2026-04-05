@@ -53,7 +53,11 @@ class Swdfm_Exp_Screen
   def update_bars
     for i in 0...$player.party.size
 	  next if $player.party[i].level == Settings:: MAXIMUM_LEVEL
-	  mock_exp  = $player.party[i].exp + (@values[i] * @elapsed / @total_frames).floor
+	  v_temp = 0
+	  if @values[i]
+		v_temp = @values[i]
+	  end
+	  mock_exp  = $player.party[i].exp + ( v_temp * @elapsed / @total_frames).floor
 	  lvl, perc = $player.party[i].exp_fraction_for_panel(mock_exp)
 	  if lvl > @levels[i]
 		@levels[i] = lvl
@@ -119,6 +123,7 @@ class Swdfm_Exp_Screen
 	  }
 	  bmp = Swdfm_Bitmap.text($player.party[i].level.to_s, hash, @sprites["level_#{i}"].bitmap)
 	  next if @values[i] == 0
+	  next if !@values[i]
 	  # Exp
 	  @sprites["exp_#{i}"] = BitmapSprite.new(b_w, 64, @viewport)
 	  @sprites["exp_#{i}"].x = x + EXP_X

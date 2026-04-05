@@ -64,6 +64,7 @@ class Battle
       # Clear the participants array
       for i in 0...$player.party.size
         next if values[i] == 0
+        next if !values[i]
         pbActualLevelUpAndGatherMoves(i, values[i])
       end
       b.participants = []

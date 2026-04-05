@@ -1488,8 +1488,8 @@ Utilisez les flèches pour déplacer le personnage principal.<<n>>Vous pouvez é
 Use the arrow keys to move the main character.<<n>>You can also use the arrow keys to navigate through the menus.
 Utilisée pour confirmer un choix, interagir avec des personnes et des objets, et pour les dialogues.
 Used to confirm a choice, interact with people and objects, and for dialogues.
-Permet de quitter, et d'annuler un choix. Pendant le déplacement, maintenez cette touche enfoncée pour courir.
-Allows you to exit or cancel a choice. While moving, hold this key down to run.
+Permet de quitter, et d'annuler un choix. Pendant le déplacement, maintenez cette touche enfoncée pour marcher.
+Allows you to exit or cancel a choice. While moving, hold this key down to walk.
 Permet d'ouvrir le menu Pause. Possède également diverses fonctions selon le contexte.
 Allows you to open the Pause menu. Also has various functions depending on the context.
 Messages

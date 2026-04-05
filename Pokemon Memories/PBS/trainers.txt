@@ -123,6 +123,18 @@ Pokemon = BIDOOF,3
 Pokemon = PIKIPEK,3
 Pokemon = TORCHIC,5
 #-------------------------------
+[POKEMONBREEDER2,Valérian,2]
+LoseText = Je surestime peut-être mes compétences.
+Pokemon = BIDOOF,3
+Pokemon = PIKIPEK,3
+Pokemon = ROWLET,5
+#-------------------------------
+[POKEMONBREEDER2,Valérian,3]
+LoseText = Je surestime peut-être mes compétences.
+Pokemon = BIDOOF,3
+Pokemon = PIKIPEK,3
+Pokemon = SQUIRTLE,5
+#-------------------------------
 [POKEMONBREEDER2,Valérian,11]
 LoseText = Je surestime peut-être mes compétences.
 Pokemon = BIDOOF,3
