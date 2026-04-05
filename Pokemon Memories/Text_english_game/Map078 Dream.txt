@@ -1,0 +1,12 @@
+# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map078]
+???: Les derniers rapports montrent l'apparition de nouveaux phénomènes biologiques étranges.
+???: The latest reports show the appearance of strange new biological phenomena.
+???: Des Pokémon avec des formes alternatives temporaires ont été obervés sous ces mêmes formes à l'état sauvage.
+???: Pokémon with temporary alternative forms have been observed in those same forms in the wild.
+???: La Méga-évolution et le Dynamax soulèvent maintenant encore plus de questions au sein de la communauté scientifique.
+???: Mega Evolution and Dynamax are now raising even more questions within the scientific community.
+???: Est-ce une sélection naturelle accélerée ? L'oeuvre d'un Pokémon légendaire ? Une expérience qui a mal tourné ?
+???: Is it accelerated natural selection? The work of a Legendary Pokémon? An experiment gone wrong?

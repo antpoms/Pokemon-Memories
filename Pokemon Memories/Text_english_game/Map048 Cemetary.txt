@@ -1,0 +1,6 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map048]
+\bVIEIL HOMME: Tu me manques tellement...
+\bOLD MAN: I miss you so much...
