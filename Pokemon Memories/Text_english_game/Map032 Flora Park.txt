@@ -204,6 +204,8 @@ He decides to conquer the world by your side.
 \bHonestly, it probably isn't that complicated.
 \bJe ne dirais pas que je suis naif, je dirais que je suis optimiste.
 \bI wouldn't say I'm naive, I'd say I'm optimistic.
+\b???: Besoin d'air ?
+\b???: Need some air?
 \rRAYA: On se connaît ?
 \rRAYA: Do we know each other?
 \b???: Vous, non. Mais moi, oui.
@@ -220,8 +222,8 @@ He decides to conquer the world by your side.
 \b???: Did I get it all right?
 \rRAYA: ...Qui êtes-vous ?
 \rRAYA: ...Who are you?
-\b???: Millie Keran. Détective privée. J'aimerais vous poser quelques questions sur Zake Einer et la politique de Nexus.
-\b???: Emma Keran. Private investigator. I'd like to ask you a few questions about Zake Einer and Nexus's policies.
+\b???: Millie Keran. Police Internationale. J'aimerais vous poser quelques questions sur Zake Einer et la politique de Nexus.
+\b???: Emma Keran. International Police. I'd like to ask you a few questions about Zake Einer and Nexus's policies.
 \rRAYA: Vous voulez que je vous dévoile des secrets professionels ?
 \rRAYA: You want me to reveal professional secrets?
 \bMILLIE: Disont que nous pourrions faire un échange d'informations...
