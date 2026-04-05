@@ -184,7 +184,7 @@ Supposons qu'un téléporteur vers Mars voit le jour
 Suppose a teleporter to Mars is created
 Pour fonctionner, le téléporteur sur Terre scanne l'agencement des atomes d'une personne, et envoie les données au téléporteur sur Mars.
 To work, the Earth teleporter scans the arrangement of a person's atoms and sends the data to the Mars teleporter.
-Le téléporteur sur Mars recréer alors la person avec l'exact agencement de ses atomes sur Mars, alors que l'original sur Terre est détruit.
+Le téléporteur sur Mars recréer alors la personne avec l'exact agencement de ses atomes sur Mars, alors que l'original sur Terre est détruit.
 The Mars teleporter then recreates the person with the exact arrangement of their atoms on Mars, while the original on Earth is destroyed.
 La question se pose alors: Est-ce que la personne téléportée sur Mars est toujours vous, ou êtes-vous mort dans ce téléporteur ?
 The question then arises: Is the person teleported to Mars still you, or are you dead in that teleporter?
