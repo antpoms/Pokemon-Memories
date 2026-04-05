@@ -13,7 +13,7 @@
 \rRAYA: Comment s'est fini l'opération ? Einer a été arrêté ?
 \rRAYA: How did the operation end? Was Einer arrested?
 \bMILLIE: ...
-\bMILLIE: ...
+\bEMMA: ...
 \rRAYA: M...Millie ?
 \rRAYA: E...Emma?
 \rRAYA: Pourquoi tu me regardes comme ça ?
@@ -21,7 +21,7 @@
 \rRAYA: Millie ?
 \rRAYA: Emma?
 \bMILLIE: Je n'abandonnerai pas.
-\bMILLIE: I will not give up.
+\bEMMA: I will not give up.
 \rRAYA: Hé ! Reviens !
 \rRAYA: Hey! Come back!
 \rRAYA: ...

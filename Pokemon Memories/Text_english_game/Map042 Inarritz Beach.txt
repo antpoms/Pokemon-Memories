@@ -137,7 +137,7 @@ Raya entrusts you with 5 RMCP sensors.
 \rRAYA: Tiens, prend ça.
 \rRAYA: Here, take this.
 \rRAYA: Aller, amuse-toi bien !
-\rRAYA: Come on, have fun!
+\rRAYA: Have fun!
 \bMIA: Conasse.
 \bMIA: Asshole.
 De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
@@ -443,7 +443,7 @@ You can teach your Pokémon new moves.
 \bDAN: Cool ! Alors, qui viendra avec toi ?
 \bDAN: Cool! So, who's coming with you?
 \bDAN: Bon voyage !
-\bDAN: Have a safe trip!
+\bDAN: Enjoy your trip!
 \bSkibidi.
 \bSkibidi.
 \bSkibidi toilet est une oeuvre qui dénonce les travers de nos sociétés capitalistes.

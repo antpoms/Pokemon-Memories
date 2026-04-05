@@ -36,8 +36,8 @@ You found the 3 Pokémon!
 \rRAYA: The one that officializes the adoption contract, obviously.
 \rRAYA: Tu préfère 500000$ maintenant ou tu préfères payer en 3 fois ?
 \rRAYA: Would you prefer 500,000$ now or paying in 3 installments?
-\bMIA:COMBIEN???
-\bMIA:HOW MUCH???
+\bMIA: COMBIEN ???
+\bMIA: HOW MUCH ???
 \rRAYA:500000.
 \rRAYA: $500,000.
 \rRAYA: Il faut bien payer les vaccins et les vétérinaires, sans parler des abonnements aux centres Pokémon...
@@ -225,11 +225,11 @@ He decides to conquer the world by your side.
 \rRAYA: Vous voulez que je vous dévoile des secrets professionels ?
 \rRAYA: You want me to reveal professional secrets?
 \bMILLIE: Disont que nous pourrions faire un échange d'informations...
-\bMILLIE: Let's just say we could exchange information...
+\bEMMA: Let's just say we could exchange information...
 \bMILLIE: J'ai la deuxième partie sur une clé USB. Si ça vous intéresse, voici ma carte.
-\bMILLIE: I have the second part on a USB drive. If you're interested, here's my card.
+\bEMMA: I have the second part on a USB drive. If you're interested, here's my card.
 \bMILLIE: Au plaisir.
-\bMILLIE: A pleasure.
+\bEMMA: A pleasure.
 \f[yamper joyous]...
 \f[yamper joyous]...
 \b???: Voltoutou ?

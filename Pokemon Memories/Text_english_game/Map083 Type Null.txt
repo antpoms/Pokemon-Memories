@@ -13,7 +13,7 @@ The Pokémon can't remember the last time a human showed it any empathy.
 Il décide de vous faire confiance.
 It decides to trust you.
 Vous obtenez un ensemble de modules.
-You obtained a set of drives.
+You obtained a set of ROMs.
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
