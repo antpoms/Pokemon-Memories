@@ -195,7 +195,7 @@ The question then arises: Is the person teleported to Mars still you, or are you
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
-\bMIA: It's time for—
+\bMIA: It's time for-
 \rRAYA: Nop. C'est vraiment pas le moment.
 \rRAYA: Nop. It's really not the time.
 \rRAYA: Tenez. Prenez des vitamines.

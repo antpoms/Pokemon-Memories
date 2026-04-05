@@ -21,7 +21,7 @@ You placed the last sensor.
 \bMIA: Fuck le travail.
 \bMIA: Fuck work.
 \bMIA: C'est l'heure du-
-\bMIA: It's time for—
+\bMIA: It's time for-
 \bMIA: CHI-FOU-MI !!
 \bMIA: ROCK-PAPER-SCISSORS!!
 \rRAYA: Je peux savoir ce que tu fous ?
@@ -43,7 +43,7 @@ Your Pokémon's potential has been maximized!
 \rRAYA: ...
 \rRAYA: ...
 \rRAYA: Zake, je te présente Mia. Elle m'assistera dans mes recherches durant les prochaines semaines. Mia, je te présente-
-\rRAYA: Zake, this is Mia. She'll be assisting me with my research over the next few weeks. Mia, this is—
+\rRAYA: Zake, this is Mia. She'll be assisting me with my research over the next few weeks. Mia, this is-
 \b???: Zake Einer, vice-président de Nexus Corporation.
 \b???: Zake Einer, Vice President of Nexus Corporation.
 \bMIA: Oh ! C'est vous qui faites les Motismart ?
@@ -51,7 +51,7 @@ Your Pokémon's potential has been maximized!
 \bEINER: Entre autre, oui. Nous investissons dans différents secteurs.
 \bEINER: Among other things, yes. We invest in various sectors.
 \bEINER: Les Motismarts restent la partie la plus visible, mais nous misons aussi beaucoup sur la réalité virtuelle, les énergies renouvelables, et-
-\bEINER: Rotom Phones are our most visible product, but we're also betting heavily on virtual reality, renewable energy, and—
+\bEINER: Rotom Phones are our most visible product, but we're also betting heavily on virtual reality, renewable energy, and-
 \rRAYA: Le projet ARK ?
 \rRAYA: Project ARK?
 \bEINER: ...
@@ -60,14 +60,14 @@ Your Pokémon's potential has been maximized!
 \bEINER: Who told you about that?
 \rRAYA: Tu n'as pas à le savoir.
 \rRAYA: You don't need to know.
-\rRAYA: Qu'est-ce que ce projet ? Pourquoi Nexus y consacre 28% de son budget ?
+\rRAYA: Qu'est-ce que c'est que ce projet ? Pourquoi Nexus y consacre 28% de son budget ?
 \rRAYA: What exactly is this project? Why is Nexus allocating 28% of its budget to it?
 \bEINER: Tu sais bien que c'est confidentiel, Raya.
 \bEINER: You know perfectly well that's confidential, Raya.
 \rRAYA: J'en sais assez pour comprendre que les médias adoreraient en entendre parler.
 \rRAYA: I know enough to realize the media would love to hear about it.
 \rRAYA: "Nexus se retrouve impliqué dans du traffic d'êtres humains", ça fait une première page qui en jette, non ?
-\rRAYA: "Nexus implicated in human trafficking"—makes for a hell of a headline, doesn't it?
+\rRAYA: "Nexus implicated in human trafficking"-makes for a hell of a headline, doesn't it?
 \bEINER: C'est vrai, tu devrais en parler à la presse. Je peux te donner des contacts, si tu veux.
 \bEINER: True. You should talk to the press. I can give you some contacts, if you'd like.
 \rRAYA: Hein ?
@@ -191,11 +191,11 @@ You can teach your Pokémon new moves.
 \bGAB: Attends j'essaie de battre mon high score.
 \bGAB: Hang on, I'm trying to beat my high score.
 \bMIA: ES-
-\bMIA: YOU—
+\bMIA: YOU-
 \bMIA: PÈCE
-\bMIA: SON—
+\bMIA: SON-
 \bMIA: DE
-\bMIA: OF—
+\bMIA: OF-
 \bMIA: CHEH ! Ça t'apprendra !
 \bMIA: HA! That'll teach you!
 \bGAB: Cool.
@@ -261,7 +261,7 @@ You can teach your Pokémon new moves.
 \bMIA: Durant ma vie de dresseuse, j'ai fait des rencontres extraordinaires, vécu des moments magiques, et créé des liens forts avec mes Pokémon.
 \bMIA: During my life as a trainer, I've met extraordinary people, lived through magical moments, and built strong bonds with my Pokémon.
 \bMIA: Ces nuits à la belle étoile, ces victoires décisives, tout ces fous rires, je ne les aurais jamais vécu si j'avais abandonné au début.
-\bMIA: Those nights under the stars, those decisive victories, all those laughs—I would have never experienced them if I'd given up at the start.
+\bMIA: Those nights under the stars, those decisive victories, all those laughs-I would have never experienced them if I'd given up at the start.
 \bMIA: Je n'ai pas abandonné.
 \bMIA: I didn't give up.
 \bMIA: Je voulais partir et découvrir le monde, et j'avais promis à ma mère que je lui ramènerai des souvenirs de mes voyages.
@@ -301,7 +301,7 @@ You can teach your Pokémon new moves.
 \bMIA: Va t'amuser avec tes Pokémon !
 \bMIA: Go have fun with your Pokémon!
 \bMIA: Jouez ensembles, allez vous balader, n'importe quoi tant que vous y prenez du plaisir !
-\bMIA: Play together, go for walks—anything, as long as you're enjoying yourselves!
+\bMIA: Play together, go for walks-anything, as long as you're enjoying yourselves!
 \bMIA: La vie de dresseur n'a pas besoin dêtre une compétition tout le temps.
 \bMIA: A trainer's life doesn't need to be a competition all the time.
 \bMIA: Prends du temps pour toi.
@@ -401,7 +401,7 @@ You can teach your Pokémon new moves.
 \bDAN: J'ai pas mal de musiques qu'on aime bien, mais je ne sais pas à quelle région les attribuer.
 \bDAN: I have a lot of tracks we like, but I don't know which region to assign them to.
 \bDAN: Par exemple, celle-là, c'est quelle région pour toi ?
-\bDAN: For example, this one—which region does it sound like to you?
+\bDAN: For example, this one-which region does it sound like to you?
 \bDAN: Ouais ! Ça matche bien ! Et celle-là ?
 \bDAN: Yeah! That matches well! And this one?
 \bDAN: Grave ! Qu'est-ce que tu penses pour celle-là ?
@@ -411,7 +411,7 @@ You can teach your Pokémon new moves.
 \bDAN: T'as le truc ! Tu dirais quoi pour celle-ci ?
 \bDAN: You've got the touch! What would you say for this one?
 \bDAN: Ouais ! T'as raison ! Plus qu'une, j'hésite pour celle-là.
-\bDAN: Yeah! You're right! One left—I'm torn on this one.
+\bDAN: Yeah! You're right! One left-I'm torn on this one.
 \bDAN: Mais... MAIS OUI ! C'EST ÇA !
 \bDAN: Wait... YES! THAT'S IT!
 \bDAN: Merci beaucoup, meuf, tu nous as grave débloqué !
@@ -565,7 +565,7 @@ Staryu found that very funny. It wishes to join your team.
 \bMIA: Rooooohhhhh, ça vaaaaaaaa... C'est qu'un jeu.
 \bMIA: Ohhhhh, come on... It's just a game.
 \bKEVIN: Vous ne comprenez pas... S'il me retrouve, il va-
-\bKEVIN: You don't understand... If he finds me, he'll—
+\bKEVIN: You don't understand... If he finds me, he'll-
 \b???: KEVIN !?
 \b???: KEVIN!?
 \bKEVIN: Oh non...
@@ -589,7 +589,7 @@ Staryu found that very funny. It wishes to join your team.
 \bSTEVE: BOOOOOOOOOOOOM !! J'AI GAGNÉ !!
 \bSTEVE: BOOOOOOOOOOOOM!! I WON!!
 \bSTEVE: ESPÈCE DE-
-\bSTEVE: YOU LITTLE—
+\bSTEVE: YOU LITTLE-
 \b???: Steve ?
 \b???: Steve?
 \bSTEVE: Mon... MONSIEUR EINER !!

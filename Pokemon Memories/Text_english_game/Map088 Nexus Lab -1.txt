@@ -65,7 +65,7 @@ Face Subject 466?
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
-\bMIA: It's time for—
+\bMIA: It's time for-
 \rRAYA: Nop. C'est vraiment pas le moment.
 \rRAYA: Nope. Now is really not the time.
 \rRAYA: Tenez. Prenez des vitamines.

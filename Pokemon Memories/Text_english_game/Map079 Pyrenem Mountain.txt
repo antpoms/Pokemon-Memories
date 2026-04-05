@@ -143,7 +143,7 @@ You've gathered enough wood.
 \bMIA: Ok la team.
 \bMIA: Okay team.
 \bMIA: C'est l'heure du-
-\bMIA: It's time for—
+\bMIA: It's time for-
 \bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
 \bMIA: Sorry. I... I don't think I can do it today.
 \bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
