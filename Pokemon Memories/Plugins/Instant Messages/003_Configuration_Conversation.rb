@@ -56,6 +56,7 @@
 #                         of the choice made. For example, "$player.party[0].gender = {VALUE}"
 #
 
+# --- MIA1 ---
 GameData::InstantMessageConversation.register({
     :id             => :MIA1,
     :group          => :MIA,
@@ -67,6 +68,18 @@ GameData::InstantMessageConversation.register({
                     ]
 })
 
+GameData::InstantMessageConversation.register({
+    :id             => :MIA1_EN,
+    :group          => :MIA,
+    :important      => true,
+    :messages       => [
+                        [1, :Text, _INTL("RAY-RAAAAAAAAAAAY"),0],
+                        [1, :Text, _INTL("I HAVE A QUESTION!!!")],
+                        [0, :Text, _INTL("Not now, I'm working.")],
+                    ]
+})
+
+# --- MIA2 ---
 GameData::InstantMessageConversation.register({
     :id             => :MIA2,
     :group          => :MIA,
@@ -83,6 +96,23 @@ GameData::InstantMessageConversation.register({
                     ]
 })
 
+GameData::InstantMessageConversation.register({
+    :id             => :MIA2_EN,
+    :group          => :MIA,
+    :important      => true,
+    :messages       => [
+                        [1, :Text, _INTL("PLS IT'S URGENT!!",0)],
+                        [1, :Text, _INTL("ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER")],
+                        [0, :Text, _INTL("What?")],
+                        [1, :Text, _INTL("Would you still love me if I was a Grimer?")],
+                        [0, :Text, [_INTL("No."), _INTL("Yes. You already stink anyway.")]],
+                        [1, :Text, _INTL("<icon=emojiSad> ")],
+                        [1, :Text, _INTL("I'm gonna cry.")],
+                        [0, :Text, _INTL("<icon=emojiThumbsUp> ")],
+                    ]
+})
+
+# --- EINER ---
 GameData::InstantMessageConversation.register({
     :id             => :EINER,
     :group          => :EINER,
@@ -101,24 +131,30 @@ GameData::InstantMessageConversation.register({
 })
 
 GameData::InstantMessageConversation.register({
+    :id             => :EINER_EN,
+    :group          => :EINER,
+    :important      => true,
+    :messages       => [
+                        [1, :Text, _INTL("Hey, the board meeting is set for Monday the 21st."),0],
+                        [1, :Text, _INTL("Do you think your climate/biodiversity report will be ready by then?")],
+                        [0, :Text, _INTL("Yes. It should be fine.")],
+                        [1, :Text, _INTL("Great, thanks. Send it over once you're done.")],
+                        [0, :Text, _INTL("<icon=emojiThumbsUp> ")],
+                        [0, :Text, _INTL("Zake?")],
+                        [1, :Text, _INTL("Yes?")],
+                        [0, :Text, _INTL("Do you really think you can convince them?")],
+                        [1, :Text, _INTL("I hope so.")],
+                    ]
+})
+
+# --- EMMA ---
+GameData::InstantMessageConversation.register({
     :id             => :EMMA,
     :group          => :EMMA,
     :important      => true,
     :messages       => [
                         [1, :Text, _INTL("EINER_FILE_1.zip"),0],
                     ]
-})
-
-GameData::InstantMessageConversation.register({
-    :id             => :MIA_YESTERDAY,
-    :group          => :MIA,
-    :reltimestamp   => [0, 0, 1, 5, 0, 15],
-    :messages       => [
-                        [1, :Text, _INTL("Prout.")],
-                        [1, :Text, _INTL("Prout.")],
-                        [1, :Text, _INTL("Prout.")],
-                        [0, :Text, _INTL("Tu n'es vraiment pas pertinente.")]
-    ]
 })
 
 
