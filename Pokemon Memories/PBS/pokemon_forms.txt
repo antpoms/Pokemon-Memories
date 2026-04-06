@@ -2310,7 +2310,7 @@ HiddenAbilities = GENETICPOWER
 Moves = 1,BADDYBAD,1,BOUNCYBUBBLE,1,BUZZYBUZZ,1,FREEZYFROST,1,GLITZYGLOW,1,SAPPYSEED,1,SIZZLYSLIDE,1,SPARKLYSWIRL,1,VEEVEEVOLLEY,1,GROWL,1,TACKLE,3,TAILWHIP,6,QUICKATTACK,10,DOUBLEKICK,14,SANDATTACK,17,BITE,21,SWIFT,24,TAKEDOWN,28,DOUBLEEDGE,31,HELPINGHAND
 Pokedex = It can evolve into a variety of forms. Eevee’s genes are the key to solving the mysteries of Pokémon evolution.
 Generation = 7
-Flags = SOSForm_0,CannotDynamax,CannotTerastallize
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize,Boss
 Evolutions = SYLVEON,None,
 #-------------------------------
 [EEVEE,2]

@@ -388,6 +388,7 @@ Habitat = Forest
 Category = Poison Bee
 Pokedex = A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.
 Generation = 1
+Flags = Boss
 WildItemUncommon = POISONBARB
 #-------------------------------
 [PIDGEY]
@@ -1541,6 +1542,7 @@ Habitat = Grassland
 Category = Scout
 Pokedex = They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.
 Generation = 1
+Flags = Boss
 Evolutions = ARCANINE,Level,26
 #-------------------------------
 [ARCANINE]
@@ -3281,7 +3283,7 @@ Habitat = Sea
 Category = Mysterious
 Pokedex = People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.
 Generation = 1
-Flags = Mythical
+Flags = Boss
 WildItemCommon = STARDUST
 WildItemUncommon = STARPIECE
 #-------------------------------
@@ -3632,6 +3634,7 @@ Habitat = Urban
 Category = Evolution
 Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
 Generation = 1
+Flags = Boss
 Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,LEAFEON,LocationFlag,MossRock,GLACEON,Item,ICESTONE,GLACEON,LocationFlag,IceRock,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,
 #-------------------------------
 [VAPOREON]
@@ -6486,6 +6489,7 @@ Habitat = Grassland
 Category = Electric
 Pokedex = If it touches metal and discharges the electricity it has stored in its body, an Elekid begins swinging its arms in circles to recharge itself.
 Generation = 2
+Flags = Boss
 WildItemUncommon = ELECTIRIZER
 Evolutions = ELECTABUZZ,Level,18
 #-------------------------------
@@ -6996,6 +7000,7 @@ Habitat = WatersEdge
 Category = Mud Fish
 Pokedex = On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.
 Generation = 3
+Flags = Boss
 Evolutions = MARSHTOMP,Level,16
 #-------------------------------
 [MARSHTOMP]
@@ -7099,6 +7104,7 @@ Shape = Quadruped
 Habitat = Grassland
 Category = Bite
 Pokedex = In the wild, Mightyena live in a pack. They never defy their leader's orders. They defeat foes with perfectly coordinated teamwork.
+Flags = Boss
 Generation = 3
 #-------------------------------
 [ZIGZAGOON]
@@ -12072,7 +12078,7 @@ Shape = BipedalTail
 Category = Mach
 Pokedex = When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.
 Generation = 4
-Flags = HasGenderedSprites, Mythical
+Flags = HasGenderedSprites, Boss
 #-------------------------------
 [MUNCHLAX]
 Name = Munchlax
@@ -12961,6 +12967,7 @@ Shape = HeadArms
 Category = Snow Land
 Pokedex = It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.
 Generation = 4
+Flags = Boss
 Evolutions = FROSLADY,Level,36
 #-------------------------------
 [FROSLADY]
@@ -20608,7 +20615,7 @@ Shape = Quadruped
 Category = Synthetic
 Pokedex = The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power.
 Generation = 7
-Flags = Legendary
+Flags = Legendary, Boss
 Evolutions = SILVALLY,Level,40
 #-------------------------------
 [SILVALLY]
