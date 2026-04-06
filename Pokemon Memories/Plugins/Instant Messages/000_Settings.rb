@@ -210,7 +210,6 @@ module InstantMessagesSettings
     # the order will be messed up when you first view the messages.
     #------------------------------------------------------------------------------------
     MESSAGE_HISTORY_LIST = [
-        :MIA_YESTERDAY
     ]
     
 end

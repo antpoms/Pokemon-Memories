@@ -243,6 +243,7 @@ module AdvancedAI
   # Check if Advanced AI is active
   def self.active?
     return false unless ENABLED
+    return false unless $game_switches[107]
     return true if DEBUG_MODE  # Auto-activate in debug mode
     return true if defined?(Settings::CHALLENGE_MODE) && Settings::CHALLENGE_MODE && ACTIVATE_WITH_CHALLENGE_MODES
     return @manually_activated || false
@@ -262,6 +263,7 @@ module AdvancedAI
   # MIN_SKILL_FOR_AUTO_ACTIVATION (70) is only for automatic activation
   def self.qualifies_for_advanced_ai?(skill_level)
     return false unless ENABLED  # System must be enabled
+    return false unless $game_switches[107]
     return skill_level >= SKILL_THRESHOLDS[:core]  # Need at least core features (50+)
   end
   
@@ -301,6 +303,7 @@ module AdvancedAI
   # Does NOT require active? (that's only for global system activation)
   def self.feature_enabled?(feature, skill_level)
     return false unless ENABLED  # System must be globally enabled
+    return false unless $game_switches[107]
     return false unless SKILL_THRESHOLDS[feature]  # Feature must exist
     return skill_level >= SKILL_THRESHOLDS[feature]  # Check skill threshold
   end
