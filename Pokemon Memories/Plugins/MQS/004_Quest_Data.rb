@@ -251,7 +251,7 @@ module QuestModule
   # --- QUEST 12 ---
   QuestBeach = {
     :ID => "24",
-    :Name => "(Quête principale) Dur d'être stagiaire...",
+    :Name => "(Quête principale) Capteurs",
     :QuestGiver => "Raya",
     :Stage1 => "Placez 5 capteurs aux coordonnées indiquées.",
     :Stage2 => "Retournez voir Raya.",
@@ -262,7 +262,7 @@ module QuestModule
 
   QuestBeach_en = {
     :ID => "25",
-    :Name => "(Main Quest) Hard to be an Intern...",
+    :Name => "(Main Quest) Sensors",
     :QuestGiver => "Raya",
     :Stage1 => "Place 5 sensors at the indicated coordinates.",
     :Stage2 => "Return to Raya.",
