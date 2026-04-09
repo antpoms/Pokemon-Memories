@@ -507,7 +507,7 @@ class PokemonSummary_Scene
 			
 						
 			# Show IV Letters Grades
-			if SHOW_IV_RATINGS && PluginManager.installed?("Enhanced UI")
+			if SHOW_IV_RATINGS && PluginManager.installed?("Lin's IV EV Summary Screen")
 				pbDisplayIVRatings(@pokemon, overlay, 110, 82) 
 			end
 			if SHOW_EV_IV
