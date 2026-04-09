@@ -2,7 +2,6 @@
 # translate every second line of this file.
 #-------------------------------
 [Map042]
-# on recontrole Mia. Elle doit placer des capteurs sur la plage.
 Vous avez placé le premier capteur.
 You placed the first sensor.
 Vous avez placé le deuxième capteur.
@@ -13,14 +12,12 @@ Vous avez placé le quatrième capteur.
 You placed the fourth sensor.
 Vous avez placé le dernier capteur.
 You placed the last sensor.
-# dresseure random
 \bTu savais qu'on pensait à une banane 8 fois par minute en moyenne ?
 \bDid you know that on average, people think about a banana 8 times per minute?
 \bTu savais qu'un pokémon sur deux était un keunotor !?
 \bDid you know that one out of every two Pokémon is a Bidoof!?
 \bQuelle grâce !
 \bSuch grace!
-# Mia training
 \bMIA: Fuck le travail.
 \bMIA: Fuck work.
 \bMIA: C'est l'heure du-
@@ -33,7 +30,6 @@ You placed the last sensor.
 \bMIA: \v[44]! ATTACK!
 Le potentiel de vos Pokémon a été maximisé !
 Your Pokémon's potential has been maximized!
-# fin de la zone. Raya dicute avec Einer
 \rRAYA: Qué pasa amiga ?
 \rRAYA: Qué pasa, amiga?
 \rRAYA: (Mia, c'est pas le moment.)
@@ -106,7 +102,6 @@ Your Pokémon's potential has been maximized!
 \bMIA: Not while I'm around.
 \bEINER: Très bien. Joue à l'héroïne si ça t'amuse.
 \bEINER: Fine. Play the hero if it amuses you.
-# combat contre Einer
 \bEINER: C'est bon, tu as fini ?
 \bEINER: Are you done now?
 \bEINER: Raya, rejoins-moi au siège le 15 avril. Je répondrais à toutes tes questions.
@@ -115,15 +110,12 @@ Your Pokémon's potential has been maximized!
 \bEINER: In the meantime, try to stay out of trouble.
 \bMIA: Connard.
 \bMIA: Asshole.
-# si le joueur perd un combat
 \rRAYA: Bah alors ? T'as perdu ?
 \rRAYA: Well? Did you lose?
 \bMIA: Oui bon ça va, hein.
 \bMIA: Yeah, yeah, I get it.
-# PNJ random en admiration devant un magikarp
 \bQuelle puissance !
 \bSuch power!
-# dialogue d'intro
 \bMIA: Wouhoooooooo !! Vamos a la playa amiga !!
 \bMIA: Woohoo!! Vamos a la playa, amiga!!
 \rRAYA: On est là pour bosser, je te rappelle.
@@ -152,7 +144,6 @@ De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
 New quests have been added to your quest list.
 Vous pouvez apprendre de nouvelles capacités à vos Pokémons.
 You can teach your Pokémon new moves.
-# quête
 \bVIEIL HOMME: Excusez-moi madame, vous êtes dresseuse ?
 \bOLD MAN: Excuse me, miss, are you a trainer?
 \bMIA: Yep !
@@ -173,18 +164,14 @@ You can teach your Pokémon new moves.
 \bOLD MAN: I tried to continue this pilgrimage without her, but Wingull and I aren't strong enough to face the sea alone.
 \bVIEIL HOMME: J'en demande sûrement beaucoup mais... m'accompagneriez-vous dans ce voyage ?
 \bOLD MAN: I'm probably asking a lot, but... would you accompany me on this journey?
-# si on dit oui
 \bVIEIL HOMME: Merci. Merci infiniment.
 \bOLD MAN: Thank you. Thank you so much.
-# si on dit non
 \bVIEIL HOMME: Je... je comprends.
 \bOLD MAN: I... I understand.
-# fin de la quete
 \bVIEIL HOMME: C'était ses fleurs préférées...
 \bOLD MAN: They were her favorite flowers...
 \bVIEIL HOMME: Merci infiniment, madame.
 \bOLD MAN: Thank you so much, miss.
-# quete avec Gab
 \bMIA: Hé ! Mais c'est toi qui a pissé devant moi !
 \bMIA: Hey! You're the guy who peed in front of me!
 \bMIA: MAIS REVIENS !!
@@ -197,7 +184,6 @@ You can teach your Pokémon new moves.
 \bMIA: FIRST YOU PEE IN FRONT OF ME WHEN I DIDN'T ASK FOR ANYTHING, AND THEN YOU BAIL INSTEAD OF APOLOGIZING!!
 \bMIA: T'AS AUCUN RESPECT !! T'ES VRAIMENT UNE GROSSE MERDE !!
 \bMIA: YOU HAVE ZERO RESPECT!! YOU'RE A TOTAL PIECE OF SHIT!!
-# il joue sur sa tablette
 \bGAB: ...
 \bGAB: ...
 \bMIA: MAIS TU M'ÉCOUTES !?
@@ -210,7 +196,6 @@ You can teach your Pokémon new moves.
 \bMIA: SON-
 \bMIA: DE
 \bMIA: OF-
-# combat contre Gab
 \bMIA: CHEH ! Ça t'apprendra !
 \bMIA: HA! That'll teach you!
 \bGAB: Cool.
@@ -219,13 +204,10 @@ You can teach your Pokémon new moves.
 \bMIA: Are you still on your game!?
 \bMIA: Donne-moi ça !
 \bMIA: Give me that!
-# Mia joue à son jeu
-# si le joueur fait un mauvais score
 \bGAB: T'es assez naze à ce jeu.
 \bGAB: You're pretty sucky at this game.
 \bMIA: Chut. C'est ta tablette qui marche pas.
 \bMIA: Shhh. Your tablet is just glitchy.
-# si le joueur fais un bon score
 \bGAB: Tu te débrouilles pas mal.
 \bGAB: You're doing alright.
 \bGAB: Tu peux continuer à jouer si tu veux.
@@ -250,12 +232,10 @@ You can teach your Pokémon new moves.
 \bGAB: Wanna play?
 \bMIA: Avec plaisir !
 \bMIA: I'd love to!
-# on peut joueur quand on veut, on reçoit des objets en function du score
 \bGAB: GG.
 \bGAB: GG.
 \bGAB: Tiens, prends ça.
 \bGAB: Here, take this.
-# quete avec une petite fille qui pleure
 \bPETITE FILLE: ...Snif
 \bLITTLE GIRL: ...sniff
 \bMIA: Bah alors petite, qu'est-ce qui se passe ?
@@ -270,72 +250,60 @@ You can teach your Pokémon new moves.
 \bMIA: Don't say that. It's normal not to get everything right on the first try.
 \bMIA: Je me suis lancé en tant que dresseuse en même temps que ma meilleure amie. Au début, elle me battait tout le temps, mais...
 \bMIA: I started out as a trainer at the same time as my best friend. At first, she beat me all the time, but...
-# differentes options de dialogues
-# choix 1
 \bMIA: J'ai perséveré.
 \bMIA: I persevered.
 \bMIA: Je me suis beaucoup entraîné, j'ai appris de mes erreurs, et j'ai beaucoup progressé avec mes Pokémon.
 \bMIA: I trained a lot, learned from my mistakes, and made tons of progress with my Pokémon.
 \bMIA: Ensemble, après des annés d'effort, on a pu collecter les 8 badges d'arène et battre la ligue.
 \bMIA: Together, after years of effort, we managed to collect all 8 Gym Badges and beat the League.
-# choix 2
 \bMIA: Ça ne m'a jamais empêché d'apprécier chaque combat !
 \bMIA: That never stopped me from enjoying every single battle!
 \bMIA: Durant ma vie de dresseuse, j'ai fait des rencontres extraordinaires, vécu des moments magiques, et créé des liens forts avec mes Pokémon.
 \bMIA: During my life as a trainer, I've met extraordinary people, lived through magical moments, and built strong bonds with my Pokémon.
 \bMIA: Ces nuits à la belle étoile, ces victoires décisives, tout ces fous rires, je ne les aurais jamais vécu si j'avais abandonné au début.
 \bMIA: Those nights under the stars, those decisive victories, all those laughs-I would have never experienced them if I'd given up at the start.
-# choix 3
 \bMIA: Je n'ai pas abandonné.
 \bMIA: I didn't give up.
 \bMIA: Je voulais partir et découvrir le monde, et j'avais promis à ma mère que je lui ramènerai des souvenirs de mes voyages.
 \bMIA: I wanted to head out and discover the world, and I promised my mom I'd bring her back souvenirs from my travels.
 \bMIA: Je ne voulais pas revenir sans avoir tenu ma promesse, alors j'ai perséveré.
 \bMIA: I didn't want to go back without keeping my promise, so I kept going.
-# suite
 \bPETITE FILLE: Vous... vous croyez que je dois continuer ?
 \bLITTLE GIRL: Do... do you think I should keep going?
 \bMIA: Bien sûr ! La question, c'est plutôt...
 \bMIA: Of course! The real question is...
-# choix 1
 \bMIA: Comment tu peux progresser ?
 \bMIA: How can you improve?
 \bMIA: Tu n'es pas obligée de gagner tout le temps. L'important d'être un peu meilleure à chaque fois.
 \bMIA: You don't have to win all the time. The important thing is to be a little better each time.
 \bMIA: Si tu tires des leçons après chaque combat, victoire comme défaite, alors tu t'améliorera naturellement !
 \bMIA: If you learn something after every battle, win or lose, then you'll naturally get better!
-# choix 2
 \bMIA: Est-ce que tu aimes ça ?
 \bMIA: Do you enjoy it?
 \bMIA: Si tu aimes sincèrement les combats Pokémon, qu'importe si tu gagnes ou si tu perds !
 \bMIA: If you truly love Pokémon battles, it doesn't matter if you win or lose!
 \bMIA: Tes Pokémon sentent tes peurs et tes doutes. Mais si tu t'amuses, ils s'amuseront avec toi !
 \bMIA: Your Pokémon feel your fears and doubts. But if you're having fun, they'll have fun with you!
-# choix 3
 \bMIA: Qu'est-ce qui te motive ?
 \bMIA: What motivates you?
 \bMIA: Si tu est dresseuse parce qu'on t'a poussé à l'être, tu ne vas pas apprécier ton aventure.
 \bMIA: If you're a trainer just because you were pushed into it, you won't enjoy your adventure.
 \bMIA: Il faut que ça vienne de toi. C'est cette raison intérieure qui te poussera à continuer dans les moments difficiles.
 \bMIA: It has to come from you. That inner reason is what will push you to keep going through the hard times.
-# suite
 \bPETITE FILLE: Mais... qu'est-ce que je peux faire ?
 \bLITTLE GIRL: But... what can I do?
-# choix 1
 \bMIA: Continue à t'entraîner !
 \bMIA: Keep training!
 \bMIA: Si tu fais ça régulièrement, tu progresseras forcément !
 \bMIA: If you do it regularly, you'll inevitably get better!
 \bMIA: Il faut juste savoir être patient.
 \bMIA: You just have to be patient.
-# choix 2
 \bMIA: Va t'amuser avec tes Pokémon !
 \bMIA: Go have fun with your Pokémon!
 \bMIA: Jouez ensembles, allez vous balader, n'importe quoi tant que vous y prenez du plaisir !
 \bMIA: Play together, go for walks-anything, as long as you're enjoying yourselves!
 \bMIA: La vie de dresseur n'a pas besoin dêtre une compétition tout le temps.
 \bMIA: A trainer's life doesn't need to be a competition all the time.
-# choix 3
 \bMIA: Prends du temps pour toi.
 \bMIA: Take some time for yourself.
 \bMIA: Prends le temps de te poser des questions et de savoir ce que tu veux.
@@ -344,7 +312,6 @@ You can teach your Pokémon new moves.
 \bMIA: Doubting yourself is never pleasant, but it's what makes you move forward.
 \bMIA: C'est plus facile quand c'est plus clair dans notre tête.
 \bMIA: Things are easier when they're clearer in your head.
-# suite
 \bPETITE FILLE: Merci... Je crois que ça va mieux.
 \bLITTLE GIRL: Thank you... I think I feel better.
 \bPETITE FILLE: Mes Pokémon et moi, on va pas abandonner !
@@ -355,7 +322,6 @@ You can teach your Pokémon new moves.
 \bMIA: Of course!
 \bMIA: En garde !
 \bMIA: En garde!
-# combat
 \bPETITE FILLE: C'était... TROP COOL !!
 \bLITTLE GIRL: That was... SO COOL!!
 \bPETITE FILLE: C'est décidé ! On va s'entraîner à fond avec mes Pokémon, jusqu'à devenir aussi forts que vous !
@@ -364,7 +330,6 @@ You can teach your Pokémon new moves.
 \bMIA: Hehe, I look forward to seeing that.
 \b???: Menzi ?
 \b???: Nemona?
-# une domestique arrive
 \bDOMESTIQUE: Vos parents sont rentrés à l'hôtel. Nous devons rentrer.
 \bSERVANT: Your parents have returned to the hotel. We must go back.
 \bMENZI: Déjà ? Je voulais continuer à m'entraîner avec mes Pokémon...
@@ -379,7 +344,6 @@ You can teach your Pokémon new moves.
 \bSERVANT: Well, I'm delighted to hear that!
 \bDOMESTIQUE: Tenez. Pour vous remercier d'avoir redonner le sourire à mademoiselle Menzi.
 \bSERVANT: Here. To thank you for putting a smile back on Miss Nemona's face.
-# le jouer recoit un Pokemon
 \bDOMESTIQUE: Nous pourrions proposer à vos parents de vous inscrire dans une école de dresseurs. Il y en a des réputées à Paldea.
 \bSERVANT: We could suggest to your parents that they enroll you in a trainer school. There are some very reputable ones in Paldea.
 \bDOMESTIQUE: Qu'est-ce que vous en dites ?
@@ -388,7 +352,6 @@ You can teach your Pokémon new moves.
 \bLITTLE GIRL: Oh! That would be wonderful!
 \bDOMESTIQUE: Super ! Allons proposer cela à vos parents.
 \bSERVANT: Great! Let's go suggest that to your parents.
-# quete avec un magikarp surpuissant
 \bAPPRENTIE: Magikarp-sama ! Comment pouvons- nous égaler votre puissance ?
 \bAPPRENTICE: Magikarp-sama! How can we ever match your power?
 \bAPPRENTI: Comment oses-tu !? La puissance de Magikarp-sama est inégalable !
@@ -409,7 +372,6 @@ You can teach your Pokémon new moves.
 \bMIA: Itadakimasu!
 \bAPPRENTI: S... sensei...pardonnez-la ! Elle ne sait pas ce qu'elle dit !
 \bAPPRENTICE: S... sensei... please forgive her! She doesn't know what she's saying!
-# combat contre magikarp sama
 \bAPPRENTIE: Ç... ça alors ! Elle a réussi à vaincre Magikarp-sama à 10% de sa puissance !
 \bAPPRENTICE: W... wow! She managed to defeat Magikarp-sama at 10% of his power!
 \bAPPRENTI: Magikarp-sama ! Vous êtes sûr !?
@@ -422,7 +384,6 @@ You can teach your Pokémon new moves.
 \bAPPRENTICE: I will never forget you!
 \bQuelle force !
 \bWhat strength!
-# quete blind test
 \bDAN: Yo meuf.
 \bDAN: Yo, girl.
 \bDAN: Tu dégages grave une vibe artistique !
@@ -445,10 +406,8 @@ You can teach your Pokémon new moves.
 \bDAN: Yeah! That matches well! And this one?
 \bDAN: Grave ! Qu'est-ce que tu penses pour celle-là ?
 \bDAN: Totally! What do you think for this one?
-# si mauvaise reponse
 \bDAN: Nan, ça correspond pas à la vibe.
 \bDAN: Nah, that doesn't fit the vibe.
-# si bonne reponse
 \bDAN: T'as le truc ! Tu dirais quoi pour celle-ci ?
 \bDAN: You've got the touch! What would you say for this one?
 \bDAN: Ouais ! T'as raison ! Plus qu'une, j'hésite pour celle-là.
@@ -461,7 +420,6 @@ You can teach your Pokémon new moves.
 \bDAN: I think we're ready for the final rehearsal!
 \bDAN: Vous êtes prêts les guys ???
 \bDAN: Are you ready, guys???
-# combat
 \bDAN: Wow ! Tu gères ! Merci meuf !
 \bDAN: Wow! You're killing it! Thanks, girl!
 \bDAN: Grâce à toi le spectacle sera ouf !
@@ -484,10 +442,8 @@ You can teach your Pokémon new moves.
 \bDAN: Would you take one with you?
 \bDAN: Cool ! Alors, qui viendra avec toi ?
 \bDAN: Cool! So, who's coming with you?
-# choix du pokemon
 \bDAN: Bon voyage !
 \bDAN: Enjoy your trip!
-# dresseur random
 \bSkibidi.
 \bSkibidi.
 \bSkibidi toilet est une oeuvre qui dénonce les travers de nos sociétés capitalistes.
@@ -496,20 +452,16 @@ You can teach your Pokémon new moves.
 \bThrough the clash between the Skibidi and the TV Men, it depicts the millennial struggle between chaos and order. Freedom and dictatorship.
 Vous arrêtez d'écouter.
 You stop listening.
-# admiration magikarp
 \bQuelle élégance !
 \bSuch elegance!
-# dresseur random, ref à OSS 117 j'avoue je sais pas trop comment les traduire
 \bJ'aime le bruit blanc de l'eau.
 \bI love the white noise of water.
 \bJ'aime me battre.
 \bI love to fight.
-# quete
 \bELSA-MINA: ...
 \bLUSAMINE: ...
 \bELSA-MINA: Réponds-moi honnêtement: penses-tu que tout le monde puisse être pardonné ?
 \bLUSAMINE: Answer me honestly: do you think everyone can be forgiven?
-# choix 1
 \bMIA: Je penses que oui.
 \bMIA: I think so.
 \bMIA: Les crimes les plus horribles naissent souvent d'un traumatisme ou du désespoir.
@@ -520,7 +472,6 @@ You stop listening.
 \bMIA: It helps in accepting the past and looking toward the future.
 \bELSA-MINA: J'aimerais te croire...
 \bLUSAMINE: I'd like to believe you...
-# choix 2
 \bMIA: Ça dépend de la personne.
 \bMIA: It depends on the person.
 \bMIA: Certaines erreurs ne pourront jamais être réparées, mais les personnes qui les ont commisent peuvent toujours changer.
@@ -529,7 +480,6 @@ You stop listening.
 \bMIA: If they sincerely regret their actions and do what's necessary to make amends, then yes, they can be forgiven.
 \bMIA: Ça demande juste du temps...
 \bMIA: It just takes time...
-# choix 3
 \bMIA: Non. Certains actes ne doivent pas être pardonnés.
 \bMIA: No. Some acts should not be forgiven.
 \bMIA: Certaines blessures ne partent jamais vraiment.
@@ -538,12 +488,10 @@ You stop listening.
 \bMIA: Forgiving would be acting as if it never happened. And some acts are too serious to be forgotten.
 \bELSA-MINA: ...C'est ce que je pensais.
 \bLUSAMINE: ...That's what I thought.
-# suite
 \bELSA-MINA: M'accorderais-tu un combat ?
 \bLUSAMINE: Would you grant me a battle?
 \bELSA-MINA: J'aimerais voir quel genre de dresseuses tu es.
 \bLUSAMINE: I'd like to see what kind of trainer you are.
-# combat
 \bELSA-MINA: Tu es une dresseuse formidable.
 \bLUSAMINE: You are a formidable trainer.
 \bELSA-MINA: Tiens, ce Pokémon sera probablement plus heureux avec toi.
@@ -554,7 +502,6 @@ You stop listening.
 \bGLADION: Are you ready?
 \bELSA-MINA: ...Oui. Allons-y.
 \bLUSAMINE: ...Yes. Let's go.
-# quete
 \f[staryu]...
 \f[staryu]...
 \bMIA: Oh ! Un stari ! Il est trop mimi !
@@ -569,15 +516,12 @@ You stop listening.
 \bMIA: You're... so... stwong...
 Vous plongez soudainement dans un profond sommeil...
 You suddenly fall into a deep sleep...
-# reve etrange
 \bMIA: Que... Qu'est-ce que... Pourquoi ?
 \bMIA: Wha... What... Why?
 Stari a trouvé ça très drôle. Il souhaite rejoindre votre équipe.
 Staryu found that very funny. It wishes to join your team.
-# admirateur magikarp
 \bMaître magikarp est mon socle !
 \bMaster Magikarp is my rock!
-# fin de la demo, flashback où Mia et Raya font un combat 
 \bMIA: Toute ma vie, j'ai attendu ce moment. Et maintenant, ça y est. C'est fini.
 \bMIA: My whole life, I've waited for this moment. And now, this is it. It's over.
 \bMIA: J'ai obtenu tout les badges. J'ai vaincu le conseil 4. J'ai gagné contre la maître de la ligue.
@@ -592,23 +536,18 @@ Staryu found that very funny. It wishes to join your team.
 \rRAYA: As usual. I'm gonna kick your butt.
 \bMIA: Hehe... C'est ce qu'on va voir !
 \bMIA: Hehe... We'll see about that!
-# combat
 \bMIA: Merci.
 \bMIA: Thank you.
-# dresseuse random
 \bJe suis en train de build mon entreprenor mindset.
 \bI'm currently building my entreprenor mindset.
 \bA Girl Boss on her way to build her empire.
 \bA Girl Boss on her way to build her empire.
-# fan magikarp
 \bMaître magikarp, vous avez sauvé ma vie !
 \bMaster Magikarp, you saved my life!
-# dresseur random
 \bJ'aime. Les. Shorts.
 \bI. Like. Shorts.
 \bJ'aime les shorts, ça garde mes genoux bien au frais.
 \bI like shorts! They're comfy and easy to wear!
-# quete
 \bKEVIN: Partez ! Sinon, il va me retrouver...
 \bKEVIN: Go away! Otherwise, he'll find me...
 \bMIA: Vous jouez à cache-cache ?? Trop cool !! Je peux jouer !?
@@ -623,7 +562,6 @@ Staryu found that very funny. It wishes to join your team.
 \b???: KEVIN!?
 \bKEVIN: Oh non...
 \bKEVIN: Oh no...
-# un mec en costard très corpo arrive
 \b???: Bordel, t'es là ! J'ai besoin ASAP de l'extract SSDE pour la conf call RDI de demain !
 \b???: Dammit, there you are! I need the SSDE extract ASAP for tomorrow's R&D conference call!
 \b???: Ces blaireaux de DCMI ont dépassé la deadline post-workshop et ils nous mettent dans la merde pour pour le showback ASSF !
@@ -638,17 +576,12 @@ Staryu found that very funny. It wishes to join your team.
 \bSTEVE: Now listen here, missy. You're talking to Steve Stevenson, CGRI Lead Manager at Nexus Corporation. In five years, I'll be the CEO.
 \bSTEVE: Donc tu vas te bouger, et me laisser faire mon travail !
 \bSTEVE: So you're gonna move aside and let me do my job!
-# combat
-# si victoire
 \bSTEVE: FUUUUUUUUUUUCK !! J'AI PERDU !!
 \bSTEVE: FUUUUUUUUUUUCK!! I LOST!!
-# si défaite
 \bSTEVE: BOOOOOOOOOOOOM !! J'AI GAGNÉ !!
 \bSTEVE: BOOOOOOOOOOOOM!! I WON!!
-# suite
 \bSTEVE: ESPÈCE DE-
 \bSTEVE: YOU LITTLE-
-# un autre mec en costard arrive
 \b???: Steve ?
 \b???: Steve?
 \bSTEVE: Mon... MONSIEUR EINER !!
@@ -671,7 +604,6 @@ Staryu found that very funny. It wishes to join your team.
 \bKEVIN: Thanks for standing up for me earlier. Here, for your trouble.
 \bKEVIN: Bonne journée !
 \bKEVIN: Have a great day!
-# choix joueur
 Soigner mon équipe
 Heal my team
 Liste des Pokémon disponible
@@ -682,7 +614,6 @@ Oui
 Yes
 Non
 No
-# choix quete petite fille
 Parler de vos progrès
 Talk about your progress
 Parler de vos meilleurs souvi
@@ -701,7 +632,6 @@ Va t'amuser avec tes Pokém
 Go have fun with your Pokémon
 Prends du temps pour toi
 Take some time for yourself
-# choix blind test
 Galar
 Galar
 Kalos
@@ -720,7 +650,6 @@ Sinnoh
 Sinnoh
 Hoenn
 Hoenn
-# choix Pokémon obtenu blind test
 Léo
 Leo
 Léa
@@ -733,3 +662,13 @@ non
 no
 Tu veux jouer ?
 Wanna play?
+\bTu veux être ma 100ème victoire d'affilée ?
+\bDo you want to be my 100th victory in a row?
+\bWow ! J'avais pas pris une raclée pareille l'école des dresseurs !
+\bWow! I haven't taken a beating like that since Trainer School!
+\bCette fille avec son Tarsal... Je me demande ce qu'elle est devenue...
+\bThat girl with her Ralts... I wonder what became of her...
+\bTiens, la fondation Aether m'a confié ce Pokémon parce qu'ils ne savaient pas comment s'en occuper. Je pense qu'il sera mieux avec toi !
+\bHere, the Aether Foundation entrusted me with this Pokémon because they didn't know how to look after it. I think it'll be better off with you!
+\bIls n'ont pas voulu me dire d'où il venait,mais apparement, il n'arrêtait pas d'attaquer les autres Pokémon du refuge.
+\bThey wouldn't tell me where it came from, but apparently, it wouldn't stop attacking the other Pokémon at the shelter.

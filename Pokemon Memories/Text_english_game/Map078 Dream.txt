@@ -2,7 +2,6 @@
 # translate every second line of this file.
 #-------------------------------
 [Map078]
-# reve pour la quête de starie. Un mec en maillot de bain parle
 ???: Les derniers rapports montrent l'apparition de nouveaux phénomènes biologiques étranges.
 ???: The latest reports show the appearance of strange new biological phenomena.
 ???: Des Pokémon avec des formes alternatives temporaires ont été obervés sous ces mêmes formes à l'état sauvage.

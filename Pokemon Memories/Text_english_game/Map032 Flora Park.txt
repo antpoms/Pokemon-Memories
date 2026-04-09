@@ -2,10 +2,8 @@
 # translate every second line of this file.
 #-------------------------------
 [Map032]
-# un panneau avec une énigme qui lance une quête
 Pour lancer l'appel ancestral, résolvez les énigmes de l'espace et du temps.
 To launch the ancestral call, solve the riddles of space and time.
-# Suite de l'intro, Raya demande au joueur de chercher les Pokémon dans le Parc
 \rRAYA: Tu as de la chance.
 \rRAYA: You're in luck.
 \rRAYA: Un collègue de la région de Johto m'a récemment confié 3 Pokémon.
@@ -22,7 +20,6 @@ You found the 3 Pokémon!
 \rRAYA: They seem to really like you.
 \rRAYA: Alors ? Qui sera ton partenaire ?
 \rRAYA: So? Who will be your partner?
-# Choix su Pokémon de départ
 \bMIA: Salut toi !
 \bMIA: Hello there!
 \bMIA: Tu vas voir, on va bien s'entendre toi et moi !
@@ -85,14 +82,12 @@ You immediately sign the internship agreement.
 \rRAYA: Now.
 \rRAYA: Tiens, prends ça.
 \rRAYA: Here, take this.
-# Raya donne des pokeball et potions
 \rRAYA: Tes Pokémon ont besoin d'entraînement.
 \rRAYA: Your Pokémon need training.
 \rRAYA: Reviens me voir quand tu auras battu 4 dresseurs.
 \rRAYA: Come back to see me when you've defeated 4 trainers.
 De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
 New quests have been added to your quest list.
-# cinématique pour le Mia training, une option du menu qui augmente les stat des Pokémon. Il y a une version des dialogues pour le cas où le joueur n á qu'un seul Pokémon, et une version où il en a plusieurs
 \bMIA: C'est l'heure de passer aux choses sérieuses.
 \bMIA: It's time to get serious.
 \bMIA: Ok mon petit pote. J'ai une bonne et une mauvaise nouvelle.
@@ -111,7 +106,6 @@ New quests have been added to your quest list.
 \bMIA: I'm not gonna lie. If we run into a Dragonite in the tall grass, we're screwed.
 \bMIA: C'EST PARTI !!!
 \bMIA: HERE WE GO!!!
-# Mia et ses Pokémon regarde une video d'un Youtuber Pokémon. Fildrong c'est un youtuber français, Wolfe Glick c'est un youtuber américain
 Salut à tous ! C'est Fildrong !
 Hello everyone! My name is Wolfe Glick!
 Aujourd'hui, on se retrouve pour un nouveau top stratégique sur vos daronnes.
@@ -120,7 +114,6 @@ Le potentiel de vos Pokémon a été maximisé !
 Your Pokémon's potential has been maximized!
 \bMIA: C'est l'heure du-
 \bMIA: It's time for-
-# texte pour des quêtes
 Jouer avec Caninos ?
 Play with Growlithe?
 Un étrange mécanisme apparaît.
@@ -129,17 +122,14 @@ Vous entendez un mécanisme interne se mettre en route.
 You hear an internal mechanism starting up.
 Le mécanisme est déjà enclenché.
 The mechanism is already activated.
-# ce que dit Raya qund on interagit avec elle pendant la recherche des Pokemon
 \rRAYA: Tu les as trouvé ?
 \rRAYA: Did you find them?
 \rRAYA: En général, ils aiment bien jouer à côté du pont.
 \rRAYA: Usually, they like to play near the bridge.
-# ce que dit Raya si on interagit avec elle pendant le choix des starters
 \bMIA: Je peux prendre les 3 ?
 \bMIA: Can I take all 3?
 \rRAYA: Non.
 \rRAYA: No.
-# dialogue une fois que Mia est assez entrainée, déclanche un combat contre Raya
 \rRAYA: Qu'est-ce que tu veux ?
 \rRAYA: What do you want?
 \bMIA: Ça y est ! J'ai battu 4 dresseurs !
@@ -152,14 +142,12 @@ The mechanism is already activated.
 \rRAYA: You thought I'd hire you without testing you myself?
 \rRAYA: Prépare-toi, bestie.
 \rRAYA: Get ready, bestie.
-# combat contre Raya, mais elle prends une équipe niveau 80 sans faire exprès
 Oups. Pardon, c'est l'habitude.
 Oups. Sorry, it's just a habit.
 \rRAYA: Désolé. J'avais oublié que tu avais une nouvelle équipe.
 \rRAYA: Sorry. I forgot you had a new team.
 \rRAYA: Laisse-moi prendre des Pokémon... plus proches de ton niveau.
 \rRAYA: Let me take some Pokémon... closer to your level.
-# vrai début du combat. la suite se déclenche si le joueur gagne
 \bMIA: CHEH !! J'AI GAGNÉ !!
 \bMIA: SUCK IT!! I WON!!
 \rRAYA: Héhé... Pour une fois.
@@ -168,7 +156,6 @@ Oups. Sorry, it's just a habit.
 \bMIA: Hush. I can't hear the haters.
 \bMIA: DANSE DE LA VICTOIRE !!
 \bMIA: VICTORY DANCE!!
-# Mia fait une danse de la Victoire, elle continue pendant que Raya parle
 \rRAYA: ...
 \rRAYA: ...
 \rRAYA: Bon, tu prépareras tes affaires. On se retrouve à la gare demain à 8h.
@@ -181,17 +168,14 @@ Oups. Sorry, it's just a habit.
 \bMIA: Yep?
 \rRAYA: Non, rien.
 \rRAYA: Nothing.
-# Si le joueur perd, Mia va soigner ses Pokémon auprès de Raya
 \rRAYA: Bah alors ? T'as perdu ?
 \rRAYA: Well then? You lost?
 \bMIA: Oui bon ça va, hein.
 \bMIA: Yeah, yeah, I get it.
-# ne pas changer, c'est pour afficher des images
 \f[arcanine angry]...
 \f[arcanine angry]...
 \f[growlith joyous]...
 \f[growlith joyous]...
-# text de quêtes
 Caninos souhaite vous rejoindre !
 Growlithe wants to join you!
 Le roi de la mare vous juge du regard.
@@ -206,24 +190,20 @@ Le roi de la mare souhaite tester vos aptitudes.
 The king of the pond wishes to test your skills.
 Affronter le roi de la mare ?
 Challenge the king of the pond?
-# dialogue si le joueur n'affronte pas le roi de la mare (qui est un axolotto tout mignon)
 Vous tenez à la vie.
 You value your life.
-# dialogue si on gagne contre le roi de la mare
 Le roi reconnaît votre valeur.
 The king recognizes your worth.
 Il pense que vous pourrez être utile en tant que chevalier de son empire.
 He thinks you could be useful as a knight of his empire.
 Il décide de conquérir le monde à vos côtés.
 He decides to conquer the world by your side.
-# phrases de drsseurs random
 \bTu penses que tu saurais faire atterrir un avion en cas d'urgence ?
 \bDo you think you could land a plane in an emergency?
 \bEn vrai, ça doit pas être si compliqué.
 \bHonestly, it probably isn't that complicated.
 \bJe ne dirais pas que je suis naif, je dirais que je suis optimiste.
 \bI wouldn't say I'm naive, I'd say I'm optimistic.
-# dialogue qui fait suite au moment où Raya écrit son rapport biodiversité. elle est sorti prendre l'air dehors. Milli est un personage official de Poke'mon qui s'appelle Emma en anglais, d'où la traduction
 \b???: Besoin d'air ?
 \b???: Need some air?
 \rRAYA: On se connaît ?
@@ -248,14 +228,12 @@ He decides to conquer the world by your side.
 \rRAYA: You want me to reveal professional secrets?
 \bMILLIE: Disont que nous pourrions faire un échange d'informations...
 \bEMMA: Let's just say we could exchange information...
-# elle envoie des infos confidentiels à Raya sur Einer, son patron
 \bMILLIE: J'ai la deuxième partie sur une clé USB. Si ça vous intéresse, voici ma carte.
 \bEMMA: I have the second part on a USB drive. If you're interested, here's my card.
 \bMILLIE: Au plaisir.
 \bEMMA: A pleasure.
 \f[yamper joyous]...
 \f[yamper joyous]...
-# fin d'une quête où on joue à cache cache avec un voltoutou
 \b???: Voltoutou ?
 \b???: Yamper?
 \b???: Tu es là ! Je t'ai cherché partout !
@@ -266,7 +244,6 @@ He decides to conquer the world by your side.
 \bSONIA: You want to play more?
 \bSONIA: Désolé de vous demander ça, mais... ça vous tente un combat amical ?
 \bSONIA: Sorry to ask, but... would you like a friendly battle?
-# combat contre Sonia
 \bSONIA: Ouf ! Il est enfin calmé !
 \bSONIA: Whew! He's finally calmed down!
 \bSONIA: Vous êtes vraiment forte en tout cas.
@@ -279,10 +256,8 @@ He decides to conquer the world by your side.
 \bSONIA: Here. To thank you for playing with my Yamper.
 \bSONIA: Bon voyage !
 \bSONIA: Have a safe trip!
-# Pour le choix du starter
 \f[totodile joyous]Choisissez-vous Kaiminus ?
 \f[totodile joyous]Do you choose Totodile?
-# quête avec un Elekid. T'es pas obligée de te faire chier avec le morse, j'avais verifié et c'était bon 
 Elekid créé un courant électrique entre ses antennes.
 Elekid creates an electric current between its antennae.
 C'est... du morse ?
@@ -301,7 +276,6 @@ Is that... Morse code?
 \f[ej]\c[6]..-. .. --. .... - / ..--..
 \f[ej]\c[6]- --- .. / .... ..- -- .- .. -. . / -.. .-. ---. .-.. .
 \f[ej]\c[6]-.-- --- ..- / ..-. ..- -. -. -.-- / .... ..- -- .- -.
-# dresseuse random
 \bHumain humain. Hum hum, humain.
 \bHuman human. Hum hum, human.
 \bT'as vu ? Je parle comme les Pokémon !
@@ -312,23 +286,18 @@ Is that... Morse code?
 \bThe first hypothesis is very anthropocentric, but the second implies Regirock should be called "ün ün ün KIKIkiKIKIkikiKIKI"
 Vous arrêtez d'écouter.
 You stop listening.
-# quête voltoutou
 Voltoutou veut jouer à cache-cache avec vous !
 Yamper wants to play hide-and-seek with you!
 Il part se cacher !
 It's going to hide!
-# choix des starter
 \f[cyndaquil joyous]Choisissez-vous Héricendre ?
 \f[cyndaquil joyous]Do you choose Cyndaquil?
 \f[en]\c[6]... . .-. ...- .. -.-. . / .... ..- -- .- .. -. .
 \f[en]\c[6].... ..- -- .- -. / ... . .-. ...- .. -.-. .
-# dresseur random
 \bFeur.
 \bLigma.
-# choix des starter
 \f[chikorita joyous]Choisissez-vous Germignon ?
 \f[chikorita joyous]Do you choose Chikorita?
-# panneau à côté d'un train exposé dans le parc
 Découvrez le premier train ayant relié les régions de Kanto et Johto ! Une exposition présentée par Sylphe Co.
 Discover the first train to connect the Kanto and Johto regions! An exhibition presented by Silph Co.
 PS: Veuillez ne pas monter dans le train.
@@ -341,7 +310,6 @@ PPPPS: Veuillez ne pas intéragir avec le train d'une quelconque manière qui po
 PPPPS: Please do not interact with the train in any way that could damage it or compromise your physical or emotional safety.
 PPPPPS: Bon sérieux organisez vos soirées ailleurs, ça deviens relou là.
 PPPPPS: Seriously, host your parties elsewhere, it's getting annoying now.
-# dresseur qui deviendra un des rivaux
 \bMIA: Salut ! Je m'appelle Mia !
 \bMIA: Hi! My name is Mia!
 \bMIA: Je viens d'avoir mon premier Pokémon, et on a besoin d'entraînement.
@@ -350,7 +318,6 @@ PPPPPS: Seriously, host your parties elsewhere, it's getting annoying now.
 \bMIA: Are you up for a friendly battle?
 \b???: Ouais attends, 30 secondes.
 \b???: Yeah, wait, 30 seconds.
-# il pisse dans la rivière
 \b???: C'est bon. Tu veux qu'on se batte ducoup ?
 \b???: All good. So, you wanna fight?
 \bMIA: MAIS T'ES DÉGUEULASSE !!
@@ -375,17 +342,14 @@ PPPPPS: Seriously, host your parties elsewhere, it's getting annoying now.
 \bMIA: OKAY, LOOK GAB! IN LIFE, THERE'S THIS THING CALLED MANNERS, AND SOMEONE NEEDS TO TEACH THEM TO YOU!
 \bGAB: Ok.
 \bGAB: Okay.
-# combat contre Gab
 \bGAB: C'est bon, t'es calmée ?
 \bGAB: You done? Calmed down?
 \bMIA: Non.
 \bMIA: No.
 \bGAB: Dommage.
 \bGAB: Too bad.
-# il se barre
 \bMIA: MAIS REVIENS !!
 \bMIA: HEY, COME BACK!!
-# choix pour le joueur
 Oui
 Yes
 Non
@@ -400,7 +364,6 @@ I've defeated 4 trainers!
 -.-- . ...
 -. --- -.
 -. ---
-# textes qui s'affichent au dessus de Raya et des dresseurs pour montrer qu'on peut intéragir avec eux
 Tu veux que je soigne ton équipe ?
 Do you want me to heal your team?
 Je devrais pouvoir tenter un truc...
@@ -411,3 +374,19 @@ Feur.
 Ligma.
 ...
 ...
+\bTu as besoin de t'entraîner ?
+\bDo you need to train?
+\bJe te préviens, je suis en train de me préparer pour un tournoi régional. Donc ça fait peut-être un peu beaucoup vu le niveau de ton équipe.
+\bI'm warning you, I'm currently preparing for a regional tournament. So it might be a bit much considering your team's level.
+\bTu veux quand même qu'on s'affronte ?
+\bDo you still want to face me?
+\bComme tu veux. En guarde !
+\bSuit yourself. En garde!
+\bWow ! Mais t'as ça dans le sang !
+\bWow! It’s in your blood!
+\bSi tu veux, j'ai trouvé un Pokémon rare hier.
+\bIf you want, I found a rare Pokémon yesterday.
+\bJe n'ai pas trouver comment l'adapter à ma stratégie, mais peut-être que tu pourras l'aider à atteindre son plein potentiel !
+\bI haven't figured out how to fit it into my strategy, but maybe you can help it reach its full potential!
+\bJ'espère qu'on se croisera en tournoi !
+\bI hope we cross paths at the tournament!

@@ -2,17 +2,14 @@
 # translate every second line of this file.
 #-------------------------------
 [Map080]
-# quete dardargnan, regarde un laboratoire sombre 
 Le Pokémon regarde la porte avec un mélange de haine et de peur.
 The Pokémon stares at the door with a mixture of hatred and fear.
 \f[beedrill]...
 \f[beedrill]...
-# apres le combat
 Le Pokémon voit la colère dans votre regard.
 The Pokémon sees the anger in your eyes.
 Il décide de vous rejoindre.
 It decides to join you.
-# mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -27,7 +24,6 @@ It decides to join you.
 \bMIA: It would be so much easier if we could just talk about it...
 Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
-# bois
 Vous ramassez le bois. Plus que 4.
 You pick up the wood. 4 left.
 Vous ramassez le bois. Plus que 3.
@@ -38,17 +34,14 @@ Vous ramassez le bois. Plus que 1.
 You pick up the wood. 1 left.
 Vous avez ramassé assez de bois.
 You've gathered enough wood.
-# dresseuse
 \bJe n'aurais j'amais dû accepter ce job.
 \bI should never have taken this job.
 \bRestez en dehors de cette histoire.
 \bStay out of this.
 \bC'est pour votre bien.
 \bIt's for your own good.
-# porte du laboratoire
 La porte est verouillée.
 The door is locked.
-# suite de la fin de la zone après le combat contre Raya
 \rRAYA: La police internationale m'a contacté en octobre à propos de Nexus.
 \rRAYA: International police contacted me in October regarding Nexus.
 \rRAYA: Ils enquêtent sur le projet ARK, et ont besoin de moi pour obtenir plus d'informations.
@@ -65,3 +58,21 @@ The door is locked.
 \rRAYA: Then let's go.
 Raya utilise son badge Nexus.
 Raya uses her Nexus badge.
+\bMon bracelet Dynamax... il brille ?
+\bMy Dynamax Band... is it glowing?
+\bÉtrange... Je ne pensais que ce n'était possible qu'à Galar...
+\bStrange... I thought that was only possible in Galar...
+\bToi. Ça te tente un match amical ?
+\bYou. Up for a friendly match?
+\bJe ne suis pas digne des enseignements de maître Mustar...
+\bI am not worthy of Master Mustard's teachings...
+\bTiens. Tu sauras mieux t'occuper de ce Pokémon que moi.
+\bHere. You'll know how to take better care of this Pokémon than I do.
+Oui
+Yes
+Non
+No
+\bJe pensais que la spécialité du coin, c'était la méga-évolution...
+\bI thought the local specialty was Mega Evolution...
+\bToi aussi, tu n'es pas de la région ?
+\bAre you not from around here either?

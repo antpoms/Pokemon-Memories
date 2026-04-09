@@ -2034,7 +2034,7 @@ Pokemon = CLEFAIRY,5
 #-------------------------------
 [ACETRAINER_M,Alan]
 Items = DYNAMAXBAND
-LoseText = Impressionant !
+LoseText = Quelle force !
 Pokemon = TORKOAL,5
     Moves = PROTECT,HEATWAVE,EARTHPOWER,SOLARBEAM
     AbilityIndex = 1

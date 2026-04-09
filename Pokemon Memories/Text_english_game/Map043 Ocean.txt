@@ -4,9 +4,7 @@
 [Map043]
 \bVIEIL HOMME: La mer est agitée aujourd'hui.
 \bOLD MAN: The sea is rough today.
-# un pokemon s'apprète à attaquer
 \bVIEIL HOMME: Préparez-vous. Il arrive.
 \bOLD MAN: Get ready. It's coming.
-# combat
 Kilowattrel reconnaît votre combativité. Il souhaite vous rejoindre.
 Kilowattrel recognizes your fighting spirit. It wishes to join you.

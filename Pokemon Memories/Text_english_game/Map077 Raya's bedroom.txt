@@ -2,7 +2,6 @@
 # translate every second line of this file.
 #-------------------------------
 [Map077]
-# flashback où Raya revise avec ses Pokémon
 \f[phanpy neutre]...
 \f[phanpy neutre]...
 \rRAYA: Pour l'intestin grêle c'est... le duodénum, le jéjunum et l'iléon !

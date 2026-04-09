@@ -2,7 +2,6 @@
 # translate every second line of this file.
 #-------------------------------
 [Map082]
-# bois
 Vous ramassez le bois. Plus que 4.
 You pick up the wood. 4 left.
 Vous ramassez le bois. Plus que 3.
@@ -13,7 +12,6 @@ Vous ramassez le bois. Plus que 1.
 You pick up the wood. 1 left.
 Vous avez ramassé assez de bois.
 You've gathered enough wood.
-# fin quete violoniste
 \b???: Pourquoi...
 \b???: Why...
 \b???: Pourquoi ??
@@ -28,12 +26,10 @@ You've gathered enough wood.
 \b???: DID YOU HAVE
 \b???: QUE TU ME LAISSE TOUTE SEULE !?
 \b???: TO LEAVE ME ALL ALONE!?
-# elle remarque Mia
 \b???: ENCORE TOI !?
 \b???: YOU AGAIN!?
 \b???: MAIS FOUS-MOI LA PAIX À LA FIN !!
 \b???: JUST LEAVE ME THE HELL ALONE!!
-# combat
 \b???: Je... Je suis vraiment désolé...
 \b???: I... I'm so sorry...
 \b???: J'aurais pas dû m'énerver comme ça. T'y es pour rien...
@@ -58,12 +54,10 @@ You've gathered enough wood.
 \bJANE: Your Pokémon seem to really like you. Could you look after this Lapras for me?
 \bJANE: Je... Je ne peux plus m'occuper de lui.
 \bJANE: I... I can't take care of him anymore.
-# joueur reçoit un pokemon
 \bJANE: C'est bon Mary... J'ai trouvé quelqu'un...
 \bJANE: It's okay, Mary... I found someone...
 \bJANE: J'espère qu'on se reverra, Mia.
 \bJANE: I hope we meet again, Mia.
-# mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -78,7 +72,6 @@ You've gathered enough wood.
 \bMIA: It would be so much easier if we could just talk about it...
 Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
-# quete
 \f[eevee]...
 \f[eevee]...
 \f[glaceon]...
@@ -87,14 +80,12 @@ Evoli vous trouve aussi instable que lui !
 Eevee finds you just as unstable as it is!
 Il souhaite vous rejoindre.
 It wishes to join you.
-# dresseur
 \bLes certitudes sont dangereuses.
 \bCertainties are dangerous.
 \bQuelqu'un qui doute saura toujours se remettre en question et avancer.
 \bSomeone who doubts will always know how to question themselves and move forward.
 \bUne personneremplie de certitude va se piéger dans ses croyances.
 \bA person full of certainty will trap themselves in their own beliefs.
-# dresseuse
 \bLa vie est pleine d'imprévus !
 \bLife is full of the unexpected!
 \bLes meilleures choses qui me sont arrivés sont celles que je n'avais pas prévus.

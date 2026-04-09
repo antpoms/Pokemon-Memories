@@ -2,13 +2,10 @@
 # translate every second line of this file.
 #-------------------------------
 [Map088]
-# suite du labo, on voit des Pokémon et des humains emprisonnés dans des capsules
-# si defaite contre le boss
 \bMIA: M...Merde ! Il est trop fort !
 \bMIA: S...Shit! He's too strong!
 \rRAYA: Retiens-le encore un peu ! J'ai des potions, attrape !
 \rRAYA: Hold him off a little longer! I've got potions, catch!
-# intro, Steve est derrière un bureau
 \bSTEVE: Steve Stevenson, lead manager CGRI de Nexus Corporation.
 \bSTEVE: Steve Stevenson, CGRI Lead Manager for Nexus Corporation.
 \bSTEVE: Que puis-je faire pour vous les miss ?
@@ -33,7 +30,6 @@
 \bSTEVE: You don't make waves, I pull a few strings, and in the end, we go 50/50 on the project profits. What do you say?
 \rRAYA: Ok je vais le frapper.
 \rRAYA: Okay, I'm definitely punching him.
-# combat
 \bSTEVE: Oh... Waw...
 \bSTEVE: Oh... Wow...
 \bSTEVE: Vous... Vous êtes fortes, hein ?
@@ -42,37 +38,30 @@
 \rRAYA: Get out.
 \bSTEVE: Ok !
 \bSTEVE: Okay!
-# il fuit, Raya va derrière l'ordinateur
 \rRAYA: Ça a l'air d'être le poste de contrôle. Je libère les prisonniers.
 \rRAYA: This looks like the control station. I'm releasing the prisoners.
 \rRAYA: Je transmet les données sur un disque dur, puis on se casse.
 \rRAYA: I'm transferring the data to a hard drive, then we're getting out of here.
-# un carchacrock arrive
 \f[garchomp angry]...
 \f[garchomp angry]...
 Affronter le sujet 466 ?
 Face Subject 466?
-# si victoire
 \bMIA: Tout doux... On est pas obligés de se battre.
 \bMIA: Easy now... We don't have to fight.
 \f[garchomp]...
 \f[garchomp]...
-# l'alarme se déclanche
 \f[garchomp pain]...
 \f[garchomp pain]...
 \bMIA: Calme-toi, ça va aller !
 \bMIA: Calm down, it's going to be okay!
-# carchacrock se transforme
 \f[garchomp special]...
 \f[garchomp special]...
-# combat phase 2
 \bMIA: Attends ! Reviens !
 \bMIA: Wait! Come back!
 \rRAYA: Laisse. Il faut qu'on y aille avant que la sécurité arrive.
 \rRAYA: Let it go. We have to leave before security arrives.
 \rRAYA: Viens !
 \rRAYA: Come on!
-# mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -83,7 +72,6 @@ Face Subject 466?
 \rRAYA: Here. Take some vitamins.
 Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
-# dresseurs
 \bSORTEZ D'ICI IMMËDIATEMMENT !
 \bGET OUT OF HERE IMMEDIATELY!
 \bMAIS SORTEZ EUH
@@ -92,7 +80,6 @@ Your Pokémon's potential has been maximized.
 \bALERT! INTRUDERS! ALERT! INTRUDERS!
 \bALERTE ! ALERTE !
 \bALERT! ALERT!
-# choix
 Oui
 Yes
 Non

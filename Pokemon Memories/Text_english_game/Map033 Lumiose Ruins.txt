@@ -2,13 +2,10 @@
 # translate every second line of this file.
 #-------------------------------
 [Map033]
-# on contrôle maintenant Raya 1 mois plus tard, qui se réveille dans une ville en ruine en ayant perdu la mémoire. la ville est remplie de robots
-# repliques des robots
 \bJE DOIS ACCOMPLIR MA MISSION.
 \bI MUST ACCOMPLISH MY MISSION.
 \bÉCHEC DE LA MISSION.
 \bMISSION FAILED.
-# Mia retrouve Millie/Emma
 \rRAYA: Millie, c'est toi ?
 \rRAYA: Emma, is that you?
 \rRAYA: Dieu merci, tu vas bien !
@@ -23,7 +20,6 @@
 \rRAYA: Why are you looking at me like that?
 \rRAYA: Millie ?
 \rRAYA: Emma?
-# Combat contre Millie
 \bMILLIE: Je n'abandonnerai pas.
 \bEMMA: I will not give up.
 \rRAYA: Hé ! Reviens !
@@ -32,7 +28,6 @@
 \rRAYA: ...
 \rRAYA: ... Pourquoi ?
 \rRAYA: ... Why?
-# robots dresseurs
 \bINTRU DÉTÉCTÉ. INITIATION DU MODE COMBAT.
 \bINTRUDER DETECTED. INITIATING BATTLE MODE.
 \bINITIATION DU MODE PLS.
@@ -41,7 +36,6 @@
 \bTHREAT DETECTED. LAUNCHING OFFENSIVE PROTOCOL.
 \bMISE À JOUR EN COURS. PROGRESSION: 2%.
 \bUPDATE IN PROGRESS. PROGRESS: 2%.
-# intro quand raya se reveille dans la ville
 \rRAYA: Aïe...ma tête...
 \rRAYA: Ouch... my head...
 \rRAYA: Hé oh ? Y'a quelqu'un ?
@@ -60,6 +54,5 @@
 \f[ironvaliant happy]...
 Gardevoir vous rejoint.
 Gardevoir joins you.
-# si le joueur perd un combat, Raya s'enfuit et se soigne
 \rRAYA: C'est bon. On les a semé.
 \rRAYA: It's okay. We lost them.
