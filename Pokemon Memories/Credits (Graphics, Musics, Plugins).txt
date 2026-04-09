@@ -80,6 +80,7 @@ GoatFromTheStars
 -Battle Subject 466 -> Deltarune - SPAWN (Remix) by Claire Noelle - Music
 -Battle Mia -> [OMORI] Battle Among Friends (remix) [console] by 404p
 -Mia Training -> Pokemon Legend ZA - Heated Discussion
+-Battle Ace Trainer -> Pokémon Champions - Arena Trainer
 
 
 Plugins

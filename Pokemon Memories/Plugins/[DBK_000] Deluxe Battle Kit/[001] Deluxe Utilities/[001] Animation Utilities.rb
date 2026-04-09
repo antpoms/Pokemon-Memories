@@ -462,7 +462,7 @@ class Battle::Scene::Animation
     elsif pbResolveBitmap(default)
       file = default
     else
-      file = "Graphics/UI/evolution_bg"
+      file = "Graphics/Pictures/evolutionbg"
     end
     pictureBG = addNewSprite(0, 0, file)
     pictureBG.setVisible(delay, false)

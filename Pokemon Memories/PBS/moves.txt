@@ -953,7 +953,7 @@ Power = 100
 Accuracy = 100
 TotalPP = 5
 Target = NearOther
-FunctionCode = None
+FunctionCode = DoubleDamageOnDynamaxTargets
 Flags = CanProtect,CannotMetronome
 Description = The user unleashes a strong beam from its core.
 #-------------------------------
@@ -1745,7 +1745,7 @@ Accuracy = 0
 TotalPP = 15
 Target = NearOther
 FunctionCode = RaiseTargetAtkSpAtk2
-Flags = CannotMetronome,ZPower_SPECIAL_DEFENSE_1
+Flags = CannotMetronome,ZPower_SPECIAL_DEFENSE_1,IgnoresMaxGuard
 Description = The user sharply raises the target's Attack and Sp. Atk stats by decorating the target.
 #-------------------------------
 [FAIRYLOCK]
@@ -6311,7 +6311,7 @@ Accuracy = 0
 TotalPP = 5
 Target = AllBattlers
 FunctionCode = StartPerishCountsForAllBattlers
-Flags = Sound,ZPower_ResetStats
+Flags = Sound,ZPower_ResetStats,IgnoresMaxGuard
 Description = Any Pokémon that hears this song faints in three turns, unless it switches out of battle.
 #-------------------------------
 [PLAYNICE]
@@ -7757,7 +7757,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = SetUserAbilityToTargetAbility
 Description = The user mimics the target completely, copying the target's natural Ability.
-Flags = ZPower_SPEED_1
+Flags = ZPower_SPEED_1,IgnoresMaxGuard
 #-------------------------------
 [SKILLSWAP]
 Name = Skill Swap
@@ -8111,7 +8111,7 @@ Power = 100
 Accuracy = 100
 TotalPP = 5
 Target = NearOther
-FunctionCode = None
+FunctionCode = DoubleDamageOnDynamaxTargets
 Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
 Description = The user becomes a gigantic shield and slams into the target.
 #-------------------------------
@@ -8123,7 +8123,7 @@ Power = 100
 Accuracy = 100
 TotalPP = 5
 Target = NearOther
-FunctionCode = None
+FunctionCode = DoubleDamageOnDynamaxTargets
 Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
 Description = The user becomes a gigantic sword and cuts the target.
 #-------------------------------
