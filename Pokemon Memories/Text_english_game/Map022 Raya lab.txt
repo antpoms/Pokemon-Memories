@@ -2,8 +2,10 @@
 # translate every second line of this file.
 #-------------------------------
 [Map022]
+# Des descriptions d'objets avec lequel le joueur peut intéragir. Les citations, c'est des livres
 Un canapé. Quelqu'un a dormis dedans la nuit dernière.
 A couch. Someone slept in it last night.
+# Le joueur regarde un tableau avec des calculs dessus
 Beaucoup de calculs très compliqués.
 Lots of very complicated calculations.
 "Les hommes sérieux ont tort de ne prendre au sérieux que ceux qui leurs ressemblent.", E-E Schmitt
@@ -24,6 +26,7 @@ Magnificent.
 "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.", A. Einstein
 "Le mal qui est dans le monde vient presque toujours de l’ignorance.", A.Camus
 "The evil that is in the world almost always comes from ignorance.", A. Camus
+# Dialogues qui font directement suite à l'intro
 \bMIA: RAYOOOOOOUUUUU !!
 \bMIA: RAY-RAAAAAAAAY !!
 \bMIA: Comment ça va bestie !?
@@ -38,6 +41,7 @@ Magnificent.
 \bMIA: Look at them, they just want to start their adventure!
 \bMIA: Allez les enfants ! Prenez vos Pokémon et allez-y !
 \bMIA: Go on, kids! Take your Pokémon and get going!
+# Les enfants qui écoutaient Raya prennent des Pokeball et se barrent
 \rRAYA: Mais... et vos Pokédex ?
 \rRAYA: But... what about your Pokedexes?
 \bMIA: Bon voyage les enfants !
@@ -70,6 +74,7 @@ Magnificent.
 \rRAYA: Follow me.
 \bMIA: J'arrive !
 \bMIA: I'm coming!
+# à nouveau des descriptions d'objets
 "Je ne perds jamais. Soit je gagne, soit j'apprends.", N.Mandela
 "I never lose. I either win or learn.", N. Mandela
 Vous voyez un diaporama intitulé "Modélisation systémique de la coévolution biodiversité anthroposphère en pression extractive différenciée"
@@ -88,6 +93,7 @@ You see a slideshow titled "Systemic modeling of biodiversity-anthroposphere coe
 \bMIA: I love rummaging through trash cans, and it's completely normal!
 "Le monde a commencé sans l’homme et il s’achèvera sans lui.", C.Levi-Strauss
 "The world began without man and it will end without him.", C. Levi-Strauss
+# Un mec qui brisent le 4ème mur et donnent des infos sur le jeu au joueur, sachant que le joueur contrôle Mia
 Salut \v[41] ! Merci de jouer à Pokemon Memories !
 Hi \v[41]! Thanks for playing Pokemon Memories!
 Si tu as des questions sur le jeu, je suis là pour y répondre !
@@ -140,6 +146,7 @@ Hush. You have no free will.
 3
 Tu as des questions ?
 Do you have any questions ?
+# Une cinématique plus tard dans le jeu, où Raya écrit un rapport sur la perte de biodiversité
 Rapport Biodiversité et Climat 2031
 Biodiversity and Climate Report 2031
 2030 a été l'année la plus chaude jamais enregistrée à Kalos.

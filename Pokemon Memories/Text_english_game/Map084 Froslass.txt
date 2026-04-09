@@ -4,6 +4,7 @@
 [Map084]
 Voulez-vous vous reposer ?
 Do you want to rest?
+# mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -18,6 +19,7 @@ Do you want to rest?
 \bMIA: It would be so much easier if we could just talk about it...
 Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
+# dans une maison
 \bVIEILLE DAME: Faites comme chez vous. Le froid a dû vous épuiser.
 \bOLD LADY: Make yourself at home. The cold must have exhausted you.
 \bVIEILLE DAME: J'étais justement en train de préparer le thé. Voulez-vous vous joindre à moi ?
@@ -56,12 +58,15 @@ Your Pokémon's potential has been maximized.
 \bMIA: Wow... poor thing...
 \bVIEILLE DAME: Ne vous en faites pas. Elle va mieux aujourd'hui...
 \bOLD LADY: Don't worry. She's doing better now...
+# un pokemon spectre apparait
 \f[froslass]...
 \f[froslass]...
+# combat
 La dame à la robe blanche apprécie votre audace.
 The lady in the white dress appreciates your boldness.
 Elle décide de se joindre à vous.
 She decides to join you.
+# choix
 Oui
 Yes
 Non

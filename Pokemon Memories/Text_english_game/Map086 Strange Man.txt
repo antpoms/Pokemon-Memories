@@ -2,6 +2,7 @@
 # translate every second line of this file.
 #-------------------------------
 [Map086]
+# mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -18,8 +19,10 @@ Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
 Voulez-vous vous reposer ?
 Do you want to rest?
+# quete, on parle à un homme encapuchonné au coin du feu
 \b???: Bonsoir.
 \b???: Good evening.
+# il parle au pokemon en tête de l'équipe
 \b???: Ton nom est... \v[44] ?
 \b???: Your name is... \v[44]?
 \b???: Que pense-tu de ta dresseuse ?
@@ -106,8 +109,10 @@ Do you want to rest?
 \b???: I don't know if that's how he would have answered, but it was very interesting.
 \b???: J'espère que nos destins se recroiseront.
 \b???: I hope our destinies cross again.
+# si on refuse de commencer la quête
 \b???: Comme vous voulez.
 \b???: As you wish.
+# choix
 Oui
 Yes
 Non

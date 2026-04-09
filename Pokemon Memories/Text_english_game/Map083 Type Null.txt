@@ -2,6 +2,7 @@
 # translate every second line of this file.
 #-------------------------------
 [Map083]
+# quete, apres un combat
 \f[typenull]...
 \f[typenull]...
 \bMIA: Tout doux, on est plus obligés de se battre.
@@ -12,8 +13,10 @@ Le Pokémon ne se souvient plus de la dernière fois qu'un humain lui a montré 
 The Pokémon can't remember the last time a human showed it any empathy.
 Il décide de vous faire confiance.
 It decides to trust you.
+# objet au sol
 Vous obtenez un ensemble de modules.
 You obtained a set of ROMs.
+# mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-

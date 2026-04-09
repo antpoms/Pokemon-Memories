@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Voir la documentation sur le wiki pour savoir comment éditer ce fichier.
 #-------------------------------
 [POKEMONTRAINER_Red]
 Name = Pokémon Trainer
@@ -595,3 +595,19 @@ BaseMoney = 45
 SkillLevel = 100
 BattleBGM = Battle Zinnia
 ShadowXY = 0,-6
+#-------------------------------
+[ACETRAINER_M]
+Name = Ace Trainer
+Gender = Male
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Ace Trainer
+ShadowXY = 0,-4
+#-------------------------------
+[ACETRAINER_F]
+Name = Ace Trainer
+Gender = Female
+BaseMoney = 50
+SkillLevel = 100
+BattleBGM = Battle Ace Trainer
+ShadowXY = 0,-7

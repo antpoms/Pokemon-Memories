@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Voir la documentation sur le wiki pour savoir comment éditer ce fichier.
 #-------------------------------
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
@@ -1934,3 +1934,55 @@ Pokemon = MEOWSCARADA,82
     IV = 31,31,31,31,31,31
     EV = 0,252,0,252,0,0
     TeraType = FAIRY
+#-------------------------------
+[ACETRAINER_M,James]
+Items = TERAORB
+LoseText = Pas mal pour une débutante.
+Pokemon = LITTEN,5
+    Moves = FAKEOUT,PARTINGSHOT,KNOCKOFF,FIREFANG
+    AbilityIndex = 2
+    Nature = CAREFUL
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+    EV = 252,0,0,0,0,252
+    TeraType = GHOST
+Pokemon = FOONGUS,5
+    Moves = SPORE,RAGEPOWDER,POLLENPUFF,PROTECT
+    AbilityIndex = 1
+    Nature = CALM
+    Item = ROCKYHELMET
+    IV = 31,31,31,31,31,31
+    EV = 252,0,252,0,0,0
+    TeraType = WATER
+Pokemon = PORYGON,5
+    Moves = ICYWIND,THUNDERWAVE,TRICKROOM,RECOVER
+    AbilityIndex = 1
+    Nature = RELAXED
+    Item = EVIOLITE
+    IV = 31,31,31,31,31,31
+    EV = 252,0,252,0,0,0
+    TeraType = FAIRY
+Pokemon = ELEKID,5
+    Moves = THUNDERWAVE,FOLLOWME,TAUNT,VOLTSWITCH
+    AbilityIndex = 2
+    Nature = BOLD
+    Item = EVIOLITE
+    IV = 31,31,31,31,31,31
+    EV = 252,0,252,0,0,0
+    TeraType = GHOST
+Pokemon = CORPHISH,5
+    Moves = DRAGONDANCE,AQUAJET,KNOCKOFF,RAZORSHELL
+    AbilityIndex = 2
+    Nature = JOLLY
+    Item = MYSTICWATER
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+    TeraType = WATER
+Pokemon = GASTLY,5
+    Moves = HEX,VENOSHOCK,DAZZLINGGLEAM,TRICK
+    Nature = MODEST
+    Item = CHOICESPECS
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,252,0,0
+    TeraType = FAIRY
+

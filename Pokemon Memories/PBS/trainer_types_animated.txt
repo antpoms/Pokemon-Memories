@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Voir la documentation sur le wiki pour savoir comment éditer ce fichier.
 #-------------------------------
 [POKEMONTRAINER_Ethan]
 Name = Pokémon Trainer

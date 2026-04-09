@@ -206,7 +206,11 @@ module Settings
             :graphic => "Graphics/UI/Event Indicators/event_question",
             :always_visible => true,
             :ignore_time_shading => true
-        }
+        },
+        "acetrainer" => {
+            :graphic => "Graphics/UI/Event Indicators/flair_pokeball",
+            :movement_speed => 20
+        },
     }
 
     #------------------------------------------------------------------------------------

@@ -2,14 +2,17 @@
 # translate every second line of this file.
 #-------------------------------
 [Map080]
+# quete dardargnan, regarde un laboratoire sombre 
 Le Pokémon regarde la porte avec un mélange de haine et de peur.
 The Pokémon stares at the door with a mixture of hatred and fear.
 \f[beedrill]...
 \f[beedrill]...
+# apres le combat
 Le Pokémon voit la colère dans votre regard.
 The Pokémon sees the anger in your eyes.
 Il décide de vous rejoindre.
 It decides to join you.
+# mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -24,6 +27,7 @@ It decides to join you.
 \bMIA: It would be so much easier if we could just talk about it...
 Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
+# bois
 Vous ramassez le bois. Plus que 4.
 You pick up the wood. 4 left.
 Vous ramassez le bois. Plus que 3.
@@ -34,14 +38,17 @@ Vous ramassez le bois. Plus que 1.
 You pick up the wood. 1 left.
 Vous avez ramassé assez de bois.
 You've gathered enough wood.
+# dresseuse
 \bJe n'aurais j'amais dû accepter ce job.
 \bI should never have taken this job.
 \bRestez en dehors de cette histoire.
 \bStay out of this.
 \bC'est pour votre bien.
 \bIt's for your own good.
+# porte du laboratoire
 La porte est verouillée.
 The door is locked.
+# suite de la fin de la zone après le combat contre Raya
 \rRAYA: La police internationale m'a contacté en octobre à propos de Nexus.
 \rRAYA: International police contacted me in October regarding Nexus.
 \rRAYA: Ils enquêtent sur le projet ARK, et ont besoin de moi pour obtenir plus d'informations.

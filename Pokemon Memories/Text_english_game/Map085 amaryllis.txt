@@ -2,6 +2,7 @@
 # translate every second line of this file.
 #-------------------------------
 [Map085]
+# quete
 \b???: ...
 \b???: ...
 \b???: Sacré vue, hein ?
@@ -25,6 +26,7 @@
 \b???: Tu as un feu en toi qui a besoin de s'exprimer.
 \b???: You have a fire inside you that needs to be expressed.
 \b???: Montre-moi ce que vous ressentez, toi et tes Pokémon !
+# combat
 \b???: Show me what you and your Pokémon feel!
 \b???: Tu devras faire des choix difficiles, mais tu vas y arriver.
 \b???: You'll have to make some tough choices, but you're going to make it.
@@ -32,10 +34,12 @@
 \b???: Here, let's get some training in!
 \b???: Tu choisis qui ?
 \b???: Who do you choose?
+# choix pokemon
 \b???: Bon courage pour la suite !
 \b???: Good luck with everything!
 ...
 ...
+# mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -50,6 +54,7 @@
 \bMIA: It would be so much easier if we could just talk about it...
 Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
+# choix
 Arcko
 Treecko
 Poussifeu

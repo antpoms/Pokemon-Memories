@@ -2,20 +2,24 @@
 # translate every second line of this file.
 #-------------------------------
 [Map081]
+# suite quete violoniste
 \b???: Vous... pouvez arrêter de me regarder ?
 \b???: Could you... stop staring at me?
 \bMIA: Promis. J'essaierai de me faire discrète !
 \bMIA: Promise. I'll try to be discreet!
 \b???: ...
 \b???: ...
+# elle s'en va
 \bMIA: Mais...
 \bMIA: But...
+# quete
 \f[zoroark]...
 \f[zoroark]...
 Zoroark est curieux.
 Zoroark is curious.
 Il souhaite vous rejoindre.
 It wants to join you.
+mia training
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -30,10 +34,12 @@ It wants to join you.
 \bMIA: It would be so much easier if we could just talk about it...
 Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
+# dresseuse
 \bJe vise le sommet !
 \bI'm aiming for the top!
 \bOn y est presque !
 \bWe're almost there!
+# dresseur
 \bRéalise tes rêves, pas ceux des autres.
 \bFollow your dreams, not someone else's.
 \bJ'ai perdu 5 ans de ma vie à étudier pour réaliser le rêve de mon père.
