@@ -1,0 +1,22 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[Map090]
+\bFLORA: Attention Mia !
+\bFLORA: Watch out, Mia!
+\bFLORA: Wow ! Vous êtes forts !
+\bFLORA: Wow! You guys are strong!
+\bFLORA: Tu te rends compte Corayon ? Tu vas bientôt retrouver ton chez toi !
+\bFLORA: Can you believe it, Corsola? You're almost home!
+\f[corsola happy]...
+\f[corsola happy]...
+\bFLORA: Attention Mia ! En voilà un autre !
+\bFLORA: Look out, Mia! Here comes another one!
+\bFLORA: On y est presque !
+\bFLORA: We're almost there!
+\bFLORA: Attends, cette zone... C'est-
+\bFLORA: Wait, this area... It's-
+\bFLORA: ...
+\bFLORA: ...
+\bFLORA: On est arrivé...
+\bFLORA: We've arrived...
