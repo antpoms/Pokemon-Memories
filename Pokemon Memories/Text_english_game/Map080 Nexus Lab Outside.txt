@@ -10,6 +10,20 @@ Le Pokémon voit la colère dans votre regard.
 The Pokémon sees the anger in your eyes.
 Il décide de vous rejoindre.
 It decides to join you.
+\bMon bracelet Dynamax... il brille ?
+\bMy Dynamax Band... is it glowing?
+\bÉtrange... Je ne pensais que ce n'était possible qu'à Galar...
+\bStrange... I thought that was only possible in Galar...
+\bToi. Ça te tente un match amical ?
+\bYou. Up for a friendly match?
+\bJe ne suis pas digne des enseignements de maître Mustar...
+\bI am not worthy of Master Mustard's teachings...
+\bTiens. Tu sauras mieux t'occuper de ce Pokémon que moi.
+\bHere. You'll know how to take better care of this Pokémon than I do.
+\bJe pensais que la spécialité du coin, c'était la méga-évolution...
+\bI thought the local specialty was Mega Evolution...
+\bToi aussi, tu n'es pas de la région ?
+\bAre you not from around here either?
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -50,6 +64,8 @@ The door is locked.
 \rRAYA: We don't know what the project is exactly, but we know enough to know it involves experiments on humans and Pokémon.
 \rRAYA: Et qu'elles ont commencé ici.
 \rRAYA: And that they started here.
+\rRAYA: ...
+\rRAYA: ...
 \rRAYA: Tu es prête ?
 \rRAYA: Are you ready?
 \bMIA: Prête.
@@ -58,21 +74,7 @@ The door is locked.
 \rRAYA: Then let's go.
 Raya utilise son badge Nexus.
 Raya uses her Nexus badge.
-\bMon bracelet Dynamax... il brille ?
-\bMy Dynamax Band... is it glowing?
-\bÉtrange... Je ne pensais que ce n'était possible qu'à Galar...
-\bStrange... I thought that was only possible in Galar...
-\bToi. Ça te tente un match amical ?
-\bYou. Up for a friendly match?
-\bJe ne suis pas digne des enseignements de maître Mustar...
-\bI am not worthy of Master Mustard's teachings...
-\bTiens. Tu sauras mieux t'occuper de ce Pokémon que moi.
-\bHere. You'll know how to take better care of this Pokémon than I do.
 Oui
 Yes
 Non
 No
-\bJe pensais que la spécialité du coin, c'était la méga-évolution...
-\bI thought the local specialty was Mega Evolution...
-\bToi aussi, tu n'es pas de la région ?
-\bAre you not from around here either?

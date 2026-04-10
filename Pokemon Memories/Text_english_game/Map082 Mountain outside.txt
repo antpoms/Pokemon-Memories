@@ -12,6 +12,20 @@ Vous ramassez le bois. Plus que 1.
 You pick up the wood. 1 left.
 Vous avez ramassé assez de bois.
 You've gathered enough wood.
+\bMIA: Ok la team.
+\bMIA: Okay, team.
+\bMIA: C'est l'heure du-
+\bMIA: It's time for-
+\bMIA: ...
+\bMIA: ...
+\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
+\bMIA: Sorry. I... I don't think I can do it today.
+\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
+\bMIA: It's so annoying. I can tell she's not okay, but when she's sad she always shuts herself off.
+\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
+\bMIA: It would be so much easier if we could just talk about it...
+Le potentiel de vos Pokémon a été maximisé.
+Your Pokémon's potential has been maximized.
 \b???: Pourquoi...
 \b???: Why...
 \b???: Pourquoi ??
@@ -58,20 +72,6 @@ You've gathered enough wood.
 \bJANE: It's okay, Mary... I found someone...
 \bJANE: J'espère qu'on se reverra, Mia.
 \bJANE: I hope we meet again, Mia.
-\bMIA: Ok la team.
-\bMIA: Okay, team.
-\bMIA: C'est l'heure du-
-\bMIA: It's time for-
-\bMIA: ...
-\bMIA: ...
-\bMIA: Désolé. Je... crois pas que je vais pouvoir le faire aujourd'hui.
-\bMIA: Sorry. I... I don't think I can do it today.
-\bMIA: Ça m'énerve. Je vois bien qu'elle va pas bien, mais quand elle est triste elle se renferme toujours sur elle-même.
-\bMIA: It's so annoying. I can tell she's not okay, but when she's sad she always shuts herself off.
-\bMIA: Ça serait tellement plus simple si on pouvait juste en parler...
-\bMIA: It would be so much easier if we could just talk about it...
-Le potentiel de vos Pokémon a été maximisé.
-Your Pokémon's potential has been maximized.
 \f[eevee]...
 \f[eevee]...
 \f[glaceon]...
@@ -84,8 +84,8 @@ It wishes to join you.
 \bCertainties are dangerous.
 \bQuelqu'un qui doute saura toujours se remettre en question et avancer.
 \bSomeone who doubts will always know how to question themselves and move forward.
-\bUne personneremplie de certitude va se piéger dans ses croyances.
-\bA person full of certainty will trap themselves in their own beliefs.
+\bUne personne remplie de certitude va se piéger dans ses croyances.
+\bUne personne remplie de certitude va se piéger dans ses croyances.
 \bLa vie est pleine d'imprévus !
 \bLife is full of the unexpected!
 \bLes meilleures choses qui me sont arrivés sont celles que je n'avais pas prévus.

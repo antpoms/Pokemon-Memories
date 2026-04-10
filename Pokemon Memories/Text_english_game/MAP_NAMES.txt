@@ -16,6 +16,8 @@ Cedolan City
 Cedolan City
 Route 2
 Route 2
+Raya's Lab
+Raya's Lab
 Lerucean Town
 Lerucean Town
 Natural Park
@@ -58,3 +60,5 @@ Pyrenem Mountain
 Pyrenem Mountain
 Nexus Lab
 Nexus Lab
+Waiting Room
+Waiting Room

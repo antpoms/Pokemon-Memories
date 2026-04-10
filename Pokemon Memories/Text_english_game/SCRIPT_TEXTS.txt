@@ -1488,8 +1488,8 @@ Utilisez les flèches pour déplacer le personnage principal.<<n>>Vous pouvez é
 Use the arrow keys to move the main character.<<n>>You can also use the arrow keys to navigate through the menus.
 Utilisée pour confirmer un choix, interagir avec des personnes et des objets, et pour les dialogues.
 Used to confirm a choice, interact with people and objects, and for dialogues.
-Permet de quitter, et d'annuler un choix. Pendant le déplacement, maintenez cette touche enfoncée pour marcher.
-Allows you to exit or cancel a choice. While moving, hold this key down to walk.
+Permet de quitter, et d'annuler un choix. Pendant le déplacement, maintenez cette touche enfoncée pour courir.
+Permet de quitter, et d'annuler un choix. Pendant le déplacement, maintenez cette touche enfoncée pour courir.
 Permet d'ouvrir le menu Pause. Possède également diverses fonctions selon le contexte.
 Allows you to open the Pause menu. Also has various functions depending on the context.
 Messages
@@ -1557,9 +1557,9 @@ Please answer the question.
 Message received
 Message received
 <icon=emojiHappy>
-<icon=emojiHappy> 
+<icon=emojiHappy>
 <icon=emojiAngry>
-<icon=emojiAngry> 
+<icon=emojiAngry>
 Very good
 Very good
 There is no time for jokes
@@ -1575,7 +1575,7 @@ Oh no not that
 I wish to stay.
 I wish to stay.
 I meant to send you that Pikachu picture <icon=emojiPokeball>
-I meant to send you that Pikachu picture <icon=emojiPokeball> 
+I meant to send you that Pikachu picture <icon=emojiPokeball>
 That's all for now
 That's all for now
 RAYOOOOOOUUUUUUU
@@ -1745,7 +1745,7 @@ The move taught by a TM/HM/TR, or a Z-Move linked to a Z-Crystal.
 Alternate description of this item while it's being held by a Pokémon.
 Alternate description of this item while it's being held by a Pokémon.
 A move ID followed by any number of species ID's.
-A move ID followed by any number of species ID's. 
+A move ID followed by any number of species ID's.
 {1} is a Z-Crystal, but missing a Z-Move in the 'Move' field.<<n>>{2}
 {1} is a Z-Crystal, but missing a Z-Move in the 'Move' field.<<n>>{2}
 {1} is a Z-Crystal, but the 'ZCombo' field is missing a move or a species.<<n>>{2}
@@ -2325,7 +2325,7 @@ It looks like {1} will fight just about anyone right now!
 ... {1} noticed that {2}'s shoes are a bit dirty.
 ... {1} noticed that {2}'s shoes are a bit dirty.
 Seems {1} ate something strange, it's making an odd face...
-Seems {1} ate something strange, it's making an odd face... 
+Seems {1} ate something strange, it's making an odd face...
 {1} seems to be smelling something good.
 {1} seems to be smelling something good.
 {1} noticed that {2}'s Bag has a little dirt on it...
@@ -2580,3 +2580,213 @@ Kickenham
 Hammerlocke
 Quelle est la plus grande ville de Galar ?
 Which is the largest city in Galar?
+Graphics/UI/Controls help/help_usekey_en
+Graphics/UI/Controls help/help_usekey_en
+Graphics/UI/Controls help/help_actionkey_en
+Graphics/UI/Controls help/help_actionkey_en
+Allows you to exit or cancel a choice. While moving, hold this key down to walk.
+Allows you to exit or cancel a choice. While moving, hold this key down to walk.
+RAY-RAAAAAAAAAAAY
+RAY-RAAAAAAAAAAAY
+I HAVE A QUESTION!!!
+I HAVE A QUESTION!!!
+Not now, I'm working.
+Not now, I'm working.
+PLS IT'S URGENT!!
+PLS IT'S URGENT!!
+ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER
+ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER ANSWER
+Would you still love me if I was a Grimer?
+Would you still love me if I was a Grimer?
+No.
+No.
+Yes. You already stink anyway.
+Yes. You already stink anyway.
+I'm gonna cry.
+I'm gonna cry.
+Hey, the board meeting is set for Monday the 21st.
+Hey, the board meeting is set for Monday the 21st.
+Do you think your climate/biodiversity report will be ready by then?
+Do you think your climate/biodiversity report will be ready by then?
+Yes. It should be fine.
+Yes. It should be fine.
+Great, thanks. Send it over once you're done.
+Great, thanks. Send it over once you're done.
+Zake?
+Zake?
+Yes?
+Yes?
+Do you really think you can convince them?
+Do you really think you can convince them?
+I hope so.
+I hope so.
+Normal sprites
+Normal sprites
+Dynamax sprites
+Dynamax sprites
+SHOW_DYNAMAX_SIZE is set to 'false', so no Dynamax metrics need to be set.
+SHOW_DYNAMAX_SIZE is set to 'false', so no Dynamax metrics need to be set.
+Are you sure you want to reposition all Dynamax sprites?
+Are you sure you want to reposition all Dynamax sprites?
+Half back sprites (Gen 4 style)
+Half back sprites (Gen 4 style)
+Full back sprites (Gen 5 style)
+Full back sprites (Gen 5 style)
+What style of back sprites are you using?
+What style of back sprites are you using?
+Repositioning all Dynamax sprites. Please wait.
+Repositioning all Dynamax sprites. Please wait.
+Toggle Dynamax
+Toggle Dynamax
+Toggles the availability of Dynamax functionality.
+Toggles the availability of Dynamax functionality.
+Dynamax {1}.
+Dynamax {1}.
+Determines which side Dynamax is disabled for.
+Determines which side Dynamax is disabled for.
+Choose a side to disable Dynamax for.
+Choose a side to disable Dynamax for.
+Dynamax settings...
+Dynamax settings...
+Edit Dynamax availability and Dynamax metrics.
+Edit Dynamax availability and Dynamax metrics.
+Dynamax usable on every map [{1}]
+Dynamax usable on every map [{1}]
+Dynamax usable in wild battles [{1}]
+Dynamax usable in wild battles [{1}]
+Edit Dynamax metrics
+Edit Dynamax metrics
+Auto-set Dynamax metrics
+Auto-set Dynamax metrics
+Dynamax is now usable on every map.
+Dynamax is now usable on every map.
+Dynamax is now only usable on maps with the 'PowerSpot' flag.
+Dynamax is now only usable on maps with the 'PowerSpot' flag.
+Dynamax is now also usable in wild battles.
+Dynamax is now also usable in wild battles.
+Dynamax is now only usable in trainer battles.
+Dynamax is now only usable in trainer battles.
+Dynamax...
+Dynamax...
+Eligible: {1}<<n>>Dynamax Level: {2}<<n>>G-Max Factor: {3}<<n>>Dynamaxed: {4}
+Eligible: {1}<<n>>Dynamax Level: {2}<<n>>G-Max Factor: {3}<<n>>Dynamaxed: {4}
+Set Dynamax Level
+Set Dynamax Level
+Set G-Max Factor
+Set G-Max Factor
+Set Dynamax
+Set Dynamax
+{1} belongs to a species or form that cannot currently use Dynamax.<<n>>Eligibility cannot be changed.
+{1} belongs to a species or form that cannot currently use Dynamax.<<n>>Eligibility cannot be changed.
+{1} is no longer able to use Dynamax.
+{1} is no longer able to use Dynamax.
+{1} is now able to use Dynamax.
+{1} is now able to use Dynamax.
+Set {1}'s Dynamax level (max. 10).
+Set {1}'s Dynamax level (max. 10).
+Can't edit Dynamax values on that Pokémon.
+Can't edit Dynamax values on that Pokémon.
+Gigantamax factor was removed from {1}.
+Gigantamax factor was removed from {1}.
+Gigantamax factor was given to {1}.
+Gigantamax factor was given to {1}.
+{1} doesn't have a Gigantamax form.<<n>>Give it Gigantamax factor anyway?
+{1} doesn't have a Gigantamax form.<<n>>Give it Gigantamax factor anyway?
+{1} is no longer Dynamaxed.
+{1} is no longer Dynamaxed.
+{1} is now Dynamaxed.
+{1} is now Dynamaxed.
+All Dynamax settings restored to default.
+All Dynamax settings restored to default.
+Whether each trainer is allowed to Dynamax.
+Whether each trainer is allowed to Dynamax.
+Choose trainer to toggle whether they can Dynamax.
+Choose trainer to toggle whether they can Dynamax.
+Dynamax values
+Dynamax values
+{1} Dynamax <<[>>Lvl: {2}<<]>> <<[>>G-Max: {3}<<]>><<n>>{4} currently Dynamaxed.
+{1} Dynamax <<[>>Lvl: {2}<<]>> <<[>>G-Max: {3}<<]>><<n>>{4} currently Dynamaxed.
+Set Dynamax Lvl
+Set Dynamax Lvl
+Set Dynamax state
+Set Dynamax state
+No Dynamax
+No Dynamax
+If set to true, the trainer will never Dynamax this Pokémon.
+If set to true, the trainer will never Dynamax this Pokémon.
+Dynamax Lv
+Dynamax Lv
+Dynamax level of the Pokémon (0-10).
+Dynamax level of the Pokémon (0-10).
+Gigantamax
+Gigantamax
+If set to true, the Pokémon will have G-Max Factor.
+If set to true, the Pokémon will have G-Max Factor.
+All sprites
+All sprites
+Gigantamax sprites
+Gigantamax sprites
+Sprites by generation...
+Sprites by generation...
+Which sprites do you want to edit?
+Which sprites do you want to edit?
+Select a generation.
+Select a generation.
+Dynamax Lv.
+Dynamax Lv.
+{1}'s Dynamax level was increased to 10!
+{1}'s Dynamax level was increased to 10!
+{1}'s Dynamax level was increased by 1!
+{1}'s Dynamax level was increased by 1!
+{1} lost its Gigantamax energy.
+{1} lost its Gigantamax energy.
+{1} is now bursting with Gigantamax energy!
+{1} is now bursting with Gigantamax energy!
+The {1} fully recharged {2}'s {3}!<<n>>{2} can use Dynamax again!
+The {1} fully recharged {2}'s {3}!<<n>>{2} can use Dynamax again!
+{1}'s Dynamax energy faded!<<n>>It may now be captured!
+{1}'s Dynamax energy faded!<<n>>It may now be captured!
+Dynamax Band
+Dynamax Band
+{1} surrounded itself in {2} energy!
+{1} surrounded itself in {2} energy!
+{1} recalled {2}!
+{1} recalled {2}!
+{1}'s ball surges with {2} energy!
+{1}'s ball surges with {2} energy!
+The sharp steel bit into {1}!
+The sharp steel bit into {1}!
+{1} is hurt by {2}'s ferocious beating!
+{1} is hurt by {2}'s ferocious beating!
+{1} is burning up within {2}'s flames!
+{1} is burning up within {2}'s flames!
+{1} is hurt by {2}'s vortex!
+{1} is hurt by {2}'s vortex!
+{1} is hurt by the rocks thrown out by {2}!
+{1} is hurt by the rocks thrown out by {2}!
+{1} was released from {2}'s beating!
+{1} was released from {2}'s beating!
+{1} was released from {2}'s flames!
+{1} was released from {2}'s flames!
+{1} was released from {2}'s vortex!
+{1} was released from {2}'s vortex!
+Rocks stopped being thrown out by {1} on {2}!
+Rocks stopped being thrown out by {1} on {2}!
+{1} became drowsy!
+{1} became drowsy!
+{1} got trapped with vines!
+{1} got trapped with vines!
+{1} were surrounded by fire!
+{1} were surrounded by fire!
+{1} got caught in a vortex of water!
+{1} got caught in a vortex of water!
+{1} became surrounded by rocks!
+{1} became surrounded by rocks!
+Sharp-pointed pieces of steel started floating around {1}!
+Sharp-pointed pieces of steel started floating around {1}!
+{1} became stronger against physical and special moves!
+{1} became stronger against physical and special moves!
+{1} became trapped in the watery vortex!
+{1} became trapped in the watery vortex!
+{1}'s PP was reduced!
+{1}'s PP was reduced!

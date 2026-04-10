@@ -2,6 +2,14 @@
 # translate every second line of this file.
 #-------------------------------
 [Map087]
+Vous activez le générateur.
+You activate the generator.
+Le générateur est activé.
+The generator is activated.
+\bCETTE VIDÉO EST SPONSORISÉE PAR NORDVPN
+\bTHIS VIDEO IS SPONSORED BY NORDVPN
+\bPROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L! Cz02'zPHDkpF/4|{
+\bGET 10% OFF WITH THE CODE ]"9Fmp@L! Cz02'zPHDkpF/4|{
 Semaine 1:\nNS: 100 NC: 100
 Week 1:\nNS: 100 NC: 100
 Semaine 2:\nNS: 43 NC: 43
@@ -12,28 +20,16 @@ Semaine 4:\nNS: 9 NC: 10
 Week 4:\nNS: 9 NC: 10
 10 ???
 10 ???
-\bCETTE VIDÉO EST SPONSORISÉE PAR NORDVPN
-\bTHIS VIDEO IS SPONSORED BY NORDVPN
-\bPROFITEZ DE -10% AVEC LE CODE ]"9Fmp@L! Cz02'zPHDkpF/4|{
-\bGET 10% OFF WITH THE CODE ]"9Fmp@L! Cz02'zPHDkpF/4|{
-Vous activez le générateur.
-You activate the generator.
-Le générateur est activé.
-The generator is activated.
-\bTRALALERO TRALALA
-\bTRALALERO TRALALA
-\bTUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG SAHUR
-\bTUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG SAHUR
 L'intelligence purement humaine est vouée à disparaître.
 Purely human intelligence is destined to disappear.
 Nos intelligence artificielles évoluent à rythme exponentiel. Ce n'est qu'une question de temps avant qu'elles nous dépassent.
 Our artificial intelligences are evolving at an exponential rate. It is only a matter of time before they surpass us.
 Pour continuer à rivaliser, nous devrons fusionner avec elles. Nous devrons améliorer nos capacités cognitives.
 To continue competing, we must merge with them. We must enhance our cognitive abilities.
-\bJ'AI ÉTÉ PROGRAMMÉ POUR GAGNER TOUT MES COMBATS.
-\bI HAVE BEEN PROGRAMMED TO WIN ALL MY BATTLES.
-\bJ'AI ÉTÉ MAL PROGRAMMÉ
-\bI WAS POORLY PROGRAMMED
+\bTRALALERO TRALALA
+\bTRALALERO TRALALA
+\bTUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG SAHUR
+\bTUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG TUNG SAHUR
 EINER: Qu'en pensez-vous ?
 EINER: What do you think?
 MEYER: ...
@@ -70,20 +66,20 @@ MEYER: Je peux faire en sorte que nos services ne soient pas trop regardants, ma
 MEYER: I can ensure our agencies don't look too closely, but if journalists get involved, that's your problem.
 MEYER: Quelqu'un viendra vous voire tous les mois pour faire un point.
 MEYER: Someone will come to see you every month for an update.
+\bJ'AI ÉTÉ PROGRAMMÉ POUR GAGNER TOUT MES COMBATS.
+\bI HAVE BEEN PROGRAMMED TO WIN ALL MY BATTLES.
+\bJ'AI ÉTÉ MAL PROGRAMMÉ
+\bI WAS POORLY PROGRAMMED
+\bJE N'AIME PAS ME BATTRE. OUIN.
+\bI DON'T LIKE FIGHTING. WAH.
+\bOUIN. OUIN. OUIN. EMOJI_SAD
+\bWAH. WAH. WAH. EMOJI_SAD
 Sujet RKS: 10 (Force), 4 (Adaptabilité), 6 (Intelligence). Rejette les ROM mémoires.
 Subject RKS: 10 (Strength), 4 (Adaptability), 6 (Intelligence). Rejects Memory ROMs.
 Sujet EV0: 4 (Force), 10 (Adaptabilité), 4 (Intelligence). Le sujet est très instable.
 Subject EV0: 4 (Strength), 10 (Adaptability), 4 (Intelligence). The subject is very unstable.
 Sujet BRL: 7 (Force), 8 (Adaptabilité), 10 (Intelligence). Le sujet est très agressif. 3ème tentative d'effraction cette semaine.
 Subject BRL: 7 (Strength), 8 (Adaptability), 10 (Intelligence). The subject is very aggressive. 3rd break-in attempt this week.
-\bJE N'AIME PAS ME BATTRE. OUIN.
-\bI DON'T LIKE FIGHTING. WAH.
-\bOUIN. OUIN. OUIN. EMOJI_SAD
-\bWAH. WAH. WAH. EMOJI_SAD
-\bMA STRATÉGIE EST IMBATTABLE.
-\bMY STRATEGY IS UNBEATABLE.
-\bMA STRATÉGIE EST BATTABLE.
-\bMY STRATEGY IS BEATABLE.
 EINER: Allumez la machine.
 EINER: Turn on the machine.
 COOPER: Mr Einer, vous êtes sûrs ?
@@ -110,14 +106,14 @@ COOPER: Mr. Einer?
 \c[3]EINER: ...
 \c[3]EINER: Ça marche.
 \c[3]EINER: It works.
-Les premières réactions de EVE et ADAM sont concluentes.
-The initial reactions of EVE and ADAM are conclusive.
-Ils obtiennent le score maximals dans 96% des test d'aptitudes prévus.
-They achieve maximum scores in 96% of the scheduled aptitude tests.
-Les algorithmes de contrôle renvoient un comportement stable.
-Control algorithms report stable behavior.
-Les premiers tests sur des êtres vivants devraient pouvoir commencer la semaine prochaine.
-Initial testing on living beings should be able to begin next week.
+\bMA STRATÉGIE EST IMBATTABLE.
+\bMY STRATEGY IS UNBEATABLE.
+\bMA STRATÉGIE EST BATTABLE.
+\bMY STRATEGY IS BEATABLE.
+\bVOULEZ-VOUS UN CAFÉ ?
+\bWOULD YOU LIKE A COFFEE?
+\bDE L'EAU ?
+\bSOME WATER?
 \rRAYA: Merde. L'endroit est truffé de sentinelles.
 \rRAYA: Dammit. The place is crawling with sentinels.
 \rRAYA: Mia, reste avec moi.
@@ -126,20 +122,14 @@ Raya vous rejoint.
 Raya joins you.
 \rRAYA: C'est bon. On les a semé.
 \rRAYA: It's okay. We lost them.
-\bVOULEZ-VOUS UN CAFÉ ?
-\bWOULD YOU LIKE A COFFEE?
-\bDE L'EAU ?
-\bSOME WATER?
-\bBIP BIP BOUP. INITIATION DU COMBAT.
-\bBEEP BEEP BOOP. INITIATING COMBAT.
-\bBIP BIP BOUP. JE N'AI PLUS RIEN À FAIRE.
-\bBEEP BEEP BOOP. I HAVE NOTHING LEFT TO DO.
-Qu'est-ce qui définit une conscience ?
-What defines consciousness?
-Dans un cadre purement matérialiste, nos pensées, nos émotions, nos souvenirs, ne sont que des procédés chimiques au sein du cerveau humain.
-In a purely materialistic framework, our thoughts, emotions, and memories are nothing more than chemical processes within the human brain.
-Ce qu'on appelle "conscience", est définie que par un réseau de neurones complexe, mais modélisable.
-What we call "consciousness" is defined only by a complex, yet modelable, neural network.
+Les premières réactions de EVE et ADAM sont concluentes.
+The initial reactions of EVE and ADAM are conclusive.
+Ils obtiennent le score maximals dans 96% des test d'aptitudes prévus.
+They achieve maximum scores in 96% of the scheduled aptitude tests.
+Les algorithmes de contrôle renvoient un comportement stable.
+Control algorithms report stable behavior.
+Les premiers tests sur des êtres vivants devraient pouvoir commencer la semaine prochaine.
+Initial testing on living beings should be able to begin next week.
 COOPER: Que ressentez-vous, actuellement ?
 COOPER: What are you currently feeling?
 \c[3]A: Ennui\nE: Curiosité
@@ -164,6 +154,24 @@ COOPER: Pourriez-vous faire du mal à un humain ?
 COOPER: Could you harm a human?
 \c[3]A: Je ne vois pas l'interêt\nE: Je crois que non
 \c[3]A: I don't see the point\nE: I don't think so
+Qu'est-ce qui définit une conscience ?
+What defines consciousness?
+Dans un cadre purement matérialiste, nos pensées, nos émotions, nos souvenirs, ne sont que des procédés chimiques au sein du cerveau humain.
+In a purely materialistic framework, our thoughts, emotions, and memories are nothing more than chemical processes within the human brain.
+Ce qu'on appelle "conscience", est définie que par un réseau de neurones complexe, mais modélisable.
+What we call "consciousness" is defined only by a complex, yet modelable, neural network.
+\bBIP BIP BOUP. INITIATION DU COMBAT.
+\bBEEP BEEP BOOP. INITIATING COMBAT.
+\bBIP BIP BOUP. JE N'AI PLUS RIEN À FAIRE.
+\bBEEP BEEP BOOP. I HAVE NOTHING LEFT TO DO.
+\bCLIQUEZ SUR LES IMAGES DE VOITURE.
+\bCLICK ON THE CAR IMAGES.
+\bJE NE SUIS PAS UNE IMAGE DE VOITURE.
+\bI AM NOT A CAR IMAGE.
+\bMISE À JOUR EN COURS: 3%
+\bUPDATE IN PROGRESS: 3%
+\bMISE À JOUR EN COURS. PROGRESSION: 5%.
+\bUPDATE IN PROGRESS. PROGRESSION: 5%.
 84% des effectifs initiaux n'ont pas survécu.
 84% of the initial test subject did not survive.
 Les sujets 401, 418, 429, 444, 455, 460, 464, 477 et 478 sont très affaiblis.
@@ -172,26 +180,6 @@ Les sujets 421, 426, 437, 442, 464, et 472 sont dans un état stable.
 Subjects 421, 426, 437, 442, 464, and 472 are in a stable state.
 Le sujet 466 présente un comportement anormal. Cas à étudier.
 Subject 466 exhibits abnormal behavior. Case to be studied.
-\bMISE À JOUR EN COURS: 3%
-\bUPDATE IN PROGRESS: 3%
-\bMISE À JOUR EN COURS. PROGRESSION: 5%.
-\bUPDATE IN PROGRESS. PROGRESSION: 5%.
-\bCLIQUEZ SUR LES IMAGES DE VOITURE.
-\bCLICK ON THE CAR IMAGES.
-\bJE NE SUIS PAS UNE IMAGE DE VOITURE.
-\bI AM NOT A CAR IMAGE.
-Supposons qu'un téléporteur vers Mars voit le jour
-Suppose a teleporter to Mars is created
-Pour fonctionner, le téléporteur sur Terre scanne l'agencement des atomes d'une personne, et envoie les données au téléporteur sur Mars.
-To work, the Earth teleporter scans the arrangement of a person's atoms and sends the data to the Mars teleporter.
-Le téléporteur sur Mars recréer alors la personne avec l'exact agencement de ses atomes sur Mars, alors que l'original sur Terre est détruit.
-The Mars teleporter then recreates the person with the exact arrangement of their atoms on Mars, while the original on Earth is destroyed.
-La question se pose alors: Est-ce que la personne téléportée sur Mars est toujours vous, ou êtes-vous mort dans ce téléporteur ?
-The question then arises: Is the person teleported to Mars still you, or are you dead in that teleporter?
-\bVOULEZ-VOUS ACCEPTER LES COOKIES ?
-\bDO YOU WANT TO ACCEPT COOKIES?
-\bOUIN. MES COOKIES SONT DÉLICIEUX.
-\bWAH. MY COOKIES ARE DELICIOUS.
 \bMIA: Ok la team.
 \bMIA: Okay, team.
 \bMIA: C'est l'heure du-
@@ -202,6 +190,28 @@ The question then arises: Is the person teleported to Mars still you, or are you
 \rRAYA: Here. Take some vitamins.
 Le potentiel de vos Pokémon a été maximisé.
 Your Pokémon's potential has been maximized.
+\bVOULEZ-VOUS ACCEPTER LES COOKIES ?
+\bDO YOU WANT TO ACCEPT COOKIES?
+\bOUIN. MES COOKIES SONT DÉLICIEUX.
+\bWAH. MY COOKIES ARE DELICIOUS.
+Supposons qu'un téléporteur vers Mars voit le jour
+Suppose a teleporter to Mars is created
+Pour fonctionner, le téléporteur sur Terre scanne l'agencement des atomes d'une personne, et envoie les données au téléporteur sur Mars.
+To work, the Earth teleporter scans the arrangement of a person's atoms and sends the data to the Mars teleporter.
+Le téléporteur sur Mars recréer alors la personne avec l'exact agencement de ses atomes sur Mars, alors que l'original sur Terre est détruit.
+The Mars teleporter then recreates the person with the exact arrangement of their atoms on Mars, while the original on Earth is destroyed.
+La question se pose alors: Est-ce que la personne téléportée sur Mars est toujours vous, ou êtes-vous mort dans ce téléporteur ?
+The question then arises: Is the person teleported to Mars still you, or are you dead in that teleporter?
+L'ascenseur ne fonctionne pas.
+The elevator doesn't work.
+Il a besoin d'électricité.
+It needs electricity.
+L'ascenseur est en état de marche.
+The elevator is operational.
+Descendre au sous-sol ?
+Go down to the basement?
+\b10100101001110011111
+\b10100101001110011111
 24% des effectifs initiaux n'ont pas survécu.
 24% of the initial test subjects did not survive.
 36% sont très affaiblis.
@@ -214,26 +224,16 @@ Les sujets parlent subitement plus de 16 langues différentes, et tiennent des p
 Subjects suddenly speak more than 16 different languages and hold very incoherent views.
 Comportements possiblement dû à l'Anomalie. Cas à étudier.
 Behavior possibly due to the Anomaly. Case to be studied.
-\b10100101001110011111
-\b10100101001110011111
-L'ascenseur ne fonctionne pas.
-The elevator doesn't work.
-Il a besoin d'électricité.
-It needs electricity.
-L'ascenseur est en état de marche.
-The elevator is operational.
-Descendre au sous-sol ?
-Go down to the basement?
+\b^^
+\b^^
+\b:'(
+\b:'(
 La loi de Moore se vérifie avec les années.
 Moore's law holds true over the years.
 L'Humanité commence à pouvoir simuler des LLM se rapprochant des consciences humaines, et des mondes physiques toujours plus réalistes.
 Humanity is starting to simulate LLMs approaching human consciousness, and increasingly realistic physical worlds.
 À ce rythme, le projet ARK pourrait devenir technologiquement faisable d'ici peu.
 At this rate, Project ARK could soon become technologically feasible.
-\b^^
-\b^^
-\b:'(
-\b:'(
 Oui
 Yes
 Non

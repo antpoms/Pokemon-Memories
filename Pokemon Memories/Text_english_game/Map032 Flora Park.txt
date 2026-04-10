@@ -2,6 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [Map032]
+Ces vestiges ont été retrouvés sur l'île Crache-Feu, aujourd'hui engloutie à cause de la monté des eaux.
+These remains were found on Fire-Spit Island, now submerged due to rising sea levels.
+Les inscriptions à l'arrière des tablettes se traduisent par:
+The inscriptions on the back of the tablets translate to:
+''Pour que l'élu d'Arceus puissent lancer l'appel ancestral, il doit résoudre les énigmes de l'espace et du temps."
+"In order for the chosen one of Arceus to initiate the ancestral call, they must solve the riddles of space and time."
 Pour lancer l'appel ancestral, résolvez les énigmes de l'espace et du temps.
 To launch the ancestral call, solve the riddles of space and time.
 \rRAYA: Tu as de la chance.
@@ -38,8 +44,8 @@ You found the 3 Pokémon!
 \rRAYA: Would you prefer 500,000$ now or paying in 3 installments?
 \bMIA: COMBIEN ???
 \bMIA: HOW MUCH ???
-\rRAYA:500000.
-\rRAYA: $500,000.
+\rRAYA: 500000$.
+\rRAYA: 500000$.
 \rRAYA: Il faut bien payer les vaccins et les vétérinaires, sans parler des abonnements aux centres Pokémon...
 \rRAYA: You have to pay for vaccines and vets, not to mention Pokémon Center subscriptions...
 \bMIA: MAIS C'ÉTAIT PAS GRATUIT TOUT ÇA ???
@@ -142,8 +148,6 @@ The mechanism is already activated.
 \rRAYA: You thought I'd hire you without testing you myself?
 \rRAYA: Prépare-toi, bestie.
 \rRAYA: Get ready, bestie.
-Oups. Pardon, c'est l'habitude.
-Oups. Sorry, it's just a habit.
 \rRAYA: Désolé. J'avais oublié que tu avais une nouvelle équipe.
 \rRAYA: Sorry. I forgot you had a new team.
 \rRAYA: Laisse-moi prendre des Pokémon... plus proches de ton niveau.
@@ -296,6 +300,22 @@ It's going to hide!
 \f[en]\c[6].... ..- -- .- -. / ... . .-. ...- .. -.-. .
 \bFeur.
 \bLigma.
+\bTu as besoin de t'entraîner ?
+\bDo you need to train?
+\bJe te préviens, je suis en train de me préparer pour un tournoi régional. Donc ça fait peut-être un peu beaucoup vu le niveau de ton équipe.
+\bI'm warning you, I'm currently preparing for a regional tournament. So it might be a bit much considering your team's level.
+\bTu veux quand même qu'on s'affronte ?
+\bDo you still want to face me?
+\bComme tu veux. En guarde !
+\bSuit yourself. En garde!
+\bWow ! Mais t'as ça dans le sang !
+\bWow! It’s in your blood!
+\bSi tu veux, j'ai trouvé un Pokémon rare hier.
+\bIf you want, I found a rare Pokémon yesterday.
+\bJe n'ai pas trouver comment l'adapter à ma stratégie, mais peut-être que tu pourras l'aider à atteindre son plein potentiel !
+\bI haven't figured out how to fit it into my strategy, but maybe you can help it reach its full potential!
+\bJ'espère qu'on se croisera en tournoi !
+\bI hope we cross paths at the tournament!
 \f[chikorita joyous]Choisissez-vous Germignon ?
 \f[chikorita joyous]Do you choose Chikorita?
 Découvrez le premier train ayant relié les régions de Kanto et Johto ! Une exposition présentée par Sylphe Co.
@@ -310,6 +330,32 @@ PPPPS: Veuillez ne pas intéragir avec le train d'une quelconque manière qui po
 PPPPS: Please do not interact with the train in any way that could damage it or compromise your physical or emotional safety.
 PPPPPS: Bon sérieux organisez vos soirées ailleurs, ça deviens relou là.
 PPPPPS: Seriously, host your parties elsewhere, it's getting annoying now.
+\bMIA: Coucou les petits loups ! Comment ça va ?
+\bMIA: Hey there, little ones! How's it going?
+\f[mankey angry]...
+\f[mankey angry]...
+\bMIA: Houla... Tout doux...
+\bMIA: Whoa... Easy now...
+\f[mankey]...
+\f[mankey]...
+Ferrosinge est surpris de voir vos Pokémon heureux.
+Mankey is surprised to see your Pokémon looking happy.
+\rRAYA: Mia ? Ça va ?
+\rRAYA: Mia? You okay?
+\rRAYA: Désolé, ils sont un peu agressifs envers les humains.
+\rRAYA: Sorry, they're a bit aggressive toward humans.
+\rRAYA: La forêt où ils vivaient a été détruite...
+\rRAYA: The forest where they lived was destroyed...
+\bMIA: Oh...
+\bMIA: Oh...
+\bMIA: Désolé, je voulais pas vous faire peur.
+\bMIA: Sorry, I didn't mean to scare you.
+\bMIA: Promis, je vais pas vous faire de mal. Je vous laisse tranquille maintenant...
+\bMIA: I promise I won't hurt you. I'll leave you alone now...
+Ferrosinge est curieux.
+Mankey is curious.
+Il décide de vous suivre.
+It decides to follow you.
 \bMIA: Salut ! Je m'appelle Mia !
 \bMIA: Hi! My name is Mia!
 \bMIA: Je viens d'avoir mon premier Pokémon, et on a besoin d'entraînement.
@@ -374,45 +420,3 @@ Feur.
 Ligma.
 ...
 ...
-\bTu as besoin de t'entraîner ?
-\bDo you need to train?
-\bJe te préviens, je suis en train de me préparer pour un tournoi régional. Donc ça fait peut-être un peu beaucoup vu le niveau de ton équipe.
-\bI'm warning you, I'm currently preparing for a regional tournament. So it might be a bit much considering your team's level.
-\bTu veux quand même qu'on s'affronte ?
-\bDo you still want to face me?
-\bComme tu veux. En guarde !
-\bSuit yourself. En garde!
-\bWow ! Mais t'as ça dans le sang !
-\bWow! It’s in your blood!
-\bSi tu veux, j'ai trouvé un Pokémon rare hier.
-\bIf you want, I found a rare Pokémon yesterday.
-\bJe n'ai pas trouver comment l'adapter à ma stratégie, mais peut-être que tu pourras l'aider à atteindre son plein potentiel !
-\bI haven't figured out how to fit it into my strategy, but maybe you can help it reach its full potential!
-\bJ'espère qu'on se croisera en tournoi !
-\bI hope we cross paths at the tournament!
-\bMIA: Coucou les petits loups ! Comment ça va ?
-\bMIA: Hey there, little ones! How's it going?
-\f[mankey angry]...
-\f[mankey angry]...
-\bMIA: Houla... Tout doux...
-\bMIA: Whoa... Easy now...
-\f[mankey]...
-\f[mankey]...
-Ferrosinge est surpris de voir vos Pokémon heureux.
-Mankey is surprised to see your Pokémon looking happy.
-\rRAYA: Mia ? Ça va ?
-\rRAYA: Mia? You okay?
-\rRAYA: Désolé, ils sont un peu agressifs envers les humains.
-\rRAYA: Sorry, they're a bit aggressive toward humans.
-\rRAYA: La forêt où ils vivaient a été détruite...
-\rRAYA: The forest where they lived was destroyed...
-\bMIA: Oh...
-\bMIA: Oh...
-\bMIA: Désolé, je voulais pas vous faire peur.
-\bMIA: Sorry, I didn't mean to scare you.
-\bMIA: Promis, je vais pas vous faire de mal. Je vous laisse tranquille maintenant...
-\bMIA: I promise I won't hurt you. I'll leave you alone now...
-Ferrosinge est curieux.
-Mankey is curious.
-Il décide de vous suivre.
-It decides to follow you.

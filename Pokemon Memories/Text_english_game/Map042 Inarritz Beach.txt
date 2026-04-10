@@ -16,6 +16,16 @@ You placed the last sensor.
 \bDid you know that on average, people think about a banana 8 times per minute?
 \bTu savais qu'un pokémon sur deux était un keunotor !?
 \bDid you know that one out of every two Pokémon is a Bidoof!?
+\bTu veux être ma 100ème victoire d'affilée ?
+\bDo you want to be my 100th victory in a row?
+\bWow ! J'avais pas pris une raclée pareille l'école des dresseurs !
+\bWow! I haven't taken a beating like that since Trainer School!
+\bCette fille avec son Tarsal... Je me demande ce qu'elle est devenue...
+\bThat girl with her Ralts... I wonder what became of her...
+\bTiens, la fondation Aether m'a confié ce Pokémon parce qu'ils ne savaient pas comment s'en occuper. Je pense qu'il sera mieux avec toi !
+\bHere, the Aether Foundation entrusted me with this Pokémon because they didn't know how to look after it. I think it'll be better off with you!
+\bIls n'ont pas voulu me dire d'où il venait,mais apparement, il n'arrêtait pas d'attaquer les autres Pokémon du refuge.
+\bThey wouldn't tell me where it came from, but apparently, it wouldn't stop attacking the other Pokémon at the shelter.
 \bQuelle grâce !
 \bSuch grace!
 \bMIA: Fuck le travail.
@@ -30,6 +40,46 @@ You placed the last sensor.
 \bMIA: \v[44]! ATTACK!
 Le potentiel de vos Pokémon a été maximisé !
 Your Pokémon's potential has been maximized!
+\b???: Bah alors, Corayon ? Qu'est-ce qui se passe ?
+\b???: What's wrong, Corsola? What's going on?
+\f[corsola sad]...
+\f[corsola sad]...
+\b???: Ta blessure est guérie pourtant...
+\b???: Your injury is healed, though...
+\b???: Attends, tu veux rentrer chez toi, c'est ça ?
+\b???: Wait, you want to go home, is that it?
+\f[corsola happy]...
+\f[corsola happy]...
+\b???: Zut... Comment on va pouvoir faire...
+\b???: Shoot... How are we going to do that...
+\b???: Excuse-moi, tu es dresseuse ?
+\b???: Excuse me, are you a trainer?
+\bMIA: Yep !
+\bMIA: Yep!
+\b???: Super ! Tu pourras peut-être nous donner un coup de main !
+\b???: Great! Maybe you could give us a hand!
+\b???: Je m'appelle Flora, et je suis bénévole pour la fondation Aether. Nous oeuvrons pour la protection et le bien-être des Pokémon.
+\b???: My name is Flora, and I'm a volunteer for the Aether Foundation. We work for the protection and well-being of Pokémon.
+\bFLORA: On a retrouvé ce Corayon dans un sale état il y a quelques semaines. Je pense qu'il était poursuivi par des braconniers...
+\bFLORA: We found this Corsola in bad shape a few weeks ago. I think it was being chased by poachers...
+\bFLORA: On a pu le soigner, mais il encore trop faible pour rentrer chez lui en affrontant les autres Pokémon sauvages.
+\bFLORA: We managed to heal it, but it's still too weak to head home and face other wild Pokémon.
+\bFLORA: Tu pourrais nous escorter sur le chemin ?
+\bFLORA: Could you escort us along the way?
+\bFLORA: Cool ! Merci beaucoup !
+\bFLORA: Cool! Thanks a lot!
+\bFLORA: Corayon ! On te ramène chez toi !
+\bFLORA: Corsola! We're taking you home!
+\bFLORA: Oh...Ok.
+\bFLORA: Oh... Okay.
+\bFLORA: ...
+\bFLORA: ...
+\bFLORA: Merci quand même...
+\bFLORA: Thanks anyway...
+\bFLORA: On va continuer les nourrir pendant quelques semaines, mais vu leur état, ils n'en ont probablement pas pour très longtemps...
+\bFLORA: We'll keep feeding them for a few weeks, but given their condition, they probably don't have much longer...
+\bFLORA: S'il te plait. Prends soin de Corayon.
+\bFLORA: Please. Take care of Corsola.
 \rRAYA: Qué pasa amiga ?
 \rRAYA: Qué pasa, amiga?
 \rRAYA: (Mia, c'est pas le moment.)
@@ -146,8 +196,6 @@ Vous pouvez apprendre de nouvelles capacités à vos Pokémons.
 You can teach your Pokémon new moves.
 \bVIEIL HOMME: Excusez-moi madame, vous êtes dresseuse ?
 \bOLD MAN: Excuse me, miss, are you a trainer?
-\bMIA: Yep !
-\bMIA: Yep!
 \bVIEIL HOMME: Vous pourrez peut-être m'aider alors.
 \bOLD MAN: Perhaps you can help me then.
 \bVIEIL HOMME: Ma femme et moi nous sommes rencontré aux îles Picassaut, au sud.
@@ -384,6 +432,14 @@ You can teach your Pokémon new moves.
 \bAPPRENTICE: I will never forget you!
 \bQuelle force !
 \bWhat strength!
+\bSkibidi.
+\bSkibidi.
+\bSkibidi toilet est une oeuvre qui dénonce les travers de nos sociétés capitalistes.
+\bSkibidi toilet is a work that denounces the flaws of our capitalist societies.
+\bÀ travers l'affrontement entre les skibidi et les hommes télé, elle dépeint le combat millénaire entre le chaos et l'ordre. La liberté et la dictature.
+\bThrough the clash between the Skibidi and the TV Men, it depicts the millennial struggle between chaos and order. Freedom and dictatorship.
+Vous arrêtez d'écouter.
+You stop listening.
 \bDAN: Yo meuf.
 \bDAN: Yo, girl.
 \bDAN: Tu dégages grave une vibe artistique !
@@ -444,20 +500,8 @@ You can teach your Pokémon new moves.
 \bDAN: Cool! So, who's coming with you?
 \bDAN: Bon voyage !
 \bDAN: Enjoy your trip!
-\bSkibidi.
-\bSkibidi.
-\bSkibidi toilet est une oeuvre qui dénonce les travers de nos sociétés capitalistes.
-\bSkibidi toilet is a work that denounces the flaws of our capitalist societies.
-\bÀ travers l'affrontement entre les skibidi et les hommes télé, elle dépeint le combat millénaire entre le chaos et l'ordre. La liberté et la dictature.
-\bThrough the clash between the Skibidi and the TV Men, it depicts the millennial struggle between chaos and order. Freedom and dictatorship.
-Vous arrêtez d'écouter.
-You stop listening.
 \bQuelle élégance !
 \bSuch elegance!
-\bJ'aime le bruit blanc de l'eau.
-\bI love the white noise of water.
-\bJ'aime me battre.
-\bI love to fight.
 \bELSA-MINA: ...
 \bLUSAMINE: ...
 \bELSA-MINA: Réponds-moi honnêtement: penses-tu que tout le monde puisse être pardonné ?
@@ -502,6 +546,12 @@ You stop listening.
 \bGLADION: Are you ready?
 \bELSA-MINA: ...Oui. Allons-y.
 \bLUSAMINE: ...Yes. Let's go.
+\bJ'aime le bruit blanc de l'eau.
+\bI love the white noise of water.
+\bJ'aime me battre.
+\bI love to fight.
+\bMaître magikarp est mon socle !
+\bMaster Magikarp is my rock!
 \f[staryu]...
 \f[staryu]...
 \bMIA: Oh ! Un stari ! Il est trop mimi !
@@ -520,8 +570,10 @@ You suddenly fall into a deep sleep...
 \bMIA: Wha... What... Why?
 Stari a trouvé ça très drôle. Il souhaite rejoindre votre équipe.
 Staryu found that very funny. It wishes to join your team.
-\bMaître magikarp est mon socle !
-\bMaster Magikarp is my rock!
+\bJe suis en train de build mon entreprenor mindset.
+\bI'm currently building my entreprenor mindset.
+\bA Girl Boss on her way to build her empire.
+\bA Girl Boss on her way to build her empire.
 \bMIA: Toute ma vie, j'ai attendu ce moment. Et maintenant, ça y est. C'est fini.
 \bMIA: My whole life, I've waited for this moment. And now, this is it. It's over.
 \bMIA: J'ai obtenu tout les badges. J'ai vaincu le conseil 4. J'ai gagné contre la maître de la ligue.
@@ -538,16 +590,6 @@ Staryu found that very funny. It wishes to join your team.
 \bMIA: Hehe... We'll see about that!
 \bMIA: Merci.
 \bMIA: Thank you.
-\bJe suis en train de build mon entreprenor mindset.
-\bI'm currently building my entreprenor mindset.
-\bA Girl Boss on her way to build her empire.
-\bA Girl Boss on her way to build her empire.
-\bMaître magikarp, vous avez sauvé ma vie !
-\bMaster Magikarp, you saved my life!
-\bJ'aime. Les. Shorts.
-\bI. Like. Shorts.
-\bJ'aime les shorts, ça garde mes genoux bien au frais.
-\bI like shorts! They're comfy and easy to wear!
 \bKEVIN: Partez ! Sinon, il va me retrouver...
 \bKEVIN: Go away! Otherwise, he'll find me...
 \bMIA: Vous jouez à cache-cache ?? Trop cool !! Je peux jouer !?
@@ -604,16 +646,22 @@ Staryu found that very funny. It wishes to join your team.
 \bKEVIN: Thanks for standing up for me earlier. Here, for your trouble.
 \bKEVIN: Bonne journée !
 \bKEVIN: Have a great day!
+\bJ'aime. Les. Shorts.
+\bI. Like. Shorts.
+\bJ'aime les shorts, ça garde mes genoux bien au frais.
+\bI like shorts! They're comfy and easy to wear!
+\bMaître magikarp, vous avez sauvé ma vie !
+\bMaster Magikarp, you saved my life!
+Oui
+Yes
+Non
+No
 Soigner mon équipe
 Heal my team
 Liste des Pokémon disponible
 List of available Pokémon
 J'ai fini !
 I'm done!
-Oui
-Yes
-Non
-No
 Parler de vos progrès
 Talk about your progress
 Parler de vos meilleurs souvi
@@ -662,53 +710,3 @@ non
 no
 Tu veux jouer ?
 Wanna play?
-\bTu veux être ma 100ème victoire d'affilée ?
-\bDo you want to be my 100th victory in a row?
-\bWow ! J'avais pas pris une raclée pareille l'école des dresseurs !
-\bWow! I haven't taken a beating like that since Trainer School!
-\bCette fille avec son Tarsal... Je me demande ce qu'elle est devenue...
-\bThat girl with her Ralts... I wonder what became of her...
-\bTiens, la fondation Aether m'a confié ce Pokémon parce qu'ils ne savaient pas comment s'en occuper. Je pense qu'il sera mieux avec toi !
-\bHere, the Aether Foundation entrusted me with this Pokémon because they didn't know how to look after it. I think it'll be better off with you!
-\bIls n'ont pas voulu me dire d'où il venait,mais apparement, il n'arrêtait pas d'attaquer les autres Pokémon du refuge.
-\bThey wouldn't tell me where it came from, but apparently, it wouldn't stop attacking the other Pokémon at the shelter.
-\b???: Bah alors, Corayon ? Qu'est-ce qui se passe ?
-\b???: What's wrong, Corsola? What's going on?
-\f[corsola sad]...
-\f[corsola sad]...
-\b???: Ta blessure est guérie pourtant...
-\b???: Your injury is healed, though...
-\b???: Attends, tu veux rentrer chez toi, c'est ça ?
-\b???: Wait, you want to go home, is that it?
-\f[corsola happy]...
-\f[corsola happy]...
-\b???: Zut... Comment on va pouvoir faire...
-\b???: Shoot... How are we going to do that...
-\b???: Excuse-moi, tu es dresseuse ?
-\b???: Excuse me, are you a trainer?
-\bMIA: Yep !
-\bMIA: Yep!
-\b???: Super ! Tu pourras peut-être nous donner un coup de main !
-\b???: Great! Maybe you could give us a hand!
-\b???: Je m'appelle Flora, et je suis bénévole pour la fondation Aether. Nous oeuvrons pour la protection et le bien-être des Pokémon.
-\b???: My name is Flora, and I'm a volunteer for the Aether Foundation. We work for the protection and well-being of Pokémon.
-\bFLORA: On a retrouvé ce Corayon dans un sale état il y a quelques semaines. Je pense qu'il était poursuivi par des braconniers...
-\bFLORA: We found this Corsola in bad shape a few weeks ago. I think it was being chased by poachers...
-\bFLORA: On a pu le soigner, mais il encore trop faible pour rentrer chez lui en affrontant les autres Pokémon sauvages.
-\bFLORA: We managed to heal it, but it's still too weak to head home and face other wild Pokémon. 
-\bFLORA: Tu pourrais nous escorter sur le chemin ?
-\bFLORA: Could you escort us along the way?
-\bFLORA: Cool ! Merci beaucoup !
-\bFLORA: Cool! Thanks a lot!
-\bFLORA: Corayon ! On te ramène chez toi !
-\bFLORA: Corsola! We're taking you home!
-\bFLORA: Oh...Ok.
-\bFLORA: Oh... Okay.
-\bFLORA: ...
-\bFLORA: ...
-\bFLORA: Merci quand même...
-\bFLORA: Thanks anyway...
-\bFLORA: On va continuer les nourrir pendant quelques semaines, mais vu leur état, ils n'en ont probablement pas pour très longtemps...
-\bFLORA: We'll keep feeding them for a few weeks, but given their condition, they probably don't have much longer...
-\bFLORA: S'il te plait. Prends soin de Corayon.
-\bFLORA: Please. Take care of Corsola.

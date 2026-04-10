@@ -16,14 +16,6 @@
 \rRAYA: Come on! The others shouldn't be far!
 \f[ironvaliant happy]...
 \f[ironvaliant happy]...
-\rRAYA: Ouf, on a semé ces foutues sentinelles.
-\rRAYA: Phew, we lost those damn sentinels.
-\rRAYA: C'est bizarre, elles ont arrêté de nous suivre ici...
-\rRAYA: It's weird, they stopped following us here...
-\rRAYA: C'est... DONPHAN !?
-\rRAYA: Is that... DONPHAN!?
-\rRAYA: Hé merde, j'ai perdu.
-\rRAYA: Oh crap, I lost.
 \rRAYA: ALLER MON GRAND !! J'ATTENDS TES QUESTIONS !!
 \rRAYA: COME ON BIG GUY!! I'M READY FOR YOUR QUESTIONS!!
 \f[squawkabilly]Selon le Pokédex, Zacian est:
@@ -48,6 +40,14 @@
 \rRAYA: And it's goooooood!
 \rRAYA: ALLER DONPHAN !! ON REDESCEND MAINTENANT !!
 \rRAYA: COME ON DONPHAN!! WE'RE GOING BACK DOWN NOW!!
+\rRAYA: Ouf, on a semé ces foutues sentinelles.
+\rRAYA: Phew, we lost those damn sentinels.
+\rRAYA: C'est bizarre, elles ont arrêté de nous suivre ici...
+\rRAYA: It's weird, they stopped following us here...
+\rRAYA: C'est... DONPHAN !?
+\rRAYA: Is that... DONPHAN!?
+\rRAYA: Hé merde, j'ai perdu.
+\rRAYA: Oh crap, I lost.
 \rRAYA: DONPHAN !? QU'EST-CE QUE TU FAIS LÀ- HAUT !?
 \rRAYA: DONPHAN!? WHAT ARE YOU DOING UP THERE!?
 \rRAYA: MOI AUSSI JE SUIS CONTENT DE TE VOIR, MON GRAND !!

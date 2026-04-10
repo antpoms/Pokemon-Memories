@@ -2,10 +2,8 @@
 # translate every second line of this file.
 #-------------------------------
 [Map022]
-# Des descriptions d'objets avec lequel le joueur peut intéragir. Les citations, c'est des livres
 Un canapé. Quelqu'un a dormis dedans la nuit dernière.
 A couch. Someone slept in it last night.
-# Le joueur regarde un tableau avec des calculs dessus
 Beaucoup de calculs très compliqués.
 Lots of very complicated calculations.
 "Les hommes sérieux ont tort de ne prendre au sérieux que ceux qui leurs ressemblent.", E-E Schmitt
@@ -16,6 +14,42 @@ C'est une machine à café très sophistiquée.
 It's a very sophisticated coffee machine.
 "La Terre fournit assez pour satisfaire les besoins de chacun, mais pas l’avidité de tous.", M.Gandhi
 "Earth provides enough to satisfy every man's needs, but not every man's greed.", M. Gandhi
+Rapport Biodiversité et Climat 2031
+Biodiversity and Climate Report 2031
+2030 a été l'année la plus chaude jamais enregistrée à Kalos.
+2030 was the hottest year ever recorded in Kalos.
+Mégafeux de forêts, inondations, sécheresses se sont succédés lors de cette année marquée par les conséquences du dérèglement climatique.
+Forest megafires, floods, and droughts followed one another during this year marked by the consequences of climate change.
+Des conséquences qui ont également provoqué des pertes majeures de biodiversité.
+These consequences also caused major losses in biodiversity.
+En 2030, 28% des espèces des milieux humides sont considérées comme éteintes ou menacées selon la Liste rouge nationale.
+In 2030, 28% of wetland species were considered extinct or threatened according to the National Red List.
+La taille moyenne des populations de Pokémons sauvages suivies a diminué de 73 % entre 1970 et 2030.
+The average size of monitored wild Pokémon populations decreased by 73% between 1970 and 2030.
+Les espèces d'eaux douces affichent le plus fort déclin (85%), suivi des espèces terrestres (69%) et maritimes (56%).
+Freshwater species show the steepest decline (85%), followed by terrestrial (69%) and marine species (56%).
+Les différents indicateurs du domaine montrent tous que la nature disparaît à un rythme inquiétant.
+Various indicators in the field all show that nature is disappearing at an alarming rate.
+Si certaines transformations peuvent être mineures et progressives, leurs effets cumulatifs peuvent accélérer et accentuer le changement.
+While some transformations may be minor and gradual, their cumulative effects can accelerate and amplify the change.
+Quand les impacts se cumulent et atteignent un certain seuil, le changement s’auto-alimente, entrainant des impacts graves et irréversibles.
+When impacts accumulate and reach a certain threshold, the change becomes self-sustaining, leading to severe and irreversible impacts.
+C’est ce qu’on appelle un point de bascule.
+This is what is known as a tipping point.
+L’apparition de plusieurs points de bascule est très probable si les tendances actuelles se poursuivent.
+The emergence of several tipping points is highly probable if current trends continue.
+Leurs dépassement entrainerait des conséquences catastrophique pour l'humanité et la plupart des espèces.
+Crossing them would lead to catastrophic consequences for humanity and most species.
+La disparition massive des récifs coralliens détruirait la pêche et empêcherait la protection de millions de personnes vivant sur la côte contre les tempêtes.
+The massive disappearance of coral reefs would destroy fisheries and prevent the protection of millions of coastal residents from storms.
+La fonte des calottes glaciaires entraînerait une élévation du niveau de la mer de plusieurs mètres.
+The melting of ice sheets would result in a sea-level rise of several meters.
+Les points de bascule de la forêt tropicale et des calottes glacières libérerait des tonnes de carbone et de méthane dans l’atmosphère.
+Tipping points in tropical forests and ice sheets would release tons of carbon and methane into the atmosphere.
+D'ici 2050, 1/3 des zones peuplées pourraient devenir inhabitables, et les rendements agricoles pourraient être divisés par 2.
+By 2050, 1/3 of populated areas could become uninhabitable, and agricultural yields could be cut in half.
+\rRAYA: ...
+\rRAYA: ...
 Magnifique.
 Magnificent.
 "Il n'y a ni mauvaises herbes, ni mauvais hommes. Juste des mauvais cultivateurs." V.Hugo
@@ -26,7 +60,6 @@ Magnificent.
 "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.", A. Einstein
 "Le mal qui est dans le monde vient presque toujours de l’ignorance.", A.Camus
 "The evil that is in the world almost always comes from ignorance.", A. Camus
-# Dialogues qui font directement suite à l'intro
 \bMIA: RAYOOOOOOUUUUU !!
 \bMIA: RAY-RAAAAAAAAY !!
 \bMIA: Comment ça va bestie !?
@@ -41,13 +74,10 @@ Magnificent.
 \bMIA: Look at them, they just want to start their adventure!
 \bMIA: Allez les enfants ! Prenez vos Pokémon et allez-y !
 \bMIA: Go on, kids! Take your Pokémon and get going!
-# Les enfants qui écoutaient Raya prennent des Pokeball et se barrent
 \rRAYA: Mais... et vos Pokédex ?
 \rRAYA: But... what about your Pokedexes?
 \bMIA: Bon voyage les enfants !
 \bMIA: Have a great trip, kids!
-\rRAYA: ...
-\rRAYA: ...
 \rRAYA: Bon. Qu'est-ce que tu veux ?
 \rRAYA: What do you want?
 \bMIA: J'ai démissioné de mon taff de dresseuse d'arène.
@@ -74,7 +104,6 @@ Magnificent.
 \rRAYA: Follow me.
 \bMIA: J'arrive !
 \bMIA: I'm coming!
-# à nouveau des descriptions d'objets
 "Je ne perds jamais. Soit je gagne, soit j'apprends.", N.Mandela
 "I never lose. I either win or learn.", N. Mandela
 Vous voyez un diaporama intitulé "Modélisation systémique de la coévolution biodiversité anthroposphère en pression extractive différenciée"
@@ -93,7 +122,6 @@ You see a slideshow titled "Systemic modeling of biodiversity-anthroposphere coe
 \bMIA: I love rummaging through trash cans, and it's completely normal!
 "Le monde a commencé sans l’homme et il s’achèvera sans lui.", C.Levi-Strauss
 "The world began without man and it will end without him.", C. Levi-Strauss
-# Un mec qui brisent le 4ème mur et donnent des infos sur le jeu au joueur, sachant que le joueur contrôle Mia
 Salut \v[41] ! Merci de jouer à Pokemon Memories !
 Hi \v[41]! Thanks for playing Pokemon Memories!
 Si tu as des questions sur le jeu, je suis là pour y répondre !
@@ -146,38 +174,3 @@ Hush. You have no free will.
 3
 Tu as des questions ?
 Do you have any questions ?
-# Une cinématique plus tard dans le jeu, où Raya écrit un rapport sur la perte de biodiversité
-Rapport Biodiversité et Climat 2031
-Biodiversity and Climate Report 2031
-2030 a été l'année la plus chaude jamais enregistrée à Kalos.
-2030 was the hottest year ever recorded in Kalos.
-Mégafeux de forêts, inondations, sécheresses se sont succédés lors de cette année marquée par les conséquences du dérèglement climatique.
-Forest megafires, floods, and droughts followed one another during this year marked by the consequences of climate change.
-Des conséquences qui ont également provoqué des pertes majeures de biodiversité.
-These consequences also caused major losses in biodiversity.
-En 2030, 28% des espèces des milieux humides sont considérées comme éteintes ou menacées selon la Liste rouge nationale.
-In 2030, 28% of wetland species were considered extinct or threatened according to the National Red List.
-La taille moyenne des populations de Pokémons sauvages suivies a diminué de 73 % entre 1970 et 2030.
-The average size of monitored wild Pokémon populations decreased by 73% between 1970 and 2030.
-Les espèces d'eaux douces affichent le plus fort déclin (85%), suivi des espèces terrestres (69%) et maritimes (56%).
-Freshwater species show the steepest decline (85%), followed by terrestrial (69%) and marine species (56%).
-Les différents indicateurs du domaine montrent tous que la nature disparaît à un rythme inquiétant.
-Various indicators in the field all show that nature is disappearing at an alarming rate.
-Si certaines transformations peuvent être mineures et progressives, leurs effets cumulatifs peuvent accélérer et accentuer le changement.
-While some transformations may be minor and gradual, their cumulative effects can accelerate and amplify the change.
-Quand les impacts se cumulent et atteignent un certain seuil, le changement s’auto-alimente, entrainant des impacts graves et irréversibles.
-When impacts accumulate and reach a certain threshold, the change becomes self-sustaining, leading to severe and irreversible impacts.
-C’est ce qu’on appelle un point de bascule.
-This is what is known as a tipping point.
-L’apparition de plusieurs points de bascule est très probable si les tendances actuelles se poursuivent.
-The emergence of several tipping points is highly probable if current trends continue.
-Leurs dépassement entrainerait des conséquences catastrophique pour l'humanité et la plupart des espèces.
-Crossing them would lead to catastrophic consequences for humanity and most species.
-La disparition massive des récifs coralliens détruirait la pêche et empêcherait la protection de millions de personnes vivant sur la côte contre les tempêtes.
-The massive disappearance of coral reefs would destroy fisheries and prevent the protection of millions of coastal residents from storms.
-La fonte des calottes glaciaires entraînerait une élévation du niveau de la mer de plusieurs mètres.
-The melting of ice sheets would result in a sea-level rise of several meters.
-Les points de bascule de la forêt tropicale et des calottes glacières libérerait des tonnes de carbone et de méthane dans l’atmosphère.
-Tipping points in tropical forests and ice sheets would release tons of carbon and methane into the atmosphere.
-D'ici 2050, 1/3 des zones peuplées pourraient devenir inhabitables, et les rendements agricoles pourraient être divisés par 2.
-By 2050, 1/3 of populated areas could become uninhabitable, and agricultural yields could be cut in half.

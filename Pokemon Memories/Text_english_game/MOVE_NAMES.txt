@@ -214,6 +214,110 @@ Upper Hand
 Upper Hand
 Malignant Chain
 Malignant Chain
+Max Guard
+Max Guard
+Max Knuckle
+Max Knuckle
+Max Steelspike
+Max Steelspike
+Max Ooze
+Max Ooze
+Max Quake
+Max Quake
+Max Airstream
+Max Airstream
+Max Wyrmwind
+Max Wyrmwind
+Max Phantasm
+Max Phantasm
+Max Flutterby
+Max Flutterby
+Max Darkness
+Max Darkness
+Max Strike
+Max Strike
+Max Flare
+Max Flare
+Max Geyser
+Max Geyser
+Max Rockfall
+Max Rockfall
+Max Hailstorm
+Max Hailstorm
+Max Overgrowth
+Max Overgrowth
+Max Lightning
+Max Lightning
+Max Starfall
+Max Starfall
+Max Mindstorm
+Max Mindstorm
+G-Max Vine Lash
+G-Max Vine Lash
+G-Max Wildfire
+G-Max Wildfire
+G-Max Cannonade
+G-Max Cannonade
+G-Max Volcalith
+G-Max Volcalith
+G-Max Drum Solo
+G-Max Drum Solo
+G-Max Fireball
+G-Max Fireball
+G-Max Hydrosnipe
+G-Max Hydrosnipe
+G-Max Volt Crash
+G-Max Volt Crash
+G-Max Malodor
+G-Max Malodor
+G-Max Stun Shock
+G-Max Stun Shock
+G-Max Befuddle
+G-Max Befuddle
+G-Max Smite
+G-Max Smite
+G-Max Cuddle
+G-Max Cuddle
+G-Max Gold Rush
+G-Max Gold Rush
+G-Max Stonesurge
+G-Max Stonesurge
+G-Max Steelsurge
+G-Max Steelsurge
+G-Max Centiferno
+G-Max Centiferno
+G-Max Sandblast
+G-Max Sandblast
+G-Max Foam Burst
+G-Max Foam Burst
+G-Max Wind Rage
+G-Max Wind Rage
+G-Max Gravitas
+G-Max Gravitas
+G-Max Finale
+G-Max Finale
+G-Max Sweetness
+G-Max Sweetness
+G-Max Tartness
+G-Max Tartness
+G-Max Replenish
+G-Max Replenish
+G-Max Depletion
+G-Max Depletion
+G-Max Resonance
+G-Max Resonance
+G-Max Chi Strike
+G-Max Chi Strike
+G-Max Terror
+G-Max Terror
+G-Max Snooze
+G-Max Snooze
+G-Max Meltdown
+G-Max Meltdown
+G-Max One Blow
+G-Max One Blow
+G-Max Rapid Flow
+G-Max Rapid Flow
 Tera Blast
 Tera Blast
 Breakneck Blitz

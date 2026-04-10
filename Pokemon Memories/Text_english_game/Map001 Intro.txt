@@ -2,12 +2,10 @@
 # translate every second line of this file.
 #-------------------------------
 [Map001]
-# Questions qu'on pose au joueur au début du jeu
 Voulez-vous jouer en mode normal ou difficile ?
 Would you like to play normal mode or hard mode?
 Le jeu est encore en cours de développement. N'hésitez pas à sauvegarder régulièrement.
 The game is still in development. Please save regularly.
-# intro de la prof Pokémon
 \rBonjour. Je vous attendais.
 \rHello. I’ve been expecting you.
 \rBienvenue dans le monde des Pokémon.
@@ -34,7 +32,6 @@ The game is still in development. Please save regularly.
 \r\PN, your adventure is about to begin!
 \rParcours le monde, apprends des autres, et-
 \rTravel the world, learn from others, and-
-# Là on toque à la porte
 \b???: RAYOOOUUUUUUUU!! OUVRE-MOI BESTIE!!
 \b???: RAY-RAAAAAAAAY!! OPEN UP, BESTIE!!
 \rRAYA: (Mia, c'est pas le moment. Je suis occupée là.)
@@ -43,7 +40,6 @@ The game is still in development. Please save regularly.
 \bMIA: WHAT DID YOU SAY!?!
 \bMIA: BON, JE RENTRE !
 \bMIA: FINE, I’M COMING IN!
-# Options de réponses aux questions du début pour le joueur
 Normal
 Normal
 Difficile
@@ -56,4 +52,3 @@ Oui
 Yes
 Non
 No
-

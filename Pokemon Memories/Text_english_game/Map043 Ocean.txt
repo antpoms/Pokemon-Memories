@@ -4,6 +4,8 @@
 [Map043]
 \bVIEIL HOMME: La mer est agitée aujourd'hui.
 \bOLD MAN: The sea is rough today.
+\bVIEIL HOMME: La nature en veut à l'homme de l'avoir défiée...
+\bOLD MAN: Nature resents man for having defied it...
 \bVIEIL HOMME: Préparez-vous. Il arrive.
 \bOLD MAN: Get ready. It's coming.
 Kilowattrel reconnaît votre combativité. Il souhaite vous rejoindre.

@@ -120,6 +120,16 @@ A rock that fell to earth from space. It allows a certain species of Pokémon to
 A rock that fell to earth from space. It allows a certain species of Pokémon to change forms.
 A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
 A proof copy of the exploration notes, along with Briar's thoughts covering the Area Zero Underdepths.
+A Wishing Star has been affixed to it. It lets out light that allows Pokémon to Dynamax when at a Power Spot.
+A Wishing Star has been affixed to it. It lets out light that allows Pokémon to Dynamax when at a Power Spot.
+A stone that radiates Dynamax energy. It can fully recharge your Dynamax Band in battle.
+A stone that radiates Dynamax energy. It can fully recharge your Dynamax Band in battle.
+Raises the Dynamax Level of a single Pokémon by one. A higher level means higher HP when Dynamaxed.
+Raises the Dynamax Level of a single Pokémon by one. A higher level means higher HP when Dynamaxed.
+Maxes out the Dynamax Level of a single Pokémon. A higher level means higher HP when Dynamaxed.
+Maxes out the Dynamax Level of a single Pokémon. A higher level means higher HP when Dynamaxed.
+A soup that packs a huge kick. Certain Pokémon that consume it may be given the ability to Gigantamax.
+A soup that packs a huge kick. Certain Pokémon that consume it may be given the ability to Gigantamax.
 An orb that holds the power to crystallize. When charged, it allows Pokémon to Terastallize.
 An orb that holds the power to crystallize. When charged, it allows Pokémon to Terastallize.
 On rare occasions, these shards form when a Tera Pokémon falls in battle and its Tera Jewel shatters.
