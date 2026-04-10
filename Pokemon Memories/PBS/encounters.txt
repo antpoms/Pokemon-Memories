@@ -167,7 +167,6 @@ Land,21
     8,CHARCADET,5
     8,CHEWTLE,5
     8,SHROOMISH,5
-    7,MANKEY,5
     7,SCRAGGY,5
     7,STUFFUL,5
 #-------------------------------

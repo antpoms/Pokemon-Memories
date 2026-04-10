@@ -482,3 +482,7 @@ BattleBack = indoordark
 #-------------------------------
 [089] #Waiting Room
 Name = Waiting Room
+#-------------------------------
+[090] #Ocean quest corsola
+Name = Ocean
+BattleBack = water

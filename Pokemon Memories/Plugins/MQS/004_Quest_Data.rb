@@ -462,5 +462,43 @@ module QuestModule
     :Location2 => "Pyrenem Mountain, by the fire",
     :QuestDescription => "Find 5 pieces of wood to rekindle the fire.",
   }
+
+  # --- QUEST 23 ---
+  QuestCorsola = {
+    :ID => "46",
+    :Name => "Rentrer chez soi",
+    :Stage1 => "Aidez Corayon",
+    :Location1 => "Plage, Sud",
+    :StageLabel1 => "1",
+    :QuestDescription => "Aidez Corayon",
+  }
+
+  QuestCorsola_en = {
+    :ID => "47",
+    :Name => "Going home",
+    :Stage1 => "Help Corsola",
+    :Location1 => "Beach, South",
+    :StageLabel1 => "1",
+    :QuestDescription => "Help Corsola",
+  }
+
+  # --- QUEST 24 ---
+  QuestMankey = {
+    :ID => "48",
+    :Name => "Rage",
+    :Stage1 => "Calmez le Ferrosinge",
+    :Location1 => "Près de la mare, Sud-Est",
+    :StageLabel1 => "1",
+    :QuestDescription => "Calmez le Ferrosinge",
+  }
+
+  QuestMankey_en = {
+    :ID => "49",
+    :Name => "Rage",
+    :Stage1 => "Calm the Mankey",
+    :Location1 => "Near the pond, South-East",
+    :StageLabel1 => "1",
+    :QuestDescription => "Calm the Mankey",
+  }
   
 end
