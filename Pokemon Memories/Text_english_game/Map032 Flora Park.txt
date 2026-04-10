@@ -2,14 +2,6 @@
 # translate every second line of this file.
 #-------------------------------
 [Map032]
-Ces vestiges ont été retrouvés sur l'île Crache-Feu, aujourd'hui engloutie à cause de la monté des eaux.
-These remains were found on Fire-Spit Island, now submerged due to rising sea levels.
-Les inscriptions à l'arrière des tablettes se traduisent par:
-The inscriptions on the back of the tablets translate to:
-''Pour que l'élu d'Arceus puissent lancer l'appel ancestral, il doit résoudre les énigmes de l'espace et du temps."
-"In order for the chosen one of Arceus to initiate the ancestral call, they must solve the riddles of space and time."
-Pour lancer l'appel ancestral, résolvez les énigmes de l'espace et du temps.
-To launch the ancestral call, solve the riddles of space and time.
 \rRAYA: Tu as de la chance.
 \rRAYA: You're in luck.
 \rRAYA: Un collègue de la région de Johto m'a récemment confié 3 Pokémon.
@@ -94,6 +86,14 @@ You immediately sign the internship agreement.
 \rRAYA: Come back to see me when you've defeated 4 trainers.
 De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
 New quests have been added to your quest list.
+Ces vestiges ont été retrouvés sur l'île Crache-Feu, aujourd'hui engloutie à cause de la monté des eaux.
+These remains were found on Fire-Spit Island, now submerged due to rising sea levels.
+Les inscriptions à l'arrière des tablettes se traduisent par:
+The inscriptions on the back of the tablets translate to:
+''Pour que l'élu d'Arceus puissent lancer l'appel ancestral, il doit résoudre les énigmes de l'espace et du temps."
+"In order for the chosen one of Arceus to initiate the ancestral call, they must solve the riddles of space and time."
+Jouer avec Caninos ?
+Play with Growlithe?
 \bMIA: C'est l'heure de passer aux choses sérieuses.
 \bMIA: It's time to get serious.
 \bMIA: Ok mon petit pote. J'ai une bonne et une mauvaise nouvelle.
@@ -120,14 +120,6 @@ Le potentiel de vos Pokémon a été maximisé !
 Your Pokémon's potential has been maximized!
 \bMIA: C'est l'heure du-
 \bMIA: It's time for-
-Jouer avec Caninos ?
-Play with Growlithe?
-Un étrange mécanisme apparaît.
-A strange mechanism appears.
-Vous entendez un mécanisme interne se mettre en route.
-You hear an internal mechanism starting up.
-Le mécanisme est déjà enclenché.
-The mechanism is already activated.
 \rRAYA: Tu les as trouvé ?
 \rRAYA: Did you find them?
 \rRAYA: En général, ils aiment bien jouer à côté du pont.
@@ -176,12 +168,12 @@ The mechanism is already activated.
 \rRAYA: Well then? You lost?
 \bMIA: Oui bon ça va, hein.
 \bMIA: Yeah, yeah, I get it.
-\f[arcanine angry]...
-\f[arcanine angry]...
-\f[growlith joyous]...
-\f[growlith joyous]...
-Caninos souhaite vous rejoindre !
-Growlithe wants to join you!
+Un étrange mécanisme apparaît.
+A strange mechanism appears.
+Vous entendez un mécanisme interne se mettre en route.
+You hear an internal mechanism starting up.
+Le mécanisme est déjà enclenché.
+The mechanism is already activated.
 Le roi de la mare vous juge du regard.
 The king of the pond judges you with his gaze.
 \f[THE KING]...
@@ -202,12 +194,12 @@ Il pense que vous pourrez être utile en tant que chevalier de son empire.
 He thinks you could be useful as a knight of his empire.
 Il décide de conquérir le monde à vos côtés.
 He decides to conquer the world by your side.
-\bTu penses que tu saurais faire atterrir un avion en cas d'urgence ?
-\bDo you think you could land a plane in an emergency?
-\bEn vrai, ça doit pas être si compliqué.
-\bHonestly, it probably isn't that complicated.
-\bJe ne dirais pas que je suis naif, je dirais que je suis optimiste.
-\bI wouldn't say I'm naive, I'd say I'm optimistic.
+\f[arcanine angry]...
+\f[arcanine angry]...
+\f[growlith joyous]...
+\f[growlith joyous]...
+Caninos souhaite vous rejoindre !
+Growlithe wants to join you!
 \b???: Besoin d'air ?
 \b???: Need some air?
 \rRAYA: On se connaît ?
@@ -236,6 +228,32 @@ He decides to conquer the world by your side.
 \bEMMA: I have the second part on a USB drive. If you're interested, here's my card.
 \bMILLIE: Au plaisir.
 \bEMMA: A pleasure.
+\bTu penses que tu saurais faire atterrir un avion en cas d'urgence ?
+\bDo you think you could land a plane in an emergency?
+\bEn vrai, ça doit pas être si compliqué.
+\bHonestly, it probably isn't that complicated.
+\bJe ne dirais pas que je suis naif, je dirais que je suis optimiste.
+\bI wouldn't say I'm naive, I'd say I'm optimistic.
+Elekid créé un courant électrique entre ses antennes.
+Elekid creates an electric current between its antennae.
+C'est... du morse ?
+Is that... Morse code?
+\c[6]\f[en]... . .-. ...- .. -.-. . / .... ..- -- .- .. -. .
+\c[6]\f[en].... ..- -- .- -. / ... . .-. ...- .. -.-. .
+\f[en]\c[6].- .--. .--. --- .-. - . .-. / .- .. -- .- -. - / -.. . .-. .-. .. .-..- .-. . / .-.. .- -... --- .-. .- - --- .. .-. .
+\f[en]\c[6]-... .-. .. -. --. / -- .- --. -. . - / -... . .... .. -. -.. / .-.. .- -... --- .-. .- - --- .-. -.--
+\bMIA: Dacodac ! Je t'apporte ça !
+\bMIA: Okey-dokey! I'll bring you that!
+\f[ej]\c[6]-- . .-. -.-. .. / . ... -.-. .-.. .- ...- .
+\f[ej]\c[6]- .... .- -. -.- ... / ... .-.. .- ...- .
+\bMIA: Hé oh.
+\bMIA: Hey now.
+\f[ej]\c[6]-... .- ... - --- -. / ..--..
+\f[ej]\c[6]..-. .. --. .... - / ..--..
+\f[ej]\c[6]- --- .. / .... ..- -- .- .. -. . / -.. .-. ---. .-.. .
+\f[ej]\c[6]-.-- --- ..- / ..-. ..- -. -. -.-- / .... ..- -- .- -.
+\f[totodile joyous]Choisissez-vous Kaiminus ?
+\f[totodile joyous]Do you choose Totodile?
 \f[yamper joyous]...
 \f[yamper joyous]...
 \b???: Voltoutou ?
@@ -260,26 +278,6 @@ He decides to conquer the world by your side.
 \bSONIA: Here. To thank you for playing with my Yamper.
 \bSONIA: Bon voyage !
 \bSONIA: Have a safe trip!
-\f[totodile joyous]Choisissez-vous Kaiminus ?
-\f[totodile joyous]Do you choose Totodile?
-Elekid créé un courant électrique entre ses antennes.
-Elekid creates an electric current between its antennae.
-C'est... du morse ?
-Is that... Morse code?
-\c[6]\f[en]... . .-. ...- .. -.-. . / .... ..- -- .- .. -. .
-\c[6]\f[en].... ..- -- .- -. / ... . .-. ...- .. -.-. .
-\f[en]\c[6].- .--. .--. --- .-. - . .-. / .- .. -- .- -. - / -.. . .-. .-. .. .-..- .-. . / .-.. .- -... --- .-. .- - --- .. .-. .
-\f[en]\c[6]-... .-. .. -. --. / -- .- --. -. . - / -... . .... .. -. -.. / .-.. .- -... --- .-. .- - --- .-. -.--
-\bMIA: Dacodac ! Je t'apporte ça !
-\bMIA: Okey-dokey! I'll bring you that!
-\f[ej]\c[6]-- . .-. -.-. .. / . ... -.-. .-.. .- ...- .
-\f[ej]\c[6]- .... .- -. -.- ... / ... .-.. .- ...- .
-\bMIA: Hé oh.
-\bMIA: Hey now.
-\f[ej]\c[6]-... .- ... - --- -. / ..--..
-\f[ej]\c[6]..-. .. --. .... - / ..--..
-\f[ej]\c[6]- --- .. / .... ..- -- .- .. -. . / -.. .-. ---. .-.. .
-\f[ej]\c[6]-.-- --- ..- / ..-. ..- -. -. -.-- / .... ..- -- .- -.
 \bHumain humain. Hum hum, humain.
 \bHuman human. Hum hum, human.
 \bT'as vu ? Je parle comme les Pokémon !
@@ -290,16 +288,14 @@ Is that... Morse code?
 \bThe first hypothesis is very anthropocentric, but the second implies Regirock should be called "ün ün ün KIKIkiKIKIkikiKIKI"
 Vous arrêtez d'écouter.
 You stop listening.
+\f[en]\c[6]... . .-. ...- .. -.-. . / .... ..- -- .- .. -. .
+\f[en]\c[6].... ..- -- .- -. / ... . .-. ...- .. -.-. .
+\f[cyndaquil joyous]Choisissez-vous Héricendre ?
+\f[cyndaquil joyous]Do you choose Cyndaquil?
 Voltoutou veut jouer à cache-cache avec vous !
 Yamper wants to play hide-and-seek with you!
 Il part se cacher !
 It's going to hide!
-\f[cyndaquil joyous]Choisissez-vous Héricendre ?
-\f[cyndaquil joyous]Do you choose Cyndaquil?
-\f[en]\c[6]... . .-. ...- .. -.-. . / .... ..- -- .- .. -. .
-\f[en]\c[6].... ..- -- .- -. / ... . .-. ...- .. -.-. .
-\bFeur.
-\bLigma.
 \bTu as besoin de t'entraîner ?
 \bDo you need to train?
 \bJe te préviens, je suis en train de me préparer pour un tournoi régional. Donc ça fait peut-être un peu beaucoup vu le niveau de ton équipe.
@@ -316,8 +312,8 @@ It's going to hide!
 \bI haven't figured out how to fit it into my strategy, but maybe you can help it reach its full potential!
 \bJ'espère qu'on se croisera en tournoi !
 \bI hope we cross paths at the tournament!
-\f[chikorita joyous]Choisissez-vous Germignon ?
-\f[chikorita joyous]Do you choose Chikorita?
+\bFeur.
+\bLigma.
 Découvrez le premier train ayant relié les régions de Kanto et Johto ! Une exposition présentée par Sylphe Co.
 Discover the first train to connect the Kanto and Johto regions! An exhibition presented by Silph Co.
 PS: Veuillez ne pas monter dans le train.
@@ -330,32 +326,8 @@ PPPPS: Veuillez ne pas intéragir avec le train d'une quelconque manière qui po
 PPPPS: Please do not interact with the train in any way that could damage it or compromise your physical or emotional safety.
 PPPPPS: Bon sérieux organisez vos soirées ailleurs, ça deviens relou là.
 PPPPPS: Seriously, host your parties elsewhere, it's getting annoying now.
-\bMIA: Coucou les petits loups ! Comment ça va ?
-\bMIA: Hey there, little ones! How's it going?
-\f[mankey angry]...
-\f[mankey angry]...
-\bMIA: Houla... Tout doux...
-\bMIA: Whoa... Easy now...
-\f[mankey]...
-\f[mankey]...
-Ferrosinge est surpris de voir vos Pokémon heureux.
-Mankey is surprised to see your Pokémon looking happy.
-\rRAYA: Mia ? Ça va ?
-\rRAYA: Mia? You okay?
-\rRAYA: Désolé, ils sont un peu agressifs envers les humains.
-\rRAYA: Sorry, they're a bit aggressive toward humans.
-\rRAYA: La forêt où ils vivaient a été détruite...
-\rRAYA: The forest where they lived was destroyed...
-\bMIA: Oh...
-\bMIA: Oh...
-\bMIA: Désolé, je voulais pas vous faire peur.
-\bMIA: Sorry, I didn't mean to scare you.
-\bMIA: Promis, je vais pas vous faire de mal. Je vous laisse tranquille maintenant...
-\bMIA: I promise I won't hurt you. I'll leave you alone now...
-Ferrosinge est curieux.
-Mankey is curious.
-Il décide de vous suivre.
-It decides to follow you.
+\f[chikorita joyous]Choisissez-vous Germignon ?
+\f[chikorita joyous]Do you choose Chikorita?
 \bMIA: Salut ! Je m'appelle Mia !
 \bMIA: Hi! My name is Mia!
 \bMIA: Je viens d'avoir mon premier Pokémon, et on a besoin d'entraînement.
@@ -396,6 +368,32 @@ It decides to follow you.
 \bGAB: Too bad.
 \bMIA: MAIS REVIENS !!
 \bMIA: HEY, COME BACK!!
+\bMIA: Coucou les petits loups ! Comment ça va ?
+\bMIA: Hey there, little ones! How's it going?
+\f[mankey angry]...
+\f[mankey angry]...
+\bMIA: Houla... Tout doux...
+\bMIA: Whoa... Easy now...
+\f[mankey]...
+\f[mankey]...
+Ferrosinge est surpris de voir vos Pokémon heureux.
+Mankey is surprised to see your Pokémon looking happy.
+\rRAYA: Mia ? Ça va ?
+\rRAYA: Mia? You okay?
+\rRAYA: Désolé, ils sont un peu agressifs envers les humains.
+\rRAYA: Sorry, they're a bit aggressive toward humans.
+\rRAYA: La forêt où ils vivaient a été détruite...
+\rRAYA: The forest where they lived was destroyed...
+\bMIA: Oh...
+\bMIA: Oh...
+\bMIA: Désolé, je voulais pas vous faire peur.
+\bMIA: Sorry, I didn't mean to scare you.
+\bMIA: Promis, je vais pas vous faire de mal. Je vous laisse tranquille maintenant...
+\bMIA: I promise I won't hurt you. I'll leave you alone now...
+Ferrosinge est curieux.
+Mankey is curious.
+Il décide de vous suivre.
+It decides to follow you.
 Oui
 Yes
 Non

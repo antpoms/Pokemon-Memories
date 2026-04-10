@@ -118,44 +118,50 @@ Your Pokémon's potential has been maximized!
 \rRAYA: I know enough to realize the media would love to hear about it.
 \rRAYA: "Nexus se retrouve impliqué dans du traffic d'êtres humains", ça fait une première page qui en jette, non ?
 \rRAYA: "Nexus implicated in human trafficking"-makes for a hell of a headline, doesn't it?
-\bEINER: C'est vrai, tu devrais en parler à la presse. Je peux te donner des contacts, si tu veux.
-\bEINER: True. You should talk to the press. I can give you some contacts, if you'd like.
+\bEINER: Vas-y. Parles-en à la presse. Je peux te donner des contacts, si tu veux.
+\bEINER: Go ahead. Talk to the press. I can give you some contacts, if you'd like.
 \rRAYA: Hein ?
 \rRAYA: Huh?
 \rRAYA: Vous... n'allez rien faire ?
 \rRAYA: You... aren't going to do anything?
 \bEINER: Oh si.
 \bEINER: Oh, I am.
-\bEINER: Nous allons porter plainte pour diffamation, et détruire toutes les preuves de l'existence du projet.
-\bEINER: We will file a lawsuit for defamation and destroy every scrap of evidence that the project ever existed.
+\bEINER: Nous serons obligés de porter plainte pour diffamation, et de détruire toutes les preuves de l'existence du projet.
+\bEINER: We will be forced to file a defamation lawsuit and destroy all evidence of the project's existence.
 \bEINER: Après t'avoir viré et stoppé les financements de tes recherches, bien sûr.
 \bEINER: After firing you and cutting off all funding for your research, of course.
 \rRAYA: Vous croyez que ça va m'arrêter ?
 \rRAYA: You think that's going to stop me?
-\bEINER: Oh non. C'est pour ça que nous allons faire de ta vie un enfer.
-\bEINER: Oh, no. That's why we're going to make your life a living hell.
-\bEINER: Quelques coups de files devraient suffir pour couper tes accès banquaires, ou pour lancer des campagnes de cyberharcèlement.
-\bEINER: A few phone calls should be enough to freeze your bank accounts or trigger massive cyber-harassment campaigns against you.
-\bEINER: Nous allons faire durer le procès jusqu'à ce que tu craques, et accepte de revenir sur tes déclarations en échange de quelques millions.
-\bEINER: We'll drag out the trial until you break and agree to recant your statements in exchange for a few million.
-\bEINER: Ou jusqu'à ce que tu finisses assassinée dans des circonstances mystérieuses.
-\bEINER: Or until you end up murdered under mysterious circumstances.
+\bEINER: Raya, réfléchis.
+\bEINER: Raya, think about it.
+\bEINER: En quelques coups de files, je peux détruire ta réputation et toutes tes chances de retrouver un emploi.
+\bEINER: With a few phone calls, I can destroy your reputation and any chance of you finding another job.
+\bEINER: Tu vas passer ta vie dans un procès qu'on va faire traîner jusqu'à ce que tu n'ai plus de quoi le payer.
+\bEINER: You'll spend your life in a lawsuit that we'll drag out until you can no longer afford to pay for it.
+\bEINER: Tes assistants se retrouveront à la rue. Les Pokémon de ton refuge finiront à la fourrière. Nexus va abandonner toutes ses politiques durables.
+\bEINER: Your assistants will end up on the street. The Pokémon in your sanctuary will end up in the pound. Nexus will abandon all of its sustainability policies.
+\bEINER: Et tout ça pour quoi ? Pour un combat que tu ne peux pas gagner ?
+\bEINER: And all that for what? For a fight you cannot win?
 \bMIA: Hé !
 \bMIA: Hey!
 \bMIA: Vous ne toucherez pas à un cheveux de mon amie.
-\bMIA: You won't lay a finger on my friend.
+\bMIA: You won't touch a single hair on my friend's head.
 \bEINER: Bien sûr. Elle est assez intelligente pour comprendre que sa meilleure option est de garder le silence.
 \bEINER: Of course. She's smart enough to understand that her best option is to stay silent.
 \bEINER: Mais si elle s'obstine à vouloir jouer les lanceuses d'alerte, elle devra en subir les conséquences.
-\bEINER: But if she insists on playing whistleblower, she will have to suffer the consequences.
+\bEINER: But if she persists in playing the whistleblower, she will have to face the consequences.
 \bMIA: Pas tant que je serais là.
-\bMIA: Not while I'm around.
+\bMIA: Not as long as I'm here.
 \bEINER: Très bien. Joue à l'héroïne si ça t'amuse.
 \bEINER: Fine. Play the hero if it amuses you.
 \bEINER: C'est bon, tu as fini ?
-\bEINER: Are you done now?
-\bEINER: Raya, rejoins-moi au siège le 15 avril. Je répondrais à toutes tes questions.
-\bEINER: Raya, meet me at headquarters on April 15th. I will answer all your questions.
+\bEINER: Alright, are you finished?
+\rRAYA: Zake !
+\rRAYA: Zake!
+\rRAYA: Tu croyais vraiment qu'on pouvait changer les choses, ou c'était du vent ?
+\rRAYA: Did you really believe we could change things, or was it all just talk?
+\bEINER: Rejoins-moi au siège le 15 avril. Je répondrais à toutes tes questions.
+\bEINER: Meet me at headquarters on April 15th. I will answer all your questions.
 \bEINER: En attendant, évite de t'attirer des problèmes.
 \bEINER: In the meantime, try to stay out of trouble.
 \bMIA: Connard.
