@@ -1865,6 +1865,13 @@ Pokemon = BAXCALIBUR,54
 Pokemon = SALAMENCE,54
     Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
     IV = 0,0,0,0,0,0
+Pokemon = DRAGONITE,54
+    AbilityIndex = 0
+    Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+    IV = 0,0,0,0,0,0
+Pokemon = HAXORUS,54
+    Moves = LEER,SCREECH,BELLYDRUM,IRONDEFENSE
+    IV = 0,0,0,0,0,0
 #-------------------------------
 [POKEMONTRAINER_Raya,Raya]
 LoseText = Pas mal. On va dire que tu es engagée.
