@@ -12,7 +12,7 @@ module BattleSpeedControl
   SPEED_STAGES = [1.0, 1.5, 2.0, 3.0]
   
   # Default speed stage (0 = Normal, 1 = 1.5x, 2 = 2x, 3 = 3x)
-  DEFAULT_SPEED = 0
+  DEFAULT_SPEED = 1
   
   # Show speed-up setting in options menu
   SHOW_IN_OPTIONS = true
