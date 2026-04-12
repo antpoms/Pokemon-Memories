@@ -9002,3 +9002,16 @@ Target = NearOther
 FunctionCode = FreezeTarget
 Flags = CanProtect,CanMirrorMove,ZPower_SPECIAL_ATTACK_1
 Description = The user summons a cold wind to inflict a frostbite.
+#-------------------------------
+[NAHIDWIN]
+Name = Nah I'd Win
+Type = ICE
+Category = Special
+Power = 10000
+Accuracy = 0
+TotalPP = 40
+Target = AllNearFoes
+FunctionCode = HitThreeTimesAlwaysCriticalHit
+Priority = 10
+Flags = CanProtect,CanMirrorMove
+Description = Tu ne devrais pas pouvoir utiliser ce move, tricheur.
