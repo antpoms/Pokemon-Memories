@@ -761,9 +761,9 @@ La brume tourbillonne sur le champ de bataille !
 The battlefield is weird!
 Le champ de bataille est bizarre !
 You got ${1} for winning!
-Vous avez gagné {1} $ ! - »
+Vous avez gagné {1} $ !
 You picked up ${1}!
-Vous avez récupéré {1} $ ! - »
+Vous avez récupéré {1} $ !
 You gave ${1} to the winner...
 Vous avez donné {1} $ au gagnant...
 You panicked and dropped ${1}...
@@ -823,9 +823,9 @@ Vous ne pouvez pas échanger le Pokémon de {1} avec l'un des vôtres !
 {1} is already in battle!
 {1} est déjà au combat !
 {1} can't be switched out!
-{1} ne peut pas être désactivé !
+{1} ne peut pas être échangé !
 {1}'s {2} prevents switching!
-Le {2} de {1} empêche la commutation !
+Le {2} de {1} empêche d'échanger !
 {1} has already been selected.
 {1} a déjà été sélectionné.
 {1} is about to send out {2}. Will you switch your Pokémon?
@@ -833,43 +833,43 @@ Le {2} de {1} empêche la commutation !
 Use next Pokémon?
 Utiliser le prochain Pokémon ?
 Good job, {1}! Come back!
-Bon travail, {1} ! Revenez !
+Bravo, {1} ! Reviens !
 OK, {1}! Come back!
-OK, {1} ! Revenez ! 
+OK, {1} ! Reviens ! 
 {1}, that's enough! Come back!
-{1}, ça suffit ! Revenez !
+{1}, ça suffit ! Reviens !
 {1}, come back!
 {1}, reviens !
 {1}, switch out! Come back!
-{1}, éteignez ! Revenez ! 
+{1}, Reviens ! 
 {1} withdrew {2}!
 {1} a retiré {2} !
 You're in charge, {1}!
-C'est vous qui commandez, {1} !
+À toi, {1} !
 Go for it, {1}!
-Allez-y, {1} !
+Vas-y, {1} !
 Just a little more! Hang in there, {1}!
-Encore un peu ! Tenez bon, {1} !
+Encore un peu ! Tiens bon, {1} !
 Your opponent's weak! Get 'em, {1}!
-Votre adversaire est faible ! Attrapez-le, {1} !
+Ton adversaire est faible ! Vas-y, {1} !
 Oh!<<n>>A Shadow Pokémon!
 Oh !<<n>>Un Pokémon Ombre !
 The healing wish came true for {1}!
-Le souhait de guérison s'est réalisé pour {1} !
+Le voeu s'est réalisé pour {1} !
 {1} became cloaked in mystical moonlight!
 {1} s'est enveloppé d'un clair de lune mystique !
 Pointed stones dug into {1}!
 Pierres pointues creusées dans {1} !
 {1} is hurt by the spikes!
-{1} est blessé par les pointes !
+{1} est blessé par les picôts !
 {1} absorbed the poison spikes!
-{1} a absorbé les pointes de poison !
+{1} a absorbé les pics toxiques !
 {1} was badly poisoned by the poison spikes!
-{1} a été gravement empoisonné par les pointes de poison !
+{1} a été gravement empoisonné par les pics toxiques !
 {1} was poisoned by the poison spikes!
-{1} a été empoisonné par les pointes empoisonnées !
+{1} a été empoisonné par les pics toxiques !
 {1} was caught in a sticky web!
-{1} a été pris dans une toile collante !
+{1} a été pris dans une toile gluante !
 It won't have any effect.
 Cela n'aura aucun effet.
 Embargo's effect prevents the item's use on {1}!
@@ -933,9 +933,9 @@ Le {2} de {1} réagit au {4} de {3} !
 Mega {1}
 Méga {1}
 {1} has Mega Evolved into {2}!
-{1} a Mega Evolved en {2} !
+{1} a Mega Évolué en {2} !
 {1}'s Primal Reversion!<<n>>It reverted to its primal form!
-La réversion primitive de {1} !<<n>>Il est revenu à sa forme primitive !
+La Primo Résurgence de {1} !<<n>>Il est revenu à sa forme primitive !
 Items can't be used here.
 Les objets ne peuvent pas être utilisés ici.
 Sky Drop won't let {1} go!
@@ -959,9 +959,9 @@ La grêle s'abat.
 The shadow sky continues.
 Le ciel d'ombre continue.
 {1} is buffeted by the sandstorm!
-{1} est secoué par la tempête de sable !
+{1} est frappe par la tempête de sable !
 {1} is buffeted by the hail!
-{1} est secoué par la grêle !
+{1} est 'frappé par la grêle !
 {1} is hurt by the shadow sky!
 {1} est blessé par le ciel d'ombre !
 {1} took the {2} attack!
@@ -977,7 +977,7 @@ Aqua Ring a restauré les PV de {1} !
 {1} absorbed nutrients with its roots!
 {1} a absorbé les nutriments avec ses racines !
 {1}'s health is sapped by Leech Seed!
-La santé de {1} est minée par Leech Seed !
+Les PV de {1} sont absorbés par vampigraine !
 {1}'s {2} restored its HP.
 Le {2} de {1} a restauré ses PV.
 {1} is locked in a nightmare!
@@ -1003,17 +1003,17 @@ Le bloc de soins de {1} s'est dissipé ! 
 {1} can use items again!
 {1} peut à nouveau utiliser les objets !
 {1}'s perish count fell to {2}!
-Le nombre de décès de {1} est tombé à {2} !
+Le Requiem de {1} est tombé à {2} !
 {1}'s Reflect wore off!
-Le Reflect de {1} s'est dissipé !
+Le Reflet de {1} s'est dissipé !
 {1}'s Light Screen wore off!
-L'écran lumineux de {1} s'est dissipé !
+Le mur lumière de {1} s'est dissipé !
 {1} is no longer protected by Safeguard!
 {1} n'est plus protégé par Safeguard !
 {1} is no longer protected by mist!
 {1} n'est plus protégé par le brouillard !
 {1}'s Tailwind petered out!
-Tailwind de {1} s'est essoufflé !
+Le Vent Arrière de {1} s'est essoufflé !
 {1}'s Lucky Chant wore off!
 Le Lucky Chant de {1} s'est dissipé !
 The rainbow on {1}'s side disappeared!
@@ -1023,7 +1023,7 @@ La mer de feu autour de {1} a disparu !
 The swamp around {1} disappeared!
 Le marais autour de {1} a disparu !
 {1}'s Aurora Veil wore off!
-L'Aurora Veil de {1} s'est dissipé !
+Le Voile Aurore de {1} s'est dissipé !
 The twisted dimensions returned to normal!
 Les dimensions tordues sont revenues à la normale !
 Gravity returned to normal!
@@ -1033,9 +1033,9 @@ Les effets du sport nautique se sont estompés.
 The effects of Mud Sport have faded.
 Les effets de Mud Sport se sont estompés.
 Wonder Room wore off, and Defense and Sp. Def stats returned to normal!
- La Salle des Merveilles s'est dissipée et les statistiques de Défense et de Sp. Def sont revenues à la normale ! - »
+La Zone Étrange s'est dissipée et les statistiques de Défense et de Sp. Def sont revenues à la normale !
 Magic Room wore off, and held items' effects returned to normal!
-La salle magique s'est dissipée et les effets des objets maintenus sont revenus à la normale !
+La zone magique s'est dissipée et les effets des objets maintenus sont revenus à la normale !
 The electric current disappeared from the battlefield!
 Le courant électrique a disparu du champ de bataille !
 The grass disappeared from the battlefield!
@@ -1107,9 +1107,9 @@ HP supérieurs aux HP totaux
 {1} sucked up the liquid ooze!
 {1} a aspiré le liquide !
 {1} had its energy drained!
-{1} a vu son énergie épuisée !
+L'énergie de {1} est drainée !
 {1} fainted!
-{1} s'est évanoui !
+{1} est KO !
 {1} transformed!
 {1} transformé !
 {1} triggered!
@@ -1133,7 +1133,7 @@ Vous sentez la présence de plusieurs !
 {1} is already poisoned!
 {1} est déjà empoisonné !
 {1} already has a burn!
-{1} a déjà une brûlure !
+{1} est déjà !
 {1} is already paralyzed!
 {1} est déjà paralysé !
 {1} is already frozen solid!
@@ -1141,7 +1141,7 @@ Vous sentez la présence de plusieurs !
 It doesn't affect {1}...
 Cela n'affecte pas {1}...
 {1} surrounds itself with electrified terrain!
-{1} s'entoure d'un terrain électrifié !
+{1} s'entoure du terrain électrifié !
 {1} surrounds itself with misty terrain!
 {1} s'entoure d'un terrain brumeux !
 But the uproar kept {1} awake!
@@ -1187,13 +1187,13 @@ L'équipe de {1} est protégée par Safeguard !
 {1} was burned!
 {1} a été brûlé !
 {1} is paralyzed! It may be unable to move!
-{1} est paralysé ! Il est peut-être incapable de bouger !
+{1} est paralysé ! Il sera peut-être incapable de bouger !
 {1} was frozen solid!
 {1} était gelé ! 
 {1} is fast asleep.
 {1} dort profondément.
 {1} was hurt by poison!
-{1} a été blessé par du poison !
+{1} a été blessé par le poison !
 {1} was hurt by its burn!
 {1} a été blessé par sa brûlure !
 {1} is paralyzed! It can't move!
@@ -1327,9 +1327,9 @@ Le type de {1} a été remplacé par {2} !
 But there was no target...
 Mais il n'y avait pas de cible...
 Hit 1 time!
-Frappez 1 fois !
+Touché 1 fois !
 Hit {1} times!
-Frappez {1} fois ! 
+Touché {1} fois ! 
 {1} bounced the {2} back!
 {1} a fait rebondir le {2} !
 {1} used the move instructed by {2}!
@@ -1761,7 +1761,7 @@ Un déluge d'ions inonde le champ de bataille !
 {1} evaded the attack!
 {1} a échappé à l'attaque !
 {1} was seeded!
-{1} a été classé !
+{1} est infecté !
 {1} cannot use {2} because of {3}'s {4}!
 {1} ne peut pas utiliser {2} à cause du {4} !- de {3}
 All Pokémon that hear the song will faint in three turns!
@@ -1911,9 +1911,9 @@ Courir
 Choose a Pokémon.
 Choisissez un Pokémon.
 Send which Pokémon to Boxes?
-Envoyer quel Pokémon dans des boîtes ?
+Envoyer quel Pokémon dans les boîtes ?
 Switch In
-Introduisez
+Échanger
 Send to Boxes
 Envoyer aux boîtes
 Summary
@@ -3893,7 +3893,7 @@ Combien de {1} souhaitez-vous vendre ?
 I can pay ${1}.<<n>>Would that be OK?
 Je peux payer {1} $.<<n>>Est-ce que ça ira ?
 You turned over the {1} and got ${2}.
-Vous avez retourné le {1} et obtenu {2} $.
+Vous avez vendu le {1} et obtenu {2} $.
 I'm here to buy
 Je suis ici pour acheter
 I'm here to sell
@@ -3903,9 +3903,9 @@ Non merci
 Welcome! How may I help you?
 Bienvenue ! Comment puis-je vous aider ?
 Do come again!
-Reviens !
+Merci de votre visite !
 Is there anything else I can do for you?
-Est-ce que je peux faire autre chose pour toi ?
+Est-ce que je peux faire autre chose pour vous ?
 {1} BP
 {1} BP
 Battle Points:<<n>><r>{1}

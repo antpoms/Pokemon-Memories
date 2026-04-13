@@ -45,7 +45,7 @@ Utiliser des CT
 Nickname
 Surnom
 {1} forgot how to use {2}.
-{1} a oublié l'attaue {2}.
+{1} a oublié l'attaque {2}.
 Set the Pokémon's #{status} count.
 Set the Pokémon's #{status} count.
 Set {1}'s #{status} count (0-99).
@@ -173,7 +173,7 @@ A lingering aroma clings to {1}!
 Being hit by {1} charged {2} with power!
 Being hit by {1} charged {2} with power!
 Poison spikes were scattered on the ground all around {1}!
-Poison spikes were scattered on the ground all around {1}!
+Des pics toxiques ont été dispersées sur le sol tout autour de {1} !
 {1} underwent a heroic transformation!
 {1} underwent a heroic transformation!
 {1} goes inside the mouth of {2}!
@@ -627,325 +627,325 @@ Teracristallisation
 Hailstorm
 Hailstorm
 Fire type moves deal 50% more damage. Halves Water move damage.
-Fire type moves deal 50% more damage. Halves Water move damage.
+Les capacités de type Feu infligent 50% de dégâts en plus. Divise les dégâts de type Eau par deux.
 Fire type moves deal 50% more damage. Negates Water type moves.
-Fire type moves deal 50% more damage. Negates Water type moves.
+Les capacités de type Feu infligent 50% de dégâts en plus. Annule les capacités de type Eau.
 Water type moves deal 50% more damage. Halves Fire move damage.
-Water type moves deal 50% more damage. Halves Fire move damage.
+Les capacités de type Eau infligent 50% de dégâts en plus. Divise les dégâts de type Feu par deux.
 Water type moves deal 50% more damage. Negates Fire type moves.
-Water type moves deal 50% more damage. Negates Fire type moves.
+Les capacités de type Eau infligent 50% de dégâts en plus. Annule les capacités de type Feu.
 All Flying-type weaknesses are suppressed.
-All Flying-type weaknesses are suppressed.
+Toutes les faiblesses du type Vol sont supprimées.
 The combined effects of both Hail and Snow.
-The combined effects of both Hail and Snow.
+Les effets combinés de la Grêle et de la Neige.
 Boosts the Sp. Defense stat of the Pokémon by 50%.
-Boosts the Sp. Defense stat of the Pokémon by 50%.
+Augmente la Défense Spéciale du Pokémon de 50%.
 The Pokémon loses {1} HP each turn.
-The Pokémon loses {1} HP each turn.
+Le Pokémon perd {1} PV à chaque tour.
 Pokémon may lose HP each turn. Boosts Sp. Defense of Rock types.
-Pokémon may lose HP each turn. Boosts Sp. Defense of Rock types.
+Les Pokémon peuvent perdre des PV à chaque tour. Augmente la Déf. Spé. des types Roche.
 The Pokémon loses {1} HP each turn. Blizzard always hits.
-The Pokémon loses {1} HP each turn. Blizzard always hits.
+Le Pokémon perd {1} PV à chaque tour. Blizzard réussit toujours.
 Pokémon may lose HP each turn. Blizzard always hits.
-Pokémon may lose HP each turn. Blizzard always hits.
+Les Pokémon peuvent perdre des PV à chaque tour. Blizzard réussit toujours.
 Boosts the Defense of the Pokémon by 50%. Blizzard always hits.
-Boosts the Defense of the Pokémon by 50%. Blizzard always hits.
+Augmente la Défense du Pokémon de 50%. Blizzard réussit toujours.
 The move Blizzard always hits. Boosts Defense of Ice types.
-The move Blizzard always hits. Boosts Defense of Ice types.
+La capacité Blizzard réussit toujours. Augmente la Défense des types Glace.
 The power of the Pokémon's Shadow type moves are boosted by 50%.
-The power of the Pokémon's Shadow type moves are boosted by 50%.
+La puissance des capacités de type Ombre du Pokémon est augmentée de 50%.
 Non-Shadow Pokémon may lose HP each turn.
-Non-Shadow Pokémon may lose HP each turn.
+Les Pokémon non-Ombre peuvent perdre des PV à chaque tour.
 Unknown weather.
-Unknown weather.
+Météo inconnue.
 {1} Terrain
-{1} Terrain
+Champ {1}
 The Pokémon can't fall asleep. Electric moves boosted by 30%.
-The Pokémon can't fall asleep. Electric moves boosted by 30%.
+Le Pokémon ne peut pas s'endormir. Capacités Électrik boostées de 30%.
 Grounded Pokémon can't fall asleep. Boosts Electric moves.
-Grounded Pokémon can't fall asleep. Boosts Electric moves.
+Les Pokémon au sol ne peuvent pas s'endormir. Boost les capacités Électrik.
 The Pokémon heals {1} HP each turn. Grass moves boosted by 30%.
-The Pokémon heals {1} HP each turn. Grass moves boosted by 30%.
+Le Pokémon récupère {1} PV chaque tour. Capacités Plante boostées de 30%.
 Grounded Pokémon may recover HP each turn. Boosts Grass moves.
-Grounded Pokémon may recover HP each turn. Boosts Grass moves.
+Les Pokémon au sol peuvent regagner des PV chaque tour. Boost les capacités Plante.
 The Pokémon is immune to priority. Psychic moves boosted by 30%.
-The Pokémon is immune to priority. Psychic moves boosted by 30%.
+Le Pokémon est immunisé aux priorités. Capacités Psy boostées de 30%.
 Grounded Pokémon immune to priority. Boosts Psychic moves.
-Grounded Pokémon immune to priority. Boosts Psychic moves.
+Les Pokémon au sol sont immunisés aux priorités. Boost les capacités Psy.
 The Pokémon is immune to statuses. Dragon moves weakened.
-The Pokémon is immune to statuses. Dragon moves weakened.
+Le Pokémon est immunisé aux statuts. Capacités Dragon affaiblies.
 Grounded Pokémon immune to statuses. Weakens Dragon moves.
-Grounded Pokémon immune to statuses. Weakens Dragon moves.
+Les Pokémon au sol sont immunisés aux statuts. Affaiblit les capacités Dragon.
 Unknown terrain.
-Unknown terrain.
+Terrain inconnu.
 Normal type moves of all Pokémon on the field become Electric type.
-Normal type moves of all Pokémon on the field become Electric type.
+Les capacités de type Normal de tous les Pokémon deviennent de type Électrik.
 No Pokémon on the field can flee.
-No Pokémon on the field can flee.
+Aucun Pokémon sur le terrain ne peut s'enfuir.
 Grounds all Pokémon. Prevents midair actions. Increases accuracy.
-Grounds all Pokémon. Prevents midair actions. Increases accuracy.
+Cloue tous les Pokémon au sol. Empêche les actions aériennes. Augmente la précision.
 No Pokémon on the field can use their held items.
-No Pokémon on the field can use their held items.
+Aucun Pokémon sur le terrain ne peut utiliser son objet tenu.
 All Pokémon on the field swap their Defense and Sp. Defense stats.
-All Pokémon on the field swap their Defense and Sp. Defense stats.
+Tous les Pokémon sur le terrain échangent leur Défense et leur Déf. Spé.
 Reverses Speed order so slower Pokémon on the field move first.
-Reverses Speed order so slower Pokémon on the field move first.
+Inverse l'ordre de priorité : les Pokémon les plus lents agissent en premier.
 All Pokémon on the field take less damage from Electric moves.
-All Pokémon on the field take less damage from Electric moves.
+Tous les Pokémon sur le terrain subissent moins de dégâts des capacités Électrik.
 All Pokémon on the field take less damage from Fire moves.
-All Pokémon on the field take less damage from Fire moves.
+Tous les Pokémon sur le terrain subissent moins de dégâts des capacités Feu.
 Offense Cheer 1
-Offense Cheer 1
+Encouragement Offensif 1
 Attacks of Pokémon on this side deal increased damage.
-Attacks of Pokémon on this side deal increased damage.
+Les attaques des Pokémon de ce côté infligent plus de dégâts.
 Offense Cheer 2
-Offense Cheer 2
+Encouragement Offensif 2
 Attacks Pokémon on this side always trigger effects.
-Attacks Pokémon on this side always trigger effects.
+Les attaques des Pokémon de ce côté déclenchent toujours leurs effets.
 Offense Cheer 3
-Offense Cheer 3
+Encouragement Offensif 3
 Attacks of Pokémon on this side bypass protections.
-Attacks of Pokémon on this side bypass protections.
+Les attaques des Pokémon de ce côté ignorent les protections.
 Defense Cheer 1
-Defense Cheer 1
+Encouragement Défensif 1
 Pokémon on this side take reduced damage from attacks.
-Pokémon on this side take reduced damage from attacks.
+Les Pokémon de ce côté subissent moins de dégâts des attaques.
 Defense Cheer 2
-Defense Cheer 2
+Encouragement Défensif 2
 Pokémon on this side are immune to move effects.
-Pokémon on this side are immune to move effects.
+Les Pokémon de ce côté sont immunisés aux effets des capacités.
 Defense Cheer 3
-Defense Cheer 3
+Encouragement Défensif 3
 Pokémon on this side will endure incoming attacks.
-Pokémon on this side will endure incoming attacks.
+Les Pokémon de ce côté tiendront bon face aux attaques.
 +1/1
 +1/1
 Pokémon on this side take Rock type damage upon entry.
-Pokémon on this side take Rock type damage upon entry.
+Les Pokémon de ce côté subissent des dégâts de type Roche en entrant.
 Pokémon on this side take Steel type damage upon entry.
-Pokémon on this side take Steel type damage upon entry.
+Les Pokémon de ce côté subissent des dégâts de type Acier en entrant.
 The Speed of grounded Pokémon on this side is lowered upon entry.
-The Speed of grounded Pokémon on this side is lowered upon entry.
+La Vitesse des Pokémon au sol de ce côté est baissée en entrant.
 Grounded Pokémon on this side lose HP upon entry.
-Grounded Pokémon on this side lose HP upon entry.
+Les Pokémon au sol de ce côté perdent des PV en entrant.
 Grounded Pokémon on this side are poisoned upon entry.
-Grounded Pokémon on this side are poisoned upon entry.
+Les Pokémon au sol de ce côté sont empoisonnés en entrant.
 Pokémon on this side lose HP each turn. No effect on Grass types.
-Pokémon on this side lose HP each turn. No effect on Grass types.
+Les Pokémon de ce côté perdent des PV chaque tour. Sans effet sur le type Plante.
 Pokémon on this side lose HP each turn. No effect on Fire types.
-Pokémon on this side lose HP each turn. No effect on Fire types.
+Les Pokémon de ce côté perdent des PV chaque tour. Sans effet sur le type Feu.
 Pokémon on this side lose HP each turn. No effect on Water types.
-Pokémon on this side lose HP each turn. No effect on Water types.
+Les Pokémon de ce côté perdent des PV chaque tour. Sans effet sur le type Eau.
 Pokémon on this side lose HP each turn. No effect on Rock types.
-Pokémon on this side lose HP each turn. No effect on Rock types.
+Les Pokémon de ce côté perdent des PV chaque tour. Sans effet sur le type Roche.
 Sea of Fire
-Sea of Fire
+Mer de Feu
 Rainbow
-Rainbow
+Arc-en-ciel
 Pokémon on this side are more likely to trigger move effects.
-Pokémon on this side are more likely to trigger move effects.
+Les Pokémon de ce côté ont plus de chances de déclencher des effets.
 Swamp
-Swamp
+Marais
 The Speed of the Pokémon on this side is halved.
-The Speed of the Pokémon on this side is halved.
+La Vitesse des Pokémon de ce côté est divisée par deux.
 The Speed of the Pokémon on this side is doubled.
-The Speed of the Pokémon on this side is doubled.
+La Vitesse des Pokémon de ce côté est doublée.
 Pokémon on this side are protected from most status moves.
-Pokémon on this side are protected from most status moves.
+Les Pokémon de ce côté sont protégés de la plupart des capacités de statut.
 Pokémon on this side are protected from most priority moves.
-Pokémon on this side are protected from most priority moves.
+Les Pokémon de ce côté sont protégés de la plupart des capacités prioritaires.
 Pokémon on this side are protected from most spread moves.
-Pokémon on this side are protected from most spread moves.
+Les Pokémon de ce côté sont protégés de la plupart des capacités de zone.
 Pokémon on this side are protected from most damaging moves.
-Pokémon on this side are protected from most damaging moves.
+Les Pokémon de ce côté sont protégés de la plupart des capacités offensives.
 All moves deal less damage to Pokémon on this side.
-All moves deal less damage to Pokémon on this side.
+Toutes les capacités infligent moins de dégâts aux Pokémon de ce côté.
 Physical moves deal less damage to Pokémon on this side.
-Physical moves deal less damage to Pokémon on this side.
+Les capacités physiques infligent moins de dégâts aux Pokémon de ce côté.
 Special moves deal less damage to Pokémon on this side.
-Special moves deal less damage to Pokémon on this side.
+Les capacités spéciales infligent moins de dégâts aux Pokémon de ce côté.
 Pokémon on this side are protected from status conditions.
-Pokémon on this side are protected from status conditions.
+Les Pokémon de ce côté sont protégés des problèmes de statut.
 The stats of Pokémon on this side cannot be lowered.
-The stats of Pokémon on this side cannot be lowered.
+Les statistiques des Pokémon de ce côté ne peuvent pas être baissées.
 Pokémon on this side are immune to critical hits.
-Pokémon on this side are immune to critical hits.
+Les Pokémon de ce côté sont immunisés aux coups critiques.
 Future Attack
-Future Attack
+Attaque Future
 {1} will strike the Pokémon in this spot in {2} more turn(s).
-{1} will strike the Pokémon in this spot in {2} more turn(s).
+{1} frappera le Pokémon à cet endroit dans {2} tour(s).
 The Pokémon in this spot will restore {1} HP in {2} more turn(s).
-The Pokémon in this spot will restore {1} HP in {2} more turn(s).
+Le Pokémon à cet endroit récupérera {1} PV dans {2} tour(s).
 Fully heals a Pokémon switching into this spot.
-Fully heals a Pokémon switching into this spot.
+Soigne complètement un Pokémon arrivant à cet endroit.
 Z-Healing
-Z-Healing
+Soin Z
 A Pokémon switching into this spot will recover its HP.
-A Pokémon switching into this spot will recover its HP.
+Un Pokémon arrivant à cet endroit récupérera ses PV.
 The Pokémon will survive all incoming attacks with 1 HP.
-The Pokémon will survive all incoming attacks with 1 HP.
+Le Pokémon survivra à toutes les attaques avec 1 PV.
 A substitute with {1} HP stands in for the Pokémon.
-A substitute with {1} HP stands in for the Pokémon.
+Un clone avec {1} PV remplace le Pokémon.
 The Pokémon restores {1} HP at the end of each turn.
-The Pokémon restores {1} HP at the end of each turn.
+Le Pokémon récupère {1} PV à la fin de chaque tour.
 The Pokémon restores {1} HP every turn, but cannot escape.
-The Pokémon restores {1} HP every turn, but cannot escape.
+Le Pokémon récupère {1} PV chaque tour, mais ne peut pas s'enfuir.
 Badly Poisoned
-Badly Poisoned
+Gravement Empoisonné
 Damage the Pokémon takes from its poison worsens every turn.
-Damage the Pokémon takes from its poison worsens every turn.
+Les dégâts de poison subis par le Pokémon empirent à chaque tour.
 Each turn, {1} leeches {2} HP from the Pokémon.
-Each turn, {1} leeches {2} HP from the Pokémon.
+À chaque tour, {1} vole {2} PV au Pokémon.
 The Pokémon loses {1} HP at the end of each turn.
-The Pokémon loses {1} HP at the end of each turn.
+Le Pokémon perd {1} PV à la fin de chaque tour.
 The Pokémon loses {1} HP each turn it spends asleep.
-The Pokémon loses {1} HP each turn it spends asleep.
+Le Pokémon perd {1} PV chaque tour passé à dormir.
 Splinters
-Splinters
+Éclats
 The Pokémon takes {1} type damage at the end of each turn.
-The Pokémon takes {1} type damage at the end of each turn.
+Le Pokémon subit des dégâts de type {1} à la fin de chaque tour.
 The Pokémon takes damage at the end of each turn.
-The Pokémon takes damage at the end of each turn.
+Le Pokémon subit des dégâts à la fin de chaque tour.
 The Pokémon cannot use any healing effects that restores HP.
-The Pokémon cannot use any healing effects that restores HP.
+Le Pokémon ne peut utiliser aucun effet restaurant des PV.
 Infatuation
-Infatuation
+Attraction
 The Pokémon is less likely to attack {1}.
-The Pokémon is less likely to attack {1}.
+Le Pokémon a moins de chances d'attaquer {1}.
 Confusion
 Confusion
 ?/?
 ?/?
 The Pokémon may hurt itself in confusion instead of attacking.
-The Pokémon may hurt itself in confusion instead of attacking.
+Le Pokémon peut se blesser dans sa confusion au lieu d'attaquer.
 Rampaging
-Rampaging
+Carnage
 The Pokémon rampages for a few turns. It then becomes confused.
-The Pokémon rampages for a few turns. It then becomes confused.
+Le Pokémon se déchaîne quelques tours, puis devient confus.
 The Pokémon cannot use the same move twice in a row.
-The Pokémon cannot use the same move twice in a row.
+Le Pokémon ne peut pas utiliser la même capacité deux fois de suite.
 The Pokémon cannot use any sound-based moves.
-The Pokémon cannot use any sound-based moves.
+Le Pokémon ne peut pas utiliser de capacités basées sur le son.
 The Pokémon may only use the move {1}.
-The Pokémon may only use the move {1}.
+Le Pokémon ne peut utiliser que la capacité {1}.
 Move Disabled
-Move Disabled
+Capacité Entravée
 The Pokémon cannot use the move {1}.
-The Pokémon cannot use the move {1}.
+Le Pokémon ne peut pas utiliser la capacité {1}.
 The Pokémon cannot use any status moves.
-The Pokémon cannot use any status moves.
+Le Pokémon ne peut pas utiliser de capacités de statut.
 No Ability
-No Ability
+Sans Talent
 The Pokémon's ability is negated.
-The Pokémon's ability is negated.
+Le talent du Pokémon est annulé.
 Items cannot be used on or by the Pokémon.
-Items cannot be used on or by the Pokémon.
+Les objets ne peuvent être utilisés ni sur, ni par le Pokémon.
 The next Electric move used by the Pokémon will double in power.
-The next Electric move used by the Pokémon will double in power.
+La prochaine capacité Électrik du Pokémon sera deux fois plus puissante.
 The next move used by the Pokémon will become Electric type.
-The next move used by the Pokémon will become Electric type.
+La prochaine capacité utilisée par le Pokémon sera de type Électrik.
 The Pokémon is airborne and immune to Ground moves.
-The Pokémon is airborne and immune to Ground moves.
+Le Pokémon est en l'air et immunisé aux capacités Sol.
 The next Fire move used by the Pokémon will ignite and explode.
-The next Fire move used by the Pokémon will ignite and explode.
+La prochaine capacité Feu utilisée par le Pokémon va exploser.
 The Pokémon has been made weaker to Fire type moves.
-The Pokémon has been made weaker to Fire type moves.
+Le Pokémon a été rendu plus vulnérable au type Feu.
 The Pokémon is grounded and no longer immune to Ground moves.
-The Pokémon is grounded and no longer immune to Ground moves.
+Le Pokémon est au sol et n'est plus immunisé au type Sol.
 The Pokémon is grounded.
-The Pokémon is grounded.
+Le Pokémon est cloué au sol.
 The Pokémon's evasion boosts are ignored. No Ghost immunities.
-The Pokémon's evasion boosts are ignored. No Ghost immunities.
+L'esquive est ignorée. Pas d'immunité pour le type Spectre.
 The Pokémon's evasion boosts are ignored.
-The Pokémon's evasion boosts are ignored.
+Les bonus d'esquive du Pokémon sont ignorés.
 The Pokémon's evasion boosts are ignored. No Dark immunities.
-The Pokémon's evasion boosts are ignored. No Dark immunities.
+L'esquive est ignorée. Pas d'immunité pour le type Ténèbres.
 The Attack stat of the Pokémon increases whenever it is hit.
-The Attack stat of the Pokémon increases whenever it is hit.
+L'Attaque du Pokémon augmente dès qu'il est touché.
 The damage dealt with the Pokémon's next move will be increased.
-The damage dealt with the Pokémon's next move will be increased.
+Les dégâts de la prochaine capacité du Pokémon seront augmentés.
 The Attack and Defense stats of the Pokémon are swapped.
-The Attack and Defense stats of the Pokémon are swapped.
+L'Attaque et la Défense du Pokémon sont échangées.
 The Pokémon's next attack will be a guaranteed critical hit.
-The Pokémon's next attack will be a guaranteed critical hit.
+La prochaine attaque du Pokémon sera un coup critique garanti.
 The Pokémon is amassing a stockpile to use or consume.
-The Pokémon is amassing a stockpile to use or consume.
+Le Pokémon accumule de l'énergie pour l'utiliser ou la consommer.
 The Pokémon takes more damage from certain moves while minimized.
-The Pokémon takes more damage from certain moves while minimized.
+Le Pokémon subit plus de dégâts s'il est sous l'effet de Lilliput.
 Vulnerable
-Vulnerable
+Vulnérable
 The Pokémon cannot evade and takes double damage from attacks.
-The Pokémon cannot evade and takes double damage from attacks.
+Le Pokémon ne peut plus esquiver et subit des dégâts doublés.
 The Pokémon has been made airborne, but it cannot evade attacks.
-The Pokémon has been made airborne, but it cannot evade attacks.
+Le Pokémon a été envoyé en l'air, mais ne peut pas esquiver.
 The Pokémon's next move is sure to hit {1}.
-The Pokémon's next move is sure to hit {1}.
+La prochaine capacité du Pokémon touchera {1} à coup sûr.
 Speed Down
-Speed Down
+Vitesse Baisée
 Each turn, {1} lowers the Pokémon's Speed.
-Each turn, {1} lowers the Pokémon's Speed.
+À chaque tour, {1} baisse la Vitesse du Pokémon.
 Weight Changed
-Weight Changed
+Poids Modifié
 The Pokémon's weight has been {1}.
-The Pokémon's weight has been {1}.
+Le poids du Pokémon a été {1}.
 The Pokémon refuses to flee or switch out.
-The Pokémon refuses to flee or switch out.
+Le Pokémon refuse de s'enfuir ou d'être remplacé.
 Trapped by {1}.
-Trapped by {1}.
+Piégé par {1}.
 Trapped by {1}. Defense drops each turn.
-Trapped by {1}. Defense drops each turn.
+Piégé par {1}. Sa Défense baisse à chaque tour.
 Bound
-Bound
+Ligoté
 Trapped by {1}. Loses HP each turn.
-Trapped by {1}. Loses HP each turn.
+Piégé par {1}. Perd des PV à chaque tour.
 Trapped and loses HP each turn.
-Trapped and loses HP each turn.
+Piégé et perd des PV à chaque tour.
 The Pokémon bounces back most incoming status moves.
-The Pokémon bounces back most incoming status moves.
+Le Pokémon renvoie la plupart des capacités de statut.
 The Pokémon is protected from most incoming attacks.
-The Pokémon is protected from most incoming attacks.
+Le Pokémon est protégé de la plupart des attaques.
 Protected from most moves. Contact inflicts damage.
-Protected from most moves. Contact inflicts damage.
+Protégé de la plupart des capacités. Le contact blesse.
 Protected from most moves. Contact inflicts poison.
-Protected from most moves. Contact inflicts poison.
+Protégé de la plupart des capacités. Le contact empoisonne.
 Protected from damage dealing moves. Contact inflicts a burn.
-Protected from damage dealing moves. Contact inflicts a burn.
+Protégé des attaques. Le contact inflige une brûlure.
 Protected from damage dealing moves. Contact lowers Attack.
-Protected from damage dealing moves. Contact lowers Attack.
+Protégé des attaques. Le contact baisse l'Attaque.
 Protected from damage dealing moves. Contact lowers Defense.
-Protected from damage dealing moves. Contact lowers Defense.
+Protégé des attaques. Le contact baisse la Défense.
 Protected from damage dealing moves. Contact lowers Speed.
-Protected from damage dealing moves. Contact lowers Speed.
+Protégé des attaques. Le contact baisse la Vitesse.
 Charging Turn
-Charging Turn
+Tour de Charge
 The Pokémon will use {1} next turn.
-The Pokémon will use {1} next turn.
+Le Pokémon utilisera {1} au prochain tour.
 Semi-Invulnerable
-Semi-Invulnerable
+Semi-Invulnérable
 The Pokémon cannot be hit by most attacks.
-The Pokémon cannot be hit by most attacks.
+Le Pokémon ne peut pas être touché par la plupart des attaques.
 The Pokémon is being lifted in the air by {1}.
-The Pokémon is being lifted in the air by {1}.
+Le Pokémon est soulevé dans les airs par {1}.
 Recharging
-Recharging
+Recharge
 The Pokémon cannot act for {1} more turn(s).
-The Pokémon cannot act for {1} more turn(s).
+Le Pokémon ne peut pas agir pendant encore {1} tour(s).
 The Pokémon will fall asleep in {1} more turn(s).
-The Pokémon will fall asleep in {1} more turn(s).
+Le Pokémon s'endormira dans {1} tour(s).
 Perish Count
-Perish Count
+Décompte de Requiem
 The Pokémon will be forced to faint in {1} more turn(s).
-The Pokémon will be forced to faint in {1} more turn(s).
+Le Pokémon sera K.O. dans {1} tour(s).
 The Pokémon gets its act together in {1} more turn(s).
-The Pokémon gets its act together in {1} more turn(s).
+Le Pokémon se ressaisit dans {1} tour(s).
 The Pokémon is trapped while latched to {1}.
-The Pokémon is trapped while latched to {1}.
+Le Pokémon est piégé tant qu'il est agrippé à {1}.
 The Pokémon can't use moves known by {1}.
-The Pokémon can't use moves known by {1}.
+Le Pokémon ne peut pas utiliser les capacités connues par {1}.
 {1}'s uproar prevents sleeping.
-{1}'s uproar prevents sleeping.
+Le Vacarme de {1} empêche de dormir.
 Pow
-Pow
+Pui
 Pri
 Pri
 Eff
@@ -1441,43 +1441,43 @@ Diagonal Movement
 Choose whether you can move diagonally.
 Choose whether you can move diagonally.
 Battle speed changed to {1}
-Battle speed changed to {1}
+Vitesse de combat réglée sur {1}
 Battle Speed
-Battle Speed
-x#{s}
-x#{s}
+Vitesse de Combat
+x\#{s}
+x\#{s}
 Choose the speed for battles.
-Choose the speed for battles.
+Choisissez la vitesse des combats.
 A save file is corrupt, or is incompatible with this game.
-A save file is corrupt, or is incompatible with this game.
+Un fichier de sauvegarde est corrompu ou incompatible avec ce jeu.
 Do you want to delete that save file? The game will exit afterwards either way.
-Do you want to delete that save file? The game will exit afterwards either way.
+Voulez-vous supprimer cette sauvegarde ? Le jeu quittera ensuite dans tous les cas.
 The save data was deleted.
-The save data was deleted.
+Les données de sauvegarde ont été supprimées.
 The save data could not be deleted.
-The save data could not be deleted.
-Save to #{$player.save_slot}
-Save to #{$player.save_slot}
+Les données de sauvegarde n'ont pas pu être supprimées.
+Save to \#{$player.save_slot}
+Sauvegarder sur le slot #{$player.save\_slot}
 Save to another file
-Save to another file
+Sauvegarder sur un autre fichier
 Quit without saving
-Quit without saving
-Are you sure you want to overwrite the save in #{slot}?
-Are you sure you want to overwrite the save in #{slot}?
+Quitter sans sauvegarder
+Are you sure you want to overwrite the save in \#{slot}?
+Êtes-vous sûr de vouloir écraser la sauvegarde du slot \#{slot} ?
 Are you sure you want to quit without saving?
-Are you sure you want to quit without saving?
+Êtes-vous sûr de vouloir quitter sans sauvegarder ?
 Which slot to save in?
-Which slot to save in?
-<ac><c3=3050C8,D0D0C8>(empty)</c3></ac>
-<ac><c3=3050C8,D0D0C8>(empty)</c3></ac>
+Dans quel slot voulez-vous sauvegarder ?
+\<ac\>\<c3=3050C8,D0D0C8\>(empty)\</c3\>\</ac\>
+\<ac\>\<c3=3050C8,D0D0C8\>(vide)\</c3\>\</ac\>
 %I:%M%p
 %I:%M%p
-<ac>(old save)</ac>
-<ac>(old save)</ac>
-Time<r>{1}h {2}m<br>
-Time<r>{1}h {2}m<br>
-Time<r>{1}m<br>
-Time<r>{1}m<br>
+\<ac\>(old save)\</ac\>
+\<ac\>(ancienne sauvegarde)\</ac\>
+Time\<r\>{1}h {2}m<br>
+Temps\<r\>{1}h {2}m<br>
+Time\<r\>{1}m<br>
+Temps\<r\>{1}m<br>
 Vous courez soigner vos Pokémon.
 Vous courez soigner vos Pokémon.
 Ouvre la fenêtre Raccourcis clavier, dans laquelle vous pouvez choisir les touches du clavier à utiliser pour chaque commande.
@@ -1731,7 +1731,7 @@ Determines which side Ultra Burst is disabled for.
 Choose a side to disable Ultra Burst for.
 Choose a side to disable Ultra Burst for.
 Z-Moves
-Z-Moves
+Attaques Z
 Whether each trainer is allowed to use Z-Moves.
 Whether each trainer is allowed to use Z-Moves.
 Choose trainer to toggle whether they can use Z-Moves.
@@ -1751,7 +1751,7 @@ A move ID followed by any number of species ID's.
 {1} is a Z-Crystal, but the 'ZCombo' field is missing a move or a species.<<n>>{2}
 {1} is a Z-Crystal, but the 'ZCombo' field is missing a move or a species.<<n>>{2}
 {1} is already holding a piece of {2}.
-{1} is already holding a piece of {2}.
+{1} tient déjà une {2}.
 {1} cannot currently use this crystal's Z-Power. Is that OK?
 {1} cannot currently use this crystal's Z-Power. Is that OK?
 The piece of {1} will be given to {2} so that it may use its Z-Power!
@@ -1759,9 +1759,9 @@ The piece of {1} will be given to {2} so that it may use its Z-Power!
 {1} is already holding {2} {3}.<<1>>
 {1} is already holding {2} {3}.<<1>>
 You took {1}'s {2} and gave it a piece of {3}.
-You took {1}'s {2} and gave it a piece of {3}.
+Vous prenez la {2} de {1} et lui donnez une {3}.
 {1} is now holding a piece of {2}!
-{1} is now holding a piece of {2}!
+{1} tient une {2}!
 You don't have a {1} to charge!
 You don't have a {1} to charge!
 You can't use this item while issuing orders at the same time!
@@ -1773,21 +1773,21 @@ The {1} fully recharged {2}'s {3}!<<n>>{2} can use Z-Moves again!
 The Z-Power healed {1}!
 The Z-Power healed {1}!
 {1} couldn't fully protect itself and got hurt!
-{1} couldn't fully protect itself and got hurt!
+{1} n'a pas pu se protéger entièrement!
 {1} surrounded itself with its Z-Power!
 {1} s'entoure de force Z!
 {1} unleashed its full force Z-Move!
-{1} unleashed its full force Z-Move!
+{1} déchaîne toute la puissance de son attaque Z!
 {1} restored its HP using its Z-Power!
-{1} restored its HP using its Z-Power!
+{1} récupère des PV grâce à la force Z!
 {1} boosted its critical hit ratio using its Z-Power!
-{1} boosted its critical hit ratio using its Z-Power!
+{1} augmente son taux de coups critiques grâce à la force Z!
 {1} returned its decreased stats to normal using its Z-Power!
 {1} returned its decreased stats to normal using its Z-Power!
 {1} became the center of attention using its Z-Power!
-{1} became the center of attention using its Z-Power!
+{1} est devenu le centre de l'attention grâce à la force Z!
 {1} boosted its {2} using its Z-Power!
-{1} boosted its {2} using its Z-Power!
+{1} a augmenté sa statistique {2} grâce à la force Z!
 {1}'s aura flared to life!
 {1}'s aura flared to life!
 {1}'s Z-Power was replenished by its aura!
@@ -1795,7 +1795,7 @@ The Z-Power healed {1}!
 {1}'s aura faded!<<n>>It may now be captured!
 {1}'s aura faded!<<n>>It may now be captured!
 Z-Ring
-Z-Ring
+Bracelet Z
 {1} is not compatible with {2}!
 {1} is not compatible with {2}!
 {1}'s Ultra Burst faded!<<n>>It may now be captured!

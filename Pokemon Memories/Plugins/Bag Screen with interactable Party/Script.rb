@@ -224,7 +224,7 @@ class Window_PokemonBag < Window_DrawableCommand
       end
       if item_data.show_quantity? && !showing_register_icon
         qty = (@filterlist) ? thispocket[@filterlist[@pocket][index]][1] : thispocket[index][1]
-        qtytext = _ISPRINTF("x{1: 3d}", qty)
+        qtytext = sprintf("x%3d", qty)
         xQty    = rect.x + rect.width - self.contents.text_size(qtytext).width - 16
         textpos.push([qtytext, xQty, rect.y + 2, :left, baseColor, shadowColor])
       end

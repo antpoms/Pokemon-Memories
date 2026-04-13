@@ -1085,7 +1085,7 @@ You are missing the graphic for this UI. Make sure the image is in your Graphics
 <ac><c2=43F022E8>{1}</c2></ac>
 <ac><c2=43F022E8>{1}</c2></ac>
 Après cette défaite, vous courrez soigner vos Pokémon.
-Après cette défaite, vous courrez soigner vos Pokémon.
+You run to heal your Pokemon.
 Quests
 Quests
 The 'quest' argument should be a symbol, e.g. ':Quest1'.
