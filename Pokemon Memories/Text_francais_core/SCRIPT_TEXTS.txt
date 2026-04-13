@@ -1933,7 +1933,7 @@ Max. HP<r> {1}<<n>>Attaque<r> {2}<<n>>Défense<r> {3}<<n>>Sp. Atk<r> {4}<<n>>Sp.
 Max. HP<r>{1}<<n>>Attack<r>{2}<<n>>Defense<r>{3}<<n>>Sp. Atk<r>{4}<<n>>Sp. Def<r>{5}<<n>>Speed<r>{6}
 Max. HP<r>{1}<<n>>Attaque<r>{2}<<n>>Défense<r>{3}<<n>>Sp. Atk<r>{4}<<n>>Sp. Def<r>{5}<<n>>Vitesse<r>{6}
 Graphics/UI/Battle/cursor_command
-Graphics/UI/Battle/cursor_command
+Graphics/UI/Battle/cursor_command_fr
 Graphics/UI/Battle/cursor_fight
 Graphics/UI/Battle/cursor_fight
 Graphics/UI/types
