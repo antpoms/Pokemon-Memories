@@ -134,9 +134,9 @@ Your Pokémon's potential has been maximized!
 \rRAYA: You think that's going to stop me?
 \bEINER: Raya, réfléchis.
 \bEINER: Raya, think about it.
-\bEINER: En quelques coups de files, je peux détruire ta réputation et toutes tes chances de retrouver un emploi.
+\bEINER: En quelques coups de fil, je peux détruire ta réputation et toutes tes chances de retrouver un emploi.
 \bEINER: With a few phone calls, I can destroy your reputation and any chance of you finding another job.
-\bEINER: Tu vas passer ta vie dans un procès qu'on va faire traîner jusqu'à ce que tu n'ai plus de quoi le payer.
+\bEINER: Tu vas passer ta vie dans un procès qu'on va faire traîner jusqu'à ce que tu n'aie plus de quoi le payer.
 \bEINER: You'll spend your life in a lawsuit that we'll drag out until you can no longer afford to pay for it.
 \bEINER: Tes assistants se retrouveront à la rue. Les Pokémon de ton refuge finiront à la fourrière. Nexus va abandonner toutes ses politiques durables.
 \bEINER: Your assistants will end up on the street. The Pokémon in your sanctuary will end up in the pound. Nexus will abandon all of its sustainability policies.
@@ -426,6 +426,8 @@ You can teach your Pokémon new moves.
 \bMIA: Itadakimasu!
 \bAPPRENTI: S... sensei...pardonnez-la ! Elle ne sait pas ce qu'elle dit !
 \bAPPRENTICE: S... sensei... please forgive her! She doesn't know what she's saying!
+Affrontez Magikarp-sama ?
+Challenge Magikarp-sama ?
 \bAPPRENTIE: Ç... ça alors ! Elle a réussi à vaincre Magikarp-sama à 10% de sa puissance !
 \bAPPRENTICE: W... wow! She managed to defeat Magikarp-sama at 10% of his power!
 \bAPPRENTI: Magikarp-sama ! Vous êtes sûr !?
@@ -482,6 +484,8 @@ You stop listening.
 \bDAN: I think we're ready for the final rehearsal!
 \bDAN: Vous êtes prêts les guys ???
 \bDAN: Are you ready, guys???
+\bDAN: Vous êtes prêts pour la répétition finale ???
+\bDAN: Vous êtes prêts pour la répétition finale ???
 \bDAN: Wow ! Tu gères ! Merci meuf !
 \bDAN: Wow! You're killing it! Thanks, girl!
 \bDAN: Grâce à toi le spectacle sera ouf !

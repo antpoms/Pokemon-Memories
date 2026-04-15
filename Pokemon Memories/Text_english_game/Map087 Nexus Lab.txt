@@ -70,10 +70,6 @@ MEYER: Someone will come to see you every month for an update.
 \bI HAVE BEEN PROGRAMMED TO WIN ALL MY BATTLES.
 \bJ'AI ÉTÉ MAL PROGRAMMÉ
 \bI WAS POORLY PROGRAMMED
-\bJE N'AIME PAS ME BATTRE. OUIN.
-\bI DON'T LIKE FIGHTING. WAH.
-\bOUIN. OUIN. OUIN. EMOJI_SAD
-\bWAH. WAH. WAH. EMOJI_SAD
 Sujet RKS: 10 (Force), 4 (Adaptabilité), 6 (Intelligence). Rejette les ROM mémoires.
 Subject RKS: 10 (Strength), 4 (Adaptability), 6 (Intelligence). Rejects Memory ROMs.
 Sujet EV0: 4 (Force), 10 (Adaptabilité), 4 (Intelligence). Le sujet est très instable.
@@ -228,6 +224,8 @@ Behavior possibly due to the Anomaly. Case to be studied.
 \b^^
 \b:'(
 \b:'(
+Le courant est rétabli.
+Power has been restored.
 La loi de Moore se vérifie avec les années.
 Moore's law holds true over the years.
 L'Humanité commence à pouvoir simuler des LLM se rapprochant des consciences humaines, et des mondes physiques toujours plus réalistes.
@@ -256,5 +254,3 @@ Le paradoxe de Derek Parfit
 Derek Parfit's paradox
 Rapport d'activité: sujets 800 à 899
 Activity report: subjects 800 to 899
-Le courant est rétabli.
-Power has been restored.

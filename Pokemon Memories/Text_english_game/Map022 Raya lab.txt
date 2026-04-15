@@ -2,18 +2,12 @@
 # translate every second line of this file.
 #-------------------------------
 [Map022]
-Un canapé. Quelqu'un a dormis dedans la nuit dernière.
-A couch. Someone slept in it last night.
-Beaucoup de calculs très compliqués.
-Lots of very complicated calculations.
 "Les hommes sérieux ont tort de ne prendre au sérieux que ceux qui leurs ressemblent.", E-E Schmitt
 "Serious men are wrong to take seriously only those who resemble them.", E-E Schmitt
-Voici Olivier l'olivier.
-This is Oliver the olive tree.
-C'est une machine à café très sophistiquée.
-It's a very sophisticated coffee machine.
-"La Terre fournit assez pour satisfaire les besoins de chacun, mais pas l’avidité de tous.", M.Gandhi
-"Earth provides enough to satisfy every man's needs, but not every man's greed.", M. Gandhi
+Beaucoup de calculs très compliqués.
+Lots of very complicated calculations.
+Un canapé. Quelqu'un a dormis dedans la nuit dernière.
+A couch. Someone slept in it last night.
 Rapport Biodiversité et Climat 2031
 Biodiversity and Climate Report 2031
 2030 a été l'année la plus chaude jamais enregistrée à Kalos.
@@ -50,16 +44,24 @@ D'ici 2050, 1/3 des zones peuplées pourraient devenir inhabitables, et les rend
 By 2050, 1/3 of populated areas could become uninhabitable, and agricultural yields could be cut in half.
 \rRAYA: ...
 \rRAYA: ...
-Magnifique.
-Magnificent.
+"La Terre fournit assez pour satisfaire les besoins de chacun, mais pas l’avidité de tous.", M.Gandhi
+"Earth provides enough to satisfy every man's needs, but not every man's greed.", M. Gandhi
+C'est une machine à café très sophistiquée.
+It's a very sophisticated coffee machine.
+Voici Olivier l'olivier.
+This is Oliver the olive tree.
 "Il n'y a ni mauvaises herbes, ni mauvais hommes. Juste des mauvais cultivateurs." V.Hugo
 "There are no such things as bad plants or bad men. There are only bad cultivators." V. Hugo
+Magnifique.
+Magnificent.
 "Le monde ne sera pas détruit par ceux qui font le mal, mais par ceux qui les regardent sans rien faire.", A.Einstein
 "The world will not be destroyed by those who do evil, but by those who watch them without doing anything.", A. Einstein
 "Tout le monde est un génie. Mais si vous jugez un poisson à sa capacité de grimper à un arbre, il vivra toute sa vie en croyant qu'il est stupide.", A.Einstein
 "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.", A. Einstein
 "Le mal qui est dans le monde vient presque toujours de l’ignorance.", A.Camus
 "The evil that is in the world almost always comes from ignorance.", A. Camus
+"Je ne perds jamais. Soit je gagne, soit j'apprends.", N.Mandela
+"I never lose. I either win or learn.", N. Mandela
 \bMIA: RAYOOOOOOUUUUU !!
 \bMIA: RAY-RAAAAAAAAY !!
 \bMIA: Comment ça va bestie !?
@@ -104,24 +106,18 @@ Magnificent.
 \rRAYA: Follow me.
 \bMIA: J'arrive !
 \bMIA: I'm coming!
-"Je ne perds jamais. Soit je gagne, soit j'apprends.", N.Mandela
-"I never lose. I either win or learn.", N. Mandela
+"La vie c’est dur, ça fait mal dès qu’ça commence, c’est pour ça qu’on pleure tous à la naissance", Booba
+"Life is hard, it hurts as soon as it starts, that's why we all cry at birth.", Booba
 Vous voyez un diaporama intitulé "Modélisation systémique de la coévolution biodiversité anthroposphère en pression extractive différenciée"
 You see a slideshow titled "Systemic modeling of biodiversity-anthroposphere coevolution under differentiated extractive pressure"
 \bMIA: Waw ! J'ai rien compris !
 \bMIA: Wow! I didn't understand a word of that!
-"La vie c’est dur, ça fait mal dès qu’ça commence, c’est pour ça qu’on pleure tous à la naissance", Booba
-"Life is hard, it hurts as soon as it starts, that's why we all cry at birth.", Booba
 "Le mal est banal.", H.Arendt
 "Evil is banal.", H. Arendt
-"Je suis capable du meilleur comme du pire, et c'est dans le pire que je suis le meilleur.", Kaaris
-"I am capable of the best as well as the worst, and it is in the worst that I am the best.", Kaaris
 "Ce que nous savons est une goutte, ce que nous ignorons est un océan.", I.Newton
 "What we know is a drop, what we don't know is an ocean.", I. Newton
-\bMIA: J'adore fouiller les poubelles, et c'est tout à fait normal !
-\bMIA: I love rummaging through trash cans, and it's completely normal!
-"Le monde a commencé sans l’homme et il s’achèvera sans lui.", C.Levi-Strauss
-"The world began without man and it will end without him.", C. Levi-Strauss
+"Je suis capable du meilleur comme du pire, et c'est dans le pire que je suis le meilleur.", Kaaris
+"I am capable of the best as well as the worst, and it is in the worst that I am the best.", Kaaris
 Salut \v[41] ! Merci de jouer à Pokemon Memories !
 Hi \v[41]! Thanks for playing Pokemon Memories!
 Si tu as des questions sur le jeu, je suis là pour y répondre !
@@ -166,6 +162,10 @@ If you wish to play a Nuzlocke, I recommend allowing between 4 and 6 catches per
 \bMIA: But I don't want my Pokémon to die...
 Chut. Tu n'as aucun libre arbitre.
 Hush. You have no free will.
+"Le monde a commencé sans l’homme et il s’achèvera sans lui.", C.Levi-Strauss
+"The world began without man and it will end without him.", C. Levi-Strauss
+\bMIA: J'adore fouiller les poubelles, et c'est tout à fait normal !
+\bMIA: I love rummaging through trash cans, and it's completely normal!
 1
 1
 2

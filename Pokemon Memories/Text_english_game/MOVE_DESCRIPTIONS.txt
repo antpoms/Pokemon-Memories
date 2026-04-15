@@ -36,6 +36,8 @@ The more Eevee loves its Trainer, the greater the move’s power. It never misse
 The more Eevee loves its Trainer, the greater the move’s power. It never misses.
 The user summons a cold wind to inflict a frostbite.
 The user summons a cold wind to inflict a frostbite.
+Tu ne devrais pas pouvoir utiliser ce move, tricheur.
+Tu ne devrais pas pouvoir utiliser ce move, tricheur.
 The user may critically hit with its ruinous claws. May also leave the target poisoned, paralyzed, or asleep.
 The user may critically hit with its ruinous claws. May also leave the target poisoned, paralyzed, or asleep.
 The user wraps winds of fierce emotion around opponents. This may lower their Attack stats.
