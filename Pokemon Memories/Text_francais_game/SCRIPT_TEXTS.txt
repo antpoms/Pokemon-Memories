@@ -2546,3 +2546,11 @@ Choose AI personality:
 Choose AI personality:
 {1} personality activated!
 {1} personality activated!
+Difficulty
+Difficulté
+Choose your difficulty setting.
+Choisissez votre niveau de difficulté.
+Normal
+Normal
+Hard
+Difficile

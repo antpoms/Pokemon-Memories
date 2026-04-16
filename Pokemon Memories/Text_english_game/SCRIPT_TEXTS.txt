@@ -2790,3 +2790,7 @@ Sharp-pointed pieces of steel started floating around {1}!
 {1} became trapped in the watery vortex!
 {1}'s PP was reduced!
 {1}'s PP was reduced!
+Hard
+Hard
+Choose your difficulty setting.
+Choose your difficulty setting.

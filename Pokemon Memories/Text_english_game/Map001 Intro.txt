@@ -4,6 +4,12 @@
 [Map001]
 Voulez-vous jouer en mode normal ou difficile ?
 Would you like to play normal mode or hard mode?
+Le mode normal une difficulté similaire aux jeux principaux.
+Normal mode offers a difficulty similar to the main series games.
+Le mode difficile rajoute une meilleur IA et des sets avancés pour la plupart des dresseurs.
+Hard mode adds better AI and advanced sets for most trainers.
+Il est déconseillé de jouer en mode difficile pour une première partie, sauf si vous êtes en recherche de challenge.
+Playing in hard mode is not recommended for a first playthrough, unless you are looking for a challenge.
 Le jeu est encore en cours de développement. N'hésitez pas à sauvegarder régulièrement.
 The game is still in development. Please save regularly.
 \rBonjour. Je vous attendais.
@@ -44,6 +50,8 @@ Normal
 Normal
 Difficile
 Hard
+Info
+Info
 Gauche
 Left
 Droite
