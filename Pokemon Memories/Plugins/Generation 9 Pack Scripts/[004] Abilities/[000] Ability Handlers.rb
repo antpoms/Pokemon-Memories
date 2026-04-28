@@ -6,7 +6,7 @@
 
 
 module Battle::AbilityEffects
-  OnTypeChange            = AbilityHandlerHash.new  # Protean, Libero
+  #OnTypeChange            = AbilityHandlerHash.new  # Protean, Libero
   OnOpposingStatGain      = AbilityHandlerHash.new  # Opportunist
   ModifyTypeEffectiveness = AbilityHandlerHash.new  # Tera Shell (damage)
   OnMoveSuccessCheck      = AbilityHandlerHash.new  # Tera Shell (display)
@@ -26,9 +26,9 @@ module Battle::AbilityEffects
     end
   end
 
-  def self.triggerOnTypeChange(ability, battler, type)
-    OnTypeChange.trigger(ability, battler, type)
-  end
+  #def self.triggerOnTypeChange(ability, battler, type)
+  #  OnTypeChange.trigger(ability, battler, type)
+  #end
 
   def self.triggerOnOpposingStatGain(ability, battler, battle, statUps)
     OnOpposingStatGain.trigger(ability, battler, battle, statUps)
@@ -537,15 +537,15 @@ Battle::AbilityEffects::OnSwitchIn.add(:INTREPIDSWORD,
 #===============================================================================
 # Gen 9+ version that only triggers once per switch-in.
 #-------------------------------------------------------------------------------
-Battle::AbilityEffects::OnTypeChange.add(:PROTEAN,
-  proc { |ability, battler, type|
-    next if Settings::MECHANICS_GENERATION < 9
-    next if GameData::Type.get(type).pseudo_type
-    battler.effects[PBEffects::OneUseAbility] = ability
-  }
-)
+#Battle::AbilityEffects::OnTypeChange.add(:PROTEAN,
+#  proc { |ability, battler, type|
+#    next if Settings::MECHANICS_GENERATION < 9
+#    next if GameData::Type.get(type).pseudo_type
+#    battler.effects[PBEffects::OneUseAbility] = ability
+#  }
+#)
 
-Battle::AbilityEffects::OnTypeChange.copy(:PROTEAN, :LIBERO)
+#Battle::AbilityEffects::OnTypeChange.copy(:PROTEAN, :LIBERO)
 
 #===============================================================================
 # Battle Bond

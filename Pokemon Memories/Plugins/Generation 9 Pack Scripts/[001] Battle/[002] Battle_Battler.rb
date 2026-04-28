@@ -68,14 +68,14 @@ class Battle::Battler
     return ret
   end
   
-  alias paldea_pbChangeTypes pbChangeTypes
-  def pbChangeTypes(newType)
-    paldea_pbChangeTypes(newType)
-    @effects[PBEffects::DoubleShock] = false
-    if abilityActive? && @proteanTrigger # Protean/Libero
-      Battle::AbilityEffects.triggerOnTypeChange(self.ability, self, newType)
-    end 
-  end
+  #alias paldea_pbChangeTypes pbChangeTypes
+  #def pbChangeTypes(newType)
+  #  paldea_pbChangeTypes(newType)
+  #  @effects[PBEffects::DoubleShock] = false
+  #  if abilityActive? && @proteanTrigger # Protean/Libero
+  #    Battle::AbilityEffects.triggerOnTypeChange(self.ability, self, newType)
+  #  end 
+  #end
 
   alias paldea_pbResetTypes pbResetTypes
   def pbResetTypes
