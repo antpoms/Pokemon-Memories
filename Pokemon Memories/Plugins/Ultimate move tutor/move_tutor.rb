@@ -25,12 +25,12 @@ class MoveRelearnerScreen
 	  moves= []
 	  pkmn.getMoveList.each do |m|
         next if m[0] > pkmn.level || pkmn.hasMove?(m[1])
-        moves.push(m[1]) if !moves.include?(m[1]) && validmove(m[1])
+        moves.push(m[1]) if !moves.include?(m[1]) && validmove(m[1], pkmn)
       end
       tmoves = []
       if pkmn.first_moves
         for i in pkmn.first_moves
-          tmoves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(m[1])
+          tmoves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(m[1], pkmn)
         end
       end
 	  moves = tmoves + moves 
@@ -57,45 +57,41 @@ class MoveRelearnerScreen
 	return (pk==m)	
   end
   
- def validmove(move)
-	if $game_switches[BORW]
-		if Whitelist[$game_variables[BANVAR]].include?(move) 
-			return true
-		end
-		whitelist=Whitelist[$game_variables[BANVAR]]
-		for i in 0...whitelist.length
-			if whitelist[i].is_a?(Numeric)
-				rmove=0
-				GameData::Move.each do |m|
-					if m.id==move 
-						rmove=m
-					end
-				end
-				if rmove.power> whitelist[i]
-					return false
-				end
-			end
-		end
-	else
-		if Blacklist[$game_variables[BANVAR]].include?(move)
-			return false
-		end
-		blacklist=Blacklist[$game_variables[BANVAR]]
-		for i in 0...blacklist.length
-			if blacklist[i].is_a?(Numeric)
-				rmove=0
-				GameData::Move.each do |m|
-					if m.id==move 
-						rmove=m
-					end
-				end
-				if rmove.power> blacklist[i]
-					return false
-				end
-			end
-		end
-	end 
-	return true
+  def validmove(move, pkmn) # Ajout de pkmn ici
+    # 1. Vérification PRIORITAIRE : Est-ce un move naturel du Pokémon ?
+    # On vérifie si le move est dans sa liste de base (par niveau)
+    is_natural = false
+    pkmn.getMoveList.each do |m|
+      if m[1] == move && m[0] <= pkmn.level
+        is_natural = true
+        break
+      end
+    end
+    
+    # Si c'est un move appris naturellement au niveau actuel ou précédent, on autorise direct.
+    return true if is_natural
+
+    # 2. Sinon, on applique les règles habituelles de Blacklist/Whitelist
+    if $game_switches[BORW]
+        return true if Whitelist[$game_variables[BANVAR]].include?(move)
+        whitelist = Whitelist[$game_variables[BANVAR]]
+        for i in 0...whitelist.length
+            if whitelist[i].is_a?(Numeric)
+                rmove = GameData::Move.get(move)
+                return false if rmove.power > whitelist[i]
+            end
+        end
+    else
+        return false if Blacklist[$game_variables[BANVAR]].include?(move)
+        blacklist = Blacklist[$game_variables[BANVAR]]
+        for i in 0...blacklist.length
+            if blacklist[i].is_a?(Numeric)
+                rmove = GameData::Move.get(move)
+                return false if rmove.power > blacklist[i]
+            end
+        end
+    end 
+    return true
   end
 	
   def pbGetRelearnableMoves(pkmn)
@@ -103,12 +99,12 @@ class MoveRelearnerScreen
     moves = []
     pkmn.getMoveList.each do |m|
       next if m[0] > pkmn.level || pkmn.hasMove?(m[1])
-	  moves.push(m[1]) if !moves.include?(m[1]) && validmove(m[1])
+	  moves.push(m[1]) if !moves.include?(m[1]) && validmove(m[1], pkmn)
     end
     if pkmn.first_moves
 	  tmoves = []
       for i in pkmn.first_moves
-		moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i)
+		moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i, pkmn)
       end
 	  moves = tmoves + moves
     end
@@ -122,7 +118,7 @@ class MoveRelearnerScreen
 	  pmoves=[]
 	  pkmn.getMoveList.each do |m|
         next if m[0] > pkmn.level || pkmn.hasMove?(m[1])
-		pmoves.push(m[1]) if !moves.include?(m[1]) && validmove(m[1])
+		pmoves.push(m[1]) if !moves.include?(m[1]) && validmove(m[1], pkmn)
       end
 	  moves=pmoves + moves
 	  pkmn.species=specie
@@ -132,19 +128,19 @@ class MoveRelearnerScreen
     if $game_variables[MOVETUTOR]>=1				#modify to == if you want to make distinct NPCs
       eggmoves=eggMoves(pkmn)
 	  for i in eggmoves
-		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i) 
+		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i, pkmn) 
       end
     end
     if $game_variables[MOVETUTOR]>=2				#modify to == if you want to make distinct NPCs
       tutormoves= tutorMoves(pkmn)
 	  for i in tutormoves
-		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i)
+		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i, pkmn)
       end
     end
 	if $game_variables[MOVETUTOR]==3	#hackmon
 	  hmoves = hackmoves
 	  for i in hmoves 
-		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i)
+		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i, pkmn)
       end
 	end
 	if $game_variables[MOVETUTOR]==4    #Stabmon
@@ -155,7 +151,7 @@ class MoveRelearnerScreen
 		GameData::Move.each { |i| smoves.push(i.id) if (i.type==pkmn.types[0] || i.type==pkmn.types[1])}
 	  end
 	  for i in smoves
-		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i) 
+		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i, pkmn) 
 	  end
 	end
 	if $game_variables[MOVETUTOR]==5    #Alphabetmon
@@ -166,19 +162,19 @@ class MoveRelearnerScreen
 		GameData::Move.each { |i| smoves.push(i.id) if compare_names(i,pkmn)}
 	  end
 	  for i in smoves
-		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i) 
+		  moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i, pkmn) 
 	  end
 	end	
     if $game_variables[MOVETUTOR]>=6	#universal move tutor		
 		for i in UCmoves
-		    moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i)
+		    moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i, pkmn)
 		end
 	end
 	if $game_variables[MOVETUTOR]>=7	#custom move tutor	
 		pmoves=[:JUDGMENT]
 		if Poke.include?(pkmn.species)
 			for i in pmoves
-				moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i)
+				moves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i) && validmove(i, pkmn)
 			end
 		end
 	end		
