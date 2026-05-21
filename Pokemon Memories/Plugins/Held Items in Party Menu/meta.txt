@@ -1,0 +1,4 @@
+Name         = Held Items in Party Menu
+Version      = 1.00
+Credits      = Heliumpai
+Essentials = 21.1
