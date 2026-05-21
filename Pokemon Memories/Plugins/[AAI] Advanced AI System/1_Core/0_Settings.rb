@@ -18,7 +18,7 @@ module AdvancedAI
   MIN_SKILL_FOR_AUTO_ACTIVATION = 70
   
   # Debug mode - detailed logging in console
-  DEBUG_MODE = true
+  DEBUG_MODE = false
   
   # Debug switch intelligence specifically (verbose logging)
   DEBUG_SWITCH_INTELLIGENCE = false
@@ -36,6 +36,12 @@ module AdvancedAI
   
   # Enable smart AI for wild Pokemon (uses move scoring instead of random selection)
   ENABLE_WILD_POKEMON_AI = false
+  
+  # Enable intelligent lead selection for AI trainers
+  # When true, AI trainers will pick an optimal lead Pokemon based on matchup
+  # analysis instead of always sending out the first party member.
+  # Requires the trainer's skill level to qualify for Advanced AI.
+  ENABLE_LEAD_SELECTION = false
   
   # Skill level for wild Pokemon when AI is enabled (0-100)
   # 0     = Random moves (vanilla behavior)

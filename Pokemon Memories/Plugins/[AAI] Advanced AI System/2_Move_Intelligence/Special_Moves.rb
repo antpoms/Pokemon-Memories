@@ -115,7 +115,7 @@ class Battle::AI
     
     party.each do |pkmn|
       next if !pkmn || pkmn.fainted? || pkmn.egg?
-      next if pkmn == user.battler.pokemon  # Skip self
+      next if pkmn == user.pokemon  # Skip self
       
       hp_percent = pkmn.hp.to_f / pkmn.totalhp
       
@@ -402,4 +402,3 @@ AdvancedAI.log("  - Final Gambit (sacrifice damage)", "Special")
 AdvancedAI.log("  - Memento/Misty Explosion", "Special")
 AdvancedAI.log("  - Rapid Spin/Defog (hazard removal)", "Special")
 AdvancedAI.log("  - Endeavor (HP matching)", "Special")
-AdvancedAI.log("  - False Swipe = -999 in PVP (already in Move_Scorer)", "Special")
