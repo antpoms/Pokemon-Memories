@@ -23,9 +23,9 @@ module Mouse
       @static_y = 0
       @inactivity_timer = 0
       @input_map = {
-        left: Input::MOUSELEFT,
-        right: Input::MOUSERIGHT,
-        middle: Input::MOUSEMIDDLE
+        left: defined?(Input::MOUSELEFT) ? Input::MOUSELEFT : 1,
+        right: defined?(Input::MOUSERIGHT) ? Input::MOUSERIGHT : 2,
+        middle: defined?(Input::MOUSEMIDDLE) ? Input::MOUSEMIDDLE : 3
       }
       @hold = 0
       @drag = nil
@@ -40,7 +40,7 @@ module Mouse
     #  safe input map function
     #---------------------------------------------------------------------------
     def input_map(button)
-      @input_map[button] || Input::MOUSELEFT
+      @input_map[button] || (defined?(Input::MOUSELEFT) ? Input::MOUSELEFT : 1)
     end
     #---------------------------------------------------------------------------
     #  returns current mouse X position
@@ -58,6 +58,7 @@ module Mouse
     #  updates required mouse variables
     #---------------------------------------------------------------------------
     def update
+      return if $joiplay
       @static_x = @x
       @static_y = @y
       @x, @y = getMousePos
@@ -75,6 +76,7 @@ module Mouse
     #  checks if mouse is not moving
     #---------------------------------------------------------------------------
     def static?(threshold = 1)
+      return if $joiplay
       @x ||= 0
       @y ||= 0
       if @static_x.nil? || @static_y.nil?
@@ -95,6 +97,7 @@ module Mouse
     #  checks if mouse input is currently active
     #---------------------------------------------------------------------------
     def active?
+      return false if $joiplay
       return true if INACTIVITY_TIMER.negative?
 
       return false if @inactivity_timer > INACTIVITY_TIMER * Graphics.frame_rate
@@ -138,6 +141,7 @@ module Mouse
     #  checks if object is being dragged with mouse
     #---------------------------------------------------------------------------
     def dragging?(object, button = :left)
+      return false if $joiplay
       unless press?(object, button) || (Input.press?(input_map(button)) && @drag.eql?(object))
         @drag = nil
         @object_ox = 0
@@ -160,6 +164,7 @@ module Mouse
     #    - `rect` parameter creates a maximum dragging area
     #---------------------------------------------------------------------------
     def drag_object(object, button = :left, rect = nil, lock = nil)
+      return false if $joiplay
       return false unless dragging?(object, button) && @drag.eql?(object)
 
       object.x = x - @object_ox if !lock.eql?(:vertical)
@@ -218,6 +223,7 @@ module Mouse
     #  can pass an additional `Rect.new` argument to offset the observed area
     #---------------------------------------------------------------------------
     def over?(object, rect = nil)
+      return false if $joiplay
       return false unless active? && object
 
       ox, oy, ow, oh = object_params(object)
@@ -235,6 +241,7 @@ module Mouse
     #  checks if mouse is hovering over sprite pixel
     #---------------------------------------------------------------------------
     def over_pixel?(object)
+      return false if $joiplay
       return over?(object) unless object.is_a?(Sprite) && object.bitmap.is_a?(Bitmap)
 
       return false unless over?(object)
@@ -250,12 +257,14 @@ module Mouse
     #  checks if mouse is over specific area of the game window
     #---------------------------------------------------------------------------
     def over_area?(arx, ary, arw, arh)
+      return false if $joiplay
       over?(Rect.new(arx, ary, arw, arh))
     end
     #---------------------------------------------------------------------------
     #  check if mouse is being pressed and held down for a specific period of time
     #---------------------------------------------------------------------------
     def hold?(object = nil, button = :left)
+      return false if $joiplay
       return false unless press?(object, button)
 
       Input.time?(input_map(button)) > CLICK_TIMEOUT 
@@ -264,6 +273,7 @@ module Mouse
     #  check if mouse is pressing on object
     #---------------------------------------------------------------------------
     def press?(object = nil, button = :left)
+      return false if $joiplay
       return false if object && !over?(object)
 
       Input.press?(input_map(button))
@@ -272,6 +282,7 @@ module Mouse
     #  check if mouse is clicking on object
     #---------------------------------------------------------------------------
     def click?(object = nil, button = :left)
+      return false if $joiplay
       return false if object && !over?(object)
 
       if Input.press?(input_map(button))
