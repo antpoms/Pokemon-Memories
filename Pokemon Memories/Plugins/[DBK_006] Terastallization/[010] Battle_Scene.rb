@@ -86,7 +86,7 @@ class Battle::Scene::PokemonDataBox < Sprite
     #  type_number = GameData::Type.get(@battler.tera_type).icon_position
     #  pbDrawImagePositions(self.bitmap, [[path, @spriteBaseX + specialX, 4, 0, type_number * 32, 32, 32]])
     #else
-    #  tera_draw_special_form_icon
+    tera_draw_special_form_icon
     #end
   end
 end
