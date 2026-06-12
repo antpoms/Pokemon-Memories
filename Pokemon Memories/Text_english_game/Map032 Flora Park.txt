@@ -32,7 +32,7 @@ You found the 3 Pokémon!
 \bMIA: Uh... what bill?
 \rRAYA: Celle qui officialise le contrat d'adoption, voyons.
 \rRAYA: The one that officializes the adoption contract, obviously.
-\rRAYA: Tu préfères 500000$ maintenant ou tu préfères payer en 3 fois ?
+\rRAYA: Tu préfère 500000$ maintenant ou tu préfères payer en 3 fois ?
 \rRAYA: Would you prefer 500,000$ now or paying in 3 installments?
 \bMIA: COMBIEN ???
 \bMIA: HOW MUCH ???
@@ -70,7 +70,7 @@ You found the 3 Pokémon!
 \bMIA: You want me to be your lackey for a month, right?
 \rRAYA: Yep.
 \rRAYA: Yep.
-\rRAYA: Mais la nourriture est comprise dans les frais professionnels.
+\rRAYA: Mais la nourriture est comprise dans les frais professionels.
 \rRAYA: But food is included in the business expenses.
 Vous signez immédiatement la convention de stage.
 You immediately sign the internship agreement.
@@ -84,13 +84,13 @@ You immediately sign the internship agreement.
 \rRAYA: Your Pokémon need training.
 \rRAYA: Reviens me voir quand tu auras battu 4 dresseurs.
 \rRAYA: Come back to see me when you've defeated 4 trainers.
-De nouvelles quêtes ont été ajoutées à votre liste de quêtes.
+De nouvelles quêtes ont été ajoutés à votre liste de quêtes.
 New quests have been added to your quest list.
-Ces vestiges ont été retrouvés sur l'île Crache-Feu, aujourd'hui engloutie à cause de la montée des eaux.
+Ces vestiges ont été retrouvés sur l'île Crache-Feu, aujourd'hui engloutie à cause de la monté des eaux.
 These remains were found on Fire-Spit Island, now submerged due to rising sea levels.
 Les inscriptions à l'arrière des tablettes se traduisent par:
 The inscriptions on the back of the tablets translate to:
-''Pour que l'élu d'Arceus puisse lancer l'appel ancestral, il doit résoudre les énigmes de l'espace et du temps."
+''Pour que l'élu d'Arceus puissent lancer l'appel ancestral, il doit résoudre les énigmes de l'espace et du temps."
 "In order for the chosen one of Arceus to initiate the ancestral call, they must solve the riddles of space and time."
 Jouer avec Caninos ?
 Play with Growlithe?
@@ -136,7 +136,7 @@ Your Pokémon's potential has been maximized!
 \rRAYA: Cool. Only one left, then.
 \bMIA: Comment ça ?
 \bMIA: What do you mean?
-\rRAYA: Tu croyais que j'allais t'engager sans t'avoir testée moi-même ?
+\rRAYA: Tu croyais que j'allais t'engager sans t'avoir testé moi-même ?
 \rRAYA: You thought I'd hire you without testing you myself?
 \rRAYA: Prépare-toi, bestie.
 \rRAYA: Get ready, bestie.
@@ -220,9 +220,9 @@ Growlithe wants to join you!
 \rRAYA: ...Who are you?
 \b???: Millie Keran. Police Internationale. J'aimerais vous poser quelques questions sur Zake Einer et la politique de Nexus.
 \b???: Emma Keran. International Police. I'd like to ask you a few questions about Zake Einer and Nexus's policies.
-\rRAYA: Vous voulez que je vous dévoile des secrets professionnels ?
+\rRAYA: Vous voulez que je vous dévoile des secrets professionels ?
 \rRAYA: You want me to reveal professional secrets?
-\bMILLIE: Disons que nous pourrions faire un échange d'informations...
+\bMILLIE: Disont que nous pourrions faire un échange d'informations...
 \bEMMA: Let's just say we could exchange information...
 \bMILLIE: J'ai la deuxième partie sur une clé USB. Si ça vous intéresse, voici ma carte.
 \bEMMA: I have the second part on a USB drive. If you're interested, here's my card.
@@ -232,7 +232,7 @@ Growlithe wants to join you!
 \bDo you think you could land a plane in an emergency?
 \bEn vrai, ça doit pas être si compliqué.
 \bHonestly, it probably isn't that complicated.
-\bJe ne dirais pas que je suis naïf, je dirais que je suis optimiste.
+\bJe ne dirais pas que je suis naif, je dirais que je suis optimiste.
 \bI wouldn't say I'm naive, I'd say I'm optimistic.
 Elekid créé un courant électrique entre ses antennes.
 Elekid creates an electric current between its antennae.
@@ -272,7 +272,7 @@ Is that... Morse code?
 \bSONIA: You're really strong, in any case.
 \bSONIA: Ça tombe bien, j'ai un autre hyperactif avec moi.
 \bSONIA: It's good timing, I have another hyperactive one with me.
-\bSONIA: Il aimerait continuer à voyager, mais je dois rentrer aider ma grand-mère à Galar.
+\bSONIA: Il aimerais continuer à voyager, mais je dois rentrer aider ma grand-mère à Galar.
 \bSONIA: He'd like to keep traveling, but I have to go back to Galar to help my grandmother.
 \bSONIA: Tenez. Pour vous remercier d'avoir joué avec mon Voltoutou.
 \bSONIA: Here. To thank you for playing with my Yamper.
@@ -302,13 +302,13 @@ It's going to hide!
 \bI'm warning you, I'm currently preparing for a regional tournament. So it might be a bit much considering your team's level.
 \bTu veux quand même qu'on s'affronte ?
 \bDo you still want to face me?
-\bComme tu veux. En garde !
+\bComme tu veux. En guarde !
 \bSuit yourself. En garde!
 \bWow ! Mais t'as ça dans le sang !
 \bWow! It’s in your blood!
 \bSi tu veux, j'ai trouvé un Pokémon rare hier.
 \bIf you want, I found a rare Pokémon yesterday.
-\bJe n'ai pas trouvé comment l'adapter à ma stratégie, mais peut-être que tu pourras l'aider à atteindre son plein potentiel !
+\bJe n'ai pas trouver comment l'adapter à ma stratégie, mais peut-être que tu pourras l'aider à atteindre son plein potentiel !
 \bI haven't figured out how to fit it into my strategy, but maybe you can help it reach its full potential!
 \bJ'espère qu'on se croisera en tournoi !
 \bI hope we cross paths at the tournament!
