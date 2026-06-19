@@ -53,7 +53,7 @@ class Battle::AI
       end
     end
     
-    return unless AdvancedAI.qualifies_for_advanced_ai?(skill)
+    # return unless AdvancedAI.qualifies_for_advanced_ai?(skill)
     
     battler = @battle.battlers[idxBattler]
     AdvancedAI.log("Qualified for Advanced AI - checking gimmicks for #{battler.name}", "Hooks")
@@ -68,7 +68,7 @@ class Battle::AI
     
     # --- MEGA EVOLUTION ---
     AdvancedAI.log("Checking Mega Evolution...", "Hooks")
-    if AdvancedAI.feature_enabled?(:mega_evolution, skill) && should_mega_evolve?(ai_battler, skill)
+    if should_mega_evolve?(ai_battler, skill)
       @battle.pbRegisterMegaEvolution(idxBattler)
       AdvancedAI.log("#{battler.name} registered Mega Evolution", "Hooks")
       return # Use one gimmick per turn decision to avoid conflicts
@@ -76,15 +76,16 @@ class Battle::AI
     
     # --- Z-MOVES ---
     AdvancedAI.log("Checking Z-Moves...", "Hooks")
-    if AdvancedAI.feature_enabled?(:z_moves, skill) && should_z_move?(ai_battler, skill)
+    if should_z_move?(ai_battler, skill)
       @battle.pbRegisterZMove(idxBattler)
+      ai_battler.display_zmoves
       AdvancedAI.log("#{battler.name} registered Z-Move", "Hooks")
       return
     end
     
     # --- DYNAMAX ---
     AdvancedAI.log("Checking Dynamax...", "Hooks")
-    if AdvancedAI.feature_enabled?(:dynamax, skill) && should_dynamax?(ai_battler, skill)
+    if should_dynamax?(ai_battler, skill)
       @battle.pbRegisterDynamax(idxBattler)
       AdvancedAI.log("#{battler.name} registered Dynamax", "Hooks")
       return
@@ -92,7 +93,7 @@ class Battle::AI
     
     # --- TERASTALLIZATION ---
     AdvancedAI.log("Checking Terastallization...", "Hooks")
-    if AdvancedAI.feature_enabled?(:terastallization, skill) && should_terastallize?(ai_battler, skill)
+    if should_terastallize?(ai_battler, skill)
       @battle.pbRegisterTerastallize(idxBattler)
       AdvancedAI.log("#{battler.name} registered Terastallization", "Hooks")
       return
@@ -111,6 +112,7 @@ class Battle::AI
       return if @_aai_registering
       @_aai_registering = true
       begin
+
         battler = @battle.battlers[idxBattler]
         is_wild_with_gimmick = battler.wild? && (
           (battler.pokemon.respond_to?(:dynamax_lvl) && battler.pokemon.dynamax_lvl.to_i > 0) ||
