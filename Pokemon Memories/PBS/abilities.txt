@@ -1078,3 +1078,11 @@ Description = The user changes form when it uses specific moves.
 [BLOODLUST]
 Name = Blood Lust
 Description = Defeating a foe lets it become more powerful. Powers up moves of the same type.
+#-------------------------------
+[DIVINEAURA]
+Name = Divine Aura
+Description = Sharply boosts all stats when entering a battle.
+#-------------------------------
+[EELEVATE]
+Name = Eelevate
+Description = The Pokémon floats off the ground. When the Pokémon knocks out a target with an attack, its highest stat is boosted by 1 stage.
