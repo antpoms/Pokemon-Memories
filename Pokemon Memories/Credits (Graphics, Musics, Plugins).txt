@@ -13,6 +13,7 @@ AtomicReactor
 -Game UI background For Bag, Pokedex, & Pokemon Summery by WarDrago
 -SwSh-Inspired Battle Interface by BiggusWeeabus
 -Pause Menu by Voltseon
+-Sonia OW by DiegoWT
 -Tileset by SailorVicious 
 -essentia trainer sprite by ZacWeavile
 -tileset playground by Pano26
