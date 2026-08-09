@@ -79,6 +79,11 @@ class Battle
       pkmn.calc_stats   # To ensure new EVs still have an effect
       return 0
     end
+    # Hard level cap check - completely block exp gain
+    if LevelCapsEX.hard_cap? && pkmn.level >= LevelCapsEX.level_cap
+      echoln "[Level Caps EX] BLOCKING EXP GAIN - Pokemon at/above level cap in hard cap mode"
+      return
+    end
     isPartic    = defeatedBattler.participants.include?(idxParty)
     hasExpShare = expShare.include?(idxParty)
     level = defeatedBattler.level
